@@ -951,6 +951,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 86
+    originalUrl: >-
+      https://www.sfchronicle.com/bayarea/article/SF-mayor-London-Breed-declares-state-of-emergency-15083811.php
+    url: >-
+      https://www.sfchronicle.com/bayarea/article/SF-mayor-London-Breed-declares-state-of-emergency-15083811.php
+    when: '2020-02-26T23:13:28.000Z'
+    originalWhen: ''
+    author: Dominic Fracassa
+    source: San Francisco Chronicle
+    logo: 'https://www.sfchronicle.com/img/ldjson_logo.png'
+    image: 'https://s.hdnux.com/photos/01/10/64/34/19089182/6/rawImage.jpg'
+    title: SF Mayor London Breed declares state of emergency over coronavirus
+    summary: >-
+      <p>Amid intensifying worldwide concern about the spread of the new
+      coronavirus, Mayor London Breed issued a state of emergency for San
+      Francisco Tuesday. City employees can now…</p>
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 25
     originalUrl: >-
       https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
@@ -1520,5 +1540,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 5ffe3c6146091d749a1967a6133a493bdf05c379
+sha: d6424e0cd1e844074dab69db23a8be1155fdbd47
 slug: the-pandemic
