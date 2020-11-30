@@ -165,6 +165,27 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 13
+    originalUrl: >-
+      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
+    url: >-
+      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
+    when: '2020-01-23T15:07:59.000Z'
+    originalWhen: ''
+    author: Michael Levenson
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/01/22/multimedia/22xp-cordon/merlin_167592177_faab52d5-95c1-48a0-b533-934d06fbed8d-facebookJumbo.jpg
+    title: Scale of China’s Wuhan Shutdown Is Believed to Be Without Precedent
+    summary: >-
+      In sealing off a city of 11 million people, China is trying to halt a
+      coronavirus outbreak using a tactic with a complicated history of ethical
+      concerns.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 12
     originalUrl: >-
       https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
@@ -204,5 +225,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 580ac795be08069e7e9b97f2b0cd930fce8cb2a1
+sha: 4f66a614778960741867a1f96a22abd3a85b1cb8
 slug: the-pandemic
