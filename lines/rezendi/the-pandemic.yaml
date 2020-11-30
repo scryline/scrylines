@@ -38,6 +38,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 126
+    originalUrl: >-
+      https://www.nytimes.com/2020/04/14/us/politics/coronavirus-economy-recession-depression.html?action=click&module=RelatedLinks&pgtype=Article
+    url: >-
+      https://www.nytimes.com/2020/04/14/us/politics/coronavirus-economy-recession-depression.html
+    when: '2020-06-24T13:21:00.956Z'
+    originalWhen: ''
+    author: Alan Rappeport
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/04/14/business/14DC-VIRUS-IMF-01/14DC-VIRUS-IMF-01-facebookJumbo.jpg
+    title: I.M.F. Predicts Worst Downturn Since the Great Depression
+    summary: >-
+      The global economy is expected to contract by 3 percent this year as
+      quarantines and lockdowns cripple output.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 107
     originalUrl: >-
       https://www.nytimes.com/2020/06/22/world/middleeast/saudi-arabia-hajj-mecca-pilgrims.html
@@ -205,7 +225,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 115
+  - id: 116
     originalUrl: 'https://www.bbc.com/news/world-us-canada-52435648'
     url: 'https://www.bbc.com/news/world-us-canada-52435648'
     when: '2020-04-27T20:29:35.000Z'
@@ -224,7 +244,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 116
+  - id: 115
     originalUrl: 'https://www.bbc.com/news/world-us-canada-52435648'
     url: 'https://www.bbc.com/news/world-us-canada-52435648'
     when: '2020-04-27T20:29:35.000Z'
@@ -298,6 +318,27 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 127
+    originalUrl: >-
+      https://www.japantimes.co.jp/news/2020/04/16/national/state-of-emergency-expansion/
+    url: >-
+      https://www.japantimes.co.jp/news/2020/04/16/national/state-of-emergency-expansion/
+    when: '2020-04-16T08:16:50.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: The Japan Times
+    logo: ''
+    image: >-
+      https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/04/np_file_6682-870x683.jpeg
+    title: Japan to declare nationwide state of emergency as virus spreads
+    summary: >-
+      Emergency declarations give prefectural governors the power to call for
+      schools and some businesses to close until the Golden Week holidays end on
+      May 6.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 104
     originalUrl: >-
       https://www.nytimes.com/2020/04/10/world/europe/coronavirus-russia-moscow-putin.html?action=click&module=RelatedLinks&pgtype=Article
@@ -314,6 +355,27 @@ entries:
     summary: >-
       The mayor of hard-hit Moscow acknowledged that “the situation is becoming
       increasingly problematic.”
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 125
+    originalUrl: >-
+      https://www.reuters.com/article/us-health-coronavirus-spain/spain-sees-slowing-coronavirus-toll-holds-virtual-easter-parades-idUSKCN21S0ZJ
+    url: 'https://www.reuters.com/article/us-health-coronavirus-spain-idUSKCN21S0ZJ'
+    when: '2020-04-10T15:22:58.000Z'
+    originalWhen: ''
+    author: 'Inti Landauro, Graham Keeley'
+    source: Reuters
+    logo: 'https://s3.reutersmedia.net/resources_v2/images/reuters_social_logo.png'
+    image: >-
+      https://static.reuters.com/resources/r/?m=02&d=20200410&t=2&i=1514674219&r=LYNXNPEG390IR&w=800
+    title: 'Spain sees slowing coronavirus toll, holds virtual Easter parades'
+    summary: >-
+      The coronavirus death toll curve in Spain flattened further on Friday as
+      the government prepared to start easing one of the world’s strictest
+      lockdowns and virtual Easter celebrations were held instead of traditional
+      processions.
     comments: ''
     suggestions: ''
     tags: ''
@@ -434,7 +496,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 99
+  - id: 100
     originalUrl: >-
       https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
     url: >-
@@ -456,7 +518,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 100
+  - id: 99
     originalUrl: >-
       https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
     url: >-
@@ -522,7 +584,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 91
+  - id: 90
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -546,7 +608,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 90
+  - id: 91
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -1041,7 +1103,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 117
+  - id: 118
     originalUrl: >-
       https://www.nationalgeographic.com/history/2020/03/60-million-person-coronavirus-lockdown-united-states/
     url: >-
@@ -1061,7 +1123,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 118
+  - id: 117
     originalUrl: >-
       https://www.nationalgeographic.com/history/2020/03/60-million-person-coronavirus-lockdown-united-states/
     url: >-
@@ -2339,5 +2401,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 735a92136cca8612ae7af5b1bcd69f4732dfd61e
+sha: 250b7ab05916c8f2c0e8f456df005fcade72641f
 slug: the-pandemic
