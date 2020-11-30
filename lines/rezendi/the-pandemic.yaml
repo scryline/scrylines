@@ -70,7 +70,7 @@ entries:
   - id: 3
     originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
     url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    when: '2020-02-20T15:22:32.738Z'
+    when: '2020-02-02T15:22:32.738Z'
     author: Donald G. McNeil Jr.
     source: NYTimes
     logo: ''
@@ -90,7 +90,7 @@ entries:
       https://www.scmp.com/news/china/politics/article/3044207/china-shuts-seafood-market-linked-mystery-viral-pneumonia
     url: >-
       https://www.scmp.com/news/china/politics/article/3044207/china-shuts-seafood-market-linked-mystery-viral-pneumonia
-    when: '2020-02-17T12:54:17.000Z'
+    when: '2020-01-01T08:59:17.000Z'
     author: Kristin Huang
     source: South China Morning Post
     logo: >-
