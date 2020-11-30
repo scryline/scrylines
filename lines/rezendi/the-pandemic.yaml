@@ -1,27 +1,5 @@
 title: The Pandemic
 entries:
-  - id: 27
-    originalUrl: >-
-      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-.html
-    url: >-
-      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-
-    when: '2020-05-20T07:05:47.369Z'
-    originalWhen: ''
-    author: Al Arabiya English
-    source: Al Arabiya English
-    logo: >-
-      https://www.alarabiya.net/.resources/aa-templating-lm/webresources/gfx/amp/logo.png
-    image: >-
-      https://vid.alarabiya.net/images/2020/02/25/02035dd7-75ef-4034-8213-b75f6195f766/02035dd7-75ef-4034-8213-b75f6195f766_16x9_600x338.jpg
-    title: 'Iran confirms 26 people dead, 245 infected with coronavirus: Fars'
-    summary: >-
-      The number of people infected with coronavirus in Iran has risen to 245
-      and the death toll to 26, according to Iran’s health ministry, the
-      semi-offic
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 30
     originalUrl: >-
       https://nypost.com/2020/02/29/two-new-coronavirus-cases-identified-in-washington-state/
@@ -98,6 +76,28 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 27
+    originalUrl: >-
+      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-.html
+    url: >-
+      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-
+    when: '2020-02-27T07:05:47.369Z'
+    originalWhen: '2020-05-20T07:05:47.369Z'
+    author: Al Arabiya English
+    source: Al Arabiya English
+    logo: >-
+      https://www.alarabiya.net/.resources/aa-templating-lm/webresources/gfx/amp/logo.png
+    image: >-
+      https://vid.alarabiya.net/images/2020/02/25/02035dd7-75ef-4034-8213-b75f6195f766/02035dd7-75ef-4034-8213-b75f6195f766_16x9_600x338.jpg
+    title: 'Iran confirms 26 people dead, 245 infected with coronavirus: Fars'
+    summary: >-
+      The number of people infected with coronavirus in Iran has risen to 245
+      and the death toll to 26, according to Iran’s health ministry, the
+      semi-offic
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 25
     originalUrl: >-
       https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
@@ -116,26 +116,6 @@ entries:
       MADRID: Spain on Wednesday (Feb 26) issued assurances that a cluster of
       new coronavirus infections did not risk a broader spread, after nine cases
       were detected within a 24-hour period.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 26
-    originalUrl: >-
-      https://english.elpais.com/society/2020-02-26/madrid-confirms-first-case-of-coronavirus.html
-    url: >-
-      https://english.elpais.com/society/2020-02-26/madrid-confirms-first-case-of-coronavirus.html
-    when: '2020-02-26T14:48:30.085Z'
-    originalWhen: ''
-    author: 'Jessica Mouzo, El País'
-    source: EL PAÍS
-    logo: ''
-    image: >-
-      https://images.english.elpais.com/resizer/8AMT7LRtWzfVfyz77OFwuhf5IHM=/1000x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VNBPIHS7MVBUFDQV4NCMPJIY2I.jpg
-    title: Spain detects 10 new cases of coronavirus in 36 hours
-    summary: >-
-      A new positive is reported in Seville, adding to the patients in Madrid,
-      Catalonia, the Valencia region and Tenerife
     comments: ''
     suggestions: ''
     tags: ''
@@ -159,49 +139,6 @@ entries:
       dedicated 24-hour news channel, Sky News has built a deserved reputation
       for being the first to break major news as well as offering insight and
       analy…
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 23
-    originalUrl: >-
-      https://nationalpost.com/pmn/health-pmn/iran-says-coronavirus-death-toll-reaches-16-95-infected
-    url: >-
-      https://nationalpost.com/pmn/health-pmn/iran-says-coronavirus-death-toll-reaches-16-95-infected
-    when: '2020-02-25T10:34:00.000Z'
-    originalWhen: ''
-    author: Reuters
-    source: National Post
-    logo: >-
-      https://dcs-static.prod.postmedia.digital/4.4.3/websites/images/identity/logo-identity-np.svg
-    image: >-
-      https://secure.gravatar.com/avatar/0e5521e933d53566787277062da28f5a?s=70&d=mp
-    title: 'Iran says coronavirus death toll reaches 16, 95 infected'
-    summary: >-
-      Two more people infected with the new coronavirus have died, taking the
-      toll in Iran to 16, a Health Ministry official told state TV on Tuesday.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 21
-    originalUrl: >-
-      https://nationalpost.com/pmn/health-pmn/seventh-italian-dies-from-coronavirus-in-europes-worst-flare-up
-    url: >-
-      https://nationalpost.com/pmn/health-pmn/seventh-italian-dies-from-coronavirus-in-europes-worst-flare-up
-    when: '2020-02-24T19:20:00.000Z'
-    originalWhen: ''
-    author: Reuters
-    source: National Post
-    logo: >-
-      https://dcs-static.prod.postmedia.digital/4.4.3/websites/images/identity/logo-identity-np.svg
-    image: >-
-      https://secure.gravatar.com/avatar/0e5521e933d53566787277062da28f5a?s=70&d=mp
-    title: Seventh Italian dies from coronavirus in Europe’s worst flare-up
-    summary: >-
-      The death toll in Europe’s largest coronavirus outbreak rose to seven on
-      Monday and new cases climbed above 220 as Italy shut down much of its
-      wealthy…
     comments: ''
     suggestions: ''
     tags: ''
@@ -298,6 +235,24 @@ entries:
       For me and for everyone I know who has been following #covid19, the last
       few days have felt like a profound shift i… https://t.co/kJ9HF3lNWp
     comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 31
+    originalUrl: 'https://news.trust.org/item/20200221170633-5papx/'
+    url: 'https://news.trust.org/item/20200221170633-5papx/'
+    when: '2020-02-21 09:45:00'
+    originalWhen: ''
+    author: Thomson Reuters Foundation
+    source: news.trust.org
+    logo: ''
+    image: >-
+      https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/f4a22c11-9111-4a9d-a038-54651c4c8cbe/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100
+    title: Only three U.S. states can test for coronavirus - public lab group
+    summary: >-
+      CHINA-HEALTH/USA (URGENT):Only three U.S. states can test for coronavirus
+      - public lab group
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -588,5 +543,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 5b63978e22b71015adbbe8e4f1b5d451cdd389ef
+sha: 364edd18e9144c9cedab3171d4a71b10e7204784
 slug: the-pandemic
