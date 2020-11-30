@@ -181,6 +181,28 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 131
+    originalUrl: >-
+      https://www.nih.gov/news-events/news-releases/nih-clinical-trial-shows-remdesivir-accelerates-recovery-advanced-covid-19
+    url: >-
+      https://www.nih.gov/news-events/news-releases/nih-clinical-trial-shows-remdesivir-accelerates-recovery-advanced-covid-19
+    when: '2020-04-29T19:39:25.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: National Institutes of Health (NIH)
+    logo: ''
+    image: >-
+      https://www.nih.gov/sites/default/files/news-events/news-releases/2020/20200402-sars-covid.jpg
+    title: >-
+      NIH clinical trial shows Remdesivir accelerates recovery from advanced
+      COVID-19
+    summary: >-
+      Preliminary results indicate that patients who received remdesivir had a
+      31% faster time to recovery than those who received placebo.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 123
     originalUrl: >-
       https://www.today.com/health/coronavirus-symptoms-cdc-adds-6-new-conditions-include-chills-muscle-t180026
@@ -225,7 +247,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 115
+  - id: 116
     originalUrl: 'https://www.bbc.com/news/world-us-canada-52435648'
     url: 'https://www.bbc.com/news/world-us-canada-52435648'
     when: '2020-04-27T20:29:35.000Z'
@@ -244,7 +266,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 116
+  - id: 115
     originalUrl: 'https://www.bbc.com/news/world-us-canada-52435648'
     url: 'https://www.bbc.com/news/world-us-canada-52435648'
     when: '2020-04-27T20:29:35.000Z'
@@ -557,7 +579,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 99
+  - id: 100
     originalUrl: >-
       https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
     url: >-
@@ -579,7 +601,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 100
+  - id: 99
     originalUrl: >-
       https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
     url: >-
@@ -645,7 +667,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 91
+  - id: 90
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -669,7 +691,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 90
+  - id: 91
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -1164,7 +1186,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 117
+  - id: 118
     originalUrl: >-
       https://www.nationalgeographic.com/history/2020/03/60-million-person-coronavirus-lockdown-united-states/
     url: >-
@@ -1184,7 +1206,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 118
+  - id: 117
     originalUrl: >-
       https://www.nationalgeographic.com/history/2020/03/60-million-person-coronavirus-lockdown-united-states/
     url: >-
@@ -2462,5 +2484,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: ce33f0d6af33d5b836a9ae1158ac08aa127943d6
+sha: 6eb3691a445f08db1e60e84c4cca6201219060d5
 slug: the-pandemic
