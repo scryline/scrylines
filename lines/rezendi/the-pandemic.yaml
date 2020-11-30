@@ -88,6 +88,25 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 3
+    originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
+    url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
+    when: '2020-02-20T15:22:32.738Z'
+    author: Donald G. McNeil Jr.
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/02/02/world/02virus-pandemic-sub/02virus-pandemic-sub-facebookJumbo.jpg
+    title: 'Wuhan Coronavirus Looks Increasingly Like a Pandemic, Experts Say'
+    summary: >-
+      Rapidly rising caseloads alarm researchers, who fear the virus may make
+      its way across the globe. But scientists cannot yet predict how many
+      deaths may result.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+    originalWhen: '2020-02-02T15:22:32.738Z'
   - id: 4
     originalUrl: >-
       https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
@@ -126,25 +145,6 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 3
-    originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    when: '2020-02-20T15:22:32.738Z'
-    author: Donald G. McNeil Jr.
-    source: NYTimes
-    logo: ''
-    image: >-
-      https://static01.nyt.com/images/2020/02/02/world/02virus-pandemic-sub/02virus-pandemic-sub-facebookJumbo.jpg
-    title: 'Wuhan Coronavirus Looks Increasingly Like a Pandemic, Experts Say'
-    summary: >-
-      Rapidly rising caseloads alarm researchers, who fear the virus may make
-      its way across the globe. But scientists cannot yet predict how many
-      deaths may result.
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-    originalWhen: '2020-02-02T15:22:32.738Z'
   - id: 11
     originalUrl: >-
       https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
@@ -183,5 +183,5 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: c0b55d90ca2dcb8e38f069977b3f615454d1cd0d
+sha: 3de1e8bd6358c489b90c1f4ec99f3e06b964b230
 slug: the-pandemic
