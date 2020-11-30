@@ -123,6 +123,27 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 108
+    originalUrl: >-
+      https://www.nytimes.com/2020/04/23/nyregion/coronavirus-new-york-update.html
+    url: >-
+      https://www.nytimes.com/2020/04/23/nyregion/coronavirus-new-york-update.html
+    when: '2020-05-05T01:18:33.353Z'
+    originalWhen: ''
+    author: 'null'
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/04/23/nyregion/23nyvirus-briefing41/23nyvirus-briefing41-facebookJumbo.jpg
+    title: Cuomo Says 21% of Those Tested in N.Y.C. Had Virus Antibodies
+    summary: >-
+      Gov. Andrew Cuomo of New York pushed back against Senator Mitch
+      McConnell’s suggestion that states hard-hit by coronavirus declare
+      bankruptcy.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 94
     originalUrl: >-
       https://www.npr.org/sections/coronavirus-live-updates/2020/04/27/845304917/new-zealand-says-it-has-won-battle-against-covid-19
@@ -181,6 +202,28 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 112
+    originalUrl: >-
+      https://www.nbcnews.com/business/economy/another-6-6-million-americans-lost-their-job-last-week-n1179611
+    url: >-
+      https://www.nbcnews.com/business/economy/another-6-6-million-americans-lost-their-job-last-week-n1179611
+    when: '2020-04-10T00:05:19.000Z'
+    originalWhen: ''
+    author: Martha C. White
+    source: NBC News
+    logo: >-
+      https://sslnodeassets.nbcnews.com/cdnassets/projects/site-images/nbcnews-logo-white.png
+    image: >-
+      https://media3.s-nbcnews.com/j/newscms/2020_15/3301511/200408-coronavirus-unemployment-applications-se-649p_cb7d7b4c695a12e3830fca8399063680.nbcnews-fp-1200-630.jpg
+    title: 6.6 million more Americans filed jobless claims last week
+    summary: >-
+      Jobless claims continue to swell because of the COVID-19 pandemic. 6.6
+      Americans filed first-time unemployment claims last week, totaling 16
+      million unemployment claims in the past three weeks.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 92
     originalUrl: >-
       https://www.cnn.com/2020/04/07/asia/coronavirus-wuhan-lockdown-lifted-intl-hnk/index.html
@@ -220,24 +263,19 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 100
-    originalUrl: >-
-      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
-    url: >-
-      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
-    when: '2020-04-03T16:09:00.000Z'
+  - id: 111
+    originalUrl: ''
+    url: 'https://twitter.com/martinoweiss/status/1247190127430045696'
+    when: 'Mon Apr 06 15:51:12 +0000 2020'
     originalWhen: ''
-    author: 'Anthony Faiola, Ana Vanessa Herrero'
-    source: The Washington Post
-    logo: 'https://www.washingtonpost.com/wp-stat/img/wplogo_344x60_blk.png'
-    image: >-
-      https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBNXGCDVWEI6VBOLQZYFPG4GHU.jpg&w=1440
-    title: >-
-      Bodies lie in the streets of Guayaquil, Ecuador, emerging epicenter of the
-      coronavirus in Latin America
+    author: '@martinoweiss | 22273643'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
     summary: >-
-      The overwhelmed health system in Ecuador’s largest city could be a
-      harbinger of worse to come in the developing world.
+      The Austrian government has today issued a roadmap on how the country can
+      slowly get back to normal. Small shops (u… https://t.co/PrOlGuvsY1
     comments: ''
     suggestions: ''
     tags: ''
@@ -264,7 +302,53 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 90
+  - id: 100
+    originalUrl: >-
+      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
+    url: >-
+      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
+    when: '2020-04-03T16:09:00.000Z'
+    originalWhen: ''
+    author: 'Anthony Faiola, Ana Vanessa Herrero'
+    source: The Washington Post
+    logo: 'https://www.washingtonpost.com/wp-stat/img/wplogo_344x60_blk.png'
+    image: >-
+      https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBNXGCDVWEI6VBOLQZYFPG4GHU.jpg&w=1440
+    title: >-
+      Bodies lie in the streets of Guayaquil, Ecuador, emerging epicenter of the
+      coronavirus in Latin America
+    summary: >-
+      The overwhelmed health system in Ecuador’s largest city could be a
+      harbinger of worse to come in the developing world.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 110
+    originalUrl: >-
+      https://www.nbcnews.com/business/economy/record-6-6-million-americans-filed-unemployment-last-week-n1174776
+    url: >-
+      https://www.nbcnews.com/business/economy/record-6-6-million-americans-filed-unemployment-last-week-n1174776
+    when: '2020-04-03T14:26:57.000Z'
+    originalWhen: ''
+    author: David Gura
+    source: NBC News
+    logo: >-
+      https://sslnodeassets.nbcnews.com/cdnassets/projects/site-images/nbcnews-logo-white.png
+    image: >-
+      https://media2.s-nbcnews.com/j/newscms/2020_13/3284296/200326-dept-labor-al-0817_690ea9a69c6b08c5c7d6c2b0e739a458.nbcnews-fp-1200-630.jpg
+    title: A record 6.6 million Americans filed for unemployment last week
+    summary: >-
+      NBC senior business correspondent Stephanie Ruhle talks about the news
+      that a jaw-dropping 6.6 million Americans have applied for unemployment
+      benefits. She says “we just don’t know yet” where the bottom of the
+      economic downturn may be. She answers TODAY viewers’ questions related to
+      the coronavirus…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 91
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -288,7 +372,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 91
+  - id: 90
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -565,6 +649,27 @@ entries:
     summary: >-
       “This coronavirus pandemic is worse than working in West Africa during
       Ebola,” said one doctor.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 109
+    originalUrl: >-
+      https://www.bourseandbazaar.com/news-1/2020/3/25/iran-president-warns-of-tough-new-measures-against-coronavirus
+    url: >-
+      https://www.bourseandbazaar.com/news-1/2020/3/25/iran-president-warns-of-tough-new-measures-against-coronavirus
+    when: '2020-03-25T09:13:26.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: Bourse &amp; Bazaar
+    logo: >-
+      https://static1.squarespace.com/static/54db7b69e4b00a5e4b11038c/t/577d3dda197aea930325d703/1606132657969/
+    image: >-
+      http://static1.squarespace.com/static/54db7b69e4b00a5e4b11038c/5a7382c9c83025be1fc006b7/5e7b1f7d864e9b0fbede5d04/1585224397733/157032773.jpg?format=1500w
+    title: >-
+      Iran to Ban Intercity Travel as Coronavirus Death Toll Tops 2,000 — Bourse
+      &amp; Bazaar
+    summary: "<p>Bourse &amp; Bazaar delivers news, analysis, and research on post-sanctions trade and investment in Iran. The company also organizes world-class conferences and events. Bourse &amp; Bazaar is an authority on Iran’s business environment and economic potential.\_</p>"
     comments: ''
     suggestions: ''
     tags: ''
@@ -1995,5 +2100,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: f634a6281bdcd58948d315e562df902e1778cd81
+sha: d621125b0c75145b562c20dc9a2f5bc9bb772dc1
 slug: the-pandemic
