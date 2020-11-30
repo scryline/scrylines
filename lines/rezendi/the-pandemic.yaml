@@ -1,377 +1,161 @@
 title: The Pandemic
 entries:
-  - id: 30
-    originalUrl: >-
-      https://nypost.com/2020/02/29/two-new-coronavirus-cases-identified-in-washington-state/
-    url: >-
-      https://nypost.com/2020/02/29/two-new-coronavirus-cases-identified-in-washington-state/
-    when: '2020-02-29T15:25:51.000Z'
-    originalWhen: ''
-    author: View author archive
-    source: New York Post
-    logo: >-
-      https://nypost.com/wp-content/themes/nypost-2016/static/images/logo-nypost.png
-    image: >-
-      https://i2.wp.com/nypost.com/wp-content/uploads/sites/2/2020/02/washington-state-finds-two-new-coronavirus-cases.jpg?quality=90&strip=all&ssl=1
-    title: Two new coronavirus cases identified in Washington state
-    summary: >-
-      Two new presumed cases of coronavirus have been identified in the Seattle
-      area, including a high school student with no travel history.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 29
-    originalUrl: >-
-      https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
-    url: >-
-      https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
-    when: '2020-02-29T10:34:17.000Z'
-    originalWhen: ''
-    author: 'null'
-    source: The Straits Times
-    logo: ''
-    image: >-
-      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/29/yq-skcov-29022020.jpg?itok=L-V8n1Zl
-    title: >-
-      Coronavirus: South Korea’s total cases jump to 3,150 as it reports first
-      case of reinfection
-    summary: "SEOUL (AFP) -\_South Korea confirmed 813 more coronavirus cases on Saturday (Feb 29), the biggest increase to date for the country,\_taking the national total to 3,150 infections with four additional deaths. . Read more at straitstimes.com."
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 28
-    originalUrl: >-
-      https://www.thenorthernecho.co.uk/news/national/18270758.coronavirus-passed-within-uk-first-time-20th-case-confirmed/
-    url: >-
-      https://www.thenorthernecho.co.uk/news/national/18270758.coronavirus-passed-within-uk-first-time-20th-case-confirmed/
-    when: '2020-02-28T21:01:27.000Z'
-    originalWhen: ''
-    author: Press Association 2020
-    source: The Northern Echo
-    logo: 'http://www.thenorthernecho.co.uk/resources/images/sitelogo/'
-    image: 'https://www.thenorthernecho.co.uk/resources/images/11089455/'
-    title: Coronavirus passed on within UK for first time as 20th case confirmed
-    summary: >-
-      The news comes after a British man became the first UK citizen to die from
-      coronavirus.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 9
+  - id: 1
     originalUrl: ''
-    url: 'https://twitter.com/angie_rasmussen/status/1233420613819289600'
-    when: 'Fri Feb 28 15:56:04 +0000 2020'
-    author: '@angie_rasmussen | 394087611'
+    url: 'https://twitter.com/HelenBranswell/status/1212743618756263937'
+    when: 'Thu Jan 02 14:33:05 +0000 2020'
+    author: '@HelenBranswell | 28838219'
     source: Twitter
     logo: ''
     image: ''
     title: ''
-    summary: >-
-      I disagree with @WHO. Containment is no longer possible. The focus must be
-      shifted to mitigation. https://t.co/r7WkQOEHbL
-    comments: ''
+    summary: |-
+      Not liking the look of this. 
+      https://t.co/uqmeQ8if06
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: ''
-  - id: 27
+    chapter: 'January: Distant Early Warning'
+    originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
+  - id: 12
     originalUrl: >-
-      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-.html
+      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
     url: >-
-      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-
-    when: '2020-02-27T07:05:47.369Z'
-    originalWhen: '2020-05-20T07:05:47.369Z'
-    author: Al Arabiya English
-    source: Al Arabiya English
-    logo: >-
-      https://www.alarabiya.net/.resources/aa-templating-lm/webresources/gfx/amp/logo.png
+      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
+    when: '2020-01-08T17:07:39.000Z'
+    originalWhen: '2020-01-24T17:07:39.000Z'
+    author: Helen Branswell
+    source: STAT
+    logo: ''
     image: >-
-      https://vid.alarabiya.net/images/2020/02/25/02035dd7-75ef-4034-8213-b75f6195f766/02035dd7-75ef-4034-8213-b75f6195f766_16x9_600x338.jpg
-    title: 'Iran confirms 26 people dead, 245 infected with coronavirus: Fars'
+      https://www.statnews.com/wp-content/uploads/2020/01/GettyImages-1192512277-1024x576.jpg
+    title: WHO says mysterious illness in China likely being caused by new virus
     summary: >-
-      The number of people infected with coronavirus in Iran has risen to 245
-      and the death toll to 26, according to Iran’s health ministry, the
-      semi-offic
+      Chinese authorities believe a new coronavirus — from the family that
+      produced SARS and MERS — may be the cause of the condition.
     comments: <p><br></p>
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 25
+  - id: 14
     originalUrl: >-
-      https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
+      https://www.theguardian.com/world/2020/jan/22/coronavirus-china-measures-rein-spread-mutate-disease-death-toll
     url: >-
-      https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
-    when: '2020-02-26T22:50:37.000Z'
-    originalWhen: ''
-    author: CNA
-    source: CNA
-    logo: >-
-      https://www.channelnewsasia.com/blob/8396140/9e24274cb1be2c905593bba3db240fb9/cna-logo-data.jpg
-    image: >-
-      https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12470082/16x9/991/557/6f639db5bb12c35194a0a4b8fb90dc8c/tU/police-wearing-masks-and-gloves-could-be-seen-surrounding-the-hotel-in-costa-adeje-on-the-southwestern-shore-of-tenerife-1582645644110-3.jpg
-    title: Spain seeks to calm nerves as COVID-19 cases jump
-    summary: >-
-      MADRID: Spain on Wednesday (Feb 26) issued assurances that a cluster of
-      new coronavirus infections did not risk a broader spread, after nine cases
-      were detected within a 24-hour period.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 24
-    originalUrl: >-
-      https://news.sky.com/story/coronavirus-warning-travelers-from-northern-italy-must-self-isolate-11942709
-    url: >-
-      https://news.sky.com/story/coronavirus-warning-travelers-from-northern-italy-must-self-isolate-11942709
-    when: '2020-02-25T21:54:00.000Z'
-    originalWhen: ''
-    author: 'Aubrey Allegretti and Tom Gillespie, news reporters'
-    source: Sky
-    logo: 'https://news.sky.com/assets/sky-news-logo.png?v=1'
-    image: >-
-      https://e3.365dm.com/20/02/1600x900/skynews-coronavirus-italy-milan_4930713.jpg?20200225195334
-    title: 'Coronavirus: Four more dead in Italy as disease spreads across Europe'
-    summary: >-
-      Sky News is an unrivalled, world class breaking news service with a spirit
-      of innovation and a fresh approach to news broadcasting. As the UK’s first
-      dedicated 24-hour news channel, Sky News has built a deserved reputation
-      for being the first to break major news as well as offering insight and
-      analy…
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 22
-    originalUrl: >-
-      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
-    url: >-
-      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
-    when: '2020-02-24T08:47:08.000Z'
-    originalWhen: ''
-    author: 'null'
-    source: The Straits Times
-    logo: ''
-    image: >-
-      https://www.straitstimes.com/sites/default/files/media-brightcove/6135295959001.jpg
-    title: >-
-      Coronavirus: South Korea confirms 70 more coronavirus cases, total 833;
-      7th death reported
-    summary: >-
-      SEOUL (REUTERS) - South Korea reported another 161 coronavirus cases,
-      bringing the total in the country to 763, Yonhap news agency reported on
-      Monday (Feb 24).. Read more at straitstimes.com.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 10
-    originalUrl: 'https://techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
-    url: 'https://social.techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
-    when: '2020-02-23T14:00:00.000Z'
-    author: Jon Evans
-    source: TechCrunch
-    logo: >-
-      https://techcrunch.com/wp-content/themes/techcrunch-2017/images/logo-json-ld.png
-    image: >-
-      https://techcrunch.com/wp-content/uploads/2020/02/800px-2009_world_subdivisions_flu_pandemic.png?w=764
-    title: What happens if a pandemic hits? – TechCrunch
-    summary: >-
-      What happens if a COVID-19 coronavirus pandemic hits? What will the
-      repercussions be if the virus spreads worldwide? How will it change how we
-      live, work, socialize and travel? Don’t get all disaster-movie here. Some
-      people seem to have the notion that a pandemic will mean shutting down
-      borders, bui…
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 8
-    originalUrl: >-
-      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
-    url: >-
-      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
-    when: '2020-02-23T12:00:00.000Z'
-    author: 'Bill Hanage,Marc Lipsitch'
-    source: Scientific American Blog Network
-    logo: ''
-    image: >-
-      https://static.scientificamerican.com/blogs/cache/file/FF0C8844-B47C-45AC-889F9F4508E4D377.jpg
-    title: How to Report on the COVID-19 Outbreak Responsibly
-    summary: >-
-      Remember, the virus doesn&rsquo;t follow the news and doesn&rsquo;t care
-      about Twitter
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 7
-    originalUrl: ''
-    url: 'https://twitter.com/BillHanage/status/1231451071387774977'
-    when: 'Sun Feb 23 05:29:49 +0000 2020'
-    author: '@BillHanage | 21184460'
-    source: Twitter
-    logo: ''
-    image: ''
-    title: ''
-    summary: >-
-      IMO this is a blinder on where we stand re #coronavirus #Covid_19 #COVID
-      and what happens now. This will be a pande… https://t.co/88wCere4yO
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 6
-    originalUrl: ''
-    url: 'https://twitter.com/kakape/status/1231193492002611200'
-    when: 'Sat Feb 22 12:26:17 +0000 2020'
-    author: '@kakape | 45586617'
-    source: Twitter
-    logo: ''
-    image: ''
-    title: ''
-    summary: >-
-      For me and for everyone I know who has been following #covid19, the last
-      few days have felt like a profound shift i… https://t.co/kJ9HF3lNWp
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 31
-    originalUrl: 'https://news.trust.org/item/20200221170633-5papx/'
-    url: 'https://news.trust.org/item/20200221170633-5papx/'
-    when: '2020-02-21 09:45:00'
-    originalWhen: ''
-    author: Thomson Reuters Foundation
-    source: news.trust.org
-    logo: ''
-    image: >-
-      https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/f4a22c11-9111-4a9d-a038-54651c4c8cbe/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100
-    title: Only three U.S. states can test for coronavirus - public lab group
-    summary: >-
-      CHINA-HEALTH/USA (URGENT):Only three U.S. states can test for coronavirus
-      - public lab group
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 20
-    originalUrl: >-
-      https://www.channelnewsasia.com/news/asia/coronavirus-covid19-south-korea-first-death-12454106
-    url: >-
-      https://www.channelnewsasia.com/news/asia/coronavirus-covid19-south-korea-first-death-12454106
-    when: '2020-02-20T23:45:29.000Z'
-    originalWhen: ''
-    author: CNA
-    source: CNA
-    logo: >-
-      https://www.channelnewsasia.com/blob/8396140/9e24274cb1be2c905593bba3db240fb9/cna-logo-data.jpg
-    image: >-
-      https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12419262/16x9/991/557/27844c51fb08055fd2a3843e9d408a10/Ge/a-men-wears-a-mask-to-protect-himself-against-a-new-coronavirus-at-the-seoul-railway-station-in-seoul-22.jpg
-    title: South Korea reports first COVID-19 death as infected cases reach 104
-    summary: >-
-      SEOUL: South Korea reported its first death Thursday (Feb 20) from
-      COVID-19 as the number of infections nearly doubled to over 100 - almost
-      half of them from a cluster centred on a religious sect.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 3
-    originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    when: '2020-02-20T15:22:32.738Z'
-    author: Donald G. McNeil Jr.
-    source: NYTimes
-    logo: ''
-    image: >-
-      https://static01.nyt.com/images/2020/02/02/world/02virus-pandemic-sub/02virus-pandemic-sub-facebookJumbo.jpg
-    title: 'Wuhan Coronavirus Looks Increasingly Like a Pandemic, Experts Say'
-    summary: >-
-      Rapidly rising caseloads alarm researchers, who fear the virus may make
-      its way across the globe. But scientists cannot yet predict how many
-      deaths may result.
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-    originalWhen: '2020-02-02T15:22:32.738Z'
-  - id: 4
-    originalUrl: >-
-      https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
-    url: >-
-      https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
-    when: '2020-02-17T02:53:00.000Z'
-    author: Jo Craven McGinty
-    source: The Wall Street Journal
-    logo: 'https://s.wsj.net/media/wsj_amp_masthead_lg.png'
-    image: 'https://images.wsj.net/im-153762/social'
-    title: How Many People Might One Person With Coronavirus Infect?
-    summary: >-
-      Researchers in U.K. offer clues as to how contagious Covid-19 virus could
-      be
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 2
-    originalUrl: >-
-      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
-    url: >-
-      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
-    when: '2020-02-13T12:00:00.000Z'
-    author: Shirin Ghaffary
-    source: Vox
-    logo: >-
-      https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668548/google_amp.0.png
-    image: >-
-      https://cdn.vox-cdn.com/thumbor/V75qSdtj09QOGQwLl4eAAoiiswI=/0x82:3300x1810/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19819480/615320790.jpg.jpg
-    title: '“No handshakes, please”: The tech industry is terrified of the coronavirus'
-    summary: >-
-      Although public officials in the area say the virus is contained for now,
-      some in the tech industry fear the virus will spread out of control.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 32
-    originalUrl: >-
-      https://www.theguardian.com/world/2020/feb/10/coronavirus-uk-declares-outbreak-serious-threat-to-health
-    url: >-
-      http://www.theguardian.com/world/2020/feb/10/coronavirus-uk-declares-outbreak-serious-threat-to-health
-    when: '2020-02-10T17:13:11.000Z'
-    originalWhen: '2020-07-01T17:24:11.000Z'
-    author: Denis Campbell
+      http://www.theguardian.com/world/2020/jan/22/coronavirus-china-measures-rein-spread-mutate-disease-death-toll
+    when: '2020-01-23T06:56:07.000Z'
+    originalWhen: '2020-07-01T17:26:07.000Z'
+    author: Lily Kuo
     source: the Guardian
     logo: ''
     image: >-
-      https://i.guim.co.uk/img/media/b567ddf2451dd057fd278601d751069881a78783/0_51_2493_1495/master/2493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c059c6e2945d1d0b185ffdae0c72569
-    title: 'Coronavirus: number of confirmed UK cases rises from four to eight'
-    summary: News comes after UK declared outbreak was ‘serious threat’ to health
+      https://i.guim.co.uk/img/media/8954ad48502c4bcb9415ec059732ee33a00c8d39/0_684_4324_2594/master/4324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=986a710d0a55b0b7ee3e2a24b26084c4
+    title: >-
+      Coronavirus: China bars 11m residents from leaving city at centre of
+      outbreak
+    summary: >-
+      Government unveils new countermeasures as country prepares for lunar new
+      year and death toll doubles to 17
     comments: <p><br></p>
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 18
+  - id: 13
     originalUrl: >-
-      https://www.straitstimes.com/singapore/coronavirus-7-new-confirmed-cases-in-spore-possible-new-cluster-involving-church-in-paya
+      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
     url: >-
-      https://www.straitstimes.com/singapore/coronavirus-7-new-confirmed-cases-in-spore-possible-new-cluster-involving-church-in-paya
-    when: '2020-02-09T01:41:16.000Z'
+      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
+    when: '2020-01-23T15:07:59.000Z'
     originalWhen: ''
-    author: CHANG AI-LIEN
-    source: The Straits Times
+    author: Michael Levenson
+    source: NYTimes
     logo: ''
     image: >-
-      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/08/hzncid0208file.jpg?itok=nTe_Gr8U
-    title: >-
-      Coronavirus: 7 new cases in Singapore, possible new cluster involving
-      church in Paya Lebar
+      https://static01.nyt.com/images/2020/01/22/multimedia/22xp-cordon/merlin_167592177_faab52d5-95c1-48a0-b533-934d06fbed8d-facebookJumbo.jpg
+    title: Scale of China’s Wuhan Shutdown Is Believed to Be Without Precedent
     summary: >-
-      Among the new cases are a taxi driver and a private-hire car driver. There
-      is a possible new cluster comprising five cases, linked to The Life Church
-      and Missions Singapore in Paya Lebar.. Read more at straitstimes.com.
+      In sealing off a city of 11 million people, China is trying to halt a
+      coronavirus outbreak using a tactic with a complicated history of ethical
+      concerns.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 15
+    originalUrl: 'https://www.bbc.com/news/world-51318246'
+    url: 'https://www.bbc.com/news/world-51318246'
+    when: '2020-01-31T07:01:43.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/18421/production/_110716399_gettyimages-1197550054.jpg
+    title: Coronavirus declared global health emergency by WHO
+    summary: >-
+      The World Health Organization calls for moves to stop the virus spreading
+      to vulnerable countries.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 11
+    originalUrl: >-
+      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
+    url: >-
+      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
+    when: '2020-01-31T12:00:00.000Z'
+    originalWhen: ''
+    author: 'Andrew Joseph,STAT'
+    source: Scientific American
+    logo: ''
+    image: >-
+      https://static.scientificamerican.com/sciam/cache/file/171708EC-2996-4CB7-8D343AD3639E13BA.jpg
+    title: Study Reports First Case of Coronavirus Spread by Asymptomatic Person
+    summary: >-
+      A woman from China infected a person in Germany before she began
+      displaying symptoms
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 16
+    originalUrl: >-
+      https://www.cnn.com/2020/02/02/asia/wuhan-coronavirus-philippines-intl-hnk/index.html
+    url: >-
+      https://www.cnn.com/2020/02/02/asia/wuhan-coronavirus-philippines-intl-hnk/index.html
+    when: '2020-02-03T00:31:34.000Z'
+    originalWhen: '2020-02-03T00:31:34.000Z'
+    author: 'Julia Hollingsworth, CNN'
+    source: CNN
+    logo: ''
+    image: >-
+      https://cdn.cnn.com/cnnnext/dam/assets/200202115047-coronavirus-philippines-3001-super-tease.jpg
+    title: First Wuhan coronavirus death reported outside China
+    summary: >-
+      Priscilla Dickey and her 8-year-old daughter Hermione were supposed to be
+      among the hundreds of Americans who boarded a charter flight arranged by
+      the US government to leave Wuhan, China. But Hermione did not have her
+      passport and could not board the flight. CNN’s 
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: 'February: Alarms sounded, and mostly ignored'
+  - id: 17
+    originalUrl: 'https://www.bbc.com/news/world-asia-china-51403795'
+    url: 'https://www.bbc.com/news/world-asia-china-51403795'
+    when: '2020-02-07T04:16:28.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/11C1A/production/_110803727_mediaitem110803726.jpg
+    title: 'Li Wenliang: Coronavirus kills Chinese whistleblower doctor'
+    summary: >-
+      Li Wenliang warned fellow medics in December - but police told him to stop
+      “making false comments”.
     comments: ''
     suggestions: ''
     tags: ''
@@ -399,167 +183,427 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 17
-    originalUrl: 'https://www.bbc.com/news/world-asia-china-51403795'
-    url: 'https://www.bbc.com/news/world-asia-china-51403795'
-    when: '2020-02-07T04:16:28.000Z'
-    originalWhen: ''
-    author: BBC News
-    source: BBC News
-    logo: >-
-      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
-    image: >-
-      https://ichef.bbci.co.uk/news/1024/branded_news/11C1A/production/_110803727_mediaitem110803726.jpg
-    title: 'Li Wenliang: Coronavirus kills Chinese whistleblower doctor'
-    summary: >-
-      Li Wenliang warned fellow medics in December - but police told him to stop
-      “making false comments”.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 16
+  - id: 18
     originalUrl: >-
-      https://www.cnn.com/2020/02/02/asia/wuhan-coronavirus-philippines-intl-hnk/index.html
+      https://www.straitstimes.com/singapore/coronavirus-7-new-confirmed-cases-in-spore-possible-new-cluster-involving-church-in-paya
     url: >-
-      https://www.cnn.com/2020/02/02/asia/wuhan-coronavirus-philippines-intl-hnk/index.html
-    when: '2020-02-03T00:31:34.000Z'
-    originalWhen: '2020-02-03T00:31:34.000Z'
-    author: 'Julia Hollingsworth, CNN'
-    source: CNN
+      https://www.straitstimes.com/singapore/coronavirus-7-new-confirmed-cases-in-spore-possible-new-cluster-involving-church-in-paya
+    when: '2020-02-09T01:41:16.000Z'
+    originalWhen: ''
+    author: CHANG AI-LIEN
+    source: The Straits Times
     logo: ''
     image: >-
-      https://cdn.cnn.com/cnnnext/dam/assets/200202115047-coronavirus-philippines-3001-super-tease.jpg
-    title: First Wuhan coronavirus death reported outside China
+      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/08/hzncid0208file.jpg?itok=nTe_Gr8U
+    title: >-
+      Coronavirus: 7 new cases in Singapore, possible new cluster involving
+      church in Paya Lebar
     summary: >-
-      Priscilla Dickey and her 8-year-old daughter Hermione were supposed to be
-      among the hundreds of Americans who boarded a charter flight arranged by
-      the US government to leave Wuhan, China. But Hermione did not have her
-      passport and could not board the flight. CNN’s 
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: 'February: Alarms sounded, and mostly ignored'
-  - id: 11
-    originalUrl: >-
-      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
-    url: >-
-      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
-    when: '2020-01-31T12:00:00.000Z'
-    originalWhen: ''
-    author: 'Andrew Joseph,STAT'
-    source: Scientific American
-    logo: ''
-    image: >-
-      https://static.scientificamerican.com/sciam/cache/file/171708EC-2996-4CB7-8D343AD3639E13BA.jpg
-    title: Study Reports First Case of Coronavirus Spread by Asymptomatic Person
-    summary: >-
-      A woman from China infected a person in Germany before she began
-      displaying symptoms
+      Among the new cases are a taxi driver and a private-hire car driver. There
+      is a possible new cluster comprising five cases, linked to The Life Church
+      and Missions Singapore in Paya Lebar.. Read more at straitstimes.com.
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 15
-    originalUrl: 'https://www.bbc.com/news/world-51318246'
-    url: 'https://www.bbc.com/news/world-51318246'
-    when: '2020-01-31T07:01:43.000Z'
-    originalWhen: ''
-    author: BBC News
-    source: BBC News
-    logo: >-
-      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
-    image: >-
-      https://ichef.bbci.co.uk/news/1024/branded_news/18421/production/_110716399_gettyimages-1197550054.jpg
-    title: Coronavirus declared global health emergency by WHO
-    summary: >-
-      The World Health Organization calls for moves to stop the virus spreading
-      to vulnerable countries.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 13
+  - id: 32
     originalUrl: >-
-      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
+      https://www.theguardian.com/world/2020/feb/10/coronavirus-uk-declares-outbreak-serious-threat-to-health
     url: >-
-      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
-    when: '2020-01-23T15:07:59.000Z'
-    originalWhen: ''
-    author: Michael Levenson
-    source: NYTimes
-    logo: ''
-    image: >-
-      https://static01.nyt.com/images/2020/01/22/multimedia/22xp-cordon/merlin_167592177_faab52d5-95c1-48a0-b533-934d06fbed8d-facebookJumbo.jpg
-    title: Scale of China’s Wuhan Shutdown Is Believed to Be Without Precedent
-    summary: >-
-      In sealing off a city of 11 million people, China is trying to halt a
-      coronavirus outbreak using a tactic with a complicated history of ethical
-      concerns.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 14
-    originalUrl: >-
-      https://www.theguardian.com/world/2020/jan/22/coronavirus-china-measures-rein-spread-mutate-disease-death-toll
-    url: >-
-      http://www.theguardian.com/world/2020/jan/22/coronavirus-china-measures-rein-spread-mutate-disease-death-toll
-    when: '2020-01-23T06:56:07.000Z'
-    originalWhen: '2020-07-01T17:26:07.000Z'
-    author: Lily Kuo
+      http://www.theguardian.com/world/2020/feb/10/coronavirus-uk-declares-outbreak-serious-threat-to-health
+    when: '2020-02-10T17:13:11.000Z'
+    originalWhen: '2020-07-01T17:24:11.000Z'
+    author: Denis Campbell
     source: the Guardian
     logo: ''
     image: >-
-      https://i.guim.co.uk/img/media/8954ad48502c4bcb9415ec059732ee33a00c8d39/0_684_4324_2594/master/4324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=986a710d0a55b0b7ee3e2a24b26084c4
-    title: >-
-      Coronavirus: China bars 11m residents from leaving city at centre of
-      outbreak
-    summary: >-
-      Government unveils new countermeasures as country prepares for lunar new
-      year and death toll doubles to 17
+      https://i.guim.co.uk/img/media/b567ddf2451dd057fd278601d751069881a78783/0_51_2493_1495/master/2493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c059c6e2945d1d0b185ffdae0c72569
+    title: 'Coronavirus: number of confirmed UK cases rises from four to eight'
+    summary: News comes after UK declared outbreak was ‘serious threat’ to health
     comments: <p><br></p>
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 12
+  - id: 2
     originalUrl: >-
-      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
+      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
     url: >-
-      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
-    when: '2020-01-08T17:07:39.000Z'
-    originalWhen: '2020-01-24T17:07:39.000Z'
-    author: Helen Branswell
-    source: STAT
+      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
+    when: '2020-02-13T12:00:00.000Z'
+    author: Shirin Ghaffary
+    source: Vox
+    logo: >-
+      https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668548/google_amp.0.png
+    image: >-
+      https://cdn.vox-cdn.com/thumbor/V75qSdtj09QOGQwLl4eAAoiiswI=/0x82:3300x1810/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19819480/615320790.jpg.jpg
+    title: '“No handshakes, please”: The tech industry is terrified of the coronavirus'
+    summary: >-
+      Although public officials in the area say the virus is contained for now,
+      some in the tech industry fear the virus will spread out of control.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 4
+    originalUrl: >-
+      https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
+    url: >-
+      https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
+    when: '2020-02-17T02:53:00.000Z'
+    author: Jo Craven McGinty
+    source: The Wall Street Journal
+    logo: 'https://s.wsj.net/media/wsj_amp_masthead_lg.png'
+    image: 'https://images.wsj.net/im-153762/social'
+    title: How Many People Might One Person With Coronavirus Infect?
+    summary: >-
+      Researchers in U.K. offer clues as to how contagious Covid-19 virus could
+      be
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 33
+    originalUrl: >-
+      https://www.scmp.com/news/hong-kong/health-environment/article/3051312/second-hongkonger-dies-after-becoming-infected
+    url: >-
+      https://www.scmp.com/news/hong-kong/health-environment/article/3051312/second-hongkonger-dies-after-becoming-infected
+    when: '2020-02-19T16:41:48.000Z'
+    originalWhen: ''
+    author: Elizabeth Cheung
+    source: South China Morning Post
+    logo: >-
+      https://cdn2.i-scmp.com/sites/all/modules/custom/scmp_masthead/images/publisher_logo.png
+    image: >-
+      https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/20/525b682c-52bb-11ea-8948-c9a8d8f9b667_image_hires_004146.JPG?itok=BF8bzLnO&v=1582130512
+    title: 'Three new cases confirmed in Hong Kong on Wednesday, taking total to 65'
+    summary: >-
+      The mother-in-law of an engineer infected with the coronavirus was among
+      three new confirmed cases, health officials said on Wednesday, bringing
+      the total in Hong Kong to 65.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 3
+    originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
+    url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
+    when: '2020-02-20T15:22:32.738Z'
+    author: Donald G. McNeil Jr.
+    source: NYTimes
     logo: ''
     image: >-
-      https://www.statnews.com/wp-content/uploads/2020/01/GettyImages-1192512277-1024x576.jpg
-    title: WHO says mysterious illness in China likely being caused by new virus
+      https://static01.nyt.com/images/2020/02/02/world/02virus-pandemic-sub/02virus-pandemic-sub-facebookJumbo.jpg
+    title: 'Wuhan Coronavirus Looks Increasingly Like a Pandemic, Experts Say'
     summary: >-
-      Chinese authorities believe a new coronavirus — from the family that
-      produced SARS and MERS — may be the cause of the condition.
+      Rapidly rising caseloads alarm researchers, who fear the virus may make
+      its way across the globe. But scientists cannot yet predict how many
+      deaths may result.
     comments: <p><br></p>
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 1
+    originalWhen: '2020-02-02T15:22:32.738Z'
+  - id: 20
+    originalUrl: >-
+      https://www.channelnewsasia.com/news/asia/coronavirus-covid19-south-korea-first-death-12454106
+    url: >-
+      https://www.channelnewsasia.com/news/asia/coronavirus-covid19-south-korea-first-death-12454106
+    when: '2020-02-20T23:45:29.000Z'
+    originalWhen: ''
+    author: CNA
+    source: CNA
+    logo: >-
+      https://www.channelnewsasia.com/blob/8396140/9e24274cb1be2c905593bba3db240fb9/cna-logo-data.jpg
+    image: >-
+      https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12419262/16x9/991/557/27844c51fb08055fd2a3843e9d408a10/Ge/a-men-wears-a-mask-to-protect-himself-against-a-new-coronavirus-at-the-seoul-railway-station-in-seoul-22.jpg
+    title: South Korea reports first COVID-19 death as infected cases reach 104
+    summary: >-
+      SEOUL: South Korea reported its first death Thursday (Feb 20) from
+      COVID-19 as the number of infections nearly doubled to over 100 - almost
+      half of them from a cluster centred on a religious sect.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 34
+    originalUrl: >-
+      https://www.dw.com/en/coronavirus-italy-reports-first-deaths-south-korea-sees-cases-double/a-52467865
+    url: >-
+      https://www.dw.com/en/coronavirus-italy-reports-first-deaths-south-korea-sees-cases-double/a-52467865
+    when: '2020-02-21T04:24:35.000Z'
+    originalWhen: '2020-11-30T04:24:35.000Z'
+    author: Deutsche Welle (www.dw.com)
+    source: DW.COM
+    logo: ''
+    image: 'https://static.dw.com/image/52473057_304.jpg'
+    title: >-
+      Coronavirus: Italy reports first deaths, South Korea sees cases double |
+      DW | 22.02.2020
+    summary: >-
+      An elderly man from Padua and a woman from Lombardy have died from
+      coronavirus. South Korea, meanwhile has seen a major spike in cases, many
+      of them linked to a Christian sect.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 31
+    originalUrl: 'https://news.trust.org/item/20200221170633-5papx/'
+    url: 'https://news.trust.org/item/20200221170633-5papx/'
+    when: '2020-02-21 09:45:00'
+    originalWhen: ''
+    author: Thomson Reuters Foundation
+    source: news.trust.org
+    logo: ''
+    image: >-
+      https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/f4a22c11-9111-4a9d-a038-54651c4c8cbe/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100
+    title: Only three U.S. states can test for coronavirus - public lab group
+    summary: >-
+      CHINA-HEALTH/USA (URGENT):Only three U.S. states can test for coronavirus
+      - public lab group
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 6
     originalUrl: ''
-    url: 'https://twitter.com/HelenBranswell/status/1212743618756263937'
-    when: 'Thu Jan 02 14:33:05 +0000 2020'
-    author: '@HelenBranswell | 28838219'
+    url: 'https://twitter.com/kakape/status/1231193492002611200'
+    when: 'Sat Feb 22 12:26:17 +0000 2020'
+    author: '@kakape | 45586617'
     source: Twitter
     logo: ''
     image: ''
     title: ''
-    summary: |-
-      Not liking the look of this. 
-      https://t.co/uqmeQ8if06
+    summary: >-
+      For me and for everyone I know who has been following #covid19, the last
+      few days have felt like a profound shift i… https://t.co/kJ9HF3lNWp
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 7
+    originalUrl: ''
+    url: 'https://twitter.com/BillHanage/status/1231451071387774977'
+    when: 'Sun Feb 23 05:29:49 +0000 2020'
+    author: '@BillHanage | 21184460'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      IMO this is a blinder on where we stand re #coronavirus #Covid_19 #COVID
+      and what happens now. This will be a pande… https://t.co/88wCere4yO
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 8
+    originalUrl: >-
+      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
+    url: >-
+      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
+    when: '2020-02-23T12:00:00.000Z'
+    author: 'Bill Hanage,Marc Lipsitch'
+    source: Scientific American Blog Network
+    logo: ''
+    image: >-
+      https://static.scientificamerican.com/blogs/cache/file/FF0C8844-B47C-45AC-889F9F4508E4D377.jpg
+    title: How to Report on the COVID-19 Outbreak Responsibly
+    summary: >-
+      Remember, the virus doesn&rsquo;t follow the news and doesn&rsquo;t care
+      about Twitter
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 10
+    originalUrl: 'https://techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
+    url: 'https://social.techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
+    when: '2020-02-23T14:00:00.000Z'
+    author: Jon Evans
+    source: TechCrunch
+    logo: >-
+      https://techcrunch.com/wp-content/themes/techcrunch-2017/images/logo-json-ld.png
+    image: >-
+      https://techcrunch.com/wp-content/uploads/2020/02/800px-2009_world_subdivisions_flu_pandemic.png?w=764
+    title: What happens if a pandemic hits? – TechCrunch
+    summary: >-
+      What happens if a COVID-19 coronavirus pandemic hits? What will the
+      repercussions be if the virus spreads worldwide? How will it change how we
+      live, work, socialize and travel? Don’t get all disaster-movie here. Some
+      people seem to have the notion that a pandemic will mean shutting down
+      borders, bui…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 22
+    originalUrl: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
+    url: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
+    when: '2020-02-24T08:47:08.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: The Straits Times
+    logo: ''
+    image: >-
+      https://www.straitstimes.com/sites/default/files/media-brightcove/6135295959001.jpg
+    title: >-
+      Coronavirus: South Korea confirms 70 more coronavirus cases, total 833;
+      7th death reported
+    summary: >-
+      SEOUL (REUTERS) - South Korea reported another 161 coronavirus cases,
+      bringing the total in the country to 763, Yonhap news agency reported on
+      Monday (Feb 24).. Read more at straitstimes.com.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 24
+    originalUrl: >-
+      https://news.sky.com/story/coronavirus-warning-travelers-from-northern-italy-must-self-isolate-11942709
+    url: >-
+      https://news.sky.com/story/coronavirus-warning-travelers-from-northern-italy-must-self-isolate-11942709
+    when: '2020-02-25T21:54:00.000Z'
+    originalWhen: ''
+    author: 'Aubrey Allegretti and Tom Gillespie, news reporters'
+    source: Sky
+    logo: 'https://news.sky.com/assets/sky-news-logo.png?v=1'
+    image: >-
+      https://e3.365dm.com/20/02/1600x900/skynews-coronavirus-italy-milan_4930713.jpg?20200225195334
+    title: 'Coronavirus: Four more dead in Italy as disease spreads across Europe'
+    summary: >-
+      Sky News is an unrivalled, world class breaking news service with a spirit
+      of innovation and a fresh approach to news broadcasting. As the UK’s first
+      dedicated 24-hour news channel, Sky News has built a deserved reputation
+      for being the first to break major news as well as offering insight and
+      analy…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 25
+    originalUrl: >-
+      https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
+    url: >-
+      https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
+    when: '2020-02-26T22:50:37.000Z'
+    originalWhen: ''
+    author: CNA
+    source: CNA
+    logo: >-
+      https://www.channelnewsasia.com/blob/8396140/9e24274cb1be2c905593bba3db240fb9/cna-logo-data.jpg
+    image: >-
+      https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12470082/16x9/991/557/6f639db5bb12c35194a0a4b8fb90dc8c/tU/police-wearing-masks-and-gloves-could-be-seen-surrounding-the-hotel-in-costa-adeje-on-the-southwestern-shore-of-tenerife-1582645644110-3.jpg
+    title: Spain seeks to calm nerves as COVID-19 cases jump
+    summary: >-
+      MADRID: Spain on Wednesday (Feb 26) issued assurances that a cluster of
+      new coronavirus infections did not risk a broader spread, after nine cases
+      were detected within a 24-hour period.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 27
+    originalUrl: >-
+      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-.html
+    url: >-
+      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-
+    when: '2020-02-27T07:05:47.369Z'
+    originalWhen: '2020-05-20T07:05:47.369Z'
+    author: Al Arabiya English
+    source: Al Arabiya English
+    logo: >-
+      https://www.alarabiya.net/.resources/aa-templating-lm/webresources/gfx/amp/logo.png
+    image: >-
+      https://vid.alarabiya.net/images/2020/02/25/02035dd7-75ef-4034-8213-b75f6195f766/02035dd7-75ef-4034-8213-b75f6195f766_16x9_600x338.jpg
+    title: 'Iran confirms 26 people dead, 245 infected with coronavirus: Fars'
+    summary: >-
+      The number of people infected with coronavirus in Iran has risen to 245
+      and the death toll to 26, according to Iran’s health ministry, the
+      semi-offic
     comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: 'January: Distant Early Warning'
-    originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
+    chapter: ''
+  - id: 9
+    originalUrl: ''
+    url: 'https://twitter.com/angie_rasmussen/status/1233420613819289600'
+    when: 'Fri Feb 28 15:56:04 +0000 2020'
+    author: '@angie_rasmussen | 394087611'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      I disagree with @WHO. Containment is no longer possible. The focus must be
+      shifted to mitigation. https://t.co/r7WkQOEHbL
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 28
+    originalUrl: >-
+      https://www.thenorthernecho.co.uk/news/national/18270758.coronavirus-passed-within-uk-first-time-20th-case-confirmed/
+    url: >-
+      https://www.thenorthernecho.co.uk/news/national/18270758.coronavirus-passed-within-uk-first-time-20th-case-confirmed/
+    when: '2020-02-28T21:01:27.000Z'
+    originalWhen: ''
+    author: Press Association 2020
+    source: The Northern Echo
+    logo: 'http://www.thenorthernecho.co.uk/resources/images/sitelogo/'
+    image: 'https://www.thenorthernecho.co.uk/resources/images/11089455/'
+    title: Coronavirus passed on within UK for first time as 20th case confirmed
+    summary: >-
+      The news comes after a British man became the first UK citizen to die from
+      coronavirus.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 29
+    originalUrl: >-
+      https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
+    url: >-
+      https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
+    when: '2020-02-29T10:34:17.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: The Straits Times
+    logo: ''
+    image: >-
+      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/29/yq-skcov-29022020.jpg?itok=L-V8n1Zl
+    title: >-
+      Coronavirus: South Korea’s total cases jump to 3,150 as it reports first
+      case of reinfection
+    summary: "SEOUL (AFP) -\_South Korea confirmed 813 more coronavirus cases on Saturday (Feb 29), the biggest increase to date for the country,\_taking the national total to 3,150 infections with four additional deaths. . Read more at straitstimes.com."
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 30
+    originalUrl: >-
+      https://nypost.com/2020/02/29/two-new-coronavirus-cases-identified-in-washington-state/
+    url: >-
+      https://nypost.com/2020/02/29/two-new-coronavirus-cases-identified-in-washington-state/
+    when: '2020-02-29T15:25:51.000Z'
+    originalWhen: ''
+    author: View author archive
+    source: New York Post
+    logo: >-
+      https://nypost.com/wp-content/themes/nypost-2016/static/images/logo-nypost.png
+    image: >-
+      https://i2.wp.com/nypost.com/wp-content/uploads/sites/2/2020/02/washington-state-finds-two-new-coronavirus-cases.jpg?quality=90&strip=all&ssl=1
+    title: Two new coronavirus cases identified in Washington state
+    summary: >-
+      Two new presumed cases of coronavirus have been identified in the Seattle
+      area, including a high school student with no travel history.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 4ed328b2100f5750431501abe23b13babd18aba9
+sha: 3675e21bfa34242cf906429e4696e40dd362ed8b
 slug: the-pandemic
