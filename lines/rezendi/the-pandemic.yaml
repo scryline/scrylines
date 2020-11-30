@@ -1196,29 +1196,6 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 80
-    originalUrl: >-
-      https://www.npr.org/2020/03/21/819511621/coronavirus-deaths-spike-abroad-as-new-york-city-becomes-u-s-virus-epicenter
-    url: >-
-      https://www.npr.org/2020/03/21/819511621/coronavirus-deaths-spike-abroad-as-new-york-city-becomes-u-s-virus-epicenter
-    when: '2020-03-22T16:30:00.000Z'
-    originalWhen: ''
-    author: Lynsey Jeffery
-    source: NPR
-    logo: 'https://media.npr.org/chrome/npr-logo.jpg'
-    image: >-
-      https://media.npr.org/assets/img/2020/03/21/ap_20081027616567_wide-6ebac6fb65bb1b6fafbe66a544bf3c56f4b12855.jpg?s=1400
-    title: >-
-      Coronavirus Deaths Spike Abroad As New York City Becomes U.S. Virus
-      Epicenter
-    summary: >-
-      The global death toll from COVID-19 surpassed 12,000 on Saturday as New
-      York City reported thousands of new cases over the past week. Cases in
-      that city now make up about a third of all U.S. cases.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 72
     originalUrl: >-
       https://www.nytimes.com/2020/03/22/nyregion/Coronavirus-new-York-epicenter.html
@@ -1361,28 +1338,6 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 52
-    originalUrl: >-
-      https://www.theguardian.com/us-news/2020/mar/27/new-york-coronavirus-elmhurst-hospital
-    url: >-
-      http://www.theguardian.com/us-news/2020/mar/27/new-york-coronavirus-elmhurst-hospital
-    when: '2020-03-27T17:01:18.000Z'
-    originalWhen: '2020-07-01T17:01:18.000Z'
-    author: Jessica Glenza
-    source: the Guardian
-    logo: ''
-    image: >-
-      https://i.guim.co.uk/img/media/85edd2b1c0542f8d38390575663126fa1faa135e/0_144_4315_2589/master/4315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e3ef68bcd90d8eede75cfed634fb6db
-    title: >-
-      ‘It’s what was happening in Italy’: the hospital at the center of New
-      York’s Covid-19 crisis
-    summary: >-
-      Elmhurst hospital, located in one of the poorest areas of New York City,
-      is ‘overwhelmed’ as people line up outside for tests and treatment
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 79
     originalUrl: >-
       https://www.vox.com/2020/3/27/21197400/new-york-covid-19-hospitals-coronavirus
@@ -1400,28 +1355,6 @@ entries:
       Covid-19 patients are flooding New York hospitals, and the peak may be 3
       weeks away
     summary: New York City is staggering to keep up with the coronavirus pandemic.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 67
-    originalUrl: >-
-      https://www.rnz.co.nz/news/national/412818/coronavirus-83-new-cases-in-new-zealand-two-patients-in-intensive-care
-    url: >-
-      https://www.rnz.co.nz/news/national/412818/coronavirus-83-new-cases-in-new-zealand-two-patients-in-intensive-care
-    when: '2020-03-28T01:34:04.000Z'
-    originalWhen: ''
-    author: RNZ News
-    source: RNZ
-    logo: >-
-      https://www.rnz.co.nz/x/logos/print-logo-262944a28c4eafa2eac55e03095c7d276253660f97286dffe44e50d28d7f7ffd.png
-    image: >-
-      https://www.rnz.co.nz/assets/news_crops/98928/eight_col_liver.jpg?1585354043
-    title: 'Coronavirus: 83 new cases in New Zealand, two patients in intensive care'
-    summary: >-
-      There are 83 new cases of Covid-19 - made up of 78 new confirmed cases and
-      five probable cases. Two people are in intensive care in a critical
-      condition.
     comments: ''
     suggestions: ''
     tags: ''
@@ -2238,5 +2171,5 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 94123ac567079655e419e16c8a698e05f105928e
+sha: b6cb7f5e7219391d2688334fdd51f6ad92e62d33
 slug: the-pandemic
