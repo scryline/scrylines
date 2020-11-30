@@ -75,6 +75,28 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 89
+    originalUrl: >-
+      https://www.reuters.com/article/us-health-coronavirus-saudi/mecca-medina-get-24-hour-curfew-gulf-migrant-worker-districts-locked-down-idUSKBN21K1TV
+    url: 'https://www.reuters.com/article/us-health-coronavirus-saudi-idUSKBN21K1TV'
+    when: '2020-04-02T13:51:28.000Z'
+    originalWhen: ''
+    author: Reuters Staff
+    source: Reuters
+    logo: 'https://s3.reutersmedia.net/resources_v2/images/reuters_social_logo.png'
+    image: 'https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800'
+    title: >-
+      Mecca, Medina get 24-hour curfew; Gulf migrant worker districts locked
+      down
+    summary: >-
+      Saudi Arabia imposed a 24-hour curfew on Thursday in the Muslim holy
+      cities of Mecca and Medina, extending measures to combat coronavirus,
+      while other Gulf Arab states locked down districts with large migrant
+      worker populations.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 76
     originalUrl: >-
       https://www.usatoday.com/story/news/nation/2020/03/31/coronavirus-central-park-hospital-treat-new-york-city-patients/5094590002/
@@ -1588,5 +1610,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 90bb6e6a7754674ce1e870e7398dfa7ffcf07865
+sha: 46209412ec01be312491bbb55e4ae348e6abaa51
 slug: the-pandemic
