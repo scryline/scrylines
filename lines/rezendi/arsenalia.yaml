@@ -16,10 +16,11 @@ entries:
       Arsenal are without a goal in the top flight for 476 minutes and their
       manager has said they need to ‘go for it’ and ‘express themselves’ as they
       do in Europe
-    comments: <p><br></p>
+    comments: <p>Now with comments.</p>
     suggestions: ''
     tags: ''
     chapter: Nowadays
+    originalWhen: '2020-11-27T17:31:45.000Z'
   - id: 2
     originalUrl: >-
       https://www.theguardian.com/football/2020/aug/01/aubameyang-arsenal-chelsea-fa-cup-final-match-report
@@ -81,6 +82,6 @@ entries:
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
 slug: arsenalia
-sha: 96ff9f7e9d98985c30d7267a37f906237d86cd37
+sha: 1f4dcf86a22130be366f4f5623c9d080b8f9c308
 originalTitle: arsenalia
 byline: Jon Evans
