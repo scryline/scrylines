@@ -159,6 +159,50 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 99
+    originalUrl: >-
+      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
+    url: >-
+      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
+    when: '2020-04-03T16:09:00.000Z'
+    originalWhen: ''
+    author: 'Anthony Faiola, Ana Vanessa Herrero'
+    source: The Washington Post
+    logo: 'https://www.washingtonpost.com/wp-stat/img/wplogo_344x60_blk.png'
+    image: >-
+      https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBNXGCDVWEI6VBOLQZYFPG4GHU.jpg&w=1440
+    title: >-
+      Bodies lie in the streets of Guayaquil, Ecuador, emerging epicenter of the
+      coronavirus in Latin America
+    summary: >-
+      The overwhelmed health system in Ecuador’s largest city could be a
+      harbinger of worse to come in the developing world.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 100
+    originalUrl: >-
+      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
+    url: >-
+      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
+    when: '2020-04-03T16:09:00.000Z'
+    originalWhen: ''
+    author: 'Anthony Faiola, Ana Vanessa Herrero'
+    source: The Washington Post
+    logo: 'https://www.washingtonpost.com/wp-stat/img/wplogo_344x60_blk.png'
+    image: >-
+      https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBNXGCDVWEI6VBOLQZYFPG4GHU.jpg&w=1440
+    title: >-
+      Bodies lie in the streets of Guayaquil, Ecuador, emerging epicenter of the
+      coronavirus in Latin America
+    summary: >-
+      The overwhelmed health system in Ecuador’s largest city could be a
+      harbinger of worse to come in the developing world.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 91
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
@@ -1802,5 +1846,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: c5c0cd90c48ad593a3a42683a0fcba7035712e3f
+sha: 2f997f65cca89439152a5edec5f7deb71b119ddb
 slug: the-pandemic
