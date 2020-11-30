@@ -382,28 +382,6 @@ entries:
     tags: ''
     chapter: ''
     originalWhen: '2020-02-02T15:22:32.738Z'
-  - id: 20
-    originalUrl: >-
-      https://www.channelnewsasia.com/news/asia/coronavirus-covid19-south-korea-first-death-12454106
-    url: >-
-      https://www.channelnewsasia.com/news/asia/coronavirus-covid19-south-korea-first-death-12454106
-    when: '2020-02-20T23:45:29.000Z'
-    originalWhen: ''
-    author: CNA
-    source: CNA
-    logo: >-
-      https://www.channelnewsasia.com/blob/8396140/9e24274cb1be2c905593bba3db240fb9/cna-logo-data.jpg
-    image: >-
-      https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12419262/16x9/991/557/27844c51fb08055fd2a3843e9d408a10/Ge/a-men-wears-a-mask-to-protect-himself-against-a-new-coronavirus-at-the-seoul-railway-station-in-seoul-22.jpg
-    title: South Korea reports first COVID-19 death as infected cases reach 104
-    summary: >-
-      SEOUL: South Korea reported its first death Thursday (Feb 20) from
-      COVID-19 as the number of infections nearly doubled to over 100 - almost
-      half of them from a cluster centred on a religious sect.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 34
     originalUrl: >-
       https://www.dw.com/en/coronavirus-italy-reports-first-deaths-south-korea-sees-cases-double/a-52467865
@@ -516,29 +494,6 @@ entries:
       live, work, socialize and travel? Don’t get all disaster-movie here. Some
       people seem to have the notion that a pandemic will mean shutting down
       borders, bui…
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 22
-    originalUrl: >-
-      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
-    url: >-
-      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
-    when: '2020-02-24T08:47:08.000Z'
-    originalWhen: ''
-    author: 'null'
-    source: The Straits Times
-    logo: ''
-    image: >-
-      https://www.straitstimes.com/sites/default/files/media-brightcove/6135295959001.jpg
-    title: >-
-      Coronavirus: South Korea confirms 70 more coronavirus cases, total 833;
-      7th death reported
-    summary: >-
-      SEOUL (REUTERS) - South Korea reported another 161 coronavirus cases,
-      bringing the total in the country to 763, Yonhap news agency reported on
-      Monday (Feb 24).. Read more at straitstimes.com.
     comments: ''
     suggestions: ''
     tags: ''
@@ -825,26 +780,6 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 58
-    originalUrl: 'https://en.yna.co.kr/view/AEN20200309003455320'
-    url: 'https://en.yna.co.kr/view/AEN20200309003455320'
-    when: '2020-03-09T08:36:03.000Z'
-    originalWhen: ''
-    author: 김덕현
-    source: Yonhap News Agency
-    logo: ''
-    image: >-
-      https://img7.yna.co.kr/photo/yna/YH/2020/03/06/PYH2020030901160031500_P4.jpg
-    title: >-
-      (5th LD) S. Korea’s virus cases near 7,500, but pace of new infections
-      slows | Yonhap News Agency
-    summary: >-
-      (ATTN: UPDATES with KCDC’s latest toll in first 5 paras; ADDS details in
-      paras 20-21;...
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 61
     originalUrl: >-
       https://www.latimes.com/science/story/2020-03-09/world-health-organization-resists-calling-coronavirus-outbreak-a-pandemic
@@ -907,27 +842,6 @@ entries:
     summary: >-
       President Xi Jinping says the spread of the disease had been “basically
       curbed” in Hubei province.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 60
-    originalUrl: >-
-      https://english.alarabiya.net/en/News/middle-east/2020/03/11/Coronavirus-Iran-confirms-a-total-of-9-000-infections.html
-    url: >-
-      https://english.alarabiya.net/en/News/middle-east/2020/03/11/Coronavirus-Iran-confirms-a-total-of-9-000-infections
-    when: '2020-03-11T11:04:46.499Z'
-    originalWhen: ''
-    author: Al Arabiya English
-    source: Al Arabiya English
-    logo: >-
-      https://www.alarabiya.net/.resources/aa-templating-lm/webresources/gfx/amp/logo.png
-    image: >-
-      https://vid.alarabiya.net/images/2020/03/11/f44d0fc7-43e9-41bb-8075-ae85dcf6caab/f44d0fc7-43e9-41bb-8075-ae85dcf6caab_16x9_600x338.jpg
-    title: 'Coronavirus: Iran confirms 354 deaths, total of 9,000 infections'
-    summary: >-
-      Iran’s death toll from the coronavirus outbreak reached 354, a rise of 63
-      in the past 24 hours, a health ministry spokesman said on Wednesday. Aroun
     comments: ''
     suggestions: ''
     tags: ''
@@ -2409,5 +2323,5 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: d4c37fe1892d21d821957f60ccf0badd9de571d3
+sha: b3ad92d9abb67eaf730ec1468819aa0137e4107f
 slug: the-pandemic
