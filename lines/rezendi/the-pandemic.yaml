@@ -1,687 +1,746 @@
 title: The Pandemic
 entries:
-  - id: 40
-    originalUrl: >-
-      https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/
-    url: >-
-      https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/
-    when: '2020-08-06T17:36:44.000Z'
-    originalWhen: ''
-    author: Ed Yong
-    source: The Atlantic
-    logo: 'https://cdn.theatlantic.com/assets/media/files/atlantic-logo--224x224.png'
-    image: >-
-      https://cdn.theatlantic.com/thumbor/hxJmG6knoo9z4WSZsGMiGnI5KOc=/0x246:1997x1286/960x500/media/img/2020/07/WEL_Yong_Covid_Lead_New/original.jpg
-    title: How the Pandemic Defeated America
-    summary: A virus has brought the world’s most powerful country to its knees.
-    comments: ''
+  - id: 1
+    originalUrl: ''
+    url: 'https://twitter.com/HelenBranswell/status/1212743618756263937'
+    when: 'Thu Jan 02 14:33:05 +0000 2020'
+    author: '@HelenBranswell | 28838219'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: |-
+      Not liking the look of this. 
+      https://t.co/uqmeQ8if06
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: ''
-  - id: 41
+    chapter: 'January: Distant Early Warning'
+    originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
+  - id: 12
     originalUrl: >-
-      https://www.theatlantic.com/health/archive/2020/07/it-okay-go-beach/613849/
+      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
     url: >-
-      https://www.theatlantic.com/health/archive/2020/07/it-okay-go-beach/613849/
-    when: '2020-07-04T14:57:49.000Z'
-    originalWhen: ''
-    author: Zeynep Tufekci
-    source: The Atlantic
+      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
+    when: '2020-01-08T17:07:39.000Z'
+    originalWhen: '2020-01-24T17:07:39.000Z'
+    author: Helen Branswell
+    source: STAT
     logo: ''
     image: >-
-      https://cdn.theatlantic.com/thumbor/wjsG486s0ebCxEj9pPnqOEqrQhk=/0x86:4291x2321/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/07/GettyImagesDan_Kitwood_Getty/original.jpg
-    title: Scolding Beachgoers Isn’t Helping
+      https://www.statnews.com/wp-content/uploads/2020/01/GettyImages-1192512277-1024x576.jpg
+    title: WHO says mysterious illness in China likely being caused by new virus
     summary: >-
-      People complain that going to the shore is a careless act during a
-      pandemic, but the science so far suggests otherwise.
-    comments: ''
+      Chinese authorities believe a new coronavirus — from the family that
+      produced SARS and MERS — may be the cause of the condition.
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 42
-    originalUrl: >-
-      https://tomaspueyo.medium.com/coronavirus-the-hammer-and-the-dance-be9337092b56
-    url: >-
-      https://tomaspueyo.medium.com/coronavirus-the-hammer-and-the-dance-be9337092b56
-    when: '2020-05-28T07:58:27.631Z'
-    originalWhen: ''
-    author: Tomas Pueyo
-    source: Medium
-    logo: 'https://miro.medium.com/max/616/1*OMF3fSqH8t4xBJ9-6oZDZw.png'
-    image: 'https://miro.medium.com/max/1200/1*a9Lcz2g8DkKdnW0o_vk3ow.png'
-    title: 'Coronavirus: The Hammer and the Dance'
-    summary: >-
-      This article follows Coronavirus: Why You Must Act Now, with over 40
-      million views and 30 translations. Translations into 37 languages
-      available at the bottom. Running list of endorsements here. Over…
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 53
+  - id: 35
     originalUrl: ''
-    url: 'https://twitter.com/patio11/status/1252584173446946816'
-    when: 'Tue Apr 21 13:05:13 +0000 2020'
+    url: 'https://twitter.com/WHO/status/1217043229427761152'
+    when: 'Tue Jan 14 11:18:12 +0000 2020'
     originalWhen: ''
-    author: '@patio11 | 20844341'
+    author: '@WHO | 14499829'
     source: Twitter
     logo: ''
     image: ''
     title: ''
     summary: >-
-      A month ago, the pseudonymous Working Group did an independent research
-      project on the coronavirus outbreak in Japa… https://t.co/r9YHVHGIFP
+      Preliminary investigations conducted by the Chinese authorities have found
+      no clear evidence of human-to-human tran… https://t.co/1GHUbI2YXm
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 76
+  - id: 36
     originalUrl: >-
-      https://www.usatoday.com/story/news/nation/2020/03/31/coronavirus-central-park-hospital-treat-new-york-city-patients/5094590002/
+      https://www.straitstimes.com/asia/east-asia/japan-confirms-first-case-of-infection-with-new-china-coronavirus
     url: >-
-      https://www.usatoday.com/story/news/nation/2020/03/31/coronavirus-central-park-hospital-treat-new-york-city-patients/5094590002/
-    when: '2020-03-31T22:35:28.000Z'
+      https://www.straitstimes.com/asia/east-asia/japan-confirms-first-case-of-infection-with-new-china-coronavirus
+    when: '2020-01-17T08:19:52.000Z'
     originalWhen: ''
-    author: Lorenzo Reyes
-    source: USA TODAY
-    logo: 'https://www.gannett-cdn.com/sites/usatoday/images/site-nav-logo@2x.png'
-    image: >-
-      https://www.gannett-cdn.com/presto/2020/03/31/USAT/eba0cece-1590-4485-9ff9-fff8e920a8c4-Central_Park_field_hospital_06.JPG?crop=5131,2886,x30,y390&width=3200&height=1800&format=pjpg&auto=webp
-    title: >-
-      An emergency field hospital to treat COVID-19 patients is opening in NYC’s
-      Central Park
-    summary: >-
-      Volunteer physicians and others have set-up an emergency field hospital in
-      New York City’s Central Park to help with the influx of patients. (March
-      30) AP
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 74
-    originalUrl: >-
-      https://www.nbcnewyork.com/news/local/usns-comfort-arrives-in-nyc-monday-to-help-hospital-with-non-coronavirus-patients/2350317/
-    url: >-
-      https://www.nbcnewyork.com/news/local/usns-comfort-arrives-in-nyc-monday-to-help-hospital-with-non-coronavirus-patients/2350317/
-    when: '2020-03-30T21:26:27.000Z'
-    originalWhen: ''
-    author: NBC New York
-    source: NBC New York
-    logo: 'https://media.nbcnewyork.com/wp-content/uploads/2019/09/light_amp_wnbc.png'
-    image: >-
-      https://media.nbcnewyork.com/2019/09/USNS-Comfort-Statue-Liberty.jpg?fit=744%2C416
-    title: >-
-      Crowds Greet USNS Comfort in NYC Monday; Ship to Help Hospitals With
-      Non-Coronavirus Patients
-    summary: >-
-      This isn’t the first time the USNS Comfort will have been in New York City
-      — it was stationed off Manhattan’s West Side in September 2001 after…
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 56
-    originalUrl: >-
-      https://www.themonitor.com/2020/03/30/spains-hospitals-breaking-point-us-cities-brace/
-    url: >-
-      https://www.themonitor.com/2020/03/30/spains-hospitals-breaking-point-us-cities-brace/
-    when: '2020-03-30T17:07:11.000Z'
-    originalWhen: ''
-    author: Associated Press
-    source: The Monitor
-    logo: ''
-    image: >-
-      https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/60/2020/03/AP20090557718515.jpg
-    title: 'Spain’s hospitals at breaking point, US cities brace - The Monitor'
-    summary: >-
-      Bells tolled in Madrid’s deserted central square and flags were lowered in
-      a day of mourning Monday as Spain raced to build field hospitals to treat
-      an onslaught of coronavirus patients. In the U.S., the government’s top
-      infectious-disease expert warned that smaller cities are about to see …
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 68
-    originalUrl: >-
-      https://www.timesofisrael.com/number-of-covid-19-cases-surges-past-4000-but-infection-rate-slowing/
-    url: >-
-      https://www.timesofisrael.com/number-of-covid-19-cases-surges-past-4000-but-infection-rate-slowing/
-    when: '2020-03-29T22:38:00.000Z'
-    originalWhen: ''
-    author: Emily Kirschenbaum
-    source: The Times of Israel
-    logo: ''
-    image: >-
-      https://static.timesofisrael.com/www/uploads/2020/03/F200329NS14-1024x640.jpg
-    title: 'Number of Israeli coronavirus cases surges past 4,000'
-    summary: >-
-      Health Ministry reports 4,247 COVID-19 cases, 74 in serious condition; 15
-      Israelis have died from the disease -- 3 in 24 hours
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 78
-    originalUrl: >-
-      https://www.amny.com/new-york/brooklyn/more-than-4000-new-york-city-cops-on-sick-report-amid-covid-19-pandemic/
-    url: >-
-      https://www.amny.com/new-york/brooklyn/more-than-4000-new-york-city-cops-on-sick-report-amid-covid-19-pandemic/
-    when: '2020-03-29T16:40:38.000Z'
-    originalWhen: ''
-    author: Todd Maisel
-    source: amNewYork
-    logo: ''
-    image: 'https://www.amny.com/wp-content/uploads/2020/03/DSC_9916-1024x683.jpg'
-    title: >-
-      More than 4,000 New York City cops on sick report amid COVID-19 pandemic |
-      amNewYork
-    summary: >-
-      The number of police officers and members of the NYPD calling out sick
-      continued to grow, with 12% of the force now out of action, NYPD officials
-      said Saturday.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 67
-    originalUrl: >-
-      https://www.rnz.co.nz/news/national/412818/coronavirus-83-new-cases-in-new-zealand-two-patients-in-intensive-care
-    url: >-
-      https://www.rnz.co.nz/news/national/412818/coronavirus-83-new-cases-in-new-zealand-two-patients-in-intensive-care
-    when: '2020-03-28T01:34:04.000Z'
-    originalWhen: ''
-    author: RNZ News
-    source: RNZ
-    logo: >-
-      https://www.rnz.co.nz/x/logos/print-logo-262944a28c4eafa2eac55e03095c7d276253660f97286dffe44e50d28d7f7ffd.png
-    image: >-
-      https://www.rnz.co.nz/assets/news_crops/98928/eight_col_liver.jpg?1585354043
-    title: 'Coronavirus: 83 new cases in New Zealand, two patients in intensive care'
-    summary: >-
-      There are 83 new cases of Covid-19 - made up of 78 new confirmed cases and
-      five probable cases. Two people are in intensive care in a critical
-      condition.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 79
-    originalUrl: >-
-      https://www.vox.com/2020/3/27/21197400/new-york-covid-19-hospitals-coronavirus
-    url: >-
-      https://www.vox.com/2020/3/27/21197400/new-york-covid-19-hospitals-coronavirus
-    when: '2020-03-27T21:30:00.000Z'
-    originalWhen: ''
-    author: Caroline Hopkins
-    source: Vox
-    logo: >-
-      https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668548/google_amp.0.png
-    image: >-
-      https://cdn.vox-cdn.com/thumbor/KQ59GyNWCjKcstCCs_0i3tNxpTw=/0x82:1024x618/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19855229/GettyImages_1208281956.jpg
-    title: >-
-      Covid-19 patients are flooding New York hospitals, and the peak may be 3
-      weeks away
-    summary: New York City is staggering to keep up with the coronavirus pandemic.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 52
-    originalUrl: >-
-      https://www.theguardian.com/us-news/2020/mar/27/new-york-coronavirus-elmhurst-hospital
-    url: >-
-      http://www.theguardian.com/us-news/2020/mar/27/new-york-coronavirus-elmhurst-hospital
-    when: '2020-03-27T17:01:18.000Z'
-    originalWhen: '2020-07-01T17:01:18.000Z'
-    author: Jessica Glenza
-    source: the Guardian
-    logo: ''
-    image: >-
-      https://i.guim.co.uk/img/media/85edd2b1c0542f8d38390575663126fa1faa135e/0_144_4315_2589/master/4315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e3ef68bcd90d8eede75cfed634fb6db
-    title: >-
-      ‘It’s what was happening in Italy’: the hospital at the center of New
-      York’s Covid-19 crisis
-    summary: >-
-      Elmhurst hospital, located in one of the poorest areas of New York City,
-      is ‘overwhelmed’ as people line up outside for tests and treatment
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 66
-    originalUrl: 'https://www.bbc.com/news/world-africa-52058717'
-    url: 'https://www.bbc.com/news/world-africa-52058717'
-    when: '2020-03-27T08:00:50.000Z'
-    originalWhen: ''
-    author: BBC News
-    source: BBC News
-    logo: >-
-      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
-    image: >-
-      https://ichef.bbci.co.uk/news/1024/branded_news/0FD6/production/_111445040_mediaitem111445039.jpg
-    title: 'Coronavirus: South Africa reports first deaths as lockdown begins'
-    summary: >-
-      The country’s health ministry says cases have passed 1,000, as a
-      three-week lockdown begins.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 77
-    originalUrl: 'https://www.foxnews.com/us/hospital-staff-wear-trash-bags-coronavirus'
-    url: 'https://www.foxnews.com/us/hospital-staff-wear-trash-bags-coronavirus'
-    when: '2020-03-26T13:41:22.000Z'
-    originalWhen: ''
-    author: Greg Norman
-    source: Fox News
-    logo: >-
-      https://static.foxnews.com/static/orion/styles/img/fox-news/amp/fox-news-logo.png
-    image: >-
-      https://static.foxnews.com/foxnews.com/content/uploads/2020/03/mount-sinai.png
-    title: >-
-      New York City hospital staff seen wearing trash bags for protection,
-      co-worker dies from coronavirus
-    summary: "A\_need for\_safety equipment at a New York City hospital reportedly became so unbearable this week that nurses there resorted to wearing trash bags as protection against the\_coronavirus."
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 81
-    originalUrl: >-
-      https://www.cnbc.com/2020/03/25/coronavirus-update-new-york-hospitals-battle-outbreak.html
-    url: >-
-      https://www.cnbc.com/2020/03/25/coronavirus-update-new-york-hospitals-battle-outbreak.html
-    when: '2020-03-25T23:33:55.000Z'
-    originalWhen: ''
-    author: Dan Mangan
-    source: CNBC
-    logo: >-
-      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
-    image: >-
-      https://image.cnbcfm.com/api/v1/image/106458310-1585052855506gettyimages-1208078527.jpeg?v=1585076898
-    title: >-
-      New York hospitals battle coronavirus as hundreds of patients flood in:
-      ‘We must not break’
-    summary: >-
-      “This coronavirus pandemic is worse than working in West Africa during
-      Ebola,” said one doctor.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 57
-    originalUrl: 'https://www.bbc.com/news/world-asia-china-52016139'
-    url: 'https://www.bbc.com/news/world-asia-china-52016139'
-    when: '2020-03-24T15:33:59.000Z'
-    originalWhen: ''
-    author: BBC News
-    source: BBC News
-    logo: >-
-      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
-    image: >-
-      https://ichef.bbci.co.uk/news/1024/branded_news/139C7/production/_110672308_gettyimages-1196884915.jpg
-    title: 'Coronavirus: Wuhan to ease lockdown as world battles pandemic'
-    summary: >-
-      The lockdown in the Chinese city where the outbreak began will be
-      partially lifted next month.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 72
-    originalUrl: >-
-      https://www.nytimes.com/2020/03/22/nyregion/Coronavirus-new-York-epicenter.html
-    url: >-
-      https://www.nytimes.com/2020/03/22/nyregion/Coronavirus-new-York-epicenter.html
-    when: '2020-03-23T12:33:43.000Z'
-    originalWhen: ''
-    author: Jesse McKinley
-    source: NYTimes
-    logo: ''
-    image: >-
-      https://static01.nyt.com/images/2020/03/22/nyregion/22nyvirus-epicenter1/22nyvirus-epicenter1-facebookJumbo.jpg
-    title: New York City Region Is Now an Epicenter of the Coronavirus Pandemic
-    summary: >-
-      The city and its suburbs account for roughly 5 percent of global cases,
-      forcing officials to take urgent steps to stem the outbreak.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 80
-    originalUrl: >-
-      https://www.npr.org/2020/03/21/819511621/coronavirus-deaths-spike-abroad-as-new-york-city-becomes-u-s-virus-epicenter
-    url: >-
-      https://www.npr.org/2020/03/21/819511621/coronavirus-deaths-spike-abroad-as-new-york-city-becomes-u-s-virus-epicenter
-    when: '2020-03-22T16:30:00.000Z'
-    originalWhen: ''
-    author: Lynsey Jeffery
-    source: NPR
-    logo: 'https://media.npr.org/chrome/npr-logo.jpg'
-    image: >-
-      https://media.npr.org/assets/img/2020/03/21/ap_20081027616567_wide-6ebac6fb65bb1b6fafbe66a544bf3c56f4b12855.jpg?s=1400
-    title: >-
-      Coronavirus Deaths Spike Abroad As New York City Becomes U.S. Virus
-      Epicenter
-    summary: >-
-      The global death toll from COVID-19 surpassed 12,000 on Saturday as New
-      York City reported thousands of new cases over the past week. Cases in
-      that city now make up about a third of all U.S. cases.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 54
-    originalUrl: >-
-      https://www.vox.com/2020/3/20/21183315/coronavirus-spain-outbreak-cases-tests
-    url: >-
-      https://www.vox.com/2020/3/20/21183315/coronavirus-spain-outbreak-cases-tests
-    when: '2020-03-20T12:30:00.000Z'
-    originalWhen: ''
-    author: Alex Ward
-    source: Vox
-    logo: >-
-      https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668548/google_amp.0.png
-    image: >-
-      https://cdn.vox-cdn.com/thumbor/vmgNn9Ki_hlSHJ3Uqw2SNevT3FY=/0x475:3318x2212/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19816273/GettyImages_1207534309.jpg
-    title: How Spain’s coronavirus outbreak got so bad so fast
-    summary: >-
-      Spain’s Prime Minister Pedro Sánchez and the Spanish public were slow to
-      respond to the coronavirus. Now they “resist.”
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 51
-    originalUrl: >-
-      https://www.nytimes.com/2020/03/19/world/europe/europe-china-coronavirus.html
-    url: >-
-      https://www.nytimes.com/2020/03/19/world/europe/europe-china-coronavirus.html
-    when: '2020-03-20T00:18:25.000Z'
-    originalWhen: ''
-    author: Richard Pérez-Peña
-    source: NYTimes
-    logo: ''
-    image: >-
-      https://static01.nyt.com/images/2020/03/19/world/19virus-numbers/19virus-numbers-facebookJumbo.jpg
-    title: Virus Hits Europe Harder Than China. Is That the Price of an Open Society?
-    summary: >-
-      The epidemic is now bigger in Europe, where governments aren’t used to
-      giving harsh orders, and citizens aren’t used to following them.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 50
-    originalUrl: >-
-      https://www.npr.org/2020/03/19/817974987/every-single-individual-must-stay-home-italy-s-coronavirus-deaths-pass-china-s
-    url: >-
-      https://www.npr.org/2020/03/19/817974987/every-single-individual-must-stay-home-italy-s-coronavirus-deaths-pass-china-s
-    when: '2020-03-19T23:39:00.000Z'
-    originalWhen: ''
-    author: Sylvia Poggioli
-    source: NPR
-    logo: 'https://media.npr.org/chrome/npr-logo.jpg'
-    image: >-
-      https://media.npr.org/assets/img/2020/03/18/ap_20077405049336_wide-9f6f0e117035a14bdf3410b43c9e915482264f5a.jpg?s=1400
-    title: >-
-      ‘Every Single Individual Must Stay Home’: Italy’s Coronavirus Surge
-      Strains Hospitals
-    summary: >-
-      The country has universal health care. But now, fighting tens of thousands
-      of coronavirus cases, Italian hospitals and medical staff are overwhelmed,
-      prompting anguished debate.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 65
-    originalUrl: >-
-      https://www.straitstimes.com/asia/se-asia/coronavirus-malaysia-records-117-new-cases-to-total-790-mosque-cluster-reaches-514
-    url: >-
-      https://www.straitstimes.com/asia/se-asia/coronavirus-malaysia-records-117-new-cases-to-total-790-mosque-cluster-reaches-514
-    when: '2020-03-18T11:25:22.000Z'
-    originalWhen: ''
-    author: 'null'
+    author: WALTER SIM
     source: The Straits Times
     logo: ''
     image: >-
-      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/03/18/yq-mycov-18032020.jpg?itok=C7lh0p1U
+      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/01/16/ak_wh_1601.jpg?itok=BGtBTql1
     title: >-
-      Malaysia records 117 new coronavirus cases, bringing total to 790; mosque
-      cluster reaches 514 cases
+      Japan confirms first case of infection from Wuhan coronavirus; Vietnam
+      quarantines two tourists
     summary: >-
-      Malaysia on Wednesday (March 18) confirmed 117 new Covid-19 cases, of
-      which 80 are linked to the Sri Petaling mosque cluster.. Read more at
+      The man, who is a Chinese national and lives in Kanagawa prefecture, first
+      developed fever symptoms on Jan 3 during a visit to Wuhan.. Read more at
       straitstimes.com.
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 55
-    originalUrl: >-
-      https://www.cnn.com/2020/03/16/europe/spain-coronavirus-lockdown-intl/index.html
-    url: >-
-      https://www.cnn.com/2020/03/16/europe/spain-coronavirus-lockdown-intl/index.html
-    when: '2020-03-16T22:07:06.000Z'
-    originalWhen: ''
-    author: 'Al Goodman, Laura Perez Maestro, Sheena McKenzie and Tara John, CNN'
-    source: CNN
-    logo: ''
-    image: >-
-      https://cdn.cnn.com/cnnnext/dam/assets/200316105611-01-coronavirus-spain-lockdown-0315-super-tease.jpg
-    title: >-
-      European Union will close its borders to all non-essential travel to fight
-      coronavirus
-    summary: >-
-      At a supermarket in central Madrid, lines taped on the ground indicate how
-      far apart customers should stand.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 73
-    originalUrl: 'https://www.nytimes.com/2020/03/15/nyregion/coronavirus-nyc-shutdown.html'
-    url: 'https://www.nytimes.com/2020/03/15/nyregion/coronavirus-nyc-shutdown.html'
-    when: '2020-03-16T16:31:44.622Z'
-    originalWhen: ''
-    author: Luis Ferré-Sadurní
-    source: NYTimes
-    logo: ''
-    image: >-
-      https://static01.nyt.com/images/2020/03/16/nyregion/16nyvirus-les-2/merlin_170496525_1f74274e-a4bc-4625-a7f0-90f7a24e3e59-facebookJumbo.jpg
-    title: 'New York City Schools, Restaurants and Bars Are Shut Down Over Coronavirus'
-    summary: >-
-      Mayor Bill de Blasio said that it was a wrenching decision to close places
-      that are the “heart and soul of the city.”
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 64
-    originalUrl: >-
-      https://www.irishtimes.com/news/social-affairs/coronavirus-government-calls-on-all-pubs-and-bars-to-close-from-tonight-1.4203494
-    url: >-
-      https://www.irishtimes.com/news/social-affairs/coronavirus-government-calls-on-all-pubs-and-bars-to-close-from-tonight-1.4203494
-    when: '2020-03-15T22:17:00.000Z'
-    originalWhen: ''
-    author: Simon Carswell
-    source: The Irish Times
-    logo: 'https://www.irishtimes.com/assets/images/logo/masthead-600by60.png'
-    image: 'https://www.irishtimes.com/image-creator/?id=1.4203575&origw=682'
-    title: 'Coronavirus: Government calls on all pubs and bars to close from tonight'
-    summary: >-
-      Officials announce new measures to ensure payment of workers if businesses
-      cease trading
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 48
-    originalUrl: >-
-      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
-    url: >-
-      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
-    when: '2020-03-13T11:23:03.000Z'
-    originalWhen: ''
-    author: Silvia Amaro
-    source: CNBC
-    logo: >-
-      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
-    image: >-
-      https://image.cnbcfm.com/api/v1/image/106441351-1584092666103gettyimages-1206827827.jpeg?v=1584092710
-    title: >-
-      France shuts schools as coronavirus spreads, hopes to avoid becoming the
-      next Italy
-    summary: >-
-      French President Emmanuel Macron asks global leaders to act together to
-      combat COVID-19, as the country strives to contain its outbreak.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 70
-    originalUrl: 'https://www.cnn.com/2020/03/12/us/nyc-coronavirus-update/index.html'
-    url: 'https://www.cnn.com/2020/03/12/us/nyc-coronavirus-update/index.html'
-    when: '2020-03-12T20:57:08.000Z'
-    originalWhen: ''
-    author: 'Eric Levenson, CNN'
-    source: CNN
-    logo: ''
-    image: >-
-      https://cdn.cnn.com/cnnnext/dam/assets/200311121413-01-coronavirus-nyc-0307-super-tease.jpg
-    title: >-
-      New York City keeps schools and subways open during coronavirus but
-      cancels large events
-    summary: >-
-      The NBA has announced that they are suspending the season until further
-      notice following the positive test of a player. CNN’s Carolyn Manno
-      reports.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 69
-    originalUrl: >-
-      https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/
-    url: >-
-      https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/
-    when: '2020-03-11T21:40:04.000Z'
-    originalWhen: ''
-    author: Helen Branswell
-    source: STAT
-    logo: ''
-    image: >-
-      https://www.statnews.com/wp-content/uploads/2020/03/GettyImages-1206490013-1024x576.jpg
-    title: WHO declares the coronavirus outbreak a pandemic - STAT
-    summary: >-
-      The declaration is an acknowledgment of what has seemed clear for some
-      time — the virus will likely spread to all countries on the globe.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 62
-    originalUrl: 'https://www.bbc.com/news/uk-51839106'
-    url: 'https://www.bbc.com/news/uk-51839106'
-    when: '2020-03-11T20:35:31.000Z'
+  - id: 37
+    originalUrl: 'https://www.bbc.com/news/world-asia-china-51185836'
+    url: 'https://www.bbc.com/news/world-asia-china-51185836'
+    when: '2020-01-21T10:26:26.000Z'
     originalWhen: ''
     author: BBC News
     source: BBC News
     logo: >-
       https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
     image: >-
-      https://ichef.bbci.co.uk/news/1024/branded_news/10E02/production/_111222196_hi060551922.jpg
-    title: 'Coronavirus: Biggest daily rise as UK cases reach 460'
+      https://ichef.bbci.co.uk/news/1024/branded_news/12604/production/_110586257_mediaitem110586256.jpg
+    title: 'New China virus: Warning against cover-up as number of cases jumps'
     summary: >-
-      The NHS confirms two more patients with coronavirus have died in the UK,
-      bringing the total to eight.
+      Beijing’s top leaders urge transparency as it is confirmed the coronavirus
+      can pass between people.
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 47
+  - id: 14
     originalUrl: >-
-      https://www.nytimes.com/2020/03/09/world/europe/italy-lockdown-coronavirus.html
+      https://www.theguardian.com/world/2020/jan/22/coronavirus-china-measures-rein-spread-mutate-disease-death-toll
     url: >-
-      https://www.nytimes.com/2020/03/09/world/europe/italy-lockdown-coronavirus.html
-    when: '2020-03-11T16:04:11.000Z'
+      http://www.theguardian.com/world/2020/jan/22/coronavirus-china-measures-rein-spread-mutate-disease-death-toll
+    when: '2020-01-23T06:56:07.000Z'
+    originalWhen: '2020-07-01T17:26:07.000Z'
+    author: Lily Kuo
+    source: the Guardian
+    logo: ''
+    image: >-
+      https://i.guim.co.uk/img/media/8954ad48502c4bcb9415ec059732ee33a00c8d39/0_684_4324_2594/master/4324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=986a710d0a55b0b7ee3e2a24b26084c4
+    title: >-
+      Coronavirus: China bars 11m residents from leaving city at centre of
+      outbreak
+    summary: >-
+      Government unveils new countermeasures as country prepares for lunar new
+      year and death toll doubles to 17
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 13
+    originalUrl: >-
+      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
+    url: >-
+      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
+    when: '2020-01-23T15:07:59.000Z'
     originalWhen: ''
-    author: Jason Horowitz
+    author: Michael Levenson
     source: NYTimes
     logo: ''
     image: >-
-      https://static01.nyt.com/images/2020/03/09/world/09italy-virus/09italy-virus-facebookJumbo.jpg
-    title: >-
-      Italy Announces Restrictions Over Entire Country in Attempt to Halt
-      Coronavirus
+      https://static01.nyt.com/images/2020/01/22/multimedia/22xp-cordon/merlin_167592177_faab52d5-95c1-48a0-b533-934d06fbed8d-facebookJumbo.jpg
+    title: Scale of China’s Wuhan Shutdown Is Believed to Be Without Precedent
     summary: >-
-      All of Italy’s 60 million people are coming under restrictions that had
-      earlier applied to the northern part of the country.
+      In sealing off a city of 11 million people, China is trying to halt a
+      coronavirus outbreak using a tactic with a complicated history of ethical
+      concerns.
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 60
+  - id: 38
     originalUrl: >-
-      https://english.alarabiya.net/en/News/middle-east/2020/03/11/Coronavirus-Iran-confirms-a-total-of-9-000-infections.html
+      https://news.yahoo.com/china-orders-nationwide-measures-detect-virus-flights-trains-090541811.html
     url: >-
-      https://english.alarabiya.net/en/News/middle-east/2020/03/11/Coronavirus-Iran-confirms-a-total-of-9-000-infections
-    when: '2020-03-11T11:04:46.499Z'
+      https://news.yahoo.com/china-orders-nationwide-measures-detect-virus-flights-trains-090541811.html
+    when: '2020-01-25T10:00:47.986Z'
     originalWhen: ''
+    author: AFP Relax News
+    source: Yahoo News
+    logo: 'https://s.yimg.com/rz/p/yahoo_news_en-US_h_p_news_2.png'
+    image: >-
+      https://s.yimg.com/ny/api/res/1.2/lpFRK7alGklDE0w64qGEdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjgx/https://s.yimg.com/uu/api/res/1.2/VgsQ9fW40zumz1BFFzFdlQ--~B/aD0xOTIxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_US/News/US-AFPRelax/000_hkg5063539.77e72081443.original.jpg
+    title: 'China orders nationwide measures to detect virus on flights, trains, buses'
+    summary: >-
+      China has ordered nationwide measures to identify and immediately isolate
+      suspected cases of a deadly virus on trains, aeroplanes and buses, as the
+      death...
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 15
+    originalUrl: 'https://www.bbc.com/news/world-51318246'
+    url: 'https://www.bbc.com/news/world-51318246'
+    when: '2020-01-31T07:01:43.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/18421/production/_110716399_gettyimages-1197550054.jpg
+    title: Coronavirus declared global health emergency by WHO
+    summary: >-
+      The World Health Organization calls for moves to stop the virus spreading
+      to vulnerable countries.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 11
+    originalUrl: >-
+      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
+    url: >-
+      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
+    when: '2020-01-31T12:00:00.000Z'
+    originalWhen: '2020-01-31T12:00:00.000Z'
+    author: 'Andrew Joseph,STAT'
+    source: Scientific American
+    logo: ''
+    image: >-
+      https://static.scientificamerican.com/sciam/cache/file/171708EC-2996-4CB7-8D343AD3639E13BA.jpg
+    title: Study Reports First Case of Coronavirus Spread by Asymptomatic Person
+    summary: >-
+      A woman from China infected a person in Germany before she began
+      displaying symptoms
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 16
+    originalUrl: >-
+      https://www.cnn.com/2020/02/02/asia/wuhan-coronavirus-philippines-intl-hnk/index.html
+    url: >-
+      https://www.cnn.com/2020/02/02/asia/wuhan-coronavirus-philippines-intl-hnk/index.html
+    when: '2020-02-03T00:31:34.000Z'
+    originalWhen: '2020-02-03T00:31:34.000Z'
+    author: 'Julia Hollingsworth, CNN'
+    source: CNN
+    logo: ''
+    image: >-
+      https://cdn.cnn.com/cnnnext/dam/assets/200202115047-coronavirus-philippines-3001-super-tease.jpg
+    title: First Wuhan coronavirus death reported outside China
+    summary: >-
+      Priscilla Dickey and her 8-year-old daughter Hermione were supposed to be
+      among the hundreds of Americans who boarded a charter flight arranged by
+      the US government to leave Wuhan, China. But Hermione did not have her
+      passport and could not board the flight. CNN’s 
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: 'February: Alarms sounded, and mostly ignored'
+  - id: 17
+    originalUrl: 'https://www.bbc.com/news/world-asia-china-51403795'
+    url: 'https://www.bbc.com/news/world-asia-china-51403795'
+    when: '2020-02-07T04:16:28.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/11C1A/production/_110803727_mediaitem110803726.jpg
+    title: 'Li Wenliang: Coronavirus kills Chinese whistleblower doctor'
+    summary: >-
+      Li Wenliang warned fellow medics in December - but police told him to stop
+      “making false comments”.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 19
+    originalUrl: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-another-41-on-japan-cruise-tested-positive-nhk
+    url: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-another-41-on-japan-cruise-tested-positive-nhk
+    when: '2020-02-07T17:16:28.000Z'
+    originalWhen: ''
+    author: WALTER SIM
+    source: The Straits Times
+    logo: ''
+    image: >-
+      https://www.straitstimes.com/sites/default/files/media-youtube/Gg8-yO8lrZQ.jpg
+    title: >-
+      Coronavirus: Japan reports 41 more positive cases on cruise ship, total
+      cases on Diamond Princess now 61
+    summary: >-
+      A total of 61 people on board a cruise ship quarantined off the coast of
+      Yokohama have tested positive for the coronavirus, as the health ministry
+      announced 41 more cases on Friday (Feb 7).. Read more at straitstimes.com.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 18
+    originalUrl: >-
+      https://www.straitstimes.com/singapore/coronavirus-7-new-confirmed-cases-in-spore-possible-new-cluster-involving-church-in-paya
+    url: >-
+      https://www.straitstimes.com/singapore/coronavirus-7-new-confirmed-cases-in-spore-possible-new-cluster-involving-church-in-paya
+    when: '2020-02-09T01:41:16.000Z'
+    originalWhen: ''
+    author: CHANG AI-LIEN
+    source: The Straits Times
+    logo: ''
+    image: >-
+      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/08/hzncid0208file.jpg?itok=nTe_Gr8U
+    title: >-
+      Coronavirus: 7 new cases in Singapore, possible new cluster involving
+      church in Paya Lebar
+    summary: >-
+      Among the new cases are a taxi driver and a private-hire car driver. There
+      is a possible new cluster comprising five cases, linked to The Life Church
+      and Missions Singapore in Paya Lebar.. Read more at straitstimes.com.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 32
+    originalUrl: >-
+      https://www.theguardian.com/world/2020/feb/10/coronavirus-uk-declares-outbreak-serious-threat-to-health
+    url: >-
+      http://www.theguardian.com/world/2020/feb/10/coronavirus-uk-declares-outbreak-serious-threat-to-health
+    when: '2020-02-10T17:13:11.000Z'
+    originalWhen: '2020-07-01T17:24:11.000Z'
+    author: Denis Campbell
+    source: the Guardian
+    logo: ''
+    image: >-
+      https://i.guim.co.uk/img/media/b567ddf2451dd057fd278601d751069881a78783/0_51_2493_1495/master/2493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c059c6e2945d1d0b185ffdae0c72569
+    title: 'Coronavirus: number of confirmed UK cases rises from four to eight'
+    summary: News comes after UK declared outbreak was ‘serious threat’ to health
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 2
+    originalUrl: >-
+      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
+    url: >-
+      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
+    when: '2020-02-13T12:00:00.000Z'
+    author: Shirin Ghaffary
+    source: Vox
+    logo: >-
+      https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668548/google_amp.0.png
+    image: >-
+      https://cdn.vox-cdn.com/thumbor/V75qSdtj09QOGQwLl4eAAoiiswI=/0x82:3300x1810/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19819480/615320790.jpg.jpg
+    title: '“No handshakes, please”: The tech industry is terrified of the coronavirus'
+    summary: >-
+      Although public officials in the area say the virus is contained for now,
+      some in the tech industry fear the virus will spread out of control.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 3
+    originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
+    url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
+    when: '2020-02-20T15:22:32.738Z'
+    author: Donald G. McNeil Jr.
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/02/02/world/02virus-pandemic-sub/02virus-pandemic-sub-facebookJumbo.jpg
+    title: 'Wuhan Coronavirus Looks Increasingly Like a Pandemic, Experts Say'
+    summary: >-
+      Rapidly rising caseloads alarm researchers, who fear the virus may make
+      its way across the globe. But scientists cannot yet predict how many
+      deaths may result.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+    originalWhen: '2020-02-02T15:22:32.738Z'
+  - id: 20
+    originalUrl: >-
+      https://www.channelnewsasia.com/news/asia/coronavirus-covid19-south-korea-first-death-12454106
+    url: >-
+      https://www.channelnewsasia.com/news/asia/coronavirus-covid19-south-korea-first-death-12454106
+    when: '2020-02-20T23:45:29.000Z'
+    originalWhen: ''
+    author: CNA
+    source: CNA
+    logo: >-
+      https://www.channelnewsasia.com/blob/8396140/9e24274cb1be2c905593bba3db240fb9/cna-logo-data.jpg
+    image: >-
+      https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12419262/16x9/991/557/27844c51fb08055fd2a3843e9d408a10/Ge/a-men-wears-a-mask-to-protect-himself-against-a-new-coronavirus-at-the-seoul-railway-station-in-seoul-22.jpg
+    title: South Korea reports first COVID-19 death as infected cases reach 104
+    summary: >-
+      SEOUL: South Korea reported its first death Thursday (Feb 20) from
+      COVID-19 as the number of infections nearly doubled to over 100 - almost
+      half of them from a cluster centred on a religious sect.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 34
+    originalUrl: >-
+      https://www.dw.com/en/coronavirus-italy-reports-first-deaths-south-korea-sees-cases-double/a-52467865
+    url: >-
+      https://www.dw.com/en/coronavirus-italy-reports-first-deaths-south-korea-sees-cases-double/a-52467865
+    when: '2020-02-21T04:24:35.000Z'
+    originalWhen: '2020-11-30T04:24:35.000Z'
+    author: Deutsche Welle (www.dw.com)
+    source: DW.COM
+    logo: ''
+    image: 'https://static.dw.com/image/52473057_304.jpg'
+    title: >-
+      Coronavirus: Italy reports first deaths, South Korea sees cases double |
+      DW | 22.02.2020
+    summary: >-
+      An elderly man from Padua and a woman from Lombardy have died from
+      coronavirus. South Korea, meanwhile has seen a major spike in cases, many
+      of them linked to a Christian sect.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 82
+    originalUrl: >-
+      https://www.cnbc.com/2020/02/21/only-three-us-states-can-test-for-coronavirus-says-public-lab-group.html
+    url: >-
+      https://www.cnbc.com/2020/02/21/only-three-us-states-can-test-for-coronavirus-says-public-lab-group.html
+    when: '2020-02-21T18:04:45.000Z'
+    originalWhen: ''
+    author: Reuters
+    source: CNBC
+    logo: >-
+      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
+    image: >-
+      https://image.cnbcfm.com/api/v1/image/106398285-1582127217254rts306vj.jpg?v=1582127283
+    title: 'Only three US states can test for coronavirus, says public lab group'
+    summary: >-
+      California, Nebraska and Illinois are the only U.S. states that can
+      currently test for coronavirus, the Association of Public Health
+      Laboratories (APHL) told Reuters on Friday.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 6
+    originalUrl: ''
+    url: 'https://twitter.com/kakape/status/1231193492002611200'
+    when: 'Sat Feb 22 12:26:17 +0000 2020'
+    author: '@kakape | 45586617'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      For me and for everyone I know who has been following #covid19, the last
+      few days have felt like a profound shift i… https://t.co/kJ9HF3lNWp
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 7
+    originalUrl: ''
+    url: 'https://twitter.com/BillHanage/status/1231451071387774977'
+    when: 'Sun Feb 23 05:29:49 +0000 2020'
+    author: '@BillHanage | 21184460'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      IMO this is a blinder on where we stand re #coronavirus #Covid_19 #COVID
+      and what happens now. This will be a pande… https://t.co/88wCere4yO
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 8
+    originalUrl: >-
+      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
+    url: >-
+      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
+    when: '2020-02-23T12:00:00.000Z'
+    author: 'Bill Hanage,Marc Lipsitch'
+    source: Scientific American Blog Network
+    logo: ''
+    image: >-
+      https://static.scientificamerican.com/blogs/cache/file/FF0C8844-B47C-45AC-889F9F4508E4D377.jpg
+    title: How to Report on the COVID-19 Outbreak Responsibly
+    summary: >-
+      Remember, the virus doesn&rsquo;t follow the news and doesn&rsquo;t care
+      about Twitter
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 10
+    originalUrl: 'https://techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
+    url: 'https://social.techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
+    when: '2020-02-23T14:00:00.000Z'
+    author: Jon Evans
+    source: TechCrunch
+    logo: >-
+      https://techcrunch.com/wp-content/themes/techcrunch-2017/images/logo-json-ld.png
+    image: >-
+      https://techcrunch.com/wp-content/uploads/2020/02/800px-2009_world_subdivisions_flu_pandemic.png?w=764
+    title: What happens if a pandemic hits? – TechCrunch
+    summary: >-
+      What happens if a COVID-19 coronavirus pandemic hits? What will the
+      repercussions be if the virus spreads worldwide? How will it change how we
+      live, work, socialize and travel? Don’t get all disaster-movie here. Some
+      people seem to have the notion that a pandemic will mean shutting down
+      borders, bui…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 22
+    originalUrl: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
+    url: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
+    when: '2020-02-24T08:47:08.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: The Straits Times
+    logo: ''
+    image: >-
+      https://www.straitstimes.com/sites/default/files/media-brightcove/6135295959001.jpg
+    title: >-
+      Coronavirus: South Korea confirms 70 more coronavirus cases, total 833;
+      7th death reported
+    summary: >-
+      SEOUL (REUTERS) - South Korea reported another 161 coronavirus cases,
+      bringing the total in the country to 763, Yonhap news agency reported on
+      Monday (Feb 24).. Read more at straitstimes.com.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 39
+    originalUrl: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
+    url: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
+    when: '2020-02-24T21:17:18.000Z'
+    originalWhen: '2020-04-05T21:17:18.000Z'
+    author: James Hamblin
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/t1PagRyW685jErLIROGIUmKWCaw=/0x405:4134x2558/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/02/h_11.02583938/original.jpg
+    title: You’re Likely to Get the Coronavirus
+    summary: >-
+      Most cases are not life-threatening, which is also what makes the virus a
+      historic challenge to contain.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 24
+    originalUrl: >-
+      https://news.sky.com/story/coronavirus-warning-travelers-from-northern-italy-must-self-isolate-11942709
+    url: >-
+      https://news.sky.com/story/coronavirus-warning-travelers-from-northern-italy-must-self-isolate-11942709
+    when: '2020-02-25T21:54:00.000Z'
+    originalWhen: ''
+    author: 'Aubrey Allegretti and Tom Gillespie, news reporters'
+    source: Sky
+    logo: 'https://news.sky.com/assets/sky-news-logo.png?v=1'
+    image: >-
+      https://e3.365dm.com/20/02/1600x900/skynews-coronavirus-italy-milan_4930713.jpg?20200225195334
+    title: 'Coronavirus: Four more dead in Italy as disease spreads across Europe'
+    summary: >-
+      Sky News is an unrivalled, world class breaking news service with a spirit
+      of innovation and a fresh approach to news broadcasting. As the UK’s first
+      dedicated 24-hour news channel, Sky News has built a deserved reputation
+      for being the first to break major news as well as offering insight and
+      analy…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 25
+    originalUrl: >-
+      https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
+    url: >-
+      https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
+    when: '2020-02-26T22:50:37.000Z'
+    originalWhen: ''
+    author: CNA
+    source: CNA
+    logo: >-
+      https://www.channelnewsasia.com/blob/8396140/9e24274cb1be2c905593bba3db240fb9/cna-logo-data.jpg
+    image: >-
+      https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12470082/16x9/991/557/6f639db5bb12c35194a0a4b8fb90dc8c/tU/police-wearing-masks-and-gloves-could-be-seen-surrounding-the-hotel-in-costa-adeje-on-the-southwestern-shore-of-tenerife-1582645644110-3.jpg
+    title: Spain seeks to calm nerves as COVID-19 cases jump
+    summary: >-
+      MADRID: Spain on Wednesday (Feb 26) issued assurances that a cluster of
+      new coronavirus infections did not risk a broader spread, after nine cases
+      were detected within a 24-hour period.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 27
+    originalUrl: >-
+      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-.html
+    url: >-
+      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-
+    when: '2020-02-27T07:05:47.369Z'
+    originalWhen: '2020-05-20T07:05:47.369Z'
     author: Al Arabiya English
     source: Al Arabiya English
     logo: >-
       https://www.alarabiya.net/.resources/aa-templating-lm/webresources/gfx/amp/logo.png
     image: >-
-      https://vid.alarabiya.net/images/2020/03/11/f44d0fc7-43e9-41bb-8075-ae85dcf6caab/f44d0fc7-43e9-41bb-8075-ae85dcf6caab_16x9_600x338.jpg
-    title: 'Coronavirus: Iran confirms 354 deaths, total of 9,000 infections'
+      https://vid.alarabiya.net/images/2020/02/25/02035dd7-75ef-4034-8213-b75f6195f766/02035dd7-75ef-4034-8213-b75f6195f766_16x9_600x338.jpg
+    title: 'Iran confirms 26 people dead, 245 infected with coronavirus: Fars'
     summary: >-
-      Iran’s death toll from the coronavirus outbreak reached 354, a rise of 63
-      in the past 24 hours, a health ministry spokesman said on Wednesday. Aroun
+      The number of people infected with coronavirus in Iran has risen to 245
+      and the death toll to 26, according to Iran’s health ministry, the
+      semi-offic
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 9
+    originalUrl: ''
+    url: 'https://twitter.com/angie_rasmussen/status/1233420613819289600'
+    when: 'Fri Feb 28 15:56:04 +0000 2020'
+    author: '@angie_rasmussen | 394087611'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      I disagree with @WHO. Containment is no longer possible. The focus must be
+      shifted to mitigation. https://t.co/r7WkQOEHbL
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 59
-    originalUrl: 'https://www.bbc.co.uk/news/world-asia-china-51813876'
-    url: 'https://www.bbc.co.uk/news/world-asia-china-51813876'
-    when: '2020-03-10T12:30:55.000Z'
+  - id: 28
+    originalUrl: >-
+      https://www.thenorthernecho.co.uk/news/national/18270758.coronavirus-passed-within-uk-first-time-20th-case-confirmed/
+    url: >-
+      https://www.thenorthernecho.co.uk/news/national/18270758.coronavirus-passed-within-uk-first-time-20th-case-confirmed/
+    when: '2020-02-28T21:01:27.000Z'
+    originalWhen: ''
+    author: Press Association 2020
+    source: The Northern Echo
+    logo: 'http://www.thenorthernecho.co.uk/resources/images/sitelogo/'
+    image: 'https://www.thenorthernecho.co.uk/resources/images/11089455/'
+    title: Coronavirus passed on within UK for first time as 20th case confirmed
+    summary: >-
+      The news comes after a British man became the first UK citizen to die from
+      coronavirus.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 29
+    originalUrl: >-
+      https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
+    url: >-
+      https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
+    when: '2020-02-29T10:34:17.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: The Straits Times
+    logo: ''
+    image: >-
+      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/29/yq-skcov-29022020.jpg?itok=L-V8n1Zl
+    title: >-
+      Coronavirus: South Korea’s total cases jump to 3,150 as it reports first
+      case of reinfection
+    summary: "SEOUL (AFP) -\_South Korea confirmed 813 more coronavirus cases on Saturday (Feb 29), the biggest increase to date for the country,\_taking the national total to 3,150 infections with four additional deaths. . Read more at straitstimes.com."
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 71
+    originalUrl: >-
+      https://www.cnbc.com/2020/03/01/first-coronavirus-case-confirmed-in-new-york-city.html
+    url: >-
+      https://www.cnbc.com/2020/03/01/first-coronavirus-case-confirmed-in-new-york-city.html
+    when: '2020-03-02T20:48:37.000Z'
+    originalWhen: '2020-03-02T20:48:37.000Z'
+    author: Dawn Kopecki
+    source: CNBC
+    logo: >-
+      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
+    image: >-
+      https://image.cnbcfm.com/api/v1/image/106416725-1582927008126gettyimages-1204034435.jpeg?v=1582927078
+    title: New York City confirms first coronavirus case
+    summary: >-
+      New York’s first case falls on the heels of confirmed cases in Washington
+      state and California reported over the weekend.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: 'March: Eruption'
+  - id: 43
+    originalUrl: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-600-new-cases-3-more-deaths
+    url: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-600-new-cases-3-more-deaths
+    when: '2020-03-03T14:03:34.000Z'
+    originalWhen: '2020-03-03T14:03:34.000Z'
+    author: 'null'
+    source: The Straits Times
+    logo: ''
+    image: >-
+      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/03/03/rk_moonjaein_030320.jpg?itok=6jgePol7
+    title: 'South Korea declares ‘war’ on coronavirus as cases approach 5,000'
+    summary: "Authorities are seeking\_murder charges against leaders of the secretive church\_at the centre of the outbreak.. Read more at straitstimes.com."
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 45
+    originalUrl: >-
+      https://www.cnbc.com/2020/03/04/italys-death-toll-from-the-coronavirus-is-now-worse-than-iran.html
+    url: >-
+      https://www.cnbc.com/2020/03/04/italys-death-toll-from-the-coronavirus-is-now-worse-than-iran.html
+    when: '2020-03-04T17:32:38.000Z'
+    originalWhen: ''
+    author: Holly Ellyatt
+    source: CNBC
+    logo: >-
+      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
+    image: >-
+      https://image.cnbcfm.com/api/v1/image/106424037-1583326402631gettyimages-1202993954.jpeg?v=1583326429
+    title: >-
+      Italy to close all schools and universities through March 15 as
+      coronavirus death toll rises
+    summary: >-
+      The closure would come into effect beginning Thursday and will last until
+      March 15.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 46
+    originalUrl: 'https://www.bbc.com/news/world-middle-east-51787238'
+    url: 'https://www.bbc.com/news/world-middle-east-51787238'
+    when: '2020-03-08T17:18:08.000Z'
     originalWhen: ''
     author: BBC News
     source: BBC News
     logo: >-
       https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
     image: >-
-      https://ichef.bbci.co.uk/news/1024/branded_news/1EFA/production/_111203970_060546887-1.jpg
-    title: 'Coronavirus: China says disease ‘curbed’ in Wuhan and Hubei'
+      https://ichef.bbci.co.uk/news/1024/branded_news/B75A/production/_111183964_060506758-1.jpg
+    title: 'Coronavirus: Northern Italy quarantines 16 million people'
     summary: >-
-      President Xi Jinping says the spread of the disease had been “basically
-      curbed” in Hubei province.
+      A quarter of the population is in lockdown as Italy takes drastic action
+      to control Covid-19.
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 75
-    originalUrl: >-
-      https://www.cnn.com/2020/03/09/us/new-york-coronavirus-cases-update/index.html
-    url: >-
-      https://www.cnn.com/2020/03/09/us/new-york-coronavirus-cases-update/index.html
-    when: '2020-03-09T15:25:43.000Z'
+  - id: 58
+    originalUrl: 'https://en.yna.co.kr/view/AEN20200309003455320'
+    url: 'https://en.yna.co.kr/view/AEN20200309003455320'
+    when: '2020-03-09T08:36:03.000Z'
     originalWhen: ''
-    author: 'Meg Wagner and Chris McElveen, CNN'
-    source: CNN
+    author: 김덕현
+    source: Yonhap News Agency
     logo: ''
     image: >-
-      https://cdn.cnn.com/cnnnext/dam/assets/200307131128-01-nyc-subway-coronavirus-0302-super-tease.jpg
-    title: New York City officials confirm three additional coronavirus cases
+      https://img7.yna.co.kr/photo/yna/YH/2020/03/06/PYH2020030901160031500_P4.jpg
+    title: >-
+      (5th LD) S. Korea’s virus cases near 7,500, but pace of new infections
+      slows | Yonhap News Agency
     summary: >-
-      Since the novel coronavirus outbreak began in China in late 2019, it has
-      spread across the world and infected tens of thousands of people. <a
-      href="“https://edition.cnn.com/profiles/ivan-watson”"
-      target="“_blank”">CNN’s Ivan Watson</a> breaks down some of the lessons
-      learned by the hardest hit Asian cou…
+      (ATTN: UPDATES with KCDC’s latest toll in first 5 paras; ADDS details in
+      paras 20-21;...
     comments: ''
     suggestions: ''
     tags: ''
@@ -710,752 +769,736 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 58
-    originalUrl: 'https://en.yna.co.kr/view/AEN20200309003455320'
-    url: 'https://en.yna.co.kr/view/AEN20200309003455320'
-    when: '2020-03-09T08:36:03.000Z'
+  - id: 75
+    originalUrl: >-
+      https://www.cnn.com/2020/03/09/us/new-york-coronavirus-cases-update/index.html
+    url: >-
+      https://www.cnn.com/2020/03/09/us/new-york-coronavirus-cases-update/index.html
+    when: '2020-03-09T15:25:43.000Z'
     originalWhen: ''
-    author: 김덕현
-    source: Yonhap News Agency
+    author: 'Meg Wagner and Chris McElveen, CNN'
+    source: CNN
     logo: ''
     image: >-
-      https://img7.yna.co.kr/photo/yna/YH/2020/03/06/PYH2020030901160031500_P4.jpg
-    title: >-
-      (5th LD) S. Korea’s virus cases near 7,500, but pace of new infections
-      slows | Yonhap News Agency
+      https://cdn.cnn.com/cnnnext/dam/assets/200307131128-01-nyc-subway-coronavirus-0302-super-tease.jpg
+    title: New York City officials confirm three additional coronavirus cases
     summary: >-
-      (ATTN: UPDATES with KCDC’s latest toll in first 5 paras; ADDS details in
-      paras 20-21;...
+      Since the novel coronavirus outbreak began in China in late 2019, it has
+      spread across the world and infected tens of thousands of people. <a
+      href="“https://edition.cnn.com/profiles/ivan-watson”"
+      target="“_blank”">CNN’s Ivan Watson</a> breaks down some of the lessons
+      learned by the hardest hit Asian cou…
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 46
-    originalUrl: 'https://www.bbc.com/news/world-middle-east-51787238'
-    url: 'https://www.bbc.com/news/world-middle-east-51787238'
-    when: '2020-03-08T17:18:08.000Z'
+  - id: 59
+    originalUrl: 'https://www.bbc.co.uk/news/world-asia-china-51813876'
+    url: 'https://www.bbc.co.uk/news/world-asia-china-51813876'
+    when: '2020-03-10T12:30:55.000Z'
     originalWhen: ''
     author: BBC News
     source: BBC News
     logo: >-
       https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
     image: >-
-      https://ichef.bbci.co.uk/news/1024/branded_news/B75A/production/_111183964_060506758-1.jpg
-    title: 'Coronavirus: Northern Italy quarantines 16 million people'
+      https://ichef.bbci.co.uk/news/1024/branded_news/1EFA/production/_111203970_060546887-1.jpg
+    title: 'Coronavirus: China says disease ‘curbed’ in Wuhan and Hubei'
     summary: >-
-      A quarter of the population is in lockdown as Italy takes drastic action
-      to control Covid-19.
+      President Xi Jinping says the spread of the disease had been “basically
+      curbed” in Hubei province.
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 45
+  - id: 60
     originalUrl: >-
-      https://www.cnbc.com/2020/03/04/italys-death-toll-from-the-coronavirus-is-now-worse-than-iran.html
+      https://english.alarabiya.net/en/News/middle-east/2020/03/11/Coronavirus-Iran-confirms-a-total-of-9-000-infections.html
     url: >-
-      https://www.cnbc.com/2020/03/04/italys-death-toll-from-the-coronavirus-is-now-worse-than-iran.html
-    when: '2020-03-04T17:32:38.000Z'
+      https://english.alarabiya.net/en/News/middle-east/2020/03/11/Coronavirus-Iran-confirms-a-total-of-9-000-infections
+    when: '2020-03-11T11:04:46.499Z'
     originalWhen: ''
-    author: Holly Ellyatt
-    source: CNBC
-    logo: >-
-      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
-    image: >-
-      https://image.cnbcfm.com/api/v1/image/106424037-1583326402631gettyimages-1202993954.jpeg?v=1583326429
-    title: >-
-      Italy to close all schools and universities through March 15 as
-      coronavirus death toll rises
-    summary: >-
-      The closure would come into effect beginning Thursday and will last until
-      March 15.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 43
-    originalUrl: >-
-      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-600-new-cases-3-more-deaths
-    url: >-
-      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-600-new-cases-3-more-deaths
-    when: '2020-03-03T14:03:34.000Z'
-    originalWhen: '2020-03-03T14:03:34.000Z'
-    author: 'null'
-    source: The Straits Times
-    logo: ''
-    image: >-
-      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/03/03/rk_moonjaein_030320.jpg?itok=6jgePol7
-    title: 'South Korea declares ‘war’ on coronavirus as cases approach 5,000'
-    summary: "Authorities are seeking\_murder charges against leaders of the secretive church\_at the centre of the outbreak.. Read more at straitstimes.com."
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 71
-    originalUrl: >-
-      https://www.cnbc.com/2020/03/01/first-coronavirus-case-confirmed-in-new-york-city.html
-    url: >-
-      https://www.cnbc.com/2020/03/01/first-coronavirus-case-confirmed-in-new-york-city.html
-    when: '2020-03-02T20:48:37.000Z'
-    originalWhen: '2020-03-02T20:48:37.000Z'
-    author: Dawn Kopecki
-    source: CNBC
-    logo: >-
-      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
-    image: >-
-      https://image.cnbcfm.com/api/v1/image/106416725-1582927008126gettyimages-1204034435.jpeg?v=1582927078
-    title: New York City confirms first coronavirus case
-    summary: >-
-      New York’s first case falls on the heels of confirmed cases in Washington
-      state and California reported over the weekend.
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: 'March: Eruption'
-  - id: 29
-    originalUrl: >-
-      https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
-    url: >-
-      https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
-    when: '2020-02-29T10:34:17.000Z'
-    originalWhen: ''
-    author: 'null'
-    source: The Straits Times
-    logo: ''
-    image: >-
-      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/29/yq-skcov-29022020.jpg?itok=L-V8n1Zl
-    title: >-
-      Coronavirus: South Korea’s total cases jump to 3,150 as it reports first
-      case of reinfection
-    summary: "SEOUL (AFP) -\_South Korea confirmed 813 more coronavirus cases on Saturday (Feb 29), the biggest increase to date for the country,\_taking the national total to 3,150 infections with four additional deaths. . Read more at straitstimes.com."
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 28
-    originalUrl: >-
-      https://www.thenorthernecho.co.uk/news/national/18270758.coronavirus-passed-within-uk-first-time-20th-case-confirmed/
-    url: >-
-      https://www.thenorthernecho.co.uk/news/national/18270758.coronavirus-passed-within-uk-first-time-20th-case-confirmed/
-    when: '2020-02-28T21:01:27.000Z'
-    originalWhen: ''
-    author: Press Association 2020
-    source: The Northern Echo
-    logo: 'http://www.thenorthernecho.co.uk/resources/images/sitelogo/'
-    image: 'https://www.thenorthernecho.co.uk/resources/images/11089455/'
-    title: Coronavirus passed on within UK for first time as 20th case confirmed
-    summary: >-
-      The news comes after a British man became the first UK citizen to die from
-      coronavirus.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 9
-    originalUrl: ''
-    url: 'https://twitter.com/angie_rasmussen/status/1233420613819289600'
-    when: 'Fri Feb 28 15:56:04 +0000 2020'
-    author: '@angie_rasmussen | 394087611'
-    source: Twitter
-    logo: ''
-    image: ''
-    title: ''
-    summary: >-
-      I disagree with @WHO. Containment is no longer possible. The focus must be
-      shifted to mitigation. https://t.co/r7WkQOEHbL
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 27
-    originalUrl: >-
-      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-.html
-    url: >-
-      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-
-    when: '2020-02-27T07:05:47.369Z'
-    originalWhen: '2020-05-20T07:05:47.369Z'
     author: Al Arabiya English
     source: Al Arabiya English
     logo: >-
       https://www.alarabiya.net/.resources/aa-templating-lm/webresources/gfx/amp/logo.png
     image: >-
-      https://vid.alarabiya.net/images/2020/02/25/02035dd7-75ef-4034-8213-b75f6195f766/02035dd7-75ef-4034-8213-b75f6195f766_16x9_600x338.jpg
-    title: 'Iran confirms 26 people dead, 245 infected with coronavirus: Fars'
+      https://vid.alarabiya.net/images/2020/03/11/f44d0fc7-43e9-41bb-8075-ae85dcf6caab/f44d0fc7-43e9-41bb-8075-ae85dcf6caab_16x9_600x338.jpg
+    title: 'Coronavirus: Iran confirms 354 deaths, total of 9,000 infections'
     summary: >-
-      The number of people infected with coronavirus in Iran has risen to 245
-      and the death toll to 26, according to Iran’s health ministry, the
-      semi-offic
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 25
-    originalUrl: >-
-      https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
-    url: >-
-      https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
-    when: '2020-02-26T22:50:37.000Z'
-    originalWhen: ''
-    author: CNA
-    source: CNA
-    logo: >-
-      https://www.channelnewsasia.com/blob/8396140/9e24274cb1be2c905593bba3db240fb9/cna-logo-data.jpg
-    image: >-
-      https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12470082/16x9/991/557/6f639db5bb12c35194a0a4b8fb90dc8c/tU/police-wearing-masks-and-gloves-could-be-seen-surrounding-the-hotel-in-costa-adeje-on-the-southwestern-shore-of-tenerife-1582645644110-3.jpg
-    title: Spain seeks to calm nerves as COVID-19 cases jump
-    summary: >-
-      MADRID: Spain on Wednesday (Feb 26) issued assurances that a cluster of
-      new coronavirus infections did not risk a broader spread, after nine cases
-      were detected within a 24-hour period.
+      Iran’s death toll from the coronavirus outbreak reached 354, a rise of 63
+      in the past 24 hours, a health ministry spokesman said on Wednesday. Aroun
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 24
+  - id: 47
     originalUrl: >-
-      https://news.sky.com/story/coronavirus-warning-travelers-from-northern-italy-must-self-isolate-11942709
+      https://www.nytimes.com/2020/03/09/world/europe/italy-lockdown-coronavirus.html
     url: >-
-      https://news.sky.com/story/coronavirus-warning-travelers-from-northern-italy-must-self-isolate-11942709
-    when: '2020-02-25T21:54:00.000Z'
+      https://www.nytimes.com/2020/03/09/world/europe/italy-lockdown-coronavirus.html
+    when: '2020-03-11T16:04:11.000Z'
     originalWhen: ''
-    author: 'Aubrey Allegretti and Tom Gillespie, news reporters'
-    source: Sky
-    logo: 'https://news.sky.com/assets/sky-news-logo.png?v=1'
-    image: >-
-      https://e3.365dm.com/20/02/1600x900/skynews-coronavirus-italy-milan_4930713.jpg?20200225195334
-    title: 'Coronavirus: Four more dead in Italy as disease spreads across Europe'
-    summary: >-
-      Sky News is an unrivalled, world class breaking news service with a spirit
-      of innovation and a fresh approach to news broadcasting. As the UK’s first
-      dedicated 24-hour news channel, Sky News has built a deserved reputation
-      for being the first to break major news as well as offering insight and
-      analy…
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 39
-    originalUrl: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
-    url: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
-    when: '2020-02-24T21:17:18.000Z'
-    originalWhen: '2020-04-05T21:17:18.000Z'
-    author: James Hamblin
-    source: The Atlantic
+    author: Jason Horowitz
+    source: NYTimes
     logo: ''
     image: >-
-      https://cdn.theatlantic.com/thumbor/t1PagRyW685jErLIROGIUmKWCaw=/0x405:4134x2558/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/02/h_11.02583938/original.jpg
-    title: You’re Likely to Get the Coronavirus
+      https://static01.nyt.com/images/2020/03/09/world/09italy-virus/09italy-virus-facebookJumbo.jpg
+    title: >-
+      Italy Announces Restrictions Over Entire Country in Attempt to Halt
+      Coronavirus
     summary: >-
-      Most cases are not life-threatening, which is also what makes the virus a
-      historic challenge to contain.
-    comments: <p><br></p>
+      All of Italy’s 60 million people are coming under restrictions that had
+      earlier applied to the northern part of the country.
+    comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 22
+  - id: 62
+    originalUrl: 'https://www.bbc.com/news/uk-51839106'
+    url: 'https://www.bbc.com/news/uk-51839106'
+    when: '2020-03-11T20:35:31.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/10E02/production/_111222196_hi060551922.jpg
+    title: 'Coronavirus: Biggest daily rise as UK cases reach 460'
+    summary: >-
+      The NHS confirms two more patients with coronavirus have died in the UK,
+      bringing the total to eight.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 69
     originalUrl: >-
-      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
+      https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/
     url: >-
-      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
-    when: '2020-02-24T08:47:08.000Z'
+      https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/
+    when: '2020-03-11T21:40:04.000Z'
+    originalWhen: ''
+    author: Helen Branswell
+    source: STAT
+    logo: ''
+    image: >-
+      https://www.statnews.com/wp-content/uploads/2020/03/GettyImages-1206490013-1024x576.jpg
+    title: WHO declares the coronavirus outbreak a pandemic - STAT
+    summary: >-
+      The declaration is an acknowledgment of what has seemed clear for some
+      time — the virus will likely spread to all countries on the globe.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 84
+    originalUrl: >-
+      https://www.espn.com/nba/story/_/id/28887560/nba-suspends-season-further-notice-player-tests-positive-coronavirus
+    url: >-
+      https://www.espn.com/nba/story/_/id/28887560/nba-suspends-season-further-notice-player-tests-positive-coronavirus
+    when: '2020-03-12T01:38:00.000Z'
+    originalWhen: ''
+    author: Tim Bontemps
+    source: ESPN
+    logo: >-
+      https://a.espncdn.com/combiner/i?img=/i/espn/espn_logos/amp/ESPN_amp.png&w=600&h=60
+    image: >-
+      https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F0110%2Fr169849_1296x729_16%2D9.jpg
+    title: NBA suspends season due to coronavirus
+    summary: >-
+      The NBA announced that it has suspended its season until further notice
+      after the completion of Wednesday night’s games after a member of the Utah
+      Jazz preliminarily tested positive for the coronavirus.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 70
+    originalUrl: 'https://www.cnn.com/2020/03/12/us/nyc-coronavirus-update/index.html'
+    url: 'https://www.cnn.com/2020/03/12/us/nyc-coronavirus-update/index.html'
+    when: '2020-03-12T20:57:08.000Z'
+    originalWhen: ''
+    author: 'Eric Levenson, CNN'
+    source: CNN
+    logo: ''
+    image: >-
+      https://cdn.cnn.com/cnnnext/dam/assets/200311121413-01-coronavirus-nyc-0307-super-tease.jpg
+    title: >-
+      New York City keeps schools and subways open during coronavirus but
+      cancels large events
+    summary: >-
+      The NBA has announced that they are suspending the season until further
+      notice following the positive test of a player. CNN’s Carolyn Manno
+      reports.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 83
+    originalUrl: >-
+      https://www.cnn.com/2020/03/12/media/disney-world-close-coronavirus/index.html
+    url: >-
+      https://www.cnn.com/2020/03/12/media/disney-world-close-coronavirus/index.html
+    when: '2020-03-13T02:54:48.000Z'
+    originalWhen: ''
+    author: 'Frank Pallotta, CNN Business'
+    source: CNN
+    logo: ''
+    image: >-
+      https://cdn.cnn.com/cnnnext/dam/assets/180620114344-02-disney-file-super-tease.jpg
+    title: 'Walt Disney World closes, paralyzing the company’s tourism empire'
+    summary: >-
+      Step inside Star Wars Galaxy’s Edge, the largest ever expansion at
+      Disneyland. See the rides, the food and the characters that Disney hopes
+      will bring its rumored billion-dollar investment to life.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 48
+    originalUrl: >-
+      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
+    url: >-
+      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
+    when: '2020-03-13T11:23:03.000Z'
+    originalWhen: ''
+    author: Silvia Amaro
+    source: CNBC
+    logo: >-
+      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
+    image: >-
+      https://image.cnbcfm.com/api/v1/image/106441351-1584092666103gettyimages-1206827827.jpeg?v=1584092710
+    title: >-
+      France shuts schools as coronavirus spreads, hopes to avoid becoming the
+      next Italy
+    summary: >-
+      French President Emmanuel Macron asks global leaders to act together to
+      combat COVID-19, as the country strives to contain its outbreak.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 64
+    originalUrl: >-
+      https://www.irishtimes.com/news/social-affairs/coronavirus-government-calls-on-all-pubs-and-bars-to-close-from-tonight-1.4203494
+    url: >-
+      https://www.irishtimes.com/news/social-affairs/coronavirus-government-calls-on-all-pubs-and-bars-to-close-from-tonight-1.4203494
+    when: '2020-03-15T22:17:00.000Z'
+    originalWhen: ''
+    author: Simon Carswell
+    source: The Irish Times
+    logo: 'https://www.irishtimes.com/assets/images/logo/masthead-600by60.png'
+    image: 'https://www.irishtimes.com/image-creator/?id=1.4203575&origw=682'
+    title: 'Coronavirus: Government calls on all pubs and bars to close from tonight'
+    summary: >-
+      Officials announce new measures to ensure payment of workers if businesses
+      cease trading
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 73
+    originalUrl: 'https://www.nytimes.com/2020/03/15/nyregion/coronavirus-nyc-shutdown.html'
+    url: 'https://www.nytimes.com/2020/03/15/nyregion/coronavirus-nyc-shutdown.html'
+    when: '2020-03-16T16:31:44.622Z'
+    originalWhen: ''
+    author: Luis Ferré-Sadurní
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/03/16/nyregion/16nyvirus-les-2/merlin_170496525_1f74274e-a4bc-4625-a7f0-90f7a24e3e59-facebookJumbo.jpg
+    title: 'New York City Schools, Restaurants and Bars Are Shut Down Over Coronavirus'
+    summary: >-
+      Mayor Bill de Blasio said that it was a wrenching decision to close places
+      that are the “heart and soul of the city.”
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 55
+    originalUrl: >-
+      https://www.cnn.com/2020/03/16/europe/spain-coronavirus-lockdown-intl/index.html
+    url: >-
+      https://www.cnn.com/2020/03/16/europe/spain-coronavirus-lockdown-intl/index.html
+    when: '2020-03-16T22:07:06.000Z'
+    originalWhen: ''
+    author: 'Al Goodman, Laura Perez Maestro, Sheena McKenzie and Tara John, CNN'
+    source: CNN
+    logo: ''
+    image: >-
+      https://cdn.cnn.com/cnnnext/dam/assets/200316105611-01-coronavirus-spain-lockdown-0315-super-tease.jpg
+    title: >-
+      European Union will close its borders to all non-essential travel to fight
+      coronavirus
+    summary: >-
+      At a supermarket in central Madrid, lines taped on the ground indicate how
+      far apart customers should stand.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 65
+    originalUrl: >-
+      https://www.straitstimes.com/asia/se-asia/coronavirus-malaysia-records-117-new-cases-to-total-790-mosque-cluster-reaches-514
+    url: >-
+      https://www.straitstimes.com/asia/se-asia/coronavirus-malaysia-records-117-new-cases-to-total-790-mosque-cluster-reaches-514
+    when: '2020-03-18T11:25:22.000Z'
     originalWhen: ''
     author: 'null'
     source: The Straits Times
     logo: ''
     image: >-
-      https://www.straitstimes.com/sites/default/files/media-brightcove/6135295959001.jpg
+      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/03/18/yq-mycov-18032020.jpg?itok=C7lh0p1U
     title: >-
-      Coronavirus: South Korea confirms 70 more coronavirus cases, total 833;
-      7th death reported
+      Malaysia records 117 new coronavirus cases, bringing total to 790; mosque
+      cluster reaches 514 cases
     summary: >-
-      SEOUL (REUTERS) - South Korea reported another 161 coronavirus cases,
-      bringing the total in the country to 763, Yonhap news agency reported on
-      Monday (Feb 24).. Read more at straitstimes.com.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 10
-    originalUrl: 'https://techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
-    url: 'https://social.techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
-    when: '2020-02-23T14:00:00.000Z'
-    author: Jon Evans
-    source: TechCrunch
-    logo: >-
-      https://techcrunch.com/wp-content/themes/techcrunch-2017/images/logo-json-ld.png
-    image: >-
-      https://techcrunch.com/wp-content/uploads/2020/02/800px-2009_world_subdivisions_flu_pandemic.png?w=764
-    title: What happens if a pandemic hits? – TechCrunch
-    summary: >-
-      What happens if a COVID-19 coronavirus pandemic hits? What will the
-      repercussions be if the virus spreads worldwide? How will it change how we
-      live, work, socialize and travel? Don’t get all disaster-movie here. Some
-      people seem to have the notion that a pandemic will mean shutting down
-      borders, bui…
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 8
-    originalUrl: >-
-      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
-    url: >-
-      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
-    when: '2020-02-23T12:00:00.000Z'
-    author: 'Bill Hanage,Marc Lipsitch'
-    source: Scientific American Blog Network
-    logo: ''
-    image: >-
-      https://static.scientificamerican.com/blogs/cache/file/FF0C8844-B47C-45AC-889F9F4508E4D377.jpg
-    title: How to Report on the COVID-19 Outbreak Responsibly
-    summary: >-
-      Remember, the virus doesn&rsquo;t follow the news and doesn&rsquo;t care
-      about Twitter
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 7
-    originalUrl: ''
-    url: 'https://twitter.com/BillHanage/status/1231451071387774977'
-    when: 'Sun Feb 23 05:29:49 +0000 2020'
-    author: '@BillHanage | 21184460'
-    source: Twitter
-    logo: ''
-    image: ''
-    title: ''
-    summary: >-
-      IMO this is a blinder on where we stand re #coronavirus #Covid_19 #COVID
-      and what happens now. This will be a pande… https://t.co/88wCere4yO
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 6
-    originalUrl: ''
-    url: 'https://twitter.com/kakape/status/1231193492002611200'
-    when: 'Sat Feb 22 12:26:17 +0000 2020'
-    author: '@kakape | 45586617'
-    source: Twitter
-    logo: ''
-    image: ''
-    title: ''
-    summary: >-
-      For me and for everyone I know who has been following #covid19, the last
-      few days have felt like a profound shift i… https://t.co/kJ9HF3lNWp
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 82
-    originalUrl: >-
-      https://www.cnbc.com/2020/02/21/only-three-us-states-can-test-for-coronavirus-says-public-lab-group.html
-    url: >-
-      https://www.cnbc.com/2020/02/21/only-three-us-states-can-test-for-coronavirus-says-public-lab-group.html
-    when: '2020-02-21T18:04:45.000Z'
-    originalWhen: ''
-    author: Reuters
-    source: CNBC
-    logo: >-
-      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
-    image: >-
-      https://image.cnbcfm.com/api/v1/image/106398285-1582127217254rts306vj.jpg?v=1582127283
-    title: 'Only three US states can test for coronavirus, says public lab group'
-    summary: >-
-      California, Nebraska and Illinois are the only U.S. states that can
-      currently test for coronavirus, the Association of Public Health
-      Laboratories (APHL) told Reuters on Friday.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 34
-    originalUrl: >-
-      https://www.dw.com/en/coronavirus-italy-reports-first-deaths-south-korea-sees-cases-double/a-52467865
-    url: >-
-      https://www.dw.com/en/coronavirus-italy-reports-first-deaths-south-korea-sees-cases-double/a-52467865
-    when: '2020-02-21T04:24:35.000Z'
-    originalWhen: '2020-11-30T04:24:35.000Z'
-    author: Deutsche Welle (www.dw.com)
-    source: DW.COM
-    logo: ''
-    image: 'https://static.dw.com/image/52473057_304.jpg'
-    title: >-
-      Coronavirus: Italy reports first deaths, South Korea sees cases double |
-      DW | 22.02.2020
-    summary: >-
-      An elderly man from Padua and a woman from Lombardy have died from
-      coronavirus. South Korea, meanwhile has seen a major spike in cases, many
-      of them linked to a Christian sect.
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 20
-    originalUrl: >-
-      https://www.channelnewsasia.com/news/asia/coronavirus-covid19-south-korea-first-death-12454106
-    url: >-
-      https://www.channelnewsasia.com/news/asia/coronavirus-covid19-south-korea-first-death-12454106
-    when: '2020-02-20T23:45:29.000Z'
-    originalWhen: ''
-    author: CNA
-    source: CNA
-    logo: >-
-      https://www.channelnewsasia.com/blob/8396140/9e24274cb1be2c905593bba3db240fb9/cna-logo-data.jpg
-    image: >-
-      https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12419262/16x9/991/557/27844c51fb08055fd2a3843e9d408a10/Ge/a-men-wears-a-mask-to-protect-himself-against-a-new-coronavirus-at-the-seoul-railway-station-in-seoul-22.jpg
-    title: South Korea reports first COVID-19 death as infected cases reach 104
-    summary: >-
-      SEOUL: South Korea reported its first death Thursday (Feb 20) from
-      COVID-19 as the number of infections nearly doubled to over 100 - almost
-      half of them from a cluster centred on a religious sect.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 3
-    originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    when: '2020-02-20T15:22:32.738Z'
-    author: Donald G. McNeil Jr.
-    source: NYTimes
-    logo: ''
-    image: >-
-      https://static01.nyt.com/images/2020/02/02/world/02virus-pandemic-sub/02virus-pandemic-sub-facebookJumbo.jpg
-    title: 'Wuhan Coronavirus Looks Increasingly Like a Pandemic, Experts Say'
-    summary: >-
-      Rapidly rising caseloads alarm researchers, who fear the virus may make
-      its way across the globe. But scientists cannot yet predict how many
-      deaths may result.
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-    originalWhen: '2020-02-02T15:22:32.738Z'
-  - id: 2
-    originalUrl: >-
-      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
-    url: >-
-      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
-    when: '2020-02-13T12:00:00.000Z'
-    author: Shirin Ghaffary
-    source: Vox
-    logo: >-
-      https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668548/google_amp.0.png
-    image: >-
-      https://cdn.vox-cdn.com/thumbor/V75qSdtj09QOGQwLl4eAAoiiswI=/0x82:3300x1810/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19819480/615320790.jpg.jpg
-    title: '“No handshakes, please”: The tech industry is terrified of the coronavirus'
-    summary: >-
-      Although public officials in the area say the virus is contained for now,
-      some in the tech industry fear the virus will spread out of control.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 32
-    originalUrl: >-
-      https://www.theguardian.com/world/2020/feb/10/coronavirus-uk-declares-outbreak-serious-threat-to-health
-    url: >-
-      http://www.theguardian.com/world/2020/feb/10/coronavirus-uk-declares-outbreak-serious-threat-to-health
-    when: '2020-02-10T17:13:11.000Z'
-    originalWhen: '2020-07-01T17:24:11.000Z'
-    author: Denis Campbell
-    source: the Guardian
-    logo: ''
-    image: >-
-      https://i.guim.co.uk/img/media/b567ddf2451dd057fd278601d751069881a78783/0_51_2493_1495/master/2493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c059c6e2945d1d0b185ffdae0c72569
-    title: 'Coronavirus: number of confirmed UK cases rises from four to eight'
-    summary: News comes after UK declared outbreak was ‘serious threat’ to health
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 18
-    originalUrl: >-
-      https://www.straitstimes.com/singapore/coronavirus-7-new-confirmed-cases-in-spore-possible-new-cluster-involving-church-in-paya
-    url: >-
-      https://www.straitstimes.com/singapore/coronavirus-7-new-confirmed-cases-in-spore-possible-new-cluster-involving-church-in-paya
-    when: '2020-02-09T01:41:16.000Z'
-    originalWhen: ''
-    author: CHANG AI-LIEN
-    source: The Straits Times
-    logo: ''
-    image: >-
-      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/08/hzncid0208file.jpg?itok=nTe_Gr8U
-    title: >-
-      Coronavirus: 7 new cases in Singapore, possible new cluster involving
-      church in Paya Lebar
-    summary: >-
-      Among the new cases are a taxi driver and a private-hire car driver. There
-      is a possible new cluster comprising five cases, linked to The Life Church
-      and Missions Singapore in Paya Lebar.. Read more at straitstimes.com.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 19
-    originalUrl: >-
-      https://www.straitstimes.com/asia/east-asia/coronavirus-another-41-on-japan-cruise-tested-positive-nhk
-    url: >-
-      https://www.straitstimes.com/asia/east-asia/coronavirus-another-41-on-japan-cruise-tested-positive-nhk
-    when: '2020-02-07T17:16:28.000Z'
-    originalWhen: ''
-    author: WALTER SIM
-    source: The Straits Times
-    logo: ''
-    image: >-
-      https://www.straitstimes.com/sites/default/files/media-youtube/Gg8-yO8lrZQ.jpg
-    title: >-
-      Coronavirus: Japan reports 41 more positive cases on cruise ship, total
-      cases on Diamond Princess now 61
-    summary: >-
-      A total of 61 people on board a cruise ship quarantined off the coast of
-      Yokohama have tested positive for the coronavirus, as the health ministry
-      announced 41 more cases on Friday (Feb 7).. Read more at straitstimes.com.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 17
-    originalUrl: 'https://www.bbc.com/news/world-asia-china-51403795'
-    url: 'https://www.bbc.com/news/world-asia-china-51403795'
-    when: '2020-02-07T04:16:28.000Z'
-    originalWhen: ''
-    author: BBC News
-    source: BBC News
-    logo: >-
-      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
-    image: >-
-      https://ichef.bbci.co.uk/news/1024/branded_news/11C1A/production/_110803727_mediaitem110803726.jpg
-    title: 'Li Wenliang: Coronavirus kills Chinese whistleblower doctor'
-    summary: >-
-      Li Wenliang warned fellow medics in December - but police told him to stop
-      “making false comments”.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 16
-    originalUrl: >-
-      https://www.cnn.com/2020/02/02/asia/wuhan-coronavirus-philippines-intl-hnk/index.html
-    url: >-
-      https://www.cnn.com/2020/02/02/asia/wuhan-coronavirus-philippines-intl-hnk/index.html
-    when: '2020-02-03T00:31:34.000Z'
-    originalWhen: '2020-02-03T00:31:34.000Z'
-    author: 'Julia Hollingsworth, CNN'
-    source: CNN
-    logo: ''
-    image: >-
-      https://cdn.cnn.com/cnnnext/dam/assets/200202115047-coronavirus-philippines-3001-super-tease.jpg
-    title: First Wuhan coronavirus death reported outside China
-    summary: >-
-      Priscilla Dickey and her 8-year-old daughter Hermione were supposed to be
-      among the hundreds of Americans who boarded a charter flight arranged by
-      the US government to leave Wuhan, China. But Hermione did not have her
-      passport and could not board the flight. CNN’s 
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: 'February: Alarms sounded, and mostly ignored'
-  - id: 11
-    originalUrl: >-
-      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
-    url: >-
-      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
-    when: '2020-01-31T12:00:00.000Z'
-    originalWhen: '2020-01-31T12:00:00.000Z'
-    author: 'Andrew Joseph,STAT'
-    source: Scientific American
-    logo: ''
-    image: >-
-      https://static.scientificamerican.com/sciam/cache/file/171708EC-2996-4CB7-8D343AD3639E13BA.jpg
-    title: Study Reports First Case of Coronavirus Spread by Asymptomatic Person
-    summary: >-
-      A woman from China infected a person in Germany before she began
-      displaying symptoms
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 15
-    originalUrl: 'https://www.bbc.com/news/world-51318246'
-    url: 'https://www.bbc.com/news/world-51318246'
-    when: '2020-01-31T07:01:43.000Z'
-    originalWhen: ''
-    author: BBC News
-    source: BBC News
-    logo: >-
-      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
-    image: >-
-      https://ichef.bbci.co.uk/news/1024/branded_news/18421/production/_110716399_gettyimages-1197550054.jpg
-    title: Coronavirus declared global health emergency by WHO
-    summary: >-
-      The World Health Organization calls for moves to stop the virus spreading
-      to vulnerable countries.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 38
-    originalUrl: >-
-      https://news.yahoo.com/china-orders-nationwide-measures-detect-virus-flights-trains-090541811.html
-    url: >-
-      https://news.yahoo.com/china-orders-nationwide-measures-detect-virus-flights-trains-090541811.html
-    when: '2020-01-25T10:00:47.986Z'
-    originalWhen: ''
-    author: AFP Relax News
-    source: Yahoo News
-    logo: 'https://s.yimg.com/rz/p/yahoo_news_en-US_h_p_news_2.png'
-    image: >-
-      https://s.yimg.com/ny/api/res/1.2/lpFRK7alGklDE0w64qGEdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjgx/https://s.yimg.com/uu/api/res/1.2/VgsQ9fW40zumz1BFFzFdlQ--~B/aD0xOTIxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_US/News/US-AFPRelax/000_hkg5063539.77e72081443.original.jpg
-    title: 'China orders nationwide measures to detect virus on flights, trains, buses'
-    summary: >-
-      China has ordered nationwide measures to identify and immediately isolate
-      suspected cases of a deadly virus on trains, aeroplanes and buses, as the
-      death...
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 13
-    originalUrl: >-
-      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
-    url: >-
-      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
-    when: '2020-01-23T15:07:59.000Z'
-    originalWhen: ''
-    author: Michael Levenson
-    source: NYTimes
-    logo: ''
-    image: >-
-      https://static01.nyt.com/images/2020/01/22/multimedia/22xp-cordon/merlin_167592177_faab52d5-95c1-48a0-b533-934d06fbed8d-facebookJumbo.jpg
-    title: Scale of China’s Wuhan Shutdown Is Believed to Be Without Precedent
-    summary: >-
-      In sealing off a city of 11 million people, China is trying to halt a
-      coronavirus outbreak using a tactic with a complicated history of ethical
-      concerns.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 14
-    originalUrl: >-
-      https://www.theguardian.com/world/2020/jan/22/coronavirus-china-measures-rein-spread-mutate-disease-death-toll
-    url: >-
-      http://www.theguardian.com/world/2020/jan/22/coronavirus-china-measures-rein-spread-mutate-disease-death-toll
-    when: '2020-01-23T06:56:07.000Z'
-    originalWhen: '2020-07-01T17:26:07.000Z'
-    author: Lily Kuo
-    source: the Guardian
-    logo: ''
-    image: >-
-      https://i.guim.co.uk/img/media/8954ad48502c4bcb9415ec059732ee33a00c8d39/0_684_4324_2594/master/4324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=986a710d0a55b0b7ee3e2a24b26084c4
-    title: >-
-      Coronavirus: China bars 11m residents from leaving city at centre of
-      outbreak
-    summary: >-
-      Government unveils new countermeasures as country prepares for lunar new
-      year and death toll doubles to 17
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 37
-    originalUrl: 'https://www.bbc.com/news/world-asia-china-51185836'
-    url: 'https://www.bbc.com/news/world-asia-china-51185836'
-    when: '2020-01-21T10:26:26.000Z'
-    originalWhen: ''
-    author: BBC News
-    source: BBC News
-    logo: >-
-      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
-    image: >-
-      https://ichef.bbci.co.uk/news/1024/branded_news/12604/production/_110586257_mediaitem110586256.jpg
-    title: 'New China virus: Warning against cover-up as number of cases jumps'
-    summary: >-
-      Beijing’s top leaders urge transparency as it is confirmed the coronavirus
-      can pass between people.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 36
-    originalUrl: >-
-      https://www.straitstimes.com/asia/east-asia/japan-confirms-first-case-of-infection-with-new-china-coronavirus
-    url: >-
-      https://www.straitstimes.com/asia/east-asia/japan-confirms-first-case-of-infection-with-new-china-coronavirus
-    when: '2020-01-17T08:19:52.000Z'
-    originalWhen: ''
-    author: WALTER SIM
-    source: The Straits Times
-    logo: ''
-    image: >-
-      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/01/16/ak_wh_1601.jpg?itok=BGtBTql1
-    title: >-
-      Japan confirms first case of infection from Wuhan coronavirus; Vietnam
-      quarantines two tourists
-    summary: >-
-      The man, who is a Chinese national and lives in Kanagawa prefecture, first
-      developed fever symptoms on Jan 3 during a visit to Wuhan.. Read more at
+      Malaysia on Wednesday (March 18) confirmed 117 new Covid-19 cases, of
+      which 80 are linked to the Sri Petaling mosque cluster.. Read more at
       straitstimes.com.
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 35
-    originalUrl: ''
-    url: 'https://twitter.com/WHO/status/1217043229427761152'
-    when: 'Tue Jan 14 11:18:12 +0000 2020'
+  - id: 50
+    originalUrl: >-
+      https://www.npr.org/2020/03/19/817974987/every-single-individual-must-stay-home-italy-s-coronavirus-deaths-pass-china-s
+    url: >-
+      https://www.npr.org/2020/03/19/817974987/every-single-individual-must-stay-home-italy-s-coronavirus-deaths-pass-china-s
+    when: '2020-03-19T23:39:00.000Z'
     originalWhen: ''
-    author: '@WHO | 14499829'
-    source: Twitter
-    logo: ''
-    image: ''
-    title: ''
+    author: Sylvia Poggioli
+    source: NPR
+    logo: 'https://media.npr.org/chrome/npr-logo.jpg'
+    image: >-
+      https://media.npr.org/assets/img/2020/03/18/ap_20077405049336_wide-9f6f0e117035a14bdf3410b43c9e915482264f5a.jpg?s=1400
+    title: >-
+      ‘Every Single Individual Must Stay Home’: Italy’s Coronavirus Surge
+      Strains Hospitals
     summary: >-
-      Preliminary investigations conducted by the Chinese authorities have found
-      no clear evidence of human-to-human tran… https://t.co/1GHUbI2YXm
+      The country has universal health care. But now, fighting tens of thousands
+      of coronavirus cases, Italian hospitals and medical staff are overwhelmed,
+      prompting anguished debate.
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 12
+  - id: 51
     originalUrl: >-
-      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
+      https://www.nytimes.com/2020/03/19/world/europe/europe-china-coronavirus.html
     url: >-
-      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
-    when: '2020-01-08T17:07:39.000Z'
-    originalWhen: '2020-01-24T17:07:39.000Z'
-    author: Helen Branswell
-    source: STAT
+      https://www.nytimes.com/2020/03/19/world/europe/europe-china-coronavirus.html
+    when: '2020-03-20T00:18:25.000Z'
+    originalWhen: ''
+    author: Richard Pérez-Peña
+    source: NYTimes
     logo: ''
     image: >-
-      https://www.statnews.com/wp-content/uploads/2020/01/GettyImages-1192512277-1024x576.jpg
-    title: WHO says mysterious illness in China likely being caused by new virus
+      https://static01.nyt.com/images/2020/03/19/world/19virus-numbers/19virus-numbers-facebookJumbo.jpg
+    title: Virus Hits Europe Harder Than China. Is That the Price of an Open Society?
     summary: >-
-      Chinese authorities believe a new coronavirus — from the family that
-      produced SARS and MERS — may be the cause of the condition.
+      The epidemic is now bigger in Europe, where governments aren’t used to
+      giving harsh orders, and citizens aren’t used to following them.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 54
+    originalUrl: >-
+      https://www.vox.com/2020/3/20/21183315/coronavirus-spain-outbreak-cases-tests
+    url: >-
+      https://www.vox.com/2020/3/20/21183315/coronavirus-spain-outbreak-cases-tests
+    when: '2020-03-20T12:30:00.000Z'
+    originalWhen: ''
+    author: Alex Ward
+    source: Vox
+    logo: >-
+      https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668548/google_amp.0.png
+    image: >-
+      https://cdn.vox-cdn.com/thumbor/vmgNn9Ki_hlSHJ3Uqw2SNevT3FY=/0x475:3318x2212/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19816273/GettyImages_1207534309.jpg
+    title: How Spain’s coronavirus outbreak got so bad so fast
+    summary: >-
+      Spain’s Prime Minister Pedro Sánchez and the Spanish public were slow to
+      respond to the coronavirus. Now they “resist.”
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 80
+    originalUrl: >-
+      https://www.npr.org/2020/03/21/819511621/coronavirus-deaths-spike-abroad-as-new-york-city-becomes-u-s-virus-epicenter
+    url: >-
+      https://www.npr.org/2020/03/21/819511621/coronavirus-deaths-spike-abroad-as-new-york-city-becomes-u-s-virus-epicenter
+    when: '2020-03-22T16:30:00.000Z'
+    originalWhen: ''
+    author: Lynsey Jeffery
+    source: NPR
+    logo: 'https://media.npr.org/chrome/npr-logo.jpg'
+    image: >-
+      https://media.npr.org/assets/img/2020/03/21/ap_20081027616567_wide-6ebac6fb65bb1b6fafbe66a544bf3c56f4b12855.jpg?s=1400
+    title: >-
+      Coronavirus Deaths Spike Abroad As New York City Becomes U.S. Virus
+      Epicenter
+    summary: >-
+      The global death toll from COVID-19 surpassed 12,000 on Saturday as New
+      York City reported thousands of new cases over the past week. Cases in
+      that city now make up about a third of all U.S. cases.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 72
+    originalUrl: >-
+      https://www.nytimes.com/2020/03/22/nyregion/Coronavirus-new-York-epicenter.html
+    url: >-
+      https://www.nytimes.com/2020/03/22/nyregion/Coronavirus-new-York-epicenter.html
+    when: '2020-03-23T12:33:43.000Z'
+    originalWhen: ''
+    author: Jesse McKinley
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/03/22/nyregion/22nyvirus-epicenter1/22nyvirus-epicenter1-facebookJumbo.jpg
+    title: New York City Region Is Now an Epicenter of the Coronavirus Pandemic
+    summary: >-
+      The city and its suburbs account for roughly 5 percent of global cases,
+      forcing officials to take urgent steps to stem the outbreak.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 57
+    originalUrl: 'https://www.bbc.com/news/world-asia-china-52016139'
+    url: 'https://www.bbc.com/news/world-asia-china-52016139'
+    when: '2020-03-24T15:33:59.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/139C7/production/_110672308_gettyimages-1196884915.jpg
+    title: 'Coronavirus: Wuhan to ease lockdown as world battles pandemic'
+    summary: >-
+      The lockdown in the Chinese city where the outbreak began will be
+      partially lifted next month.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 81
+    originalUrl: >-
+      https://www.cnbc.com/2020/03/25/coronavirus-update-new-york-hospitals-battle-outbreak.html
+    url: >-
+      https://www.cnbc.com/2020/03/25/coronavirus-update-new-york-hospitals-battle-outbreak.html
+    when: '2020-03-25T23:33:55.000Z'
+    originalWhen: ''
+    author: Dan Mangan
+    source: CNBC
+    logo: >-
+      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
+    image: >-
+      https://image.cnbcfm.com/api/v1/image/106458310-1585052855506gettyimages-1208078527.jpeg?v=1585076898
+    title: >-
+      New York hospitals battle coronavirus as hundreds of patients flood in:
+      ‘We must not break’
+    summary: >-
+      “This coronavirus pandemic is worse than working in West Africa during
+      Ebola,” said one doctor.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 77
+    originalUrl: 'https://www.foxnews.com/us/hospital-staff-wear-trash-bags-coronavirus'
+    url: 'https://www.foxnews.com/us/hospital-staff-wear-trash-bags-coronavirus'
+    when: '2020-03-26T13:41:22.000Z'
+    originalWhen: ''
+    author: Greg Norman
+    source: Fox News
+    logo: >-
+      https://static.foxnews.com/static/orion/styles/img/fox-news/amp/fox-news-logo.png
+    image: >-
+      https://static.foxnews.com/foxnews.com/content/uploads/2020/03/mount-sinai.png
+    title: >-
+      New York City hospital staff seen wearing trash bags for protection,
+      co-worker dies from coronavirus
+    summary: "A\_need for\_safety equipment at a New York City hospital reportedly became so unbearable this week that nurses there resorted to wearing trash bags as protection against the\_coronavirus."
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 66
+    originalUrl: 'https://www.bbc.com/news/world-africa-52058717'
+    url: 'https://www.bbc.com/news/world-africa-52058717'
+    when: '2020-03-27T08:00:50.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/0FD6/production/_111445040_mediaitem111445039.jpg
+    title: 'Coronavirus: South Africa reports first deaths as lockdown begins'
+    summary: >-
+      The country’s health ministry says cases have passed 1,000, as a
+      three-week lockdown begins.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 52
+    originalUrl: >-
+      https://www.theguardian.com/us-news/2020/mar/27/new-york-coronavirus-elmhurst-hospital
+    url: >-
+      http://www.theguardian.com/us-news/2020/mar/27/new-york-coronavirus-elmhurst-hospital
+    when: '2020-03-27T17:01:18.000Z'
+    originalWhen: '2020-07-01T17:01:18.000Z'
+    author: Jessica Glenza
+    source: the Guardian
+    logo: ''
+    image: >-
+      https://i.guim.co.uk/img/media/85edd2b1c0542f8d38390575663126fa1faa135e/0_144_4315_2589/master/4315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e3ef68bcd90d8eede75cfed634fb6db
+    title: >-
+      ‘It’s what was happening in Italy’: the hospital at the center of New
+      York’s Covid-19 crisis
+    summary: >-
+      Elmhurst hospital, located in one of the poorest areas of New York City,
+      is ‘overwhelmed’ as people line up outside for tests and treatment
     comments: <p><br></p>
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 1
+  - id: 79
+    originalUrl: >-
+      https://www.vox.com/2020/3/27/21197400/new-york-covid-19-hospitals-coronavirus
+    url: >-
+      https://www.vox.com/2020/3/27/21197400/new-york-covid-19-hospitals-coronavirus
+    when: '2020-03-27T21:30:00.000Z'
+    originalWhen: ''
+    author: Caroline Hopkins
+    source: Vox
+    logo: >-
+      https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668548/google_amp.0.png
+    image: >-
+      https://cdn.vox-cdn.com/thumbor/KQ59GyNWCjKcstCCs_0i3tNxpTw=/0x82:1024x618/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19855229/GettyImages_1208281956.jpg
+    title: >-
+      Covid-19 patients are flooding New York hospitals, and the peak may be 3
+      weeks away
+    summary: New York City is staggering to keep up with the coronavirus pandemic.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 67
+    originalUrl: >-
+      https://www.rnz.co.nz/news/national/412818/coronavirus-83-new-cases-in-new-zealand-two-patients-in-intensive-care
+    url: >-
+      https://www.rnz.co.nz/news/national/412818/coronavirus-83-new-cases-in-new-zealand-two-patients-in-intensive-care
+    when: '2020-03-28T01:34:04.000Z'
+    originalWhen: ''
+    author: RNZ News
+    source: RNZ
+    logo: >-
+      https://www.rnz.co.nz/x/logos/print-logo-262944a28c4eafa2eac55e03095c7d276253660f97286dffe44e50d28d7f7ffd.png
+    image: >-
+      https://www.rnz.co.nz/assets/news_crops/98928/eight_col_liver.jpg?1585354043
+    title: 'Coronavirus: 83 new cases in New Zealand, two patients in intensive care'
+    summary: >-
+      There are 83 new cases of Covid-19 - made up of 78 new confirmed cases and
+      five probable cases. Two people are in intensive care in a critical
+      condition.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 78
+    originalUrl: >-
+      https://www.amny.com/new-york/brooklyn/more-than-4000-new-york-city-cops-on-sick-report-amid-covid-19-pandemic/
+    url: >-
+      https://www.amny.com/new-york/brooklyn/more-than-4000-new-york-city-cops-on-sick-report-amid-covid-19-pandemic/
+    when: '2020-03-29T16:40:38.000Z'
+    originalWhen: ''
+    author: Todd Maisel
+    source: amNewYork
+    logo: ''
+    image: 'https://www.amny.com/wp-content/uploads/2020/03/DSC_9916-1024x683.jpg'
+    title: >-
+      More than 4,000 New York City cops on sick report amid COVID-19 pandemic |
+      amNewYork
+    summary: >-
+      The number of police officers and members of the NYPD calling out sick
+      continued to grow, with 12% of the force now out of action, NYPD officials
+      said Saturday.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 68
+    originalUrl: >-
+      https://www.timesofisrael.com/number-of-covid-19-cases-surges-past-4000-but-infection-rate-slowing/
+    url: >-
+      https://www.timesofisrael.com/number-of-covid-19-cases-surges-past-4000-but-infection-rate-slowing/
+    when: '2020-03-29T22:38:00.000Z'
+    originalWhen: ''
+    author: Emily Kirschenbaum
+    source: The Times of Israel
+    logo: ''
+    image: >-
+      https://static.timesofisrael.com/www/uploads/2020/03/F200329NS14-1024x640.jpg
+    title: 'Number of Israeli coronavirus cases surges past 4,000'
+    summary: >-
+      Health Ministry reports 4,247 COVID-19 cases, 74 in serious condition; 15
+      Israelis have died from the disease -- 3 in 24 hours
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 56
+    originalUrl: >-
+      https://www.themonitor.com/2020/03/30/spains-hospitals-breaking-point-us-cities-brace/
+    url: >-
+      https://www.themonitor.com/2020/03/30/spains-hospitals-breaking-point-us-cities-brace/
+    when: '2020-03-30T17:07:11.000Z'
+    originalWhen: ''
+    author: Associated Press
+    source: The Monitor
+    logo: ''
+    image: >-
+      https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/60/2020/03/AP20090557718515.jpg
+    title: 'Spain’s hospitals at breaking point, US cities brace - The Monitor'
+    summary: >-
+      Bells tolled in Madrid’s deserted central square and flags were lowered in
+      a day of mourning Monday as Spain raced to build field hospitals to treat
+      an onslaught of coronavirus patients. In the U.S., the government’s top
+      infectious-disease expert warned that smaller cities are about to see …
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 74
+    originalUrl: >-
+      https://www.nbcnewyork.com/news/local/usns-comfort-arrives-in-nyc-monday-to-help-hospital-with-non-coronavirus-patients/2350317/
+    url: >-
+      https://www.nbcnewyork.com/news/local/usns-comfort-arrives-in-nyc-monday-to-help-hospital-with-non-coronavirus-patients/2350317/
+    when: '2020-03-30T21:26:27.000Z'
+    originalWhen: ''
+    author: NBC New York
+    source: NBC New York
+    logo: 'https://media.nbcnewyork.com/wp-content/uploads/2019/09/light_amp_wnbc.png'
+    image: >-
+      https://media.nbcnewyork.com/2019/09/USNS-Comfort-Statue-Liberty.jpg?fit=744%2C416
+    title: >-
+      Crowds Greet USNS Comfort in NYC Monday; Ship to Help Hospitals With
+      Non-Coronavirus Patients
+    summary: >-
+      This isn’t the first time the USNS Comfort will have been in New York City
+      — it was stationed off Manhattan’s West Side in September 2001 after…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 76
+    originalUrl: >-
+      https://www.usatoday.com/story/news/nation/2020/03/31/coronavirus-central-park-hospital-treat-new-york-city-patients/5094590002/
+    url: >-
+      https://www.usatoday.com/story/news/nation/2020/03/31/coronavirus-central-park-hospital-treat-new-york-city-patients/5094590002/
+    when: '2020-03-31T22:35:28.000Z'
+    originalWhen: ''
+    author: Lorenzo Reyes
+    source: USA TODAY
+    logo: 'https://www.gannett-cdn.com/sites/usatoday/images/site-nav-logo@2x.png'
+    image: >-
+      https://www.gannett-cdn.com/presto/2020/03/31/USAT/eba0cece-1590-4485-9ff9-fff8e920a8c4-Central_Park_field_hospital_06.JPG?crop=5131,2886,x30,y390&width=3200&height=1800&format=pjpg&auto=webp
+    title: >-
+      An emergency field hospital to treat COVID-19 patients is opening in NYC’s
+      Central Park
+    summary: >-
+      Volunteer physicians and others have set-up an emergency field hospital in
+      New York City’s Central Park to help with the influx of patients. (March
+      30) AP
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 53
     originalUrl: ''
-    url: 'https://twitter.com/HelenBranswell/status/1212743618756263937'
-    when: 'Thu Jan 02 14:33:05 +0000 2020'
-    author: '@HelenBranswell | 28838219'
+    url: 'https://twitter.com/patio11/status/1252584173446946816'
+    when: 'Tue Apr 21 13:05:13 +0000 2020'
+    originalWhen: ''
+    author: '@patio11 | 20844341'
     source: Twitter
     logo: ''
     image: ''
     title: ''
-    summary: |-
-      Not liking the look of this. 
-      https://t.co/uqmeQ8if06
-    comments: <p><br></p>
+    summary: >-
+      A month ago, the pseudonymous Working Group did an independent research
+      project on the coronavirus outbreak in Japa… https://t.co/r9YHVHGIFP
+    comments: ''
     suggestions: ''
     tags: ''
-    chapter: 'January: Distant Early Warning'
-    originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
+    chapter: ''
+  - id: 42
+    originalUrl: >-
+      https://tomaspueyo.medium.com/coronavirus-the-hammer-and-the-dance-be9337092b56
+    url: >-
+      https://tomaspueyo.medium.com/coronavirus-the-hammer-and-the-dance-be9337092b56
+    when: '2020-05-28T07:58:27.631Z'
+    originalWhen: ''
+    author: Tomas Pueyo
+    source: Medium
+    logo: 'https://miro.medium.com/max/616/1*OMF3fSqH8t4xBJ9-6oZDZw.png'
+    image: 'https://miro.medium.com/max/1200/1*a9Lcz2g8DkKdnW0o_vk3ow.png'
+    title: 'Coronavirus: The Hammer and the Dance'
+    summary: >-
+      This article follows Coronavirus: Why You Must Act Now, with over 40
+      million views and 30 translations. Translations into 37 languages
+      available at the bottom. Running list of endorsements here. Over…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 41
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/07/it-okay-go-beach/613849/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/07/it-okay-go-beach/613849/
+    when: '2020-07-04T14:57:49.000Z'
+    originalWhen: ''
+    author: Zeynep Tufekci
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/wjsG486s0ebCxEj9pPnqOEqrQhk=/0x86:4291x2321/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/07/GettyImagesDan_Kitwood_Getty/original.jpg
+    title: Scolding Beachgoers Isn’t Helping
+    summary: >-
+      People complain that going to the shore is a careless act during a
+      pandemic, but the science so far suggests otherwise.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 40
+    originalUrl: >-
+      https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/
+    url: >-
+      https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/
+    when: '2020-08-06T17:36:44.000Z'
+    originalWhen: ''
+    author: Ed Yong
+    source: The Atlantic
+    logo: 'https://cdn.theatlantic.com/assets/media/files/atlantic-logo--224x224.png'
+    image: >-
+      https://cdn.theatlantic.com/thumbor/hxJmG6knoo9z4WSZsGMiGnI5KOc=/0x246:1997x1286/960x500/media/img/2020/07/WEL_Yong_Covid_Lead_New/original.jpg
+    title: How the Pandemic Defeated America
+    summary: A virus has brought the world’s most powerful country to its knees.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 269df449581be18db779391b78b1df2fc7d3b791
+sha: ce02f45d9c74cc34dd171019dc7059f1098491dd
 slug: the-pandemic
