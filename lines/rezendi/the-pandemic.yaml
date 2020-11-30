@@ -292,6 +292,90 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 60
+    originalUrl: >-
+      https://english.alarabiya.net/en/News/middle-east/2020/03/11/Coronavirus-Iran-confirms-a-total-of-9-000-infections.html
+    url: >-
+      https://english.alarabiya.net/en/News/middle-east/2020/03/11/Coronavirus-Iran-confirms-a-total-of-9-000-infections
+    when: '2020-03-11T11:04:46.499Z'
+    originalWhen: ''
+    author: Al Arabiya English
+    source: Al Arabiya English
+    logo: >-
+      https://www.alarabiya.net/.resources/aa-templating-lm/webresources/gfx/amp/logo.png
+    image: >-
+      https://vid.alarabiya.net/images/2020/03/11/f44d0fc7-43e9-41bb-8075-ae85dcf6caab/f44d0fc7-43e9-41bb-8075-ae85dcf6caab_16x9_600x338.jpg
+    title: 'Coronavirus: Iran confirms 354 deaths, total of 9,000 infections'
+    summary: >-
+      Iran’s death toll from the coronavirus outbreak reached 354, a rise of 63
+      in the past 24 hours, a health ministry spokesman said on Wednesday. Aroun
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 59
+    originalUrl: 'https://www.bbc.co.uk/news/world-asia-china-51813876'
+    url: 'https://www.bbc.co.uk/news/world-asia-china-51813876'
+    when: '2020-03-10T12:30:55.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/1EFA/production/_111203970_060546887-1.jpg
+    title: 'Coronavirus: China says disease ‘curbed’ in Wuhan and Hubei'
+    summary: >-
+      President Xi Jinping says the spread of the disease had been “basically
+      curbed” in Hubei province.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 61
+    originalUrl: >-
+      https://www.latimes.com/science/story/2020-03-09/world-health-organization-resists-calling-coronavirus-outbreak-a-pandemic
+    url: >-
+      https://www.latimes.com/science/story/2020-03-09/world-health-organization-resists-calling-coronavirus-outbreak-a-pandemic
+    when: '2020-03-09T15:08:01.469Z'
+    originalWhen: ''
+    author: Associated Press
+    source: Los Angeles Times
+    logo: >-
+      https://ca-times.brightspotcdn.com/dims4/default/8e7e58f/2147483647/strip/true/crop/382x60+0+0/resize/382x60!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2F5f%2F46c2d05b430cbc6e775301df1062%2Flogo-full-black.png
+    image: >-
+      https://ca-times.brightspotcdn.com/dims4/default/78ce460/2147483647/strip/true/crop/3791x1990+0+268/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F58%2F10%2F3ff5dcd042f4b5d6e29a5517bc73%2Fap20066863936058.jpg
+    title: >-
+      The coronavirus outbreak sure looks like a pandemic, except to the World
+      Health Organization
+    summary: >-
+      The World Health Organization has so far resisted describing the
+      coronavirus outbreak as a pandemic, but many experts agree it’s the most
+      accurate word.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 58
+    originalUrl: 'https://en.yna.co.kr/view/AEN20200309003455320'
+    url: 'https://en.yna.co.kr/view/AEN20200309003455320'
+    when: '2020-03-09T08:36:03.000Z'
+    originalWhen: ''
+    author: 김덕현
+    source: Yonhap News Agency
+    logo: ''
+    image: >-
+      https://img7.yna.co.kr/photo/yna/YH/2020/03/06/PYH2020030901160031500_P4.jpg
+    title: >-
+      (5th LD) S. Korea’s virus cases near 7,500, but pace of new infections
+      slows | Yonhap News Agency
+    summary: >-
+      (ATTN: UPDATES with KCDC’s latest toll in first 5 paras; ADDS details in
+      paras 20-21;...
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 46
     originalUrl: 'https://www.bbc.com/news/world-middle-east-51787238'
     url: 'https://www.bbc.com/news/world-middle-east-51787238'
@@ -1075,5 +1159,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 547b171ee4e054828516d83ae9817d7e1d66dffb
+sha: 7de8e2236039b6a0c6edb1742a89da668db1e27f
 slug: the-pandemic
