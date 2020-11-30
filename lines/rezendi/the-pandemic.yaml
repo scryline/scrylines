@@ -826,25 +826,6 @@ entries:
     suggestions: ''
     tags: ''
     chapter: 'Mid March: Eruption'
-  - id: 62
-    originalUrl: 'https://www.bbc.com/news/uk-51839106'
-    url: 'https://www.bbc.com/news/uk-51839106'
-    when: '2020-03-11T20:35:31.000Z'
-    originalWhen: ''
-    author: BBC News
-    source: BBC News
-    logo: >-
-      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
-    image: >-
-      https://ichef.bbci.co.uk/news/1024/branded_news/10E02/production/_111222196_hi060551922.jpg
-    title: 'Coronavirus: Biggest daily rise as UK cases reach 460'
-    summary: >-
-      The NHS confirms two more patients with coronavirus have died in the UK,
-      bringing the total to eight.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 69
     originalUrl: >-
       https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/
@@ -1081,29 +1062,6 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 65
-    originalUrl: >-
-      https://www.straitstimes.com/asia/se-asia/coronavirus-malaysia-records-117-new-cases-to-total-790-mosque-cluster-reaches-514
-    url: >-
-      https://www.straitstimes.com/asia/se-asia/coronavirus-malaysia-records-117-new-cases-to-total-790-mosque-cluster-reaches-514
-    when: '2020-03-18T11:25:22.000Z'
-    originalWhen: ''
-    author: 'null'
-    source: The Straits Times
-    logo: ''
-    image: >-
-      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/03/18/yq-mycov-18032020.jpg?itok=C7lh0p1U
-    title: >-
-      Malaysia records 117 new coronavirus cases, bringing total to 790; mosque
-      cluster reaches 514 cases
-    summary: >-
-      Malaysia on Wednesday (March 18) confirmed 117 new Covid-19 cases, of
-      which 80 are linked to the Sri Petaling mosque cluster.. Read more at
-      straitstimes.com.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 102
     originalUrl: >-
       https://www.nbcnews.com/politics/donald-trump/u-s-canada-agree-close-border-non-essential-traffic-trump-n1162796
@@ -1124,46 +1082,6 @@ entries:
       President Trump tweeted that he and Canadian Prime Minister Justin Trudeau
       agreed to close the U.S.-Canada border over the coronavirus outbreak, but
       will allow trade to continue.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 117
-    originalUrl: >-
-      https://www.nationalgeographic.com/history/2020/03/60-million-person-coronavirus-lockdown-united-states/
-    url: >-
-      https://www.nationalgeographic.com/history/2020/03/60-million-person-coronavirus-lockdown-united-states/
-    when: '2020-03-19T18:33:26.000Z'
-    originalWhen: ''
-    author: Eve ConantGraphics by Riley D. Champine
-    source: 'null'
-    logo: ''
-    image: >-
-      https://www.nationalgeographic.com/content/dam/archaeologyandhistory/rights-exempt/OG/coronavirus-lockdown-og.ngsversion.1584642805780.adapt.1900.1.jpg
-    title: Here’s what a massive lockdown would look like in the U.S.
-    summary: >-
-      China and Italy have enacted sweeping restrictions to stem the new
-      coronavirus. This is how those efforts would map onto the States.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 118
-    originalUrl: >-
-      https://www.nationalgeographic.com/history/2020/03/60-million-person-coronavirus-lockdown-united-states/
-    url: >-
-      https://www.nationalgeographic.com/history/2020/03/60-million-person-coronavirus-lockdown-united-states/
-    when: '2020-03-19T18:33:26.000Z'
-    originalWhen: ''
-    author: Eve ConantGraphics by Riley D. Champine
-    source: 'null'
-    logo: ''
-    image: >-
-      https://www.nationalgeographic.com/content/dam/archaeologyandhistory/rights-exempt/OG/coronavirus-lockdown-og.ngsversion.1584642805780.adapt.1900.1.jpg
-    title: Here’s what a massive lockdown would look like in the U.S.
-    summary: >-
-      China and Italy have enacted sweeping restrictions to stem the new
-      coronavirus. This is how those efforts would map onto the States.
     comments: ''
     suggestions: ''
     tags: ''
@@ -2320,5 +2238,5 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: b6413a6324ffc209e5f0b7b0fe9316b07380f7dd
+sha: 926c80e0cb5f9b1f83aa385a97f47eb0c073e4a6
 slug: the-pandemic
