@@ -144,6 +144,46 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 122
+    originalUrl: ''
+    url: 'https://twitter.com/SteveFDA/status/1256318748471918593'
+    when: 'Fri May 01 20:25:05 +0000 2020'
+    originalWhen: ''
+    author: '@SteveFDA | 2904169317'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      FDA issued an Emergency Use Authorization (EUA) to Gilead Sciences, Inc.
+      for the investigational antiviral drug rem… https://t.co/VGEQNlUu38
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 123
+    originalUrl: >-
+      https://www.today.com/health/coronavirus-symptoms-cdc-adds-6-new-conditions-include-chills-muscle-t180026
+    url: >-
+      https://www.today.com/health/coronavirus-symptoms-cdc-adds-6-new-conditions-include-chills-muscle-t180026
+    when: '2020-04-28T14:00:33.000Z'
+    originalWhen: ''
+    author: Maura Hohman
+    source: TODAY
+    logo: 'https://nodeassets.today.com/cdnassets/today-images/today-logo.png'
+    image: >-
+      https://media1.s-nbcnews.com/j/newscms/2020_18/1563338/covid-chills-today-main-200427_a0fb8c76a2d8f0525b349592461f41d1.social_share_1200x630_center.jpg
+    title: CDC adds 6 new coronavirus symptoms to its list
+    summary: >-
+      Dr. John Torres, NBC’s medical correspondent, tells TODAY that the World
+      Health Organization is questioning the accuracy and reliability of
+      antibody testing kits and that people could get “a false sense of
+      security” if they have has the coronavirus. He says it’s unknown how high
+      a level of antibodie…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 94
     originalUrl: >-
       https://www.npr.org/sections/coronavirus-live-updates/2020/04/27/845304917/new-zealand-says-it-has-won-battle-against-covid-19
@@ -199,6 +239,23 @@ entries:
     summary: >-
       Some Americans can resume going to restaurants, cinemas and nail salons
       starting this week.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 121
+    originalUrl: ''
+    url: 'https://twitter.com/AnaSwanson/status/1254416173854228489'
+    when: 'Sun Apr 26 14:24:56 +0000 2020'
+    originalWhen: ''
+    author: '@AnaSwanson | 17647477'
+    source: Twitter
+    logo: ''
+    image: 'https://pbs.twimg.com/media/EWiU3BmWsAEszdX.jpg'
+    title: ''
+    summary: >-
+      “The food supply chain is breaking,” Tyson Foods warns in a full page ad
+      in NYT today https://t.co/5cyusH6L9V
     comments: ''
     suggestions: ''
     tags: ''
@@ -318,6 +375,25 @@ entries:
     summary: >-
       A man wearing a mask and a blue raincoat holds a portrait as he stands
       outside the Biandanshan cemetery in Wuhan on March 31.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 124
+    originalUrl: 'https://www.bbc.com/news/world-europe-52202700'
+    url: 'https://www.bbc.com/news/world-europe-52202700'
+    when: '2020-04-07T18:36:00.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/4015/production/_111650461_eiffeljoggeuse.jpg
+    title: 'Coronavirus: Paris bans daytime outdoor exercise'
+    summary: >-
+      France’s new restriction on exercise in the capital comes as the death
+      toll rises above 10,000.
     comments: ''
     suggestions: ''
     tags: ''
@@ -2263,5 +2339,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 9db02f65dcdb1bf15e32d31c51dfb3bcf89af8b0
+sha: 735a92136cca8612ae7af5b1bcd69f4732dfd61e
 slug: the-pandemic
