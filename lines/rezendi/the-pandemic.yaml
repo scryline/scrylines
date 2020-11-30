@@ -58,6 +58,117 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 52
+    originalUrl: >-
+      https://www.theguardian.com/us-news/2020/mar/27/new-york-coronavirus-elmhurst-hospital
+    url: >-
+      http://www.theguardian.com/us-news/2020/mar/27/new-york-coronavirus-elmhurst-hospital
+    when: '2020-03-27T17:01:18.000Z'
+    originalWhen: '2020-07-01T17:01:18.000Z'
+    author: Jessica Glenza
+    source: the Guardian
+    logo: ''
+    image: >-
+      https://i.guim.co.uk/img/media/85edd2b1c0542f8d38390575663126fa1faa135e/0_144_4315_2589/master/4315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e3ef68bcd90d8eede75cfed634fb6db
+    title: >-
+      ‘It’s what was happening in Italy’: the hospital at the center of New
+      York’s Covid-19 crisis
+    summary: >-
+      Elmhurst hospital, located in one of the poorest areas of New York City,
+      is ‘overwhelmed’ as people line up outside for tests and treatment
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 51
+    originalUrl: >-
+      https://www.nytimes.com/2020/03/19/world/europe/europe-china-coronavirus.html
+    url: >-
+      https://www.nytimes.com/2020/03/19/world/europe/europe-china-coronavirus.html
+    when: '2020-03-20T00:18:25.000Z'
+    originalWhen: ''
+    author: Richard Pérez-Peña
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/03/19/world/19virus-numbers/19virus-numbers-facebookJumbo.jpg
+    title: Virus Hits Europe Harder Than China. Is That the Price of an Open Society?
+    summary: >-
+      The epidemic is now bigger in Europe, where governments aren’t used to
+      giving harsh orders, and citizens aren’t used to following them.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 50
+    originalUrl: >-
+      https://www.npr.org/2020/03/19/817974987/every-single-individual-must-stay-home-italy-s-coronavirus-deaths-pass-china-s
+    url: >-
+      https://www.npr.org/2020/03/19/817974987/every-single-individual-must-stay-home-italy-s-coronavirus-deaths-pass-china-s
+    when: '2020-03-19T23:39:00.000Z'
+    originalWhen: ''
+    author: Sylvia Poggioli
+    source: NPR
+    logo: 'https://media.npr.org/chrome/npr-logo.jpg'
+    image: >-
+      https://media.npr.org/assets/img/2020/03/18/ap_20077405049336_wide-9f6f0e117035a14bdf3410b43c9e915482264f5a.jpg?s=1400
+    title: >-
+      ‘Every Single Individual Must Stay Home’: Italy’s Coronavirus Surge
+      Strains Hospitals
+    summary: >-
+      The country has universal health care. But now, fighting tens of thousands
+      of coronavirus cases, Italian hospitals and medical staff are overwhelmed,
+      prompting anguished debate.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 48
+    originalUrl: >-
+      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
+    url: >-
+      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
+    when: '2020-03-13T11:23:03.000Z'
+    originalWhen: ''
+    author: Silvia Amaro
+    source: CNBC
+    logo: >-
+      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
+    image: >-
+      https://image.cnbcfm.com/api/v1/image/106441351-1584092666103gettyimages-1206827827.jpeg?v=1584092710
+    title: >-
+      France shuts schools as coronavirus spreads, hopes to avoid becoming the
+      next Italy
+    summary: >-
+      French President Emmanuel Macron asks global leaders to act together to
+      combat COVID-19, as the country strives to contain its outbreak.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 49
+    originalUrl: >-
+      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
+    url: >-
+      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
+    when: '2020-03-13T11:23:03.000Z'
+    originalWhen: ''
+    author: Silvia Amaro
+    source: CNBC
+    logo: >-
+      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
+    image: >-
+      https://image.cnbcfm.com/api/v1/image/106441351-1584092666103gettyimages-1206827827.jpeg?v=1584092710
+    title: >-
+      France shuts schools as coronavirus spreads, hopes to avoid becoming the
+      next Italy
+    summary: >-
+      French President Emmanuel Macron asks global leaders to act together to
+      combat COVID-19, as the country strives to contain its outbreak.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 47
     originalUrl: >-
       https://www.nytimes.com/2020/03/09/world/europe/italy-lockdown-coronavirus.html
@@ -863,5 +974,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: e888545ffdb387cb4389c52e0d9297dc908fbd98
+sha: c64cd3a39e4e4cb40487b0d8b4d8238d538c973c
 slug: the-pandemic
