@@ -16,6 +16,51 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 21
+    originalUrl: >-
+      https://nationalpost.com/pmn/health-pmn/seventh-italian-dies-from-coronavirus-in-europes-worst-flare-up
+    url: >-
+      https://nationalpost.com/pmn/health-pmn/seventh-italian-dies-from-coronavirus-in-europes-worst-flare-up
+    when: '2020-02-24T19:20:00.000Z'
+    originalWhen: ''
+    author: Reuters
+    source: National Post
+    logo: >-
+      https://dcs-static.prod.postmedia.digital/4.4.3/websites/images/identity/logo-identity-np.svg
+    image: >-
+      https://secure.gravatar.com/avatar/0e5521e933d53566787277062da28f5a?s=70&d=mp
+    title: Seventh Italian dies from coronavirus in Europe’s worst flare-up
+    summary: >-
+      The death toll in Europe’s largest coronavirus outbreak rose to seven on
+      Monday and new cases climbed above 220 as Italy shut down much of its
+      wealthy…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 22
+    originalUrl: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
+    url: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
+    when: '2020-02-24T08:47:08.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: The Straits Times
+    logo: ''
+    image: >-
+      https://www.straitstimes.com/sites/default/files/media-brightcove/6135295959001.jpg
+    title: >-
+      Coronavirus: South Korea confirms 70 more coronavirus cases, total 833;
+      7th death reported
+    summary: >-
+      SEOUL (REUTERS) - South Korea reported another 161 coronavirus cases,
+      bringing the total in the country to 763, Yonhap news agency reported on
+      Monday (Feb 24).. Read more at straitstimes.com.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 10
     originalUrl: 'https://techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
     url: 'https://social.techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
@@ -375,5 +420,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 7d9349bedeec1c1eab3342f09eef0ffab0414b51
+sha: 246a77c789e40f1bd49a465ecadd7f0b393f9c6a
 slug: the-pandemic
