@@ -1135,7 +1135,7 @@ entries:
     url: >-
       https://www.vox.com/2020/3/20/21183315/coronavirus-spain-outbreak-cases-tests
     when: '2020-03-20T12:30:00.000Z'
-    originalWhen: ''
+    originalWhen: '2020-03-20T12:30:00.000Z'
     author: Alex Ward
     source: Vox
     logo: >-
@@ -1146,10 +1146,10 @@ entries:
     summary: >-
       Spain’s Prime Minister Pedro Sánchez and the Spanish public were slow to
       respond to the coronavirus. Now they “resist.”
-    comments: ''
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: ''
+    chapter: 'Late March: Italy, Spain, Iran, NYC'
   - id: 119
     originalUrl: >-
       https://www.nbcnews.com/news/world/75-million-americans-under-virtual-lockdown-after-italy-suffers-huge-n1165591
@@ -2238,5 +2238,5 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 926c80e0cb5f9b1f83aa385a97f47eb0c073e4a6
+sha: 94123ac567079655e419e16c8a698e05f105928e
 slug: the-pandemic
