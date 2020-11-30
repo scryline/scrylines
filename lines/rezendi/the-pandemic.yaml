@@ -120,6 +120,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 104
+    originalUrl: >-
+      https://www.nytimes.com/2020/04/10/world/europe/coronavirus-russia-moscow-putin.html?action=click&module=RelatedLinks&pgtype=Article
+    url: >-
+      https://www.nytimes.com/2020/04/10/world/europe/coronavirus-russia-moscow-putin.html
+    when: '2020-04-10T19:47:34.000Z'
+    originalWhen: ''
+    author: Andrew Higgins
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/04/10/world/10virus-moscow/10moscow-virus-facebookJumbo.jpg
+    title: 'After Months of Denial, Russia Admits the Virus Is Taking Hold'
+    summary: >-
+      The mayor of hard-hit Moscow acknowledged that “the situation is becoming
+      increasingly problematic.”
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 92
     originalUrl: >-
       https://www.cnn.com/2020/04/07/asia/coronavirus-wuhan-lockdown-lifted-intl-hnk/index.html
@@ -159,28 +179,6 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 99
-    originalUrl: >-
-      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
-    url: >-
-      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
-    when: '2020-04-03T16:09:00.000Z'
-    originalWhen: ''
-    author: 'Anthony Faiola, Ana Vanessa Herrero'
-    source: The Washington Post
-    logo: 'https://www.washingtonpost.com/wp-stat/img/wplogo_344x60_blk.png'
-    image: >-
-      https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBNXGCDVWEI6VBOLQZYFPG4GHU.jpg&w=1440
-    title: >-
-      Bodies lie in the streets of Guayaquil, Ecuador, emerging epicenter of the
-      coronavirus in Latin America
-    summary: >-
-      The overwhelmed health system in Ecuador’s largest city could be a
-      harbinger of worse to come in the developing world.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 100
     originalUrl: >-
       https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
@@ -203,7 +201,29 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 91
+  - id: 99
+    originalUrl: >-
+      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
+    url: >-
+      https://www.washingtonpost.com/world/the_americas/coronavirus-guayaquil-ecuador-bodies-corpses-streets/2020/04/03/79c786c8-7522-11ea-ad9b-254ec99993bc_story.html
+    when: '2020-04-03T16:09:00.000Z'
+    originalWhen: ''
+    author: 'Anthony Faiola, Ana Vanessa Herrero'
+    source: The Washington Post
+    logo: 'https://www.washingtonpost.com/wp-stat/img/wplogo_344x60_blk.png'
+    image: >-
+      https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBNXGCDVWEI6VBOLQZYFPG4GHU.jpg&w=1440
+    title: >-
+      Bodies lie in the streets of Guayaquil, Ecuador, emerging epicenter of the
+      coronavirus in Latin America
+    summary: >-
+      The overwhelmed health system in Ecuador’s largest city could be a
+      harbinger of worse to come in the developing world.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 90
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -227,7 +247,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 90
+  - id: 91
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -508,6 +528,27 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 105
+    originalUrl: >-
+      https://www.cnn.com/2020/03/24/asia/india-lockdown-coronavirus-intl/index.html
+    url: >-
+      https://www.cnn.com/2020/03/24/asia/india-lockdown-coronavirus-intl/index.html
+    when: '2020-03-25T02:02:14.000Z'
+    originalWhen: ''
+    author: 'Manveena Suri, Swati Gupta and Ivana Kottasová, CNN'
+    source: CNN
+    logo: ''
+    image: >-
+      https://cdn.cnn.com/cnnnext/dam/assets/200324021755-07-coronavirus-india-0324-super-tease.jpg
+    title: 'India, population 1.3 billion, orders ‘complete’ coronavirus lockdown'
+    summary: >-
+      Prime Minister Narendra Modi ordered a “complete” lockdown for India’s 1.3
+      billion people on Tuesday, warning that “many families will be destroyed
+      forever” if the country didn’t get to grips with its coronavirus outbreak.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 57
     originalUrl: 'https://www.bbc.com/news/world-asia-china-52016139'
     url: 'https://www.bbc.com/news/world-asia-china-52016139'
@@ -566,6 +607,27 @@ entries:
       The global death toll from COVID-19 surpassed 12,000 on Saturday as New
       York City reported thousands of new cases over the past week. Cases in
       that city now make up about a third of all U.S. cases.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 103
+    originalUrl: >-
+      https://www.nbcnews.com/news/us-news/coronavirus-cases-new-york-state-now-top-10-000-n1165626
+    url: >-
+      https://www.nbcnews.com/news/us-news/coronavirus-cases-new-york-state-now-top-10-000-n1165626
+    when: '2020-03-21T16:50:18.000Z'
+    originalWhen: ''
+    author: Nicole Acevedo and Tom Winter
+    source: NBC News
+    logo: >-
+      https://sslnodeassets.nbcnews.com/cdnassets/projects/site-images/nbcnews-logo-white.png
+    image: >-
+      https://media1.s-nbcnews.com/j/newscms/2020_12/3278981/200321-grand-central-terminal-al-1232_9eba7e9e55e0d16c537f2552be3c6bdf.nbcnews-fp-1200-630.jpg
+    title: 'Coronavirus cases in New York State now top 10,000'
+    summary: >-
+      New York Governor Andrew Cuomo announced that New York would “immediately”
+      begin trials for a possible drug therapy for coronavirus.
     comments: ''
     suggestions: ''
     tags: ''
@@ -630,6 +692,30 @@ entries:
       The country has universal health care. But now, fighting tens of thousands
       of coronavirus cases, Italian hospitals and medical staff are overwhelmed,
       prompting anguished debate.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 102
+    originalUrl: >-
+      https://www.nbcnews.com/politics/donald-trump/u-s-canada-agree-close-border-non-essential-traffic-trump-n1162796
+    url: >-
+      https://www.nbcnews.com/politics/donald-trump/u-s-canada-agree-close-border-non-essential-traffic-trump-n1162796
+    when: '2020-03-18T17:59:06.000Z'
+    originalWhen: ''
+    author: Rebecca Shabad
+    source: NBC News
+    logo: >-
+      https://sslnodeassets.nbcnews.com/cdnassets/projects/site-images/nbcnews-logo-white.png
+    image: >-
+      https://media4.s-nbcnews.com/j/newscms/2020_12/3274696/200318-canada-us-border-cs-944a_50cf1b6e9d4db51c650e30d808c7bc3e.nbcnews-fp-1200-630.jpg
+    title: >-
+      U.S. and Canada agree to close border to ‘nonessential traffic,’ Trump
+      says
+    summary: >-
+      President Trump tweeted that he and Canadian Prime Minister Justin Trudeau
+      agreed to close the U.S.-Canada border over the coronavirus outbreak, but
+      will allow trade to continue.
     comments: ''
     suggestions: ''
     tags: ''
@@ -717,6 +803,28 @@ entries:
     summary: >-
       Mayor Bill de Blasio said that it was a wrenching decision to close places
       that are the “heart and soul of the city.”
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 101
+    originalUrl: >-
+      https://www.nbcnews.com/video/germany-starts-border-controls-to-stop-spread-of-coronavirus-80703557892
+    url: >-
+      https://www.nbcnews.com/video/germany-starts-border-controls-to-stop-spread-of-coronavirus-80703557892
+    when: '2020-03-16T12:09:03.000Z'
+    originalWhen: ''
+    author: NBCNews.com
+    source: NBC News
+    logo: >-
+      https://sslnodeassets.nbcnews.com/cdnassets/projects/site-images/nbcnews-logo-white.png
+    image: >-
+      https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/f_mo_lon_germborder_200316_1920x1080.nbcnews-fp-1200-630.jpg
+    title: Germany introduces border controls to stop COVID-19 from spreading
+    summary: >-
+      Long lines formed in Strasbourg as Germany started controlling its border
+      with France, allowing only delivery traffic and commuters across the
+      border as the two countries step up measures to control coronavirus.
     comments: ''
     suggestions: ''
     tags: ''
@@ -1846,5 +1954,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 2f997f65cca89439152a5edec5f7deb71b119ddb
+sha: febd54432f44a4b965b3e03ffefc086dfe56991d
 slug: the-pandemic
