@@ -143,6 +143,24 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 39
+    originalUrl: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
+    url: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
+    when: '2020-02-24T21:17:18.000Z'
+    originalWhen: '2020-04-05T21:17:18.000Z'
+    author: James Hamblin
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/t1PagRyW685jErLIROGIUmKWCaw=/0x405:4134x2558/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/02/h_11.02583938/original.jpg
+    title: You’re Likely to Get the Coronavirus
+    summary: >-
+      Most cases are not life-threatening, which is also what makes the virus a
+      historic challenge to contain.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 22
     originalUrl: >-
       https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-161-new-cases-bringing-total-to-763
@@ -490,7 +508,7 @@ entries:
     url: >-
       https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
     when: '2020-01-31T12:00:00.000Z'
-    originalWhen: ''
+    originalWhen: '2020-01-31T12:00:00.000Z'
     author: 'Andrew Joseph,STAT'
     source: Scientific American
     logo: ''
@@ -500,10 +518,10 @@ entries:
     summary: >-
       A woman from China infected a person in Germany before she began
       displaying symptoms
-    comments: ''
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: ''
+    chapter: 'January: Distant Early Warning'
   - id: 15
     originalUrl: 'https://www.bbc.com/news/world-51318246'
     url: 'https://www.bbc.com/news/world-51318246'
@@ -683,25 +701,7 @@ entries:
     tags: ''
     chapter: 'January: Distant Early Warning'
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
-  - id: 39
-    originalUrl: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
-    url: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
-    when: '2020-002-24T21:17:18.000Z'
-    originalWhen: '2020-04-05T21:17:18.000Z'
-    author: James Hamblin
-    source: The Atlantic
-    logo: ''
-    image: >-
-      https://cdn.theatlantic.com/thumbor/t1PagRyW685jErLIROGIUmKWCaw=/0x405:4134x2558/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/02/h_11.02583938/original.jpg
-    title: You’re Likely to Get the Coronavirus
-    summary: >-
-      Most cases are not life-threatening, which is also what makes the virus a
-      historic challenge to contain.
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 379e6a9c5d8adaa90093beb7b3467bb01ef3d40a
+sha: 7b5cfb81396a3a8b4fa210889bd16b8a63cc0bf7
 slug: the-pandemic
