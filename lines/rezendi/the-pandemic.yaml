@@ -1,17 +1,209 @@
 title: The Pandemic
 entries:
-  - id: 9
+  - id: 1
     originalUrl: ''
-    url: 'https://twitter.com/angie_rasmussen/status/1233420613819289600'
-    when: 'Fri Feb 28 15:56:04 +0000 2020'
-    author: '@angie_rasmussen | 394087611'
+    url: 'https://twitter.com/HelenBranswell/status/1212743618756263937'
+    when: 'Thu Jan 02 14:33:05 +0000 2020'
+    author: '@HelenBranswell | 28838219'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: |-
+      Not liking the look of this. 
+      https://t.co/uqmeQ8if06
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: 'January: Distant Early Warning'
+    originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
+  - id: 12
+    originalUrl: >-
+      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
+    url: >-
+      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
+    when: '2020-01-08T17:07:39.000Z'
+    originalWhen: '2020-01-24T17:07:39.000Z'
+    author: Helen Branswell
+    source: STAT
+    logo: ''
+    image: >-
+      https://www.statnews.com/wp-content/uploads/2020/01/GettyImages-1192512277-1024x576.jpg
+    title: WHO says mysterious illness in China likely being caused by new virus
+    summary: >-
+      Chinese authorities believe a new coronavirus — from the family that
+      produced SARS and MERS — may be the cause of the condition.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 14
+    originalUrl: >-
+      https://www.theguardian.com/world/2020/jan/22/coronavirus-china-measures-rein-spread-mutate-disease-death-toll
+    url: >-
+      http://www.theguardian.com/world/2020/jan/22/coronavirus-china-measures-rein-spread-mutate-disease-death-toll
+    when: '2020-01-23T06:56:07.000Z'
+    originalWhen: '2020-07-01T17:26:07.000Z'
+    author: Lily Kuo
+    source: the Guardian
+    logo: ''
+    image: >-
+      https://i.guim.co.uk/img/media/8954ad48502c4bcb9415ec059732ee33a00c8d39/0_684_4324_2594/master/4324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=986a710d0a55b0b7ee3e2a24b26084c4
+    title: >-
+      Coronavirus: China bars 11m residents from leaving city at centre of
+      outbreak
+    summary: >-
+      Government unveils new countermeasures as country prepares for lunar new
+      year and death toll doubles to 17
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 13
+    originalUrl: >-
+      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
+    url: >-
+      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
+    when: '2020-01-23T15:07:59.000Z'
+    originalWhen: ''
+    author: Michael Levenson
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/01/22/multimedia/22xp-cordon/merlin_167592177_faab52d5-95c1-48a0-b533-934d06fbed8d-facebookJumbo.jpg
+    title: Scale of China’s Wuhan Shutdown Is Believed to Be Without Precedent
+    summary: >-
+      In sealing off a city of 11 million people, China is trying to halt a
+      coronavirus outbreak using a tactic with a complicated history of ethical
+      concerns.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 11
+    originalUrl: >-
+      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
+    url: >-
+      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
+    when: '2020-01-31T12:00:00.000Z'
+    originalWhen: ''
+    author: 'Andrew Joseph,STAT'
+    source: Scientific American
+    logo: ''
+    image: >-
+      https://static.scientificamerican.com/sciam/cache/file/171708EC-2996-4CB7-8D343AD3639E13BA.jpg
+    title: Study Reports First Case of Coronavirus Spread by Asymptomatic Person
+    summary: >-
+      A woman from China infected a person in Germany before she began
+      displaying symptoms
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 2
+    originalUrl: >-
+      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
+    url: >-
+      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
+    when: '2020-02-13T12:00:00.000Z'
+    author: Shirin Ghaffary
+    source: Vox
+    logo: >-
+      https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668548/google_amp.0.png
+    image: >-
+      https://cdn.vox-cdn.com/thumbor/V75qSdtj09QOGQwLl4eAAoiiswI=/0x82:3300x1810/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19819480/615320790.jpg.jpg
+    title: '“No handshakes, please”: The tech industry is terrified of the coronavirus'
+    summary: >-
+      Although public officials in the area say the virus is contained for now,
+      some in the tech industry fear the virus will spread out of control.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 4
+    originalUrl: >-
+      https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
+    url: >-
+      https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
+    when: '2020-02-17T02:53:00.000Z'
+    author: Jo Craven McGinty
+    source: The Wall Street Journal
+    logo: 'https://s.wsj.net/media/wsj_amp_masthead_lg.png'
+    image: 'https://images.wsj.net/im-153762/social'
+    title: How Many People Might One Person With Coronavirus Infect?
+    summary: >-
+      Researchers in U.K. offer clues as to how contagious Covid-19 virus could
+      be
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 3
+    originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
+    url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
+    when: '2020-02-20T15:22:32.738Z'
+    author: Donald G. McNeil Jr.
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/02/02/world/02virus-pandemic-sub/02virus-pandemic-sub-facebookJumbo.jpg
+    title: 'Wuhan Coronavirus Looks Increasingly Like a Pandemic, Experts Say'
+    summary: >-
+      Rapidly rising caseloads alarm researchers, who fear the virus may make
+      its way across the globe. But scientists cannot yet predict how many
+      deaths may result.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+    originalWhen: '2020-02-02T15:22:32.738Z'
+  - id: 6
+    originalUrl: ''
+    url: 'https://twitter.com/kakape/status/1231193492002611200'
+    when: 'Sat Feb 22 12:26:17 +0000 2020'
+    author: '@kakape | 45586617'
     source: Twitter
     logo: ''
     image: ''
     title: ''
     summary: >-
-      I disagree with @WHO. Containment is no longer possible. The focus must be
-      shifted to mitigation. https://t.co/r7WkQOEHbL
+      For me and for everyone I know who has been following #covid19, the last
+      few days have felt like a profound shift i… https://t.co/kJ9HF3lNWp
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 7
+    originalUrl: ''
+    url: 'https://twitter.com/BillHanage/status/1231451071387774977'
+    when: 'Sun Feb 23 05:29:49 +0000 2020'
+    author: '@BillHanage | 21184460'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      IMO this is a blinder on where we stand re #coronavirus #Covid_19 #COVID
+      and what happens now. This will be a pande… https://t.co/88wCere4yO
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 8
+    originalUrl: >-
+      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
+    url: >-
+      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
+    when: '2020-02-23T12:00:00.000Z'
+    author: 'Bill Hanage,Marc Lipsitch'
+    source: Scientific American Blog Network
+    logo: ''
+    image: >-
+      https://static.scientificamerican.com/blogs/cache/file/FF0C8844-B47C-45AC-889F9F4508E4D377.jpg
+    title: How to Report on the COVID-19 Outbreak Responsibly
+    summary: >-
+      Remember, the virus doesn&rsquo;t follow the news and doesn&rsquo;t care
+      about Twitter
     comments: ''
     suggestions: ''
     tags: ''
@@ -37,193 +229,23 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 8
-    originalUrl: >-
-      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
-    url: >-
-      https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
-    when: '2020-02-23T12:00:00.000Z'
-    author: 'Bill Hanage,Marc Lipsitch'
-    source: Scientific American Blog Network
-    logo: ''
-    image: >-
-      https://static.scientificamerican.com/blogs/cache/file/FF0C8844-B47C-45AC-889F9F4508E4D377.jpg
-    title: How to Report on the COVID-19 Outbreak Responsibly
-    summary: >-
-      Remember, the virus doesn&rsquo;t follow the news and doesn&rsquo;t care
-      about Twitter
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 7
+  - id: 9
     originalUrl: ''
-    url: 'https://twitter.com/BillHanage/status/1231451071387774977'
-    when: 'Sun Feb 23 05:29:49 +0000 2020'
-    author: '@BillHanage | 21184460'
+    url: 'https://twitter.com/angie_rasmussen/status/1233420613819289600'
+    when: 'Fri Feb 28 15:56:04 +0000 2020'
+    author: '@angie_rasmussen | 394087611'
     source: Twitter
     logo: ''
     image: ''
     title: ''
     summary: >-
-      IMO this is a blinder on where we stand re #coronavirus #Covid_19 #COVID
-      and what happens now. This will be a pande… https://t.co/88wCere4yO
+      I disagree with @WHO. Containment is no longer possible. The focus must be
+      shifted to mitigation. https://t.co/r7WkQOEHbL
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 6
-    originalUrl: ''
-    url: 'https://twitter.com/kakape/status/1231193492002611200'
-    when: 'Sat Feb 22 12:26:17 +0000 2020'
-    author: '@kakape | 45586617'
-    source: Twitter
-    logo: ''
-    image: ''
-    title: ''
-    summary: >-
-      For me and for everyone I know who has been following #covid19, the last
-      few days have felt like a profound shift i… https://t.co/kJ9HF3lNWp
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 3
-    originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    when: '2020-02-20T15:22:32.738Z'
-    author: Donald G. McNeil Jr.
-    source: NYTimes
-    logo: ''
-    image: >-
-      https://static01.nyt.com/images/2020/02/02/world/02virus-pandemic-sub/02virus-pandemic-sub-facebookJumbo.jpg
-    title: 'Wuhan Coronavirus Looks Increasingly Like a Pandemic, Experts Say'
-    summary: >-
-      Rapidly rising caseloads alarm researchers, who fear the virus may make
-      its way across the globe. But scientists cannot yet predict how many
-      deaths may result.
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-    originalWhen: '2020-02-02T15:22:32.738Z'
-  - id: 4
-    originalUrl: >-
-      https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
-    url: >-
-      https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
-    when: '2020-02-17T02:53:00.000Z'
-    author: Jo Craven McGinty
-    source: The Wall Street Journal
-    logo: 'https://s.wsj.net/media/wsj_amp_masthead_lg.png'
-    image: 'https://images.wsj.net/im-153762/social'
-    title: How Many People Might One Person With Coronavirus Infect?
-    summary: >-
-      Researchers in U.K. offer clues as to how contagious Covid-19 virus could
-      be
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 2
-    originalUrl: >-
-      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
-    url: >-
-      https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
-    when: '2020-02-13T12:00:00.000Z'
-    author: Shirin Ghaffary
-    source: Vox
-    logo: >-
-      https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668548/google_amp.0.png
-    image: >-
-      https://cdn.vox-cdn.com/thumbor/V75qSdtj09QOGQwLl4eAAoiiswI=/0x82:3300x1810/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19819480/615320790.jpg.jpg
-    title: '“No handshakes, please”: The tech industry is terrified of the coronavirus'
-    summary: >-
-      Although public officials in the area say the virus is contained for now,
-      some in the tech industry fear the virus will spread out of control.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 11
-    originalUrl: >-
-      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
-    url: >-
-      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
-    when: '2020-01-31T12:00:00.000Z'
-    originalWhen: ''
-    author: 'Andrew Joseph,STAT'
-    source: Scientific American
-    logo: ''
-    image: >-
-      https://static.scientificamerican.com/sciam/cache/file/171708EC-2996-4CB7-8D343AD3639E13BA.jpg
-    title: Study Reports First Case of Coronavirus Spread by Asymptomatic Person
-    summary: >-
-      A woman from China infected a person in Germany before she began
-      displaying symptoms
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 13
-    originalUrl: >-
-      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
-    url: >-
-      https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
-    when: '2020-01-23T15:07:59.000Z'
-    originalWhen: ''
-    author: Michael Levenson
-    source: NYTimes
-    logo: ''
-    image: >-
-      https://static01.nyt.com/images/2020/01/22/multimedia/22xp-cordon/merlin_167592177_faab52d5-95c1-48a0-b533-934d06fbed8d-facebookJumbo.jpg
-    title: Scale of China’s Wuhan Shutdown Is Believed to Be Without Precedent
-    summary: >-
-      In sealing off a city of 11 million people, China is trying to halt a
-      coronavirus outbreak using a tactic with a complicated history of ethical
-      concerns.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 12
-    originalUrl: >-
-      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
-    url: >-
-      https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
-    when: '2020-01-08T17:07:39.000Z'
-    originalWhen: '2020-01-24T17:07:39.000Z'
-    author: Helen Branswell
-    source: STAT
-    logo: ''
-    image: >-
-      https://www.statnews.com/wp-content/uploads/2020/01/GettyImages-1192512277-1024x576.jpg
-    title: WHO says mysterious illness in China likely being caused by new virus
-    summary: >-
-      Chinese authorities believe a new coronavirus — from the family that
-      produced SARS and MERS — may be the cause of the condition.
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 1
-    originalUrl: ''
-    url: 'https://twitter.com/HelenBranswell/status/1212743618756263937'
-    when: 'Thu Jan 02 14:33:05 +0000 2020'
-    author: '@HelenBranswell | 28838219'
-    source: Twitter
-    logo: ''
-    image: ''
-    title: ''
-    summary: |-
-      Not liking the look of this. 
-      https://t.co/uqmeQ8if06
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: 'January: Distant Early Warning'
-    originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 4f66a614778960741867a1f96a22abd3a85b1cb8
+sha: 29c535e2ecda3d7ee54e8a73636058034f8a9104
 slug: the-pandemic
