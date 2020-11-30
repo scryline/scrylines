@@ -335,6 +335,24 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 32
+    originalUrl: >-
+      https://www.theguardian.com/world/2020/feb/10/coronavirus-uk-declares-outbreak-serious-threat-to-health
+    url: >-
+      http://www.theguardian.com/world/2020/feb/10/coronavirus-uk-declares-outbreak-serious-threat-to-health
+    when: '2020-02-10T17:13:11.000Z'
+    originalWhen: '2020-07-01T17:24:11.000Z'
+    author: Denis Campbell
+    source: the Guardian
+    logo: ''
+    image: >-
+      https://i.guim.co.uk/img/media/b567ddf2451dd057fd278601d751069881a78783/0_51_2493_1495/master/2493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c059c6e2945d1d0b185ffdae0c72569
+    title: 'Coronavirus: number of confirmed UK cases rises from four to eight'
+    summary: News comes after UK declared outbreak was ‘serious threat’ to health
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 18
     originalUrl: >-
       https://www.straitstimes.com/singapore/coronavirus-7-new-confirmed-cases-in-spore-possible-new-cluster-involving-church-in-paya
@@ -543,5 +561,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 364edd18e9144c9cedab3171d4a71b10e7204784
+sha: 4ed328b2100f5750431501abe23b13babd18aba9
 slug: the-pandemic
