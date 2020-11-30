@@ -58,6 +58,30 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 98
+    originalUrl: >-
+      https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-positive-interim-phase-1-data-its-mrna-vaccine
+    url: >-
+      https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-positive-interim-phase-1-data-its-mrna-vaccine
+    when: '2020-05-18T11:30:00.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: 'Moderna, Inc.'
+    logo: ''
+    image: >-
+      https://cts.businesswire.com/ct/CT?id=bwnews&sty=20200518005348r1&sid=acqr8&distro=nx&lang=en
+    title: >-
+      Moderna Announces Positive Interim Phase 1 Data for its mRNA Vaccine
+      (mRNA-1273) Against Novel Coronavirus | Moderna, Inc.
+    summary: >-
+      After two doses all participants evaluated to date across the 25 µg and
+      100 µg dose cohorts seroconverted with binding antibody levels at or above
+      levels seen in convalescent sera mRNA-1273 elicited neutralizing antibody
+      titer levels in all eight initial participants across the 25 µg and 100 µg
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 94
     originalUrl: >-
       https://www.npr.org/sections/coronavirus-live-updates/2020/04/27/845304917/new-zealand-says-it-has-won-battle-against-covid-19
@@ -135,7 +159,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 90
+  - id: 91
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -159,7 +183,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 91
+  - id: 90
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -1778,5 +1802,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 5e1c9d125280157455ef3752affa89dc895cda9a
+sha: c5c0cd90c48ad593a3a42683a0fcba7035712e3f
 slug: the-pandemic
