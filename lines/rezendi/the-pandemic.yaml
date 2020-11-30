@@ -75,6 +75,93 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 92
+    originalUrl: >-
+      https://www.cnn.com/2020/04/07/asia/coronavirus-wuhan-lockdown-lifted-intl-hnk/index.html
+    url: >-
+      https://www.cnn.com/2020/04/07/asia/coronavirus-wuhan-lockdown-lifted-intl-hnk/index.html
+    when: '2020-04-08T14:17:39.000Z'
+    originalWhen: ''
+    author: 'Nectar Gan, CNN'
+    source: CNN
+    logo: ''
+    image: >-
+      https://cdn.cnn.com/cnnnext/dam/assets/200407155858-wuhan-crowds-train-station-0408-super-tease.jpg
+    title: China lifts lockdown on Wuhan as city reemerges from coronavirus crisis
+    summary: >-
+      A man wearing a mask and a blue raincoat holds a portrait as he stands
+      outside the Biandanshan cemetery in Wuhan on March 31.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 93
+    originalUrl: 'https://www.bbc.com/news/uk-52192604'
+    url: 'https://www.bbc.com/news/uk-52192604'
+    when: '2020-04-07T02:15:22.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/143EC/production/_111642928_hi060956503.jpg
+    title: 'Coronavirus: Boris Johnson moved to intensive care as symptoms worsen'
+    summary: >-
+      The PM has asked Foreign Secretary Dominic Raab to deputise “where
+      necessary”, No 10 says.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 91
+    originalUrl: >-
+      https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
+    url: >-
+      https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
+    when: '2020-04-03T00:18:28.268Z'
+    originalWhen: ''
+    author: 'Lena H. Sun, Josh Dawsey'
+    source: The Washington Post
+    logo: 'https://www.washingtonpost.com/wp-stat/img/wplogo_344x60_blk.png'
+    image: >-
+      https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H3HCCQTVDII6VLM3EVHMTGMTXQ.jpg&w=1440
+    title: >-
+      White House expected to urge Americans to wear face coverings in public to
+      slow spread of coronavirus
+    summary: >-
+      Officials have been considering whether to recommend face coverings be
+      worn in public because of increasing evidence that infected people without
+      symptoms can spread the infection, according to internal memos and new
+      guidance provided to the White House by the CDC.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 90
+    originalUrl: >-
+      https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
+    url: >-
+      https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
+    when: '2020-04-03T00:18:28.268Z'
+    originalWhen: ''
+    author: 'Lena H. Sun, Josh Dawsey'
+    source: The Washington Post
+    logo: 'https://www.washingtonpost.com/wp-stat/img/wplogo_344x60_blk.png'
+    image: >-
+      https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H3HCCQTVDII6VLM3EVHMTGMTXQ.jpg&w=1440
+    title: >-
+      White House expected to urge Americans to wear face coverings in public to
+      slow spread of coronavirus
+    summary: >-
+      Officials have been considering whether to recommend face coverings be
+      worn in public because of increasing evidence that infected people without
+      symptoms can spread the infection, according to internal memos and new
+      guidance provided to the White House by the CDC.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 89
     originalUrl: >-
       https://www.reuters.com/article/us-health-coronavirus-saudi/mecca-medina-get-24-hour-curfew-gulf-migrant-worker-districts-locked-down-idUSKBN21K1TV
@@ -1610,5 +1697,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 46209412ec01be312491bbb55e4ae348e6abaa51
+sha: c78b018be4ff0d1b6e154006bbb0d6eebd046b6f
 slug: the-pandemic
