@@ -1737,27 +1737,6 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 120
-    originalUrl: >-
-      https://www.nbcnews.com/health/health-news/live-blog/2020-04-22-coronavirus-news-n1189306/ncrd1190066
-    url: >-
-      https://www.nbcnews.com/health/health-news/live-blog/2020-04-22-coronavirus-news-n1189306
-    when: '2020-04-22T23:15:15.000Z'
-    originalWhen: ''
-    author: 'David K. Li221d ago / 11:15 PM UTC'
-    source: NBC News
-    logo: >-
-      https://sslnodeassets.nbcnews.com/cdnassets/projects/site-images/nbcnews-logo-white.png
-    image: >-
-      https://media1.s-nbcnews.com/j/newscms/2020_17/3316266/200421-coronavirus-live-blog-social-only_2e6c9f1c138f7ba9b631c5f384f29aac.nbcnews-fp-1200-630.jpg
-    title: >-
-      Las Vegas mayor offers up city as ‘control group’ for easing coronavirus
-      restrictions
-    summary: "Tedros Adhanom Ghebreyesus, the World Health Organization’s director-general,\_warned that coronavirus “will be with us for a long time.”"
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 129
     originalUrl: >-
       https://thehill.com/blogs/blog-briefing-room/news/494454-lysol-maker-issues-warning-against-injections-of-disinfectant
@@ -1775,26 +1754,6 @@ entries:
       Lysol maker issues warning against injections of disinfectant after Trump
       comments
     summary: "Lysol manufacturer Reckitt Benckiser\_on Friday issued a warning that “under no circumstance”..."
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 130
-    originalUrl: >-
-      https://www.sciencemag.org/news/2020/04/new-york-clinical-trial-quietly-tests-heartburn-remedy-against-coronavirus
-    url: >-
-      https://www.sciencemag.org/news/2020/04/new-york-clinical-trial-quietly-tests-heartburn-remedy-against-coronavirus
-    when: '2020-04-27T14:58:41.000Z'
-    originalWhen: ''
-    author: Brendan Borrell
-    source: Science | AAAS
-    logo: ''
-    image: >-
-      https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/NIH%20COVID%20coronavirus.jpg?itok=drTwcjtm
-    title: New York clinical trial quietly tests heartburn remedy against coronavirus
-    summary: >-
-      Hospital data from China and a classified drug screening program led to
-      the rapid launch of $21 million study
     comments: ''
     suggestions: ''
     tags: ''
@@ -2087,5 +2046,5 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: a4dfd71cc076b406c6415f1e40e744b9fd6668e9
+sha: fdeb84f0bf623f12e9bf08fe759b5ecc40bacf91
 slug: the-pandemic
