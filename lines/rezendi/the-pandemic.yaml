@@ -1046,21 +1046,25 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 31
-    originalUrl: 'https://news.trust.org/item/20200221170633-5papx/'
-    url: 'https://news.trust.org/item/20200221170633-5papx/'
-    when: '2020-02-21 09:45:00'
+  - id: 82
+    originalUrl: >-
+      https://www.cnbc.com/2020/02/21/only-three-us-states-can-test-for-coronavirus-says-public-lab-group.html
+    url: >-
+      https://www.cnbc.com/2020/02/21/only-three-us-states-can-test-for-coronavirus-says-public-lab-group.html
+    when: '2020-02-21T18:04:45.000Z'
     originalWhen: ''
-    author: Thomson Reuters Foundation
-    source: news.trust.org
-    logo: ''
+    author: Reuters
+    source: CNBC
+    logo: >-
+      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
     image: >-
-      https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/f4a22c11-9111-4a9d-a038-54651c4c8cbe/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100
-    title: Only three U.S. states can test for coronavirus - public lab group
+      https://image.cnbcfm.com/api/v1/image/106398285-1582127217254rts306vj.jpg?v=1582127283
+    title: 'Only three US states can test for coronavirus, says public lab group'
     summary: >-
-      CHINA-HEALTH/USA (URGENT):Only three U.S. states can test for coronavirus
-      - public lab group
-    comments: <p><br></p>
+      California, Nebraska and Illinois are the only U.S. states that can
+      currently test for coronavirus, the Association of Public Health
+      Laboratories (APHL) told Reuters on Friday.
+    comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
@@ -1127,46 +1131,6 @@ entries:
     tags: ''
     chapter: ''
     originalWhen: '2020-02-02T15:22:32.738Z'
-  - id: 33
-    originalUrl: >-
-      https://www.scmp.com/news/hong-kong/health-environment/article/3051312/second-hongkonger-dies-after-becoming-infected
-    url: >-
-      https://www.scmp.com/news/hong-kong/health-environment/article/3051312/second-hongkonger-dies-after-becoming-infected
-    when: '2020-02-19T16:41:48.000Z'
-    originalWhen: ''
-    author: Elizabeth Cheung
-    source: South China Morning Post
-    logo: >-
-      https://cdn2.i-scmp.com/sites/all/modules/custom/scmp_masthead/images/publisher_logo.png
-    image: >-
-      https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/20/525b682c-52bb-11ea-8948-c9a8d8f9b667_image_hires_004146.JPG?itok=BF8bzLnO&v=1582130512
-    title: 'Three new cases confirmed in Hong Kong on Wednesday, taking total to 65'
-    summary: >-
-      The mother-in-law of an engineer infected with the coronavirus was among
-      three new confirmed cases, health officials said on Wednesday, bringing
-      the total in Hong Kong to 65.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 4
-    originalUrl: >-
-      https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
-    url: >-
-      https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
-    when: '2020-02-17T02:53:00.000Z'
-    author: Jo Craven McGinty
-    source: The Wall Street Journal
-    logo: 'https://s.wsj.net/media/wsj_amp_masthead_lg.png'
-    image: 'https://images.wsj.net/im-153762/social'
-    title: How Many People Might One Person With Coronavirus Infect?
-    summary: >-
-      Researchers in U.K. offer clues as to how contagious Covid-19 virus could
-      be
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 2
     originalUrl: >-
       https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
@@ -1493,5 +1457,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 1b198393149107d2581d845c0b33e3292007dacd
+sha: 269df449581be18db779391b78b1df2fc7d3b791
 slug: the-pandemic
