@@ -1,5 +1,26 @@
 title: The Pandemic
 entries:
+  - id: 10
+    originalUrl: 'https://techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
+    url: 'https://social.techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
+    when: '2020-03-16T03:48:06.000Z'
+    author: Jon Evans
+    source: TechCrunch
+    logo: >-
+      https://techcrunch.com/wp-content/themes/techcrunch-2017/images/logo-json-ld.png
+    image: >-
+      https://techcrunch.com/wp-content/uploads/2020/02/800px-2009_world_subdivisions_flu_pandemic.png?w=764
+    title: What happens if a pandemic hits? – TechCrunch
+    summary: >-
+      What happens if a COVID-19 coronavirus pandemic hits? What will the
+      repercussions be if the virus spreads worldwide? How will it change how we
+      live, work, socialize and travel? Don’t get all disaster-movie here. Some
+      people seem to have the notion that a pandemic will mean shutting down
+      borders, bui…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 9
     originalUrl: ''
     url: 'https://twitter.com/angie_rasmussen/status/1233420613819289600'
@@ -141,5 +162,5 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 729e7fdcefd8520ecec8d801e3f64076bedd9d91
+sha: 2c5ee54fcefec5ffff3d20a71a990d1aa3010a20
 slug: the-pandemic
