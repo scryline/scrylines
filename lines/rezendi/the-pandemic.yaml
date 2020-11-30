@@ -1,5 +1,66 @@
 title: The Pandemic
 entries:
+  - id: 27
+    originalUrl: >-
+      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-.html
+    url: >-
+      https://english.alarabiya.net/en/News/middle-east/2020/02/27/Iran-confirms-22-people-dead-141-infected-with-coronavirus-IRNA-
+    when: '2020-05-20T07:05:47.369Z'
+    originalWhen: ''
+    author: Al Arabiya English
+    source: Al Arabiya English
+    logo: >-
+      https://www.alarabiya.net/.resources/aa-templating-lm/webresources/gfx/amp/logo.png
+    image: >-
+      https://vid.alarabiya.net/images/2020/02/25/02035dd7-75ef-4034-8213-b75f6195f766/02035dd7-75ef-4034-8213-b75f6195f766_16x9_600x338.jpg
+    title: 'Iran confirms 26 people dead, 245 infected with coronavirus: Fars'
+    summary: >-
+      The number of people infected with coronavirus in Iran has risen to 245
+      and the death toll to 26, according to Iran’s health ministry, the
+      semi-offic
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 29
+    originalUrl: >-
+      https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
+    url: >-
+      https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
+    when: '2020-02-29T10:34:17.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: The Straits Times
+    logo: ''
+    image: >-
+      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/29/yq-skcov-29022020.jpg?itok=L-V8n1Zl
+    title: >-
+      Coronavirus: South Korea’s total cases jump to 3,150 as it reports first
+      case of reinfection
+    summary: "SEOUL (AFP) -\_South Korea confirmed 813 more coronavirus cases on Saturday (Feb 29), the biggest increase to date for the country,\_taking the national total to 3,150 infections with four additional deaths. . Read more at straitstimes.com."
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 28
+    originalUrl: >-
+      https://www.thenorthernecho.co.uk/news/national/18270758.coronavirus-passed-within-uk-first-time-20th-case-confirmed/
+    url: >-
+      https://www.thenorthernecho.co.uk/news/national/18270758.coronavirus-passed-within-uk-first-time-20th-case-confirmed/
+    when: '2020-02-28T21:01:27.000Z'
+    originalWhen: ''
+    author: Press Association 2020
+    source: The Northern Echo
+    logo: 'http://www.thenorthernecho.co.uk/resources/images/sitelogo/'
+    image: 'https://www.thenorthernecho.co.uk/resources/images/11089455/'
+    title: Coronavirus passed on within UK for first time as 20th case confirmed
+    summary: >-
+      The news comes after a British man became the first UK citizen to die from
+      coronavirus.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 9
     originalUrl: ''
     url: 'https://twitter.com/angie_rasmussen/status/1233420613819289600'
@@ -12,6 +73,92 @@ entries:
     summary: >-
       I disagree with @WHO. Containment is no longer possible. The focus must be
       shifted to mitigation. https://t.co/r7WkQOEHbL
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 25
+    originalUrl: >-
+      https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
+    url: >-
+      https://www.channelnewsasia.com/news/world/spain-seeks-calm-nerves-as-coronavirus-cases-jump-12473398
+    when: '2020-02-26T22:50:37.000Z'
+    originalWhen: ''
+    author: CNA
+    source: CNA
+    logo: >-
+      https://www.channelnewsasia.com/blob/8396140/9e24274cb1be2c905593bba3db240fb9/cna-logo-data.jpg
+    image: >-
+      https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12470082/16x9/991/557/6f639db5bb12c35194a0a4b8fb90dc8c/tU/police-wearing-masks-and-gloves-could-be-seen-surrounding-the-hotel-in-costa-adeje-on-the-southwestern-shore-of-tenerife-1582645644110-3.jpg
+    title: Spain seeks to calm nerves as COVID-19 cases jump
+    summary: >-
+      MADRID: Spain on Wednesday (Feb 26) issued assurances that a cluster of
+      new coronavirus infections did not risk a broader spread, after nine cases
+      were detected within a 24-hour period.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 26
+    originalUrl: >-
+      https://english.elpais.com/society/2020-02-26/madrid-confirms-first-case-of-coronavirus.html
+    url: >-
+      https://english.elpais.com/society/2020-02-26/madrid-confirms-first-case-of-coronavirus.html
+    when: '2020-02-26T14:48:30.085Z'
+    originalWhen: ''
+    author: 'Jessica Mouzo, El País'
+    source: EL PAÍS
+    logo: ''
+    image: >-
+      https://images.english.elpais.com/resizer/8AMT7LRtWzfVfyz77OFwuhf5IHM=/1000x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VNBPIHS7MVBUFDQV4NCMPJIY2I.jpg
+    title: Spain detects 10 new cases of coronavirus in 36 hours
+    summary: >-
+      A new positive is reported in Seville, adding to the patients in Madrid,
+      Catalonia, the Valencia region and Tenerife
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 24
+    originalUrl: >-
+      https://news.sky.com/story/coronavirus-warning-travelers-from-northern-italy-must-self-isolate-11942709
+    url: >-
+      https://news.sky.com/story/coronavirus-warning-travelers-from-northern-italy-must-self-isolate-11942709
+    when: '2020-02-25T21:54:00.000Z'
+    originalWhen: ''
+    author: 'Aubrey Allegretti and Tom Gillespie, news reporters'
+    source: Sky
+    logo: 'https://news.sky.com/assets/sky-news-logo.png?v=1'
+    image: >-
+      https://e3.365dm.com/20/02/1600x900/skynews-coronavirus-italy-milan_4930713.jpg?20200225195334
+    title: 'Coronavirus: Four more dead in Italy as disease spreads across Europe'
+    summary: >-
+      Sky News is an unrivalled, world class breaking news service with a spirit
+      of innovation and a fresh approach to news broadcasting. As the UK’s first
+      dedicated 24-hour news channel, Sky News has built a deserved reputation
+      for being the first to break major news as well as offering insight and
+      analy…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 23
+    originalUrl: >-
+      https://nationalpost.com/pmn/health-pmn/iran-says-coronavirus-death-toll-reaches-16-95-infected
+    url: >-
+      https://nationalpost.com/pmn/health-pmn/iran-says-coronavirus-death-toll-reaches-16-95-infected
+    when: '2020-02-25T10:34:00.000Z'
+    originalWhen: ''
+    author: Reuters
+    source: National Post
+    logo: >-
+      https://dcs-static.prod.postmedia.digital/4.4.3/websites/images/identity/logo-identity-np.svg
+    image: >-
+      https://secure.gravatar.com/avatar/0e5521e933d53566787277062da28f5a?s=70&d=mp
+    title: 'Iran says coronavirus death toll reaches 16, 95 infected'
+    summary: >-
+      Two more people infected with the new coronavirus have died, taking the
+      toll in Iran to 16, a Health Ministry official told state TV on Tuesday.
     comments: ''
     suggestions: ''
     tags: ''
@@ -420,5 +567,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 246a77c789e40f1bd49a465ecadd7f0b393f9c6a
+sha: c59c0b73ef1ad62610bc2167b76847813cabae8c
 slug: the-pandemic
