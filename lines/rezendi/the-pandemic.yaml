@@ -1,5 +1,81 @@
 title: The Pandemic
 entries:
+  - id: 40
+    originalUrl: >-
+      https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/
+    url: >-
+      https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/
+    when: '2020-08-06T17:36:44.000Z'
+    originalWhen: ''
+    author: Ed Yong
+    source: The Atlantic
+    logo: 'https://cdn.theatlantic.com/assets/media/files/atlantic-logo--224x224.png'
+    image: >-
+      https://cdn.theatlantic.com/thumbor/hxJmG6knoo9z4WSZsGMiGnI5KOc=/0x246:1997x1286/960x500/media/img/2020/07/WEL_Yong_Covid_Lead_New/original.jpg
+    title: How the Pandemic Defeated America
+    summary: A virus has brought the world’s most powerful country to its knees.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 41
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/07/it-okay-go-beach/613849/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/07/it-okay-go-beach/613849/
+    when: '2020-07-04T14:57:49.000Z'
+    originalWhen: ''
+    author: Zeynep Tufekci
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/wjsG486s0ebCxEj9pPnqOEqrQhk=/0x86:4291x2321/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/07/GettyImagesDan_Kitwood_Getty/original.jpg
+    title: Scolding Beachgoers Isn’t Helping
+    summary: >-
+      People complain that going to the shore is a careless act during a
+      pandemic, but the science so far suggests otherwise.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 42
+    originalUrl: >-
+      https://tomaspueyo.medium.com/coronavirus-the-hammer-and-the-dance-be9337092b56
+    url: >-
+      https://tomaspueyo.medium.com/coronavirus-the-hammer-and-the-dance-be9337092b56
+    when: '2020-05-28T07:58:27.631Z'
+    originalWhen: ''
+    author: Tomas Pueyo
+    source: Medium
+    logo: 'https://miro.medium.com/max/616/1*OMF3fSqH8t4xBJ9-6oZDZw.png'
+    image: 'https://miro.medium.com/max/1200/1*a9Lcz2g8DkKdnW0o_vk3ow.png'
+    title: 'Coronavirus: The Hammer and the Dance'
+    summary: >-
+      This article follows Coronavirus: Why You Must Act Now, with over 40
+      million views and 30 translations. Translations into 37 languages
+      available at the bottom. Running list of endorsements here. Over…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 43
+    originalUrl: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-600-new-cases-3-more-deaths
+    url: >-
+      https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-600-new-cases-3-more-deaths
+    when: '2020-03-03T14:03:34.000Z'
+    originalWhen: '2020-03-03T14:03:34.000Z'
+    author: 'null'
+    source: The Straits Times
+    logo: ''
+    image: >-
+      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/03/03/rk_moonjaein_030320.jpg?itok=6jgePol7
+    title: 'South Korea declares ‘war’ on coronavirus as cases approach 5,000'
+    summary: "Authorities are seeking\_murder charges against leaders of the secretive church\_at the centre of the outbreak.. Read more at straitstimes.com."
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: 'March: Eruption'
   - id: 30
     originalUrl: >-
       https://nypost.com/2020/02/29/two-new-coronavirus-cases-identified-in-washington-state/
@@ -521,7 +597,7 @@ entries:
     comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: 'January: Distant Early Warning'
+    chapter: ''
   - id: 15
     originalUrl: 'https://www.bbc.com/news/world-51318246'
     url: 'https://www.bbc.com/news/world-51318246'
@@ -703,5 +779,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 7b5cfb81396a3a8b4fa210889bd16b8a63cc0bf7
+sha: 468d6db711270eca2f0f1c199a320d43e7c183b7
 slug: the-pandemic
