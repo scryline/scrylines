@@ -75,6 +75,28 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 56
+    originalUrl: >-
+      https://www.themonitor.com/2020/03/30/spains-hospitals-breaking-point-us-cities-brace/
+    url: >-
+      https://www.themonitor.com/2020/03/30/spains-hospitals-breaking-point-us-cities-brace/
+    when: '2020-03-30T17:07:11.000Z'
+    originalWhen: ''
+    author: Associated Press
+    source: The Monitor
+    logo: ''
+    image: >-
+      https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/60/2020/03/AP20090557718515.jpg
+    title: 'Spain’s hospitals at breaking point, US cities brace - The Monitor'
+    summary: >-
+      Bells tolled in Madrid’s deserted central square and flags were lowered in
+      a day of mourning Monday as Spain raced to build field hospitals to treat
+      an onslaught of coronavirus patients. In the U.S., the government’s top
+      infectious-disease expert warned that smaller cities are about to see …
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 52
     originalUrl: >-
       https://www.theguardian.com/us-news/2020/mar/27/new-york-coronavirus-elmhurst-hospital
@@ -157,6 +179,28 @@ entries:
       The country has universal health care. But now, fighting tens of thousands
       of coronavirus cases, Italian hospitals and medical staff are overwhelmed,
       prompting anguished debate.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 55
+    originalUrl: >-
+      https://www.cnn.com/2020/03/16/europe/spain-coronavirus-lockdown-intl/index.html
+    url: >-
+      https://www.cnn.com/2020/03/16/europe/spain-coronavirus-lockdown-intl/index.html
+    when: '2020-03-16T22:07:06.000Z'
+    originalWhen: ''
+    author: 'Al Goodman, Laura Perez Maestro, Sheena McKenzie and Tara John, CNN'
+    source: CNN
+    logo: ''
+    image: >-
+      https://cdn.cnn.com/cnnnext/dam/assets/200316105611-01-coronavirus-spain-lockdown-0315-super-tease.jpg
+    title: >-
+      European Union will close its borders to all non-essential travel to fight
+      coronavirus
+    summary: >-
+      At a supermarket in central Madrid, lines taped on the ground indicate how
+      far apart customers should stand.
     comments: ''
     suggestions: ''
     tags: ''
@@ -1012,5 +1056,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: f2a10b358cf228669aaea73222653207e7b9e781
+sha: 5c181a352adfe00d353d2ec6d2d07692bac82be0
 slug: the-pandemic
