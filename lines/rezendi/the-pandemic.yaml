@@ -97,6 +97,48 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 68
+    originalUrl: >-
+      https://www.timesofisrael.com/number-of-covid-19-cases-surges-past-4000-but-infection-rate-slowing/
+    url: >-
+      https://www.timesofisrael.com/number-of-covid-19-cases-surges-past-4000-but-infection-rate-slowing/
+    when: '2020-03-29T22:38:00.000Z'
+    originalWhen: ''
+    author: Emily Kirschenbaum
+    source: The Times of Israel
+    logo: ''
+    image: >-
+      https://static.timesofisrael.com/www/uploads/2020/03/F200329NS14-1024x640.jpg
+    title: 'Number of Israeli coronavirus cases surges past 4,000'
+    summary: >-
+      Health Ministry reports 4,247 COVID-19 cases, 74 in serious condition; 15
+      Israelis have died from the disease -- 3 in 24 hours
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 67
+    originalUrl: >-
+      https://www.rnz.co.nz/news/national/412818/coronavirus-83-new-cases-in-new-zealand-two-patients-in-intensive-care
+    url: >-
+      https://www.rnz.co.nz/news/national/412818/coronavirus-83-new-cases-in-new-zealand-two-patients-in-intensive-care
+    when: '2020-03-28T01:34:04.000Z'
+    originalWhen: ''
+    author: RNZ News
+    source: RNZ
+    logo: >-
+      https://www.rnz.co.nz/x/logos/print-logo-262944a28c4eafa2eac55e03095c7d276253660f97286dffe44e50d28d7f7ffd.png
+    image: >-
+      https://www.rnz.co.nz/assets/news_crops/98928/eight_col_liver.jpg?1585354043
+    title: 'Coronavirus: 83 new cases in New Zealand, two patients in intensive care'
+    summary: >-
+      There are 83 new cases of Covid-19 - made up of 78 new confirmed cases and
+      five probable cases. Two people are in intensive care in a critical
+      condition.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 52
     originalUrl: >-
       https://www.theguardian.com/us-news/2020/mar/27/new-york-coronavirus-elmhurst-hospital
@@ -116,6 +158,25 @@ entries:
       Elmhurst hospital, located in one of the poorest areas of New York City,
       is ‘overwhelmed’ as people line up outside for tests and treatment
     comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 66
+    originalUrl: 'https://www.bbc.com/news/world-africa-52058717'
+    url: 'https://www.bbc.com/news/world-africa-52058717'
+    when: '2020-03-27T08:00:50.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/0FD6/production/_111445040_mediaitem111445039.jpg
+    title: 'Coronavirus: South Africa reports first deaths as lockdown begins'
+    summary: >-
+      The country’s health ministry says cases have passed 1,000, as a
+      three-week lockdown begins.
+    comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
@@ -202,6 +263,29 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 65
+    originalUrl: >-
+      https://www.straitstimes.com/asia/se-asia/coronavirus-malaysia-records-117-new-cases-to-total-790-mosque-cluster-reaches-514
+    url: >-
+      https://www.straitstimes.com/asia/se-asia/coronavirus-malaysia-records-117-new-cases-to-total-790-mosque-cluster-reaches-514
+    when: '2020-03-18T11:25:22.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: The Straits Times
+    logo: ''
+    image: >-
+      https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/03/18/yq-mycov-18032020.jpg?itok=C7lh0p1U
+    title: >-
+      Malaysia records 117 new coronavirus cases, bringing total to 790; mosque
+      cluster reaches 514 cases
+    summary: >-
+      Malaysia on Wednesday (March 18) confirmed 117 new Covid-19 cases, of
+      which 80 are linked to the Sri Petaling mosque cluster.. Read more at
+      straitstimes.com.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 55
     originalUrl: >-
       https://www.cnn.com/2020/03/16/europe/spain-coronavirus-lockdown-intl/index.html
@@ -220,6 +304,48 @@ entries:
     summary: >-
       At a supermarket in central Madrid, lines taped on the ground indicate how
       far apart customers should stand.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 64
+    originalUrl: >-
+      https://www.irishtimes.com/news/social-affairs/coronavirus-government-calls-on-all-pubs-and-bars-to-close-from-tonight-1.4203494
+    url: >-
+      https://www.irishtimes.com/news/social-affairs/coronavirus-government-calls-on-all-pubs-and-bars-to-close-from-tonight-1.4203494
+    when: '2020-03-15T22:17:00.000Z'
+    originalWhen: ''
+    author: Simon Carswell
+    source: The Irish Times
+    logo: 'https://www.irishtimes.com/assets/images/logo/masthead-600by60.png'
+    image: 'https://www.irishtimes.com/image-creator/?id=1.4203575&origw=682'
+    title: 'Coronavirus: Government calls on all pubs and bars to close from tonight'
+    summary: >-
+      Officials announce new measures to ensure payment of workers if businesses
+      cease trading
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 49
+    originalUrl: >-
+      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
+    url: >-
+      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
+    when: '2020-03-13T11:23:03.000Z'
+    originalWhen: ''
+    author: Silvia Amaro
+    source: CNBC
+    logo: >-
+      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
+    image: >-
+      https://image.cnbcfm.com/api/v1/image/106441351-1584092666103gettyimages-1206827827.jpeg?v=1584092710
+    title: >-
+      France shuts schools as coronavirus spreads, hopes to avoid becoming the
+      next Italy
+    summary: >-
+      French President Emmanuel Macron asks global leaders to act together to
+      combat COVID-19, as the country strives to contain its outbreak.
     comments: ''
     suggestions: ''
     tags: ''
@@ -247,25 +373,59 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 49
-    originalUrl: >-
-      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
-    url: >-
-      https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
-    when: '2020-03-13T11:23:03.000Z'
+  - id: 63
+    originalUrl: 'https://www.bbc.com/sport/football/51865442'
+    url: 'https://www.bbc.co.uk/sport/football/51865442'
+    when: '2020-03-13T00:02:32.000Z'
     originalWhen: ''
-    author: Silvia Amaro
-    source: CNBC
-    logo: >-
-      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
+    author: 'null'
+    source: BBC Sport
+    logo: ''
     image: >-
-      https://image.cnbcfm.com/api/v1/image/106441351-1584092666103gettyimages-1206827827.jpeg?v=1584092710
-    title: >-
-      France shuts schools as coronavirus spreads, hopes to avoid becoming the
-      next Italy
+      https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/2F70/production/_111244121_arteta_getty.jpg
+    title: Arteta tests positive for coronavirus
     summary: >-
-      French President Emmanuel Macron asks global leaders to act together to
-      combat COVID-19, as the country strives to contain its outbreak.
+      Arsenal manager Mikel Arteta has tests positive for coronavirus and the
+      club’s game against Brighton on Saturday has been postponed.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 69
+    originalUrl: >-
+      https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/
+    url: >-
+      https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/
+    when: '2020-03-11T21:40:04.000Z'
+    originalWhen: ''
+    author: Helen Branswell
+    source: STAT
+    logo: ''
+    image: >-
+      https://www.statnews.com/wp-content/uploads/2020/03/GettyImages-1206490013-1024x576.jpg
+    title: WHO declares the coronavirus outbreak a pandemic - STAT
+    summary: >-
+      The declaration is an acknowledgment of what has seemed clear for some
+      time — the virus will likely spread to all countries on the globe.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 62
+    originalUrl: 'https://www.bbc.com/news/uk-51839106'
+    url: 'https://www.bbc.com/news/uk-51839106'
+    when: '2020-03-11T20:35:31.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/10E02/production/_111222196_hi060551922.jpg
+    title: 'Coronavirus: Biggest daily rise as UK cases reach 460'
+    summary: >-
+      The NHS confirms two more patients with coronavirus have died in the UK,
+      bringing the total to eight.
     comments: ''
     suggestions: ''
     tags: ''
@@ -1159,5 +1319,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 7de8e2236039b6a0c6edb1742a89da668db1e27f
+sha: 9a9cab36599ce49bad02dae887b39892c633c6fe
 slug: the-pandemic
