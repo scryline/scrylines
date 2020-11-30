@@ -22,6 +22,27 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 30
+    originalUrl: >-
+      https://nypost.com/2020/02/29/two-new-coronavirus-cases-identified-in-washington-state/
+    url: >-
+      https://nypost.com/2020/02/29/two-new-coronavirus-cases-identified-in-washington-state/
+    when: '2020-02-29T15:25:51.000Z'
+    originalWhen: ''
+    author: View author archive
+    source: New York Post
+    logo: >-
+      https://nypost.com/wp-content/themes/nypost-2016/static/images/logo-nypost.png
+    image: >-
+      https://i2.wp.com/nypost.com/wp-content/uploads/sites/2/2020/02/washington-state-finds-two-new-coronavirus-cases.jpg?quality=90&strip=all&ssl=1
+    title: Two new coronavirus cases identified in Washington state
+    summary: >-
+      Two new presumed cases of coronavirus have been identified in the Seattle
+      area, including a high school student with no travel history.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 29
     originalUrl: >-
       https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
@@ -567,5 +588,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: c59c0b73ef1ad62610bc2167b76847813cabae8c
+sha: 5b63978e22b71015adbbe8e4f1b5d451cdd389ef
 slug: the-pandemic
