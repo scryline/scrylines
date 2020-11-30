@@ -1,5 +1,21 @@
 title: The Pandemic
 entries:
+  - id: 9
+    originalUrl: ''
+    url: 'https://twitter.com/angie_rasmussen/status/1233420613819289600'
+    when: 'Fri Feb 28 15:56:04 +0000 2020'
+    author: '@angie_rasmussen | 394087611'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      I disagree with @WHO. Containment is no longer possible. The focus must be
+      shifted to mitigation. https://t.co/r7WkQOEHbL
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 10
     originalUrl: 'https://techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
     url: 'https://social.techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
@@ -17,22 +33,6 @@ entries:
       live, work, socialize and travel? Don’t get all disaster-movie here. Some
       people seem to have the notion that a pandemic will mean shutting down
       borders, bui…
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 9
-    originalUrl: ''
-    url: 'https://twitter.com/angie_rasmussen/status/1233420613819289600'
-    when: 'Fri Feb 28 15:56:04 +0000 2020'
-    author: '@angie_rasmussen | 394087611'
-    source: Twitter
-    logo: ''
-    image: ''
-    title: ''
-    summary: >-
-      I disagree with @WHO. Containment is no longer possible. The focus must be
-      shifted to mitigation. https://t.co/r7WkQOEHbL
     comments: ''
     suggestions: ''
     tags: ''
@@ -129,7 +129,7 @@ entries:
   - id: 3
     originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
     url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    when: '2020-02-02T15:22:32.738Z'
+    when: '2020-02-20T15:22:32.738Z'
     author: Donald G. McNeil Jr.
     source: NYTimes
     logo: ''
@@ -140,6 +140,27 @@ entries:
       Rapidly rising caseloads alarm researchers, who fear the virus may make
       its way across the globe. But scientists cannot yet predict how many
       deaths may result.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+    originalWhen: '2020-02-02T15:22:32.738Z'
+  - id: 11
+    originalUrl: >-
+      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
+    url: >-
+      https://www.scientificamerican.com/article/study-reports-first-case-of-coronavirus-spread-by-asymptomatic-person/
+    when: '2020-01-31T12:00:00.000Z'
+    originalWhen: ''
+    author: 'Andrew Joseph,STAT'
+    source: Scientific American
+    logo: ''
+    image: >-
+      https://static.scientificamerican.com/sciam/cache/file/171708EC-2996-4CB7-8D343AD3639E13BA.jpg
+    title: Study Reports First Case of Coronavirus Spread by Asymptomatic Person
+    summary: >-
+      A woman from China infected a person in Germany before she began
+      displaying symptoms
     comments: ''
     suggestions: ''
     tags: ''
@@ -162,5 +183,5 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 2c5ee54fcefec5ffff3d20a71a990d1aa3010a20
+sha: c0b55d90ca2dcb8e38f069977b3f615454d1cd0d
 slug: the-pandemic
