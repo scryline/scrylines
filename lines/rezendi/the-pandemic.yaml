@@ -58,6 +58,90 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 47
+    originalUrl: >-
+      https://www.nytimes.com/2020/03/09/world/europe/italy-lockdown-coronavirus.html
+    url: >-
+      https://www.nytimes.com/2020/03/09/world/europe/italy-lockdown-coronavirus.html
+    when: '2020-03-11T16:04:11.000Z'
+    originalWhen: ''
+    author: Jason Horowitz
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/03/09/world/09italy-virus/09italy-virus-facebookJumbo.jpg
+    title: >-
+      Italy Announces Restrictions Over Entire Country in Attempt to Halt
+      Coronavirus
+    summary: >-
+      All of Italy’s 60 million people are coming under restrictions that had
+      earlier applied to the northern part of the country.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 46
+    originalUrl: 'https://www.bbc.com/news/world-middle-east-51787238'
+    url: 'https://www.bbc.com/news/world-middle-east-51787238'
+    when: '2020-03-08T17:18:08.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/B75A/production/_111183964_060506758-1.jpg
+    title: 'Coronavirus: Northern Italy quarantines 16 million people'
+    summary: >-
+      A quarter of the population is in lockdown as Italy takes drastic action
+      to control Covid-19.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 44
+    originalUrl: >-
+      https://www.cnn.com/2020/03/08/asia/coronavirus-covid-19-update-intl-hnk/index.html
+    url: >-
+      https://www.cnn.com/2020/03/08/asia/coronavirus-covid-19-update-intl-hnk/index.html
+    when: '2020-03-08T15:00:47.000Z'
+    originalWhen: ''
+    author: 'Helen Regan, CNN'
+    source: CNN
+    logo: ''
+    image: >-
+      https://cdn.cnn.com/cnnnext/dam/assets/200308132427-italy-coronavirus-super-tease.jpg
+    title: 'Italy announces lockdown as global coronavirus cases surpass 105,000'
+    summary: >-
+      Rescuers evacuate an injured person from the rubble of a collapsed hotel
+      building in Quanzhou city in southeast China’s Fujian province.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 45
+    originalUrl: >-
+      https://www.cnbc.com/2020/03/04/italys-death-toll-from-the-coronavirus-is-now-worse-than-iran.html
+    url: >-
+      https://www.cnbc.com/2020/03/04/italys-death-toll-from-the-coronavirus-is-now-worse-than-iran.html
+    when: '2020-03-04T17:32:38.000Z'
+    originalWhen: ''
+    author: Holly Ellyatt
+    source: CNBC
+    logo: >-
+      https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png
+    image: >-
+      https://image.cnbcfm.com/api/v1/image/106424037-1583326402631gettyimages-1202993954.jpeg?v=1583326429
+    title: >-
+      Italy to close all schools and universities through March 15 as
+      coronavirus death toll rises
+    summary: >-
+      The closure would come into effect beginning Thursday and will last until
+      March 15.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 43
     originalUrl: >-
       https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-600-new-cases-3-more-deaths
@@ -779,5 +863,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 468d6db711270eca2f0f1c199a320d43e7c183b7
+sha: e888545ffdb387cb4389c52e0d9297dc908fbd98
 slug: the-pandemic
