@@ -67,46 +67,6 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 3
-    originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
-    when: '2020-02-02T15:22:32.738Z'
-    author: Donald G. McNeil Jr.
-    source: NYTimes
-    logo: ''
-    image: >-
-      https://static01.nyt.com/images/2020/02/02/world/02virus-pandemic-sub/02virus-pandemic-sub-facebookJumbo.jpg
-    title: 'Wuhan Coronavirus Looks Increasingly Like a Pandemic, Experts Say'
-    summary: >-
-      Rapidly rising caseloads alarm researchers, who fear the virus may make
-      its way across the globe. But scientists cannot yet predict how many
-      deaths may result.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 5
-    originalUrl: >-
-      https://www.scmp.com/news/china/politics/article/3044207/china-shuts-seafood-market-linked-mystery-viral-pneumonia
-    url: >-
-      https://www.scmp.com/news/china/politics/article/3044207/china-shuts-seafood-market-linked-mystery-viral-pneumonia
-    when: '2020-01-01T08:59:17.000Z'
-    author: Kristin Huang
-    source: South China Morning Post
-    logo: >-
-      https://cdn2.i-scmp.com/sites/all/modules/custom/scmp_masthead/images/publisher_logo.png
-    image: >-
-      https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/01/01/2c821d66-2c56-11ea-8334-1a17c6a14ef4_image_hires_202410.jpg?itok=wWm8Q7np&v=1577881456
-    title: WHO in touch with Beijing after mystery viral pneumonia outbreak
-    summary: >-
-      The World Health Organisation said it is in ongoing contact with
-      authorities in China over an unidentified outbreak of viral pneumonia in
-      the central city of Wuhan, amid concern it may have been transmitted from
-      animals.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 4
     originalUrl: >-
       https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200
@@ -145,6 +105,24 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 3
+    originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
+    url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
+    when: '2020-02-02T15:22:32.738Z'
+    author: Donald G. McNeil Jr.
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/02/02/world/02virus-pandemic-sub/02virus-pandemic-sub-facebookJumbo.jpg
+    title: 'Wuhan Coronavirus Looks Increasingly Like a Pandemic, Experts Say'
+    summary: >-
+      Rapidly rising caseloads alarm researchers, who fear the virus may make
+      its way across the globe. But scientists cannot yet predict how many
+      deaths may result.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 1
     originalUrl: ''
     url: 'https://twitter.com/HelenBranswell/status/1212743618756263937'
@@ -163,5 +141,5 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 8a843be14031830e890193e76791dd48038a62d4
+sha: 729e7fdcefd8520ecec8d801e3f64076bedd9d91
 slug: the-pandemic
