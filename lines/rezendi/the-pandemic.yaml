@@ -58,6 +58,23 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 53
+    originalUrl: ''
+    url: 'https://twitter.com/patio11/status/1252584173446946816'
+    when: 'Tue Apr 21 13:05:13 +0000 2020'
+    originalWhen: ''
+    author: '@patio11 | 20844341'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      A month ago, the pseudonymous Working Group did an independent research
+      project on the coronavirus outbreak in Japa… https://t.co/r9YHVHGIFP
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 52
     originalUrl: >-
       https://www.theguardian.com/us-news/2020/mar/27/new-york-coronavirus-elmhurst-hospital
@@ -123,7 +140,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 48
+  - id: 49
     originalUrl: >-
       https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
     url: >-
@@ -146,7 +163,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 49
+  - id: 48
     originalUrl: >-
       https://www.cnbc.com/2020/03/13/coronavirus-france-shuts-schools-to-avoid-being-the-next-italy.html
     url: >-
@@ -974,5 +991,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: c64cd3a39e4e4cb40487b0d8b4d8238d538c973c
+sha: 5b835e07d21dc2ae6c7975e9063b40b33b0bfddc
 slug: the-pandemic
