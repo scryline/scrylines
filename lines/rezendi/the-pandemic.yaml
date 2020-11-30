@@ -683,7 +683,25 @@ entries:
     tags: ''
     chapter: 'January: Distant Early Warning'
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
+  - id: 39
+    originalUrl: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
+    url: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
+    when: '2020-002-24T21:17:18.000Z'
+    originalWhen: '2020-04-05T21:17:18.000Z'
+    author: James Hamblin
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/t1PagRyW685jErLIROGIUmKWCaw=/0x405:4134x2558/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/02/h_11.02583938/original.jpg
+    title: You’re Likely to Get the Coronavirus
+    summary: >-
+      Most cases are not life-threatening, which is also what makes the virus a
+      historic challenge to contain.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 60f41d1cb662d38a1f5407da9068fcc87284cc13
+sha: 379e6a9c5d8adaa90093beb7b3467bb01ef3d40a
 slug: the-pandemic
