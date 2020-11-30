@@ -481,6 +481,30 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 87
+    originalUrl: >-
+      https://www.mercurynews.com/2020/03/16/coronavirus-six-bay-area-counties-to-shelter-in-place/
+    url: >-
+      https://www.mercurynews.com/2020/03/16/coronavirus-six-bay-area-counties-to-shelter-in-place
+    when: '2020-03-16T19:03:45.000Z'
+    originalWhen: ''
+    author: jwoolfolkbayareanewsgroup.com
+    source: The Mercury News
+    logo: >-
+      https://www.mercurynews.com/wp-content/uploads/2016/10/32x32-mercury-news-white.png
+    image: >-
+      https://www.mercurynews.com/wp-content/uploads/2020/03/SJM-L-VIRUSMAIN-0317-4.jpg?w=1024&h=683
+    title: >-
+      Coronavirus: Bay Area locks down as seven counties face ‘unprecedented’
+      shelter-in-place order
+    summary: >-
+      Seven Bay Area counties announced a virtual public lockdown in the face of
+      the rapidly expanding coronavirus pandemic aimed at slowing transmission
+      of the deadly COVID-19 respiratory disease.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 73
     originalUrl: 'https://www.nytimes.com/2020/03/15/nyregion/coronavirus-nyc-shutdown.html'
     url: 'https://www.nytimes.com/2020/03/15/nyregion/coronavirus-nyc-shutdown.html'
@@ -579,6 +603,30 @@ entries:
       The NBA has announced that they are suspending the season until further
       notice following the positive test of a player. CNN’s Carolyn Manno
       reports.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 88
+    originalUrl: >-
+      https://www.mercurynews.com/2020/03/12/coronavirus-gov-newsom-says-cancel-gatherings-over-250-statewide/
+    url: >-
+      https://www.mercurynews.com/2020/03/12/coronavirus-gov-newsom-says-cancel-gatherings-over-250-statewide
+    when: '2020-03-12T14:59:34.000Z'
+    originalWhen: ''
+    author: jwoolfolkbayareanewsgroup.com
+    source: The Mercury News
+    logo: >-
+      https://www.mercurynews.com/wp-content/uploads/2016/10/32x32-mercury-news-white.png
+    image: >-
+      https://www.mercurynews.com/wp-content/uploads/2020/03/SJM-L-VIRUSDOCK-0309-15-2.jpg?w=1024&h=683
+    title: >-
+      Coronavirus: Gov. Newsom orders statewide cancellation of gatherings over
+      250
+    summary: >-
+      The new guidance further calls for canceling or postponing even smaller
+      gatherings where those attending cannot keep six feet apart from each
+      other.
     comments: ''
     suggestions: ''
     tags: ''
@@ -1540,5 +1588,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: d6424e0cd1e844074dab69db23a8be1155fdbd47
+sha: 90bb6e6a7754674ce1e870e7398dfa7ffcf07865
 slug: the-pandemic
