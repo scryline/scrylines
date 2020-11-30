@@ -1,5 +1,20 @@
 title: Arsenalia
 entries:
+  - id: 4
+    originalUrl: ''
+    url: ''
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: ''
+    logo: ''
+    image: ''
+    title: ''
+    summary: ''
+    comments: <p>Comment after.</p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 1
     originalUrl: >-
       https://www.theguardian.com/football/2020/nov/27/mikel-arteta-hopes-arsenal-show-europa-league-flair-in-premier-league
@@ -63,26 +78,8 @@ entries:
     suggestions: ''
     tags: ''
     chapter: Unrelatedly
-  - id: 4
-    originalUrl: ''
-    url: 'https://twitter.com/HelenBranswell/status/1212743618756263937'
-    when: 'Thu Jan 02 14:33:05 +0000 2020'
-    originalWhen: ''
-    author: '@HelenBranswell | 28838219'
-    source: Twitter
-    logo: ''
-    image: ''
-    title: ''
-    summary: |-
-      Not liking the look of this. 
-      https://t.co/uqmeQ8if06
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
 slug: arsenalia
-sha: d1b165c541666bc1e20499d99b2ffb04b2317500
-originalTitle: arsenalia
+sha: 42fbaab87f9f109ec8d7072810d25c65fa718e3c
 byline: Jon Evans
