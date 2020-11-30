@@ -523,6 +523,27 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 38
+    originalUrl: >-
+      https://news.yahoo.com/china-orders-nationwide-measures-detect-virus-flights-trains-090541811.html
+    url: >-
+      https://news.yahoo.com/china-orders-nationwide-measures-detect-virus-flights-trains-090541811.html
+    when: '2020-01-25T10:00:47.986Z'
+    originalWhen: ''
+    author: AFP Relax News
+    source: Yahoo News
+    logo: 'https://s.yimg.com/rz/p/yahoo_news_en-US_h_p_news_2.png'
+    image: >-
+      https://s.yimg.com/ny/api/res/1.2/lpFRK7alGklDE0w64qGEdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjgx/https://s.yimg.com/uu/api/res/1.2/VgsQ9fW40zumz1BFFzFdlQ--~B/aD0xOTIxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_US/News/US-AFPRelax/000_hkg5063539.77e72081443.original.jpg
+    title: 'China orders nationwide measures to detect virus on flights, trains, buses'
+    summary: >-
+      China has ordered nationwide measures to identify and immediately isolate
+      suspected cases of a deadly virus on trains, aeroplanes and buses, as the
+      death...
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 13
     originalUrl: >-
       https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
@@ -664,5 +685,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 729f93c85de150fb5c8bb421b50d70813feef375
+sha: 60f41d1cb662d38a1f5407da9068fcc87284cc13
 slug: the-pandemic
