@@ -38,6 +38,47 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 107
+    originalUrl: >-
+      https://www.nytimes.com/2020/06/22/world/middleeast/saudi-arabia-hajj-mecca-pilgrims.html
+    url: >-
+      https://www.nytimes.com/2020/06/22/world/middleeast/saudi-arabia-hajj-mecca-pilgrims.html
+    when: '2020-06-23T01:08:32.000Z'
+    originalWhen: ''
+    author: Ben Hubbard
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/06/22/world/22Hajj/22Hajj-facebookJumbo.jpg
+    title: Saudi Arabia Drastically Limits Hajj Pilgrimage to Prevent Viral Spread
+    summary: >-
+      Saudi Arabia said only “very limited numbers” of pilgrims could perform
+      the hajj this year, with only Saudis and foreign nationals already in the
+      kingdom allowed to take part.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 106
+    originalUrl: >-
+      https://www.nytimes.com/2020/06/04/world/middleeast/coronavirus-egypt-america-africa-asia.html
+    url: >-
+      https://www.nytimes.com/2020/06/04/world/middleeast/coronavirus-egypt-america-africa-asia.html
+    when: '2020-06-04T23:14:29.000Z'
+    originalWhen: ''
+    author: Declan Walsh
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/06/04/world/04virus-egypt/merlin_173206890_9bceed35-67d8-4439-9d27-996831e0fe95-facebookJumbo.jpg
+    title: Coronavirus Rips Into Regions Previously Spared
+    summary: >-
+      As the West settles into a grinding battle with the disease, the virus
+      surges across the Middle East, Africa, Latin America and South Asia.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 42
     originalUrl: >-
       https://tomaspueyo.medium.com/coronavirus-the-hammer-and-the-dance-be9337092b56
@@ -1954,5 +1995,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: febd54432f44a4b965b3e03ffefc086dfe56991d
+sha: f634a6281bdcd58948d315e562df902e1778cd81
 slug: the-pandemic
