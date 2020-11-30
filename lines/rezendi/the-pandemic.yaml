@@ -58,6 +58,27 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 94
+    originalUrl: >-
+      https://www.npr.org/sections/coronavirus-live-updates/2020/04/27/845304917/new-zealand-says-it-has-won-battle-against-covid-19
+    url: >-
+      https://www.npr.org/sections/coronavirus-live-updates/2020/04/27/845304917/new-zealand-says-it-has-won-battle-against-covid-19
+    when: '2020-04-28T02:05:00.000Z'
+    originalWhen: ''
+    author: Scott Neuman
+    source: NPR
+    logo: 'https://media.npr.org/chrome/npr-logo.jpg'
+    image: >-
+      https://media.npr.org/assets/img/2020/04/27/gettyimages-1211047497_wide-dd31667ffb75306ef4b0b3fcd6fb8cac198369e3.jpg?s=1400
+    title: New Zealand Says It Has Won ‘Battle’ Against COVID-19
+    summary: >-
+      “There is no widespread undetected community transmission in New Zealand.
+      We have won that battle,” Prime Minister Jacinda Ardern said Monday as the
+      country eased COVID-19 restrictions.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 53
     originalUrl: ''
     url: 'https://twitter.com/patio11/status/1252584173446946816'
@@ -114,7 +135,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 91
+  - id: 90
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -138,7 +159,7 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 90
+  - id: 91
     originalUrl: >-
       https://www.washingtonpost.com/health/2020/04/02/coronavirus-facemasks-policyreversal/
     url: >-
@@ -1173,6 +1194,27 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 97
+    originalUrl: >-
+      https://www.wsj.com/articles/drugmaker-moderna-delivers-first-coronavirus-vaccine-for-human-testing-11582579099
+    url: >-
+      https://www.wsj.com/articles/drugmaker-moderna-delivers-first-coronavirus-vaccine-for-human-testing-11582579099
+    when: '2020-02-25T00:16:00.000Z'
+    originalWhen: ''
+    author: Peter Loftus
+    source: The Wall Street Journal
+    logo: 'https://s.wsj.net/media/wsj_amp_masthead_lg.png'
+    image: 'https://images.wsj.net/im-155785/social'
+    title: >-
+      WSJ News Exclusive | Drugmaker Moderna Delivers First Experimental
+      Coronavirus Vaccine for Human Testing
+    summary: >-
+      Clinical trial is expected to start in April, as epidemic originating in
+      China spurs quick response
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 39
     originalUrl: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
     url: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
@@ -1387,6 +1429,24 @@ entries:
     summary: >-
       Although public officials in the area say the virus is contained for now,
       some in the tech industry fear the virus will spread out of control.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 96
+    originalUrl: >-
+      https://www.biopharmadive.com/news/moderna-coronavirus-mrna-vaccine-cash-raise/572095/
+    url: >-
+      https://www.biopharmadive.com/news/moderna-coronavirus-mrna-vaccine-cash-raise/572095/
+    when: '2020-02-11T00:00:00.000Z'
+    originalWhen: ''
+    author: Ned Pagliarulo
+    source: BioPharma Dive
+    logo: ''
+    image: >-
+      https://www.biopharmadive.com/user_media/cache/52/a9/52a9c7774e113be00ee14a15f65d2e49.jpg
+    title: 'Moderna, raising cash, quickly advances coronavirus candidate'
+    summary: "A initial batch of the biotech’s mRNA vaccine could soon be sent to the NIH\_for use in a Phase 1 study, which would mark a rapid scale-up to clinical testing."
     comments: ''
     suggestions: ''
     tags: ''
@@ -1658,6 +1718,27 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 95
+    originalUrl: 'https://virological.org/t/novel-2019-coronavirus-genome/319'
+    url: 'https://virological.org/t/novel-2019-coronavirus-genome/319'
+    when: '2020-01-11T01:05:33.000Z'
+    originalWhen: ''
+    author: edward_holmes
+    source: Virological
+    logo: ''
+    image: >-
+      https://virological.org/uploads/default/original/1X/7897c4e655617c4b6fe71a98eaa97a38778f0623.png
+    title: Novel 2019 coronavirus genome
+    summary: >-
+      10th January 2020 This posting is communicated by Edward C. Holmes,
+      University of Sydney on behalf of the consortium led by Professor
+      Yong-Zhen Zhang, Fudan University, Shanghai The Shanghai Public Health
+      Clinical Center &amp; School of Public Health, in collaboration with the
+      Central Hospital of Wuh…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 12
     originalUrl: >-
       https://www.statnews.com/2020/01/08/who-says-mysterious-illness-in-china-likely-being-caused-by-new-virus/
@@ -1697,5 +1778,5 @@ entries:
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: c78b018be4ff0d1b6e154006bbb0d6eebd046b6f
+sha: 5e1c9d125280157455ef3752affa89dc895cda9a
 slug: the-pandemic
