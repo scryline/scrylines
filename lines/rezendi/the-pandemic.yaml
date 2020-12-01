@@ -342,7 +342,7 @@ entries:
     url: >-
       https://www.biopharmadive.com/news/moderna-coronavirus-mrna-vaccine-cash-raise/572095/
     when: '2020-02-11T00:00:00.000Z'
-    originalWhen: ''
+    originalWhen: '2020-02-11T00:00:00.000Z'
     author: Ned Pagliarulo
     source: BioPharma Dive
     logo: ''
@@ -350,7 +350,10 @@ entries:
       https://www.biopharmadive.com/user_media/cache/52/a9/52a9c7774e113be00ee14a15f65d2e49.jpg
     title: 'Moderna, raising cash, quickly advances coronavirus candidate'
     summary: "A initial batch of the biotech’s mRNA vaccine could soon be sent to the NIH\_for use in a Phase 1 study, which would mark a rapid scale-up to clinical testing."
-    comments: ''
+    comments: >-
+      <p>In which a vaccine candidate crafted with bleeding-edge mRNA technology
+      is released only a month after the virus's genome ... and subsequently is
+      shown to be both safe and ~90% effective. Just extraordinary.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2057,7 +2060,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 8e9d8cf6d51ccb5f5d3409b4b53488b619998174
+sha: 7b93450f805c6b723d881b64493767e3dab5b1e3
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
