@@ -108,7 +108,7 @@ entries:
     originalUrl: 'https://www.bbc.com/news/world-asia-china-51185836'
     url: 'https://www.bbc.com/news/world-asia-china-51185836'
     when: '2020-01-21T10:26:26.000Z'
-    originalWhen: ''
+    originalWhen: '2020-01-21T10:26:26.000Z'
     author: BBC News
     source: BBC News
     logo: >-
@@ -119,7 +119,7 @@ entries:
     summary: >-
       Beijing’s top leaders urge transparency as it is confirmed the coronavirus
       can pass between people.
-    comments: ''
+    comments: <p>The extent of the covering-up remains uncertain.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2052,6 +2052,6 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 0fe2da45c5e8e4b7679e6ae8e52801777d39e597
+sha: ecebe255603c17e06af54aa901f1a73449d31cc4
 slug: the-pandemic
 byline: Jon Evans
