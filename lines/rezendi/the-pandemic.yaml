@@ -44,7 +44,7 @@ entries:
     originalUrl: 'https://virological.org/t/novel-2019-coronavirus-genome/319'
     url: 'https://virological.org/t/novel-2019-coronavirus-genome/319'
     when: '2020-01-11T01:05:33.000Z'
-    originalWhen: ''
+    originalWhen: '2020-01-11T01:05:33.000Z'
     author: edward_holmes
     source: Virological
     logo: ''
@@ -57,7 +57,10 @@ entries:
       Yong-Zhen Zhang, Fudan University, Shanghai The Shanghai Public Health
       Clinical Center &amp; School of Public Health, in collaboration with the
       Central Hospital of Wuh…
-    comments: ''
+    comments: >-
+      <p>In which the virus's genome is sequence and published mere days after
+      discovery. This whole year has been a tale of scientific lions and
+      bureaucratic donkeys.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2049,6 +2052,6 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: a869ba8d5d8eb906a1718916a8e26f8357c04891
+sha: 0fe2da45c5e8e4b7679e6ae8e52801777d39e597
 slug: the-pandemic
 byline: Jon Evans
