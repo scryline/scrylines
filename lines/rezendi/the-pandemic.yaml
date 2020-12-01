@@ -119,7 +119,10 @@ entries:
     summary: >-
       Beijing’s top leaders urge transparency as it is confirmed the coronavirus
       can pass between people.
-    comments: <p>The extent of the covering-up remains uncertain.</p>
+    comments: >-
+      <p>The extent of the covering-up remains uncertain, although the claim "no
+      clear evidence of human-to-human transmission" from a week earlier
+      remains, at best, baffling.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2052,6 +2055,6 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: ecebe255603c17e06af54aa901f1a73449d31cc4
+sha: 5da4730a915fbecbbc37ce7ccd489d4043b44046
 slug: the-pandemic
 byline: Jon Evans
