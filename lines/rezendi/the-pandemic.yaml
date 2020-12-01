@@ -257,7 +257,7 @@ entries:
     originalUrl: 'https://www.bbc.com/news/world-asia-china-51403795'
     url: 'https://www.bbc.com/news/world-asia-china-51403795'
     when: '2020-02-07T04:16:28.000Z'
-    originalWhen: ''
+    originalWhen: '2020-02-07T04:16:28.000Z'
     author: BBC News
     source: BBC News
     logo: >-
@@ -268,7 +268,7 @@ entries:
     summary: >-
       Li Wenliang warned fellow medics in December - but police told him to stop
       “making false comments”.
-    comments: ''
+    comments: <p>Let us not forget.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2057,6 +2057,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 40ccf1080406df18a08231198f4313efe2589869
+sha: 8e9d8cf6d51ccb5f5d3409b4b53488b619998174
 slug: the-pandemic
 byline: Jon Evans
+email: jon@happyfuncorp.com
