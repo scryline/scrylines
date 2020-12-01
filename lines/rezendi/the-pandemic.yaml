@@ -373,10 +373,21 @@ entries:
     summary: >-
       Although public officials in the area say the virus is contained for now,
       some in the tech industry fear the virus will spread out of control.
-    comments: ''
+    comments: >-
+      <p>It's impossible to overstate how poorly this piece has aged. Some have
+      defended it as responsible just-the-facts journalism. These people are
+      wrong. Consider the quotes "It’s unclear if Ulevitch was kidding" &amp;
+      "the flu is a greater threat to Americans than the coronavirus … [which
+      is] especially scary to the public, including Silicon Valley’s elite"
+      &amp; "the extreme caution some are taking does raise questions about the
+      appropriate level of response." All culminating in the classic "some say"
+      as a stand-in for the open editorial voice: "some may see measures like
+      no-handshake rules as a step too far," immediately after blatantly linking
+      them to xenophobia and racism. Sheeeesh.</p><p><br></p><p><br></p>
     suggestions: ''
     tags: ''
     chapter: ''
+    originalWhen: '2020-02-13T12:00:00.000Z'
   - id: 3
     originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
     url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
@@ -2060,7 +2071,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 7b93450f805c6b723d881b64493767e3dab5b1e3
+sha: 987822759ff436a1ad990be04ec0841d2f64ee97
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
