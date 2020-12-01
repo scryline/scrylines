@@ -154,7 +154,7 @@ entries:
     url: >-
       https://www.nytimes.com/2020/01/22/world/asia/coronavirus-quarantines-history.html
     when: '2020-01-23T15:07:59.000Z'
-    originalWhen: ''
+    originalWhen: '2020-01-23T15:07:59.000Z'
     author: Michael Levenson
     source: NYTimes
     logo: ''
@@ -165,7 +165,9 @@ entries:
       In sealing off a city of 11 million people, China is trying to halt a
       coronavirus outbreak using a tactic with a complicated history of ethical
       concerns.
-    comments: ''
+    comments: >-
+      <p>"Well, that escalated quickly" will be the mordant catchphrase of the
+      year from here on in.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -225,7 +227,7 @@ entries:
     summary: >-
       A woman from China infected a person in Germany before she began
       displaying symptoms
-    comments: <p><br></p>
+    comments: '<p>Looking back, this was by far the scariest thing yet.</p>'
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2055,6 +2057,6 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 5da4730a915fbecbbc37ce7ccd489d4043b44046
+sha: 40ccf1080406df18a08231198f4313efe2589869
 slug: the-pandemic
 byline: Jon Evans
