@@ -564,7 +564,7 @@ entries:
     url: >-
       https://www.wsj.com/articles/drugmaker-moderna-delivers-first-coronavirus-vaccine-for-human-testing-11582579099
     when: '2020-02-25T00:16:00.000Z'
-    originalWhen: ''
+    originalWhen: '2020-02-25T00:16:00.000Z'
     author: Peter Loftus
     source: The Wall Street Journal
     logo: 'https://s.wsj.net/media/wsj_amp_masthead_lg.png'
@@ -575,7 +575,7 @@ entries:
     summary: >-
       Clinical trial is expected to start in April, as epidemic originating in
       China spurs quick response
-    comments: ''
+    comments: '<p>Again, this is really just amazing.</p>'
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2092,7 +2092,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 24887a4e745314910ab639bd9f27aa63312c8d55
+sha: 1cb7e429471278c836005b99c6ef16bfa6c42faf
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
