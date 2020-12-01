@@ -508,10 +508,13 @@ entries:
     summary: >-
       Remember, the virus doesn&rsquo;t follow the news and doesn&rsquo;t care
       about Twitter
-    comments: ''
+    comments: >-
+      <p>A truly excellent set of precepts, which were promptly &amp; thoroughly
+      mostly ignored worldwide.</p>
     suggestions: ''
     tags: ''
     chapter: ''
+    originalWhen: '2020-02-23T12:00:00.000Z'
   - id: 10
     originalUrl: 'https://techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
     url: 'https://social.techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/'
@@ -2081,7 +2084,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 6b16616af0d7903908ac90590d4306a18c08e23a
+sha: bb7fbddc2f2f287d0418ace1012187b1cd31635f
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
