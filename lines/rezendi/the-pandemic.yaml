@@ -482,10 +482,17 @@ entries:
     summary: >-
       IMO this is a blinder on where we stand re #coronavirus #Covid_19 #COVID
       and what happens now. This will be a pande… https://t.co/88wCere4yO
-    comments: ''
+    comments: >-
+      <p>Bill is one of my oldest and closest friends, so this tweet was what
+      took me from "what is happening" to "here comes the tsunami." (Putting my
+      money where my mouth was, I sold 80% of my stock market holdings the next
+      day.) Would I otherwise have spent the next three weeks in increasingly
+      untenable denial, like much of the country around me? I like to
+      <em>think</em> not...</p>
     suggestions: ''
     tags: ''
     chapter: ''
+    originalWhen: 'Sun Feb 23 05:29:49 +0000 2020'
   - id: 8
     originalUrl: >-
       https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
@@ -2074,7 +2081,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 99fd8fe9b8aada76c9bc6f367af35a571a96c132
+sha: 6b16616af0d7903908ac90590d4306a18c08e23a
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
