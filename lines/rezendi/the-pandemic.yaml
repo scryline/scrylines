@@ -435,7 +435,7 @@ entries:
     url: >-
       https://www.cnbc.com/2020/02/21/only-three-us-states-can-test-for-coronavirus-says-public-lab-group.html
     when: '2020-02-21T18:04:45.000Z'
-    originalWhen: ''
+    originalWhen: '2020-02-21T18:04:45.000Z'
     author: Reuters
     source: CNBC
     logo: >-
@@ -447,7 +447,10 @@ entries:
       California, Nebraska and Illinois are the only U.S. states that can
       currently test for coronavirus, the Association of Public Health
       Laboratories (APHL) told Reuters on Friday.
-    comments: ''
+    comments: >-
+      <p>It's still astonishing just how utterly sclerotic and incapable the
+      world's wealthiest and mightiest country showed itself to be, in the face
+      of this new threat.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2071,7 +2074,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 627140cdfd07c8cc44a202dd94f6c5b7dc9a45b4
+sha: 54b8bad77dbd76bc7cb7950a7fdc162157e6b7ba
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
