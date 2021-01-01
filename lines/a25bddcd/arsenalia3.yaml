@@ -60,6 +60,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 5
+    originalUrl: >-
+      https://www.theguardian.com/football/2020/dec/28/draining-painful-arteta-admits-doubts-arsenal-awful-run
+    url: >-
+      http://www.theguardian.com/football/2020/dec/28/draining-painful-arteta-admits-doubts-arsenal-awful-run
+    when: '2020-12-28T23:17:43.000Z'
+    originalWhen: ''
+    author: PA Media
+    source: The Guardian
+    logo: 'https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png'
+    image: >-
+      https://i.guim.co.uk/img/media/70db9f02809c4ae1b7ad9a15da041bdfb9a93b33/0_77_3217_1931/master/3217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25372a05c84b22e486286a3028335825
+    title: '‘Draining and painful’: Arteta admits doubts during Arsenal’s awful run'
+    summary: >-
+      Mikel Arteta admits he questioned himself every day during Arsenal’s
+      ‘draining’ run of defeats which were ‘frustrating and painful’
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 4
     originalUrl: >-
       https://www.theguardian.com/football/2020/dec/26/arsenal-chelsea-premier-league-match-report
@@ -86,4 +106,4 @@ userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 byline: Jon Evans
 editable: false
 slug: arsenalia3
-sha: 5360cb0ace6498c8a0529fe20cdfbe81764fb4a8
+sha: 32e259656f953c956c795599cf95a2a3668a303d
