@@ -86,7 +86,7 @@ entries:
     url: >-
       http://www.theguardian.com/football/2020/dec/26/arsenal-chelsea-premier-league-match-report
     when: '2020-12-27T04:37:11.000Z'
-    originalWhen: ''
+    originalWhen: '2020-12-27T04:37:11.000Z'
     author: David Hytner
     source: the Guardian
     logo: ''
@@ -97,7 +97,7 @@ entries:
       Goals by Alexandre Lacazette, Granit Xhaka and Bukayo Saka gave Arsenal a
       welcome 3-1 win over a disappointing Chelsea, who scored late through
       Tammy Abraham but also missed a penalty
-    comments: ''
+    comments: '<p>Well, it''s about goddamn time.</p>'
     suggestions: ''
     tags: ''
     chapter: ''
@@ -106,4 +106,4 @@ userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 byline: Jon Evans
 editable: false
 slug: arsenalia3
-sha: 32e259656f953c956c795599cf95a2a3668a303d
+sha: 94f17e67168e19555bf69c72cf1b77f92d92005c
