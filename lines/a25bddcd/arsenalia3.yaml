@@ -60,8 +60,30 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 4
+    originalUrl: >-
+      https://www.theguardian.com/football/2020/dec/26/arsenal-chelsea-premier-league-match-report
+    url: >-
+      http://www.theguardian.com/football/2020/dec/26/arsenal-chelsea-premier-league-match-report
+    when: '2020-12-27T04:37:11.000Z'
+    originalWhen: ''
+    author: David Hytner
+    source: the Guardian
+    logo: ''
+    image: >-
+      https://i.guim.co.uk/img/media/469d01bd6c546f2b76e8364878e61e7d77d76a97/0_273_4713_2826/master/4713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=27225c9b122405f2621c22e0f582ba97
+    title: Arsenal relieve pressure on manager Mikel Arteta with win over Chelsea
+    summary: >-
+      Goals by Alexandre Lacazette, Granit Xhaka and Bukayo Saka gave Arsenal a
+      welcome 3-1 win over a disappointing Chelsea, who scored late through
+      Tammy Abraham but also missed a penalty
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
 email: jon@happyfuncorp.com
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 byline: Jon Evans
 editable: false
 slug: arsenalia3
+sha: 5360cb0ace6498c8a0529fe20cdfbe81764fb4a8
