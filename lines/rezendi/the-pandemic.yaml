@@ -558,6 +558,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 133
+    originalUrl: ''
+    url: ''
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: ''
+    logo: ''
+    image: ''
+    title: ''
+    summary: ''
+    comments: >-
+      <p>In hindsight, this now seems hard to believe - but I think it's fair to
+      say that at this point, despite all of the above, very few people in the
+      West believed that we were already in the midst of a pandemic, much less
+      that it would explode across Europe and North America in a matter of
+      weeks.</p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 97
     originalUrl: >-
       https://www.wsj.com/articles/drugmaker-moderna-delivers-first-coronavirus-vaccine-for-human-testing-11582579099
@@ -576,26 +596,6 @@ entries:
       Clinical trial is expected to start in April, as epidemic originating in
       China spurs quick response
     comments: '<p>Meanwhile. Again, this is really just amazing.</p>'
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 133
-    originalUrl: ''
-    url: ''
-    when: ''
-    originalWhen: ''
-    author: ''
-    source: ''
-    logo: ''
-    image: ''
-    title: ''
-    summary: ''
-    comments: >-
-      <p>In hindsight, this now seems hard to believe - but I think it's fair to
-      say that at this point, despite all of the above, very few people in the
-      West believed that we were already in the midst of a pandemic, much less
-      that it would explode across Europe and North America in a matter of
-      weeks.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2589,6 +2589,26 @@ entries:
     comments: <p><br></p>
     suggestions: ''
     tags: ''
+    chapter: 'October: The Third Surge Begins'
+  - id: 167
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/10/coronavirus-third-surge/616750/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/10/coronavirus-third-surge/616750/
+    when: '2020-10-15T16:49:20.000Z'
+    originalWhen: '2020-12-07T16:49:20.000Z'
+    author: The COVID Tracking Project
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/ODvHp7Rybp6ykgZk5vwNSm_B0z4=/1x648:7358x4480/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/10/GettyImages_1224566849/original.jpg
+    title: The Third Coronavirus Surge Has Arrived
+    summary: >-
+      This week’s COVID-19 cases and hospitalizations make clear that the U.S.
+      is once again sinking deeper into the pandemic.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
     chapter: ''
   - id: 166
     originalUrl: >-
@@ -2596,7 +2616,7 @@ entries:
     url: >-
       https://www.theatlantic.com/politics/archive/2020/11/trumps-lies-about-coronavirus/608647/
     when: '2020-11-02T20:00:26.000Z'
-    originalWhen: ''
+    originalWhen: '2020-11-02T20:00:26.000Z'
     author: Christian Paz
     source: The Atlantic
     logo: ''
@@ -2606,10 +2626,10 @@ entries:
     summary: >-
       An unfinished compendium of Trump’s overwhelming dishonesty during a
       national emergency
-    comments: ''
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: ''
+    chapter: 'November: Accelerando'
   - id: 153
     originalUrl: >-
       https://www.sciencenews.org/article/coronavirus-covid-19-vaccine-pfizer-effective-early-trial-data
@@ -2676,7 +2696,7 @@ entries:
     url: >-
       https://www.sciencenews.org/article/moderna-vaccine-covid19-coronavirus-early-results
     when: '2020-11-30T21:31:45.000Z'
-    originalWhen: ''
+    originalWhen: '2020-11-30T21:31:45.000Z'
     author: Cassie Martin
     source: Science News
     logo: ''
@@ -2686,30 +2706,10 @@ entries:
     summary: >-
       Another coronavirus vaccine appears to be very effective in preventing
       people from developing COVID-19 symptoms.
-    comments: ''
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: ''
-  - id: 167
-    originalUrl: >-
-      https://www.theatlantic.com/health/archive/2020/10/coronavirus-third-surge/616750/
-    url: >-
-      https://www.theatlantic.com/health/archive/2020/10/coronavirus-third-surge/616750/
-    when: '2020-12-07T16:49:20.000Z'
-    originalWhen: ''
-    author: The COVID Tracking Project
-    source: The Atlantic
-    logo: ''
-    image: >-
-      https://cdn.theatlantic.com/thumbor/ODvHp7Rybp6ykgZk5vwNSm_B0z4=/1x648:7358x4480/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/10/GettyImages_1224566849/original.jpg
-    title: The Third Coronavirus Surge Has Arrived
-    summary: >-
-      This week’s COVID-19 cases and hospitalizations make clear that the U.S.
-      is once again sinking deeper into the pandemic.
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
+    chapter: 'December: Triumph and Tragedy'
   - id: 155
     originalUrl: >-
       https://www.sciencenews.org/article/covid-19-coronavirus-pfizer-vaccine-fda-advisory-committee-emergency-use
@@ -2858,7 +2858,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 8d518396029cec51f72737065accf3181df3906f
+sha: 29ec3eda55f100e1275510b6ec3f6002dfaffdbf
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
