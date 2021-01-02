@@ -579,6 +579,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 133
+    originalUrl: ''
+    url: ''
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: ''
+    logo: ''
+    image: ''
+    title: ''
+    summary: ''
+    comments: >-
+      <p>In hindsight, this now seems hard to believe - but I think it's fair to
+      say that at this point, despite all of the above, very few people in the
+      West believed that we were already in the midst of a pandemic, much less
+      that it would explode across Europe and North America in a matter of
+      weeks.</p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 24
     originalUrl: >-
       https://news.sky.com/story/coronavirus-warning-travelers-from-northern-italy-must-self-isolate-11942709
@@ -621,26 +641,6 @@ entries:
       new coronavirus infections did not risk a broader spread, after nine cases
       were detected within a 24-hour period.
     comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 133
-    originalUrl: ''
-    url: ''
-    when: ''
-    originalWhen: ''
-    author: ''
-    source: ''
-    logo: ''
-    image: ''
-    title: ''
-    summary: ''
-    comments: >-
-      <p>In hindsight, this now seems hard to believe - but I think it's fair to
-      say that at this point, despite all of the above, very few people in the
-      West believed that we were already in the midst of a pandemic, much less
-      that it would explode across Europe and North America in a matter of
-      weeks.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2469,6 +2469,49 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 152
+    originalUrl: >-
+      https://www.nytimes.com/2020/07/16/world/asia/coronavirus-india-million-cases.html
+    url: >-
+      https://www.nytimes.com/2020/07/16/world/asia/coronavirus-india-million-cases.html
+    when: '2020-07-23T19:55:23.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/07/16/world/16india-million-cases01/16india-million-cases7-facebookJumbo.jpg
+    title: India Coronavirus Cases Surge Past One Million
+    summary: >-
+      Several states and cities have reimposed total and partial lockdowns as
+      the pandemic accelerates. India now ranks third in the world in
+      infections.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 151
+    originalUrl: >-
+      https://www.politico.com/news/2020/07/26/trump-invests-moderna-vaccine-candidate-381690
+    url: >-
+      https://www.politico.com/news/2020/07/26/trump-invests-moderna-vaccine-candidate-381690
+    when: '2020-07-27T11:53:00.000Z'
+    originalWhen: ''
+    author: Rachel Roubein
+    source: POLITICO
+    logo: >-
+      https://static.politico.com/6d/9f/1e153a1748fa9ea656c575dc6dff/politico-logo-60px-tall-1.png
+    image: >-
+      https://static.politico.com/0e/25/9ac3b12a417b9793d7ebb7ee78ab/200707-moderna-gty-773.jpg
+    title: Trump administration invests $472M more in Moderna vaccine candidate
+    summary: >-
+      Moderna announced Sunday that BARDA is pouring the additional dollars the
+      day before the phase three trial of the vaccine candidate is slated to
+      start.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 40
     originalUrl: >-
       https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/
@@ -2487,9 +2530,335 @@ entries:
     suggestions: ''
     tags: ''
     chapter: 'August: Eye Of The Hurricane'
+  - id: 159
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/06/covid-19-coronavirus-longterm-symptoms-months/612679/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/06/covid-19-coronavirus-longterm-symptoms-months/612679/
+    when: '2020-08-20T11:34:17.000Z'
+    originalWhen: ''
+    author: Ed Yong
+    source: The Atlantic
+    logo: 'https://cdn.theatlantic.com/assets/media/files/atlantic-logo--224x224.png'
+    image: >-
+      https://cdn.theatlantic.com/thumbor/5Oj4l-MyMr0pfI0xpBHiSYppyzA=/0x43:2000x1085/960x500/media/img/mt/2020/06/LongHaulersEdit/original.jpg
+    title: COVID-19 Can Last for Several Months
+    summary: >-
+      The disease’s “long-haulers” have endured relentless waves of debilitating
+      symptoms—and disbelief from doctors and friends.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 168
+    originalUrl: >-
+      https://www.nytimes.com/2020/09/13/world/middleeast/israel-second-lockdown.html
+    url: >-
+      https://www.nytimes.com/2020/09/13/world/middleeast/israel-second-lockdown.html
+    when: '2020-09-18T13:31:20.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/09/13/world/13virus-israel/13virus-israel-facebookJumbo.jpg
+    title: Israel to Celebrate Jewish New Year Under a Second Lockdown
+    summary: >-
+      Citizens will be confined to within 500 meters of their homes for at least
+      three weeks in an effort to contain the spread of coronavirus.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 169
+    originalUrl: 'https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html'
+    url: 'https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html'
+    when: '2020-10-02T21:59:13.117Z'
+    originalWhen: '2020-12-31T21:59:13.117Z'
+    author: 'null'
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/10/04/us/politics/02dc-virus-trump-sub/02dc-virus-trump-sub-facebookJumbo.jpg
+    title: Trump Tests Positive for the Coronavirus
+    summary: >-
+      The president’s result came after he spent months playing down the
+      severity of the outbreak that has killed more than 207,000 in the United
+      States and hours after insisting that “the end of the pandemic is in
+      sight.”
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 166
+    originalUrl: >-
+      https://www.theatlantic.com/politics/archive/2020/11/trumps-lies-about-coronavirus/608647/
+    url: >-
+      https://www.theatlantic.com/politics/archive/2020/11/trumps-lies-about-coronavirus/608647/
+    when: '2020-11-02T20:00:26.000Z'
+    originalWhen: ''
+    author: Christian Paz
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/SgOGomvNmb4_RbDlSEfFTOcYY_U=/2x0:1910x994/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/03/Atlantic_Trump_corona_2/original.png
+    title: All the President’s Lies About the Coronavirus
+    summary: >-
+      An unfinished compendium of Trump’s overwhelming dishonesty during a
+      national emergency
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 153
+    originalUrl: >-
+      https://www.sciencenews.org/article/coronavirus-covid-19-vaccine-pfizer-effective-early-trial-data
+    url: >-
+      https://www.sciencenews.org/article/coronavirus-covid-19-vaccine-pfizer-effective-early-trial-data
+    when: '2020-11-10T02:37:08.000Z'
+    originalWhen: ''
+    author: Cassie Martin
+    source: Science News
+    logo: ''
+    image: >-
+      https://www.sciencenews.org/wp-content/uploads/2020/11/110920_eg_covid-vaccine_feat.jpg
+    title: 'Pfizer’s COVID-19 vaccine is 90% effective, preliminary trial data show'
+    summary: >-
+      An analysis of 94 COVID-19 cases shows that the mRNA-based vaccine can
+      protect people from getting sick, though the trial is ongoing.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 165
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/11/lock-yourself-down-now/617106/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/11/lock-yourself-down-now/617106/
+    when: '2020-11-16T01:59:36.000Z'
+    originalWhen: ''
+    author: Zeynep Tufekci
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/NnHFWhevhCrVyaqvkTG8693PS8k=/0x53:2496x1353/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/11/GettyImages_1215005744/original.jpg
+    title: It’s Time to Hunker Down
+    summary: >-
+      A devastating surge is here. Unless Americans act aggressively, it will
+      get much larger, very quickly.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 164
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/11/vaccines-end-covid-19-pandemic-sight/617141/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/11/vaccines-end-covid-19-pandemic-sight/617141/
+    when: '2020-11-19T19:21:30.000Z'
+    originalWhen: ''
+    author: Sarah Zhang
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/DrNGjYFw7nl60Ova38tEDVjnIps=/0x780:1535x1579/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/11/GettyImages_50390051/original.jpg
+    title: The End of the Pandemic Is Now in Sight
+    summary: >-
+      A year of scientific uncertainty is over. Two vaccines look like they will
+      work, and more should follow.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 154
+    originalUrl: >-
+      https://www.sciencenews.org/article/moderna-vaccine-covid19-coronavirus-early-results
+    url: >-
+      https://www.sciencenews.org/article/moderna-vaccine-covid19-coronavirus-early-results
+    when: '2020-11-30T21:31:45.000Z'
+    originalWhen: ''
+    author: Cassie Martin
+    source: Science News
+    logo: ''
+    image: >-
+      https://www.sciencenews.org/wp-content/uploads/2020/11/111620_EG_moderna_feat.jpg
+    title: Moderna says its COVID-19 vaccine is nearly 95 percent effective
+    summary: >-
+      Another coronavirus vaccine appears to be very effective in preventing
+      people from developing COVID-19 symptoms.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 167
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/10/coronavirus-third-surge/616750/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/10/coronavirus-third-surge/616750/
+    when: '2020-12-07T16:49:20.000Z'
+    originalWhen: ''
+    author: The COVID Tracking Project
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/ODvHp7Rybp6ykgZk5vwNSm_B0z4=/1x648:7358x4480/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/10/GettyImages_1224566849/original.jpg
+    title: The Third Coronavirus Surge Has Arrived
+    summary: >-
+      This week’s COVID-19 cases and hospitalizations make clear that the U.S.
+      is once again sinking deeper into the pandemic.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 155
+    originalUrl: >-
+      https://www.sciencenews.org/article/covid-19-coronavirus-pfizer-vaccine-fda-advisory-committee-emergency-use
+    url: >-
+      https://www.sciencenews.org/article/covid-19-coronavirus-pfizer-vaccine-fda-advisory-committee-emergency-use
+    when: '2020-12-11T20:50:00.000Z'
+    originalWhen: ''
+    author: Cassie Martin
+    source: Science News
+    logo: ''
+    image: >-
+      https://www.sciencenews.org/wp-content/uploads/2020/12/121020_ti_panel_vote_feat.jpg
+    title: >-
+      Experts recommend the FDA approve Pfizer’s COVID-19 vaccine for emergency
+      use
+    summary: >-
+      Pfizer-BioNTech’s COVID-19 vaccine is one step closer to emergency use
+      authorization in the United States.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 163
+    originalUrl: >-
+      https://www.theatlantic.com/magazine/archive/2021/01/science-covid-19-manhattan-project/617262/
+    url: >-
+      https://www.theatlantic.com/magazine/archive/2021/01/science-covid-19-manhattan-project/617262/
+    when: '2020-12-17T15:19:10.000Z'
+    originalWhen: ''
+    author: Ed Yong
+    source: The Atlantic
+    logo: 'https://cdn.theatlantic.com/assets/media/files/atlantic-logo--224x224.png'
+    image: >-
+      https://cdn.theatlantic.com/thumbor/pO-aNwZ2bhDLg5u5oMrO9wmzcWQ=/95x90:1905x1033/960x500/media/img/2020/12/WEL_Yong_Opener/original.jpg
+    title: How Science Beat the Virus
+    summary: And what it lost in the process
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 158
+    originalUrl: >-
+      https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-12-19-20/h_b954451c1c1778619bc0f1e56ec06db1?tab=Vaccines
+    url: >-
+      https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-12-19-20/h_b954451c1c1778619bc0f1e56ec06db1
+    when: '2020-12-22T04:20:42.000Z'
+    originalWhen: ''
+    author: >-
+      <a href="”/profiles/emiko-jozuka”">Emiko Jozuka</a>, Adam Renton, Amy
+      Woodyatt and Sarah Diab, CNN
+    source: CNN
+    logo: 'https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_badge_2up.png'
+    image: >-
+      https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg
+    title: US hits record number of Covid-19 hospitalizations
+    summary: >-
+      The coronavirus pandemic has brought countries to a standstill. Meanwhile,
+      vaccinations have already started in some countries as cases continue to
+      rise. Follow here for the latest.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 162
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/12/covid-hospitalizations-california-will-break-records/617455/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/12/covid-hospitalizations-california-will-break-records/617455/
+    when: '2020-12-23T22:59:23.000Z'
+    originalWhen: ''
+    author: Whet Moser
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/J8cz3QLi1_ON4oLMtEKDzE2XwFA=/0x53:2496x1353/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/12/GettyImages_1230201076/original.jpg
+    title: California Has Lost Control
+    summary: >-
+      The Golden State was in better shape than most of the country. Now the
+      outbreak there is going from bad to worse.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 161
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/12/december-now-deadliest-month-pandemic/617505/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/12/december-now-deadliest-month-pandemic/617505/
+    when: '2020-12-24T00:30:44.000Z'
+    originalWhen: ''
+    author: Whet Moser
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/uIKCDM1Su2WIziage9fq3o1a1Vg=/0x53:2496x1353/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/12/GettyImages_1229864138/original.jpg
+    title: December Is Now the Deadliest Month of the Pandemic
+    summary: >-
+      With days left to go in the month, the number of deaths reported passed
+      April’s high.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 170
+    originalUrl: >-
+      https://www.nytimes.com/2020/12/19/world/europe/coronavirus-uk-new-variant.html
+    url: >-
+      https://www.nytimes.com/2020/12/19/world/europe/coronavirus-uk-new-variant.html
+    when: '2020-12-24T14:11:56.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/12/22/world/19virus-uk-1sub/19virus-uk-1sub-facebookJumbo-v4.jpg
+    title: >-
+      Boris Johnson Tightens U.K. Lockdown, Citing Fast-Spreading Version of
+      Virus
+    summary: >-
+      The variant is up to 70 percent more transmissible than earlier versions,
+      officials said. People in southeast England, including London, were told
+      to stay at home.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 160
+    originalUrl: >-
+      https://www.theatlantic.com/science/archive/2020/12/virus-mutation-catastrophe/617531/
+    url: >-
+      https://www.theatlantic.com/science/archive/2020/12/virus-mutation-catastrophe/617531/
+    when: '2020-12-31T19:12:05.000Z'
+    originalWhen: ''
+    author: Zeynep Tufekci
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/lkYTFKqyS2GC7k35Gs-c3v-yfzA=/0x53:2496x1353/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/12/GettyImages_1293653822/original.jpg
+    title: The Mutated Virus Is a Ticking Time Bomb
+    summary: >-
+      There is much we don’t know about the new COVID-19 variant—but everything
+      we know so far suggests a huge danger.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 769a8345c32349cf73dbb2a921037187f599dc44
+sha: 8d518396029cec51f72737065accf3181df3906f
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
