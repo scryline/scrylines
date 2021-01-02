@@ -87,7 +87,7 @@ entries:
     url: >-
       https://www.straitstimes.com/asia/east-asia/japan-confirms-first-case-of-infection-with-new-china-coronavirus
     when: '2020-01-17T08:19:52.000Z'
-    originalWhen: ''
+    originalWhen: '2020-01-17T08:19:52.000Z'
     author: WALTER SIM
     source: The Straits Times
     logo: ''
@@ -100,7 +100,9 @@ entries:
       The man, who is a Chinese national and lives in Kanagawa prefecture, first
       developed fever symptoms on Jan 3 during a visit to Wuhan.. Read more at
       straitstimes.com.
-    comments: ''
+    comments: >-
+      <p>The spread begins. (Well, it began some time earlier; its documentation
+      begins.)</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -119,10 +121,7 @@ entries:
     summary: >-
       Beijing’s top leaders urge transparency as it is confirmed the coronavirus
       can pass between people.
-    comments: >-
-      <p>The extent of the covering-up remains uncertain, although the claim "no
-      clear evidence of human-to-human transmission" from a week earlier
-      remains, at best, baffling.</p>
+    comments: <p>The extent of the covering-up remains uncertain.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -374,16 +373,16 @@ entries:
       Although public officials in the area say the virus is contained for now,
       some in the tech industry fear the virus will spread out of control.
     comments: >-
-      <p>Hard to overstate how poorly this piece has aged. Some defended it as
-      just-the-facts journalism. Those people were wrong. Consider "It’s unclear
-      if Ulevitch was kidding" &amp; "the flu is a greater threat to Americans
-      than the coronavirus … [which is] especially scary to the public,
-      including Silicon Valley’s elite" &amp; "the extreme caution some are
-      taking does raise questions about the appropriate level of response." All
-      culminating in the classic "some say" as a stand-in for the open editorial
-      voice: "some may see measures like no-handshake rules as a step too far,"
-      immediately after blatantly linking them to xenophobia and racism.
-      Sheeeesh.</p>
+      <p>It's hard to overstate how poorly this piece has aged. Some defended it
+      as just-the-facts journalism. Those people were wrong. Consider "It’s
+      unclear if Ulevitch was kidding" &amp; "the flu is a greater threat to
+      Americans than the coronavirus … [which is] especially scary to the
+      public, including Silicon Valley’s elite" &amp; "the extreme caution some
+      are taking does raise questions about the appropriate level of response."
+      All culminating in the classic "some say" as a stand-in for the open
+      editorial voice: "some may see measures like no-handshake rules as a step
+      too far," immediately after blatantly linking them to xenophobia and
+      racism. Sheeeesh.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -449,7 +448,7 @@ entries:
       Laboratories (APHL) told Reuters on Friday.
     comments: >-
       <p>It's still astonishing just how utterly sclerotic and incapable the
-      world's wealthiest and mightiest country showed itself to be, in the face
+      world's wealthiest and mightiest country showed itself to be in the face
       of this new threat.</p>
     suggestions: ''
     tags: ''
@@ -2092,7 +2091,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 1cb7e429471278c836005b99c6ef16bfa6c42faf
+sha: 15a586a04460ac20e13006503b07cc35e00bc205
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
