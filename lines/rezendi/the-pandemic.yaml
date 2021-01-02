@@ -18,7 +18,7 @@ entries:
       this, right at the turn of the year...</p>
     suggestions: ''
     tags: ''
-    chapter: 'Chapter 1: Distant Early Warning'
+    chapter: 'January: Distant Early Warning'
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
   - id: 12
     originalUrl: >-
@@ -251,7 +251,7 @@ entries:
     comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: 'Chapter 2: The Spread'
+    chapter: 'February: The Spread'
   - id: 17
     originalUrl: 'https://www.bbc.com/news/world-asia-china-51403795'
     url: 'https://www.bbc.com/news/world-asia-china-51403795'
@@ -468,7 +468,7 @@ entries:
     comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: 'Chapter 3: Alarms Sounded, And Mostly Ignored'
+    chapter: 'Late February: Alarms Sounded, And Mostly Ignored'
     originalWhen: 'Sat Feb 22 12:26:17 +0000 2020'
   - id: 7
     originalUrl: ''
@@ -669,7 +669,7 @@ entries:
     url: >-
       https://www.straitstimes.com/asia/east-asia/south-korea-reports-219-new-coronavirus-cases-brings-total-to-3150
     when: '2020-02-29T10:34:17.000Z'
-    originalWhen: ''
+    originalWhen: '2020-02-29T10:34:17.000Z'
     author: 'null'
     source: The Straits Times
     logo: ''
@@ -680,6 +680,26 @@ entries:
       case of reinfection
     summary: "SEOUL (AFP) -\_South Korea confirmed 813 more coronavirus cases on Saturday (Feb 29), the biggest increase to date for the country,\_taking the national total to 3,150 infections with four additional deaths. . Read more at straitstimes.com."
     comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 133
+    originalUrl: ''
+    url: ''
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: ''
+    logo: ''
+    image: ''
+    title: ''
+    summary: ''
+    comments: >-
+      <p>In hindsight, this now seems hard to believe - but I think it's fair to
+      say that at this point, despite all of the above, very few people in the
+      West believed that we were already in the midst of a pandemic, much less
+      that it would explode across Europe and North America in a matter of
+      weeks.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -703,7 +723,7 @@ entries:
     comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: 'Early March: Dangerous Rumblings'
+    chapter: 'Earty March: Dangerous Rumblings'
   - id: 43
     originalUrl: >-
       https://www.straitstimes.com/asia/east-asia/coronavirus-south-korea-reports-600-new-cases-3-more-deaths
@@ -871,7 +891,7 @@ entries:
     comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: 'Mid March: Eruption'
+    chapter: 'Mid-March: Eruption'
   - id: 69
     originalUrl: >-
       https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/
@@ -1977,7 +1997,7 @@ entries:
     url: >-
       https://www.nytimes.com/2020/06/04/world/middleeast/coronavirus-egypt-america-africa-asia.html
     when: '2020-06-04T23:14:29.000Z'
-    originalWhen: ''
+    originalWhen: '2020-06-04T23:14:29.000Z'
     author: Declan Walsh
     source: NYTimes
     logo: ''
@@ -1987,10 +2007,10 @@ entries:
     summary: >-
       As the West settles into a grinding battle with the disease, the virus
       surges across the Middle East, Africa, Latin America and South Asia.
-    comments: ''
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: ''
+    chapter: 'June: Expanding Into Everywhere'
   - id: 107
     originalUrl: >-
       https://www.nytimes.com/2020/06/22/world/middleeast/saudi-arabia-hajj-mecca-pilgrims.html
@@ -2092,7 +2112,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: e2a84ba529170111663dcc4ff228affe75902bd8
+sha: 434f26cb5c1d85c92cf8063dd73f0e21f547ab11
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
