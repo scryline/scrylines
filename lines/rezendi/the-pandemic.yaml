@@ -540,24 +540,6 @@ entries:
     tags: ''
     chapter: ''
     originalWhen: '2020-02-23T14:00:00.000Z'
-  - id: 39
-    originalUrl: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
-    url: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
-    when: '2020-02-24T21:17:18.000Z'
-    originalWhen: '2020-04-05T21:17:18.000Z'
-    author: James Hamblin
-    source: The Atlantic
-    logo: ''
-    image: >-
-      https://cdn.theatlantic.com/thumbor/t1PagRyW685jErLIROGIUmKWCaw=/0x405:4134x2558/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/02/h_11.02583938/original.jpg
-    title: You’re Likely to Get the Coronavirus
-    summary: >-
-      Most cases are not life-threatening, which is also what makes the virus a
-      historic challenge to contain.
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 133
     originalUrl: ''
     url: ''
@@ -575,6 +557,24 @@ entries:
       West believed that we were already in the midst of a pandemic, much less
       that it would explode across Europe and North America in a matter of
       weeks.</p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 39
+    originalUrl: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
+    url: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
+    when: '2020-02-24T21:17:18.000Z'
+    originalWhen: '2020-04-05T21:17:18.000Z'
+    author: James Hamblin
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/t1PagRyW685jErLIROGIUmKWCaw=/0x405:4134x2558/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/02/h_11.02583938/original.jpg
+    title: You’re Likely to Get the Coronavirus
+    summary: >-
+      Most cases are not life-threatening, which is also what makes the virus a
+      historic challenge to contain.
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -1510,6 +1510,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 172
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/
+    when: '2020-03-30T13:09:18.000Z'
+    originalWhen: ''
+    author: Ed Yong
+    source: The Atlantic
+    logo: 'https://cdn.theatlantic.com/assets/media/files/atlantic-logo--224x224.png'
+    image: >-
+      https://cdn.theatlantic.com/thumbor/Dszvtrhdt8MewEBCOTH6HDbk6C8=/0x43:2000x1085/960x500/media/img/mt/2020/03/coronaPrepFinal/original.jpg
+    title: How the Pandemic Will End
+    summary: >-
+      The U.S. may end up with the worst COVID-19 outbreak in the industrialized
+      world. This is how it’s going to play out.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 56
     originalUrl: >-
       https://www.themonitor.com/2020/03/30/spains-hospitals-breaking-point-us-cities-brace/
@@ -1661,6 +1681,26 @@ entries:
     summary: >-
       The overwhelmed health system in Ecuador’s largest city could be a
       harbinger of worse to come in the developing world.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 173
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/04/coronavirus-pandemic-airborne-go-outside-masks/609235/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/04/coronavirus-pandemic-airborne-go-outside-masks/609235/
+    when: '2020-04-04T23:22:52.000Z'
+    originalWhen: ''
+    author: Ed Yong
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/hbfpwYLAlvYtY9bbKAPPJamKyL0=/0x272:2995x1832/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/04/GettyImages_1207839451/original.jpg
+    title: Everyone Thinks They’re Right About Masks
+    summary: >-
+      How the coronavirus travels through the air has become one of the most
+      divisive debates in this pandemic.
     comments: ''
     suggestions: ''
     tags: ''
@@ -2104,6 +2144,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 171
+    originalUrl: >-
+      https://www.theatlantic.com/health/archive/2020/03/how-many-americans-are-sick-lost-february/608521/
+    url: >-
+      https://www.theatlantic.com/health/archive/2020/03/how-many-americans-are-sick-lost-february/608521/
+    when: '2020-05-13T15:58:36.000Z'
+    originalWhen: ''
+    author: 'Alexis C. Madrigal, Robinson Meyer'
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/McCoHG8rM9nSx9sOEfBAVmJmeFM=/0x102:4792x2598/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/03/LostFebruaryAnimation-1/original.gif
+    title: How the Coronavirus Became an American Catastrophe
+    summary: >-
+      The death and economic damage sweeping the United States could have been
+      avoided—if only we had started testing for the virus sooner.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 98
     originalUrl: >-
       https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-positive-interim-phase-1-data-its-mrna-vaccine
@@ -2186,6 +2246,26 @@ entries:
     summary: >-
       China reported no new symptomatic coronavirus cases on Saturday, for the
       first time since the beginning of the outbreak in December.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 174
+    originalUrl: >-
+      https://www.theatlantic.com/ideas/archive/2020/05/how-will-we-ever-be-safe-inside/611953/
+    url: >-
+      https://www.theatlantic.com/ideas/archive/2020/05/how-will-we-ever-be-safe-inside/611953/
+    when: '2020-05-26T04:08:42.000Z'
+    originalWhen: ''
+    author: Derek Thompson
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/Eixi5WfAIcNHJglFwHdd_n2fvWs=/0x245:5000x2849/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2020/05/h_21.00283585-1/original.jpg
+    title: Social Distancing Is Not Enough
+    summary: >-
+      We will need a comprehensive strategy to reduce the sort of interactions
+      that can lead to more infections.
     comments: ''
     suggestions: ''
     tags: ''
@@ -2858,7 +2938,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 29ec3eda55f100e1275510b6ec3f6002dfaffdbf
+sha: 2e0c4de7320a1dcd2d77cc3ea94035e39251170f
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
