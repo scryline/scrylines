@@ -2719,7 +2719,7 @@ entries:
     url: >-
       https://www.nytimes.com/2020/09/13/world/middleeast/israel-second-lockdown.html
     when: '2020-09-18T13:31:20.000Z'
-    originalWhen: ''
+    originalWhen: '2020-09-18T13:31:20.000Z'
     author: 'null'
     source: NYTimes
     logo: ''
@@ -2729,10 +2729,10 @@ entries:
     summary: >-
       Citizens will be confined to within 500 meters of their homes for at least
       three weeks in an effort to contain the spread of coronavirus.
-    comments: ''
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: ''
+    chapter: 'September: Ominous Winds'
   - id: 169
     originalUrl: 'https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html'
     url: 'https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html'
@@ -3021,7 +3021,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 9d2af38b936842573fcd1810b02813cd6f836c29
+sha: af5b0c5955dadd6cd9aff31259915d517d882761
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
