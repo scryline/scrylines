@@ -493,6 +493,26 @@ entries:
     tags: ''
     chapter: ''
     originalWhen: 'Sun Feb 23 05:29:49 +0000 2020'
+  - id: 133
+    originalUrl: ''
+    url: ''
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: ''
+    logo: ''
+    image: ''
+    title: ''
+    summary: ''
+    comments: >-
+      <p>In hindsight, this now seems hard to believe - but I think it's fair to
+      say that at this point, despite all of the above, very few people in the
+      West believed that we were already in the midst of a pandemic, much less
+      that it would explode across Europe and North America in a matter of
+      weeks.</p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 8
     originalUrl: >-
       https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
@@ -540,26 +560,6 @@ entries:
     tags: ''
     chapter: ''
     originalWhen: '2020-02-23T14:00:00.000Z'
-  - id: 133
-    originalUrl: ''
-    url: ''
-    when: ''
-    originalWhen: ''
-    author: ''
-    source: ''
-    logo: ''
-    image: ''
-    title: ''
-    summary: ''
-    comments: >-
-      <p>In hindsight, this now seems hard to believe - but I think it's fair to
-      say that at this point, despite all of the above, very few people in the
-      West believed that we were already in the midst of a pandemic, much less
-      that it would explode across Europe and North America in a matter of
-      weeks.</p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 39
     originalUrl: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
     url: 'https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/'
@@ -1382,6 +1382,27 @@ entries:
       Iran to Ban Intercity Travel as Coronavirus Death Toll Tops 2,000 — Bourse
       &amp; Bazaar
     summary: "<p>Bourse &amp; Bazaar delivers news, analysis, and research on post-sanctions trade and investment in Iran. The company also organizes world-class conferences and events. Bourse &amp; Bazaar is an authority on Iran’s business environment and economic potential.\_</p>"
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 178
+    originalUrl: >-
+      https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+    url: >-
+      https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+    when: '2020-03-25T16:29:58.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/03/24/world/24virus-india/24virus-india-facebookJumbo-v3.jpg
+    title: Modi Orders 3-Week Total Lockdown for All 1.3 Billion Indians
+    summary: >-
+      With four hours’ notice, India’s prime minister announced that no one
+      could leave home for 21 days — the most severe step taken anywhere in the
+      war against the coronavirus.
     comments: ''
     suggestions: ''
     tags: ''
@@ -2314,6 +2335,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 176
+    originalUrl: >-
+      https://www.nytimes.com/2020/05/31/us/george-floyd-protests-coronavirus.html
+    url: >-
+      https://www.nytimes.com/2020/05/31/us/george-floyd-protests-coronavirus.html
+    when: '2020-06-04T15:52:32.691Z'
+    originalWhen: ''
+    author: 'null'
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/05/30/us/00covid-connection04/00covid-connection04-facebookJumbo.jpg
+    title: 'Two Crises Convulse a Nation: A Pandemic and Police Violence'
+    summary: >-
+      Emotions were already raw over the toll of a pandemic that has killed more
+      than 100,000 people across the country and cost millions of jobs.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 106
     originalUrl: >-
       https://www.nytimes.com/2020/06/04/world/middleeast/coronavirus-egypt-america-africa-asia.html
@@ -2399,6 +2440,27 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 175
+    originalUrl: >-
+      https://www.usatoday.com/story/news/investigations/2020/06/19/so-far-george-floyd-protests-not-behind-surges-coronavirus/3226033001/
+    url: >-
+      https://www.usatoday.com/story/news/investigations/2020/06/19/so-far-george-floyd-protests-not-behind-surges-coronavirus/3226033001/
+    when: '2020-06-22T14:27:12.000Z'
+    originalWhen: ''
+    author: Matt Wynn and Jayme Fraser
+    source: USA TODAY
+    logo: 'https://www.gannett-cdn.com/sites/usatoday/images/site-nav-logo@2x.png'
+    image: >-
+      https://www.gannett-cdn.com/presto/2020/06/04/USAT/d20bd557-8612-483e-a5de-8c9ac15f1fb3-XXX_060220_FoCoProtest_08_bb.jpg?crop=1022,575,x0,y0&width=1022&height=575&format=pjpg&auto=webp
+    title: Coronavirus surges aren’t linked to Black Lives Matter protests
+    summary: >-
+      Protests were as common in places with surging coronavirus cases as in
+      others. However, new spikes are in places with a lower rate of spread so
+      far.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 107
     originalUrl: >-
       https://www.nytimes.com/2020/06/22/world/middleeast/saudi-arabia-hajj-mecca-pilgrims.html
@@ -2436,6 +2498,27 @@ entries:
     summary: >-
       The global economy is expected to contract by 3 percent this year as
       quarantines and lockdowns cripple output.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 177
+    originalUrl: 'https://news.un.org/en/story/2020/06/1067042'
+    url: 'https://news.un.org/en/story/2020/06/1067042'
+    when: '2020-06-26T12:06:31.000Z'
+    originalWhen: ''
+    author: © UNDP Turkey/Levent Kulu
+    source: UN News
+    logo: ''
+    image: >-
+      https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/20-05-2020-UNDP-Turkey-2020-corona-days-workers-138.jpg/image770x420cropped.jpg
+    title: 'Coronavirus: 10 million infections milestone looms – WHO’s Tedros'
+    summary: >-
+      The world is on track to reach 10 million coronavirus cases within the
+      next week, the World Health Organization (WHO) chief executive said on
+      Wednesday, a “sober reminder” that as research continues into therapeutics
+      and vaccines, utmost efforts are needed now to suppress transmission and
+      save lives…
     comments: ''
     suggestions: ''
     tags: ''
@@ -2938,7 +3021,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 2e0c4de7320a1dcd2d77cc3ea94035e39251170f
+sha: 9d2af38b936842573fcd1810b02813cd6f836c29
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
