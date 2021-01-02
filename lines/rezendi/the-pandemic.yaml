@@ -18,7 +18,7 @@ entries:
       this, right at the turn of the year...</p>
     suggestions: ''
     tags: ''
-    chapter: 'January: Distant Early Warning'
+    chapter: 'Chapter 1: Distant Early Warning'
     originalWhen: 'Thu Jan 02 14:33:05 +0000 2020'
   - id: 12
     originalUrl: >-
@@ -251,7 +251,7 @@ entries:
     comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: 'February: Alarms sounded, and mostly ignored'
+    chapter: 'Chapter 2: The Spread'
   - id: 17
     originalUrl: 'https://www.bbc.com/news/world-asia-china-51403795'
     url: 'https://www.bbc.com/news/world-asia-china-51403795'
@@ -465,10 +465,11 @@ entries:
     summary: >-
       For me and for everyone I know who has been following #covid19, the last
       few days have felt like a profound shift i… https://t.co/kJ9HF3lNWp
-    comments: ''
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: ''
+    chapter: 'Chapter 3: Alarms Sounded, And Mostly Ignored'
+    originalWhen: 'Sat Feb 22 12:26:17 +0000 2020'
   - id: 7
     originalUrl: ''
     url: 'https://twitter.com/BillHanage/status/1231451071387774977'
@@ -574,7 +575,7 @@ entries:
     summary: >-
       Clinical trial is expected to start in April, as epidemic originating in
       China spurs quick response
-    comments: '<p>Again, this is really just amazing.</p>'
+    comments: '<p>Meanwhile. Again, this is really just amazing.</p>'
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2091,7 +2092,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 15a586a04460ac20e13006503b07cc35e00bc205
+sha: e2a84ba529170111663dcc4ff228affe75902bd8
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
