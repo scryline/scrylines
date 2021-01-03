@@ -1,85 +1,5 @@
 title: Arsenalia3
 entries:
-  - id: 1
-    originalUrl: >-
-      https://www.theguardian.com/football/2021/jan/01/west-bromwich-albion-v-arsenal-match-preview
-    url: >-
-      http://www.theguardian.com/football/2021/jan/01/west-bromwich-albion-v-arsenal-match-preview
-    when: '2021-01-01T18:45:07.000Z'
-    originalWhen: ''
-    author: 'null'
-    source: The Guardian
-    logo: 'https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png'
-    image: >-
-      https://i.guim.co.uk/img/media/71ac42aa8f2a85f047caa70e921d7fbaa8edfd46/0_240_543_326/master/543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=49ce7652899b0166c3432fede359438b
-    title: 'West Bromwich Albion v Arsenal: match preview'
-    summary: >-
-      Arsenal will be looking to continue their winning run against an Albion
-      side who have yet to find their feet under Sam Allardyce
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 2
-    originalUrl: >-
-      https://www.theguardian.com/football/2020/dec/31/kolasinac-on-verge-of-schalke-loan-as-arteta-targets-arsenal-clearout
-    url: >-
-      http://www.theguardian.com/football/2020/dec/31/kolasinac-on-verge-of-schalke-loan-as-arteta-targets-arsenal-clearout
-    when: '2021-01-01T04:36:49.000Z'
-    originalWhen: '2021-01-01T04:36:49.000Z'
-    author: Paul Doyle
-    source: the Guardian
-    logo: ''
-    image: >-
-      https://i.guim.co.uk/img/media/74fa457f1c1e2699d07470820577fa764463730d/316_178_2207_1323/master/2207.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23191cabf9f4cec6bf9fcad70c530684
-    title: Kolasinac joins Schalke on loan as Arteta targets Arsenal clearout
-    summary: >-
-      Mikel Arteta has revealed Arsenal’s priority in January is to trim the
-      numbers in their squad
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: Chap 1
-  - id: 3
-    originalUrl: >-
-      https://www.theguardian.com/football/2020/dec/29/brighton-arsenal-premier-league-match-report
-    url: >-
-      http://www.theguardian.com/football/2020/dec/29/brighton-arsenal-premier-league-match-report
-    when: '2020-12-30T04:36:53.000Z'
-    originalWhen: '2020-12-30T04:36:53.000Z'
-    author: Nick Ames
-    source: the Guardian
-    logo: ''
-    image: >-
-      https://i.guim.co.uk/img/media/bff2a2e6b373556cf9014671ec83a447cf0ea43f/0_126_3961_2375/master/3961.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b8e69f947b60bae1ae37bf9e79ebdd6
-    title: Saka and Lacazette deliver for Arsenal again to leave Brighton in trouble
-    summary: >-
-      Alexandre Lacazette scored 21 seconds after replacing Gabriel Martinelli
-      to give Arsenal a 1-0 victory at Brighton
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: Chap 2
-  - id: 5
-    originalUrl: >-
-      https://www.theguardian.com/football/2020/dec/28/draining-painful-arteta-admits-doubts-arsenal-awful-run
-    url: >-
-      http://www.theguardian.com/football/2020/dec/28/draining-painful-arteta-admits-doubts-arsenal-awful-run
-    when: '2020-12-28T23:17:43.000Z'
-    originalWhen: ''
-    author: PA Media
-    source: The Guardian
-    logo: 'https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png'
-    image: >-
-      https://i.guim.co.uk/img/media/70db9f02809c4ae1b7ad9a15da041bdfb9a93b33/0_77_3217_1931/master/3217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25372a05c84b22e486286a3028335825
-    title: '‘Draining and painful’: Arteta admits doubts during Arsenal’s awful run'
-    summary: >-
-      Mikel Arteta admits he questioned himself every day during Arsenal’s
-      ‘draining’ run of defeats which were ‘frustrating and painful’
-    comments: ''
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 4
     originalUrl: >-
       https://www.theguardian.com/football/2020/dec/26/arsenal-chelsea-premier-league-match-report
@@ -101,9 +21,109 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 5
+    originalUrl: >-
+      https://www.theguardian.com/football/2020/dec/28/draining-painful-arteta-admits-doubts-arsenal-awful-run
+    url: >-
+      http://www.theguardian.com/football/2020/dec/28/draining-painful-arteta-admits-doubts-arsenal-awful-run
+    when: '2020-12-28T23:17:43.000Z'
+    originalWhen: ''
+    author: PA Media
+    source: The Guardian
+    logo: 'https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png'
+    image: >-
+      https://i.guim.co.uk/img/media/70db9f02809c4ae1b7ad9a15da041bdfb9a93b33/0_77_3217_1931/master/3217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25372a05c84b22e486286a3028335825
+    title: '‘Draining and painful’: Arteta admits doubts during Arsenal’s awful run'
+    summary: >-
+      Mikel Arteta admits he questioned himself every day during Arsenal’s
+      ‘draining’ run of defeats which were ‘frustrating and painful’
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 3
+    originalUrl: >-
+      https://www.theguardian.com/football/2020/dec/29/brighton-arsenal-premier-league-match-report
+    url: >-
+      http://www.theguardian.com/football/2020/dec/29/brighton-arsenal-premier-league-match-report
+    when: '2020-12-30T04:36:53.000Z'
+    originalWhen: '2020-12-30T04:36:53.000Z'
+    author: Nick Ames
+    source: the Guardian
+    logo: ''
+    image: >-
+      https://i.guim.co.uk/img/media/bff2a2e6b373556cf9014671ec83a447cf0ea43f/0_126_3961_2375/master/3961.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b8e69f947b60bae1ae37bf9e79ebdd6
+    title: Saka and Lacazette deliver for Arsenal again to leave Brighton in trouble
+    summary: >-
+      Alexandre Lacazette scored 21 seconds after replacing Gabriel Martinelli
+      to give Arsenal a 1-0 victory at Brighton
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: Chap 2
+  - id: 2
+    originalUrl: >-
+      https://www.theguardian.com/football/2020/dec/31/kolasinac-on-verge-of-schalke-loan-as-arteta-targets-arsenal-clearout
+    url: >-
+      http://www.theguardian.com/football/2020/dec/31/kolasinac-on-verge-of-schalke-loan-as-arteta-targets-arsenal-clearout
+    when: '2021-01-01T04:36:49.000Z'
+    originalWhen: '2021-01-01T04:36:49.000Z'
+    author: Paul Doyle
+    source: the Guardian
+    logo: ''
+    image: >-
+      https://i.guim.co.uk/img/media/74fa457f1c1e2699d07470820577fa764463730d/316_178_2207_1323/master/2207.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23191cabf9f4cec6bf9fcad70c530684
+    title: Kolasinac joins Schalke on loan as Arteta targets Arsenal clearout
+    summary: >-
+      Mikel Arteta has revealed Arsenal’s priority in January is to trim the
+      numbers in their squad
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: Chap 1
+  - id: 1
+    originalUrl: >-
+      https://www.theguardian.com/football/2021/jan/01/west-bromwich-albion-v-arsenal-match-preview
+    url: >-
+      http://www.theguardian.com/football/2021/jan/01/west-bromwich-albion-v-arsenal-match-preview
+    when: '2021-01-01T18:45:07.000Z'
+    originalWhen: ''
+    author: 'null'
+    source: The Guardian
+    logo: 'https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png'
+    image: >-
+      https://i.guim.co.uk/img/media/71ac42aa8f2a85f047caa70e921d7fbaa8edfd46/0_240_543_326/master/543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=49ce7652899b0166c3432fede359438b
+    title: 'West Bromwich Albion v Arsenal: match preview'
+    summary: >-
+      Arsenal will be looking to continue their winning run against an Albion
+      side who have yet to find their feet under Sam Allardyce
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 6
+    originalUrl: >-
+      https://www.theguardian.com/football/2021/jan/02/west-bromwich-albion-arsenal-premier-league-match-report
+    url: >-
+      http://www.theguardian.com/football/2021/jan/02/west-bromwich-albion-arsenal-premier-league-match-report
+    when: '2021-01-03T04:36:56.000Z'
+    originalWhen: ''
+    author: Paul Doyle
+    source: The Guardian
+    logo: 'https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png'
+    image: >-
+      https://i.guim.co.uk/img/media/cd25f5e2d8575e615a1c2e7fcc39e14da569ef49/542_777_3614_2169/master/3614.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=a9fa7ce94330c94e97a08c427e427756
+    title: Lacazette double rounds off Arsenal’s demolition of West Brom in snow
+    summary: >-
+      Arsenal overcame blizzard conditions to thrash West Brom 4-0 at the
+      Hawthorns
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
 email: jon@happyfuncorp.com
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 byline: Jon Evans
 editable: false
 slug: arsenalia3
-sha: d70d4c344e293b6faf47fbcf687074509d3818af
+sha: 8276ff2edbdee8fbc2d13add7973eb82082bca68
