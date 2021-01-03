@@ -356,6 +356,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 133
+    originalUrl: ''
+    url: ''
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: ''
+    logo: ''
+    image: ''
+    title: ''
+    summary: ''
+    comments: >-
+      <p>In hindsight, this now seems hard to believe - but I think it's fair to
+      say that at this point, despite all of the above, very few people in the
+      West believed that we were already in the midst of a pandemic, much less
+      that it would explode across Europe and North America in a matter of
+      weeks.</p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 2
     originalUrl: >-
       https://www.vox.com/recode/2020/2/13/21128209/coronavirus-fears-contagion-how-infection-spreads
@@ -387,26 +407,6 @@ entries:
     tags: ''
     chapter: ''
     originalWhen: '2020-02-13T12:00:00.000Z'
-  - id: 133
-    originalUrl: ''
-    url: ''
-    when: ''
-    originalWhen: ''
-    author: ''
-    source: ''
-    logo: ''
-    image: ''
-    title: ''
-    summary: ''
-    comments: >-
-      <p>In hindsight, this now seems hard to believe - but I think it's fair to
-      say that at this point, despite all of the above, very few people in the
-      West believed that we were already in the midst of a pandemic, much less
-      that it would explode across Europe and North America in a matter of
-      weeks.</p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 3
     originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
     url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
@@ -2675,6 +2675,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 189
+    originalUrl: >-
+      https://www.reuters.com/article/us-health-coronavirus-usa/u-s-coronavirus-extraordinarily-widespread-white-house-experts-say-idUSKBN24Y0NI?
+    url: 'https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN24Y0NI'
+    when: '2020-08-03T21:39:45.000Z'
+    originalWhen: '2020-08-03T21:39:45.000Z'
+    author: Doina Chiacu
+    source: Reuters
+    logo: 'https://s3.reutersmedia.net/resources_v2/images/reuters_social_logo.png'
+    image: >-
+      https://static.reuters.com/resources/r/?m=02&d=20200803&t=2&i=1528128549&r=LYNXMPEG710BZ&w=800
+    title: 'U.S. coronavirus ‘extraordinarily widespread’, say White House experts'
+    summary: >-
+      The United States is in a new phase of the novel coronavirus outbreak with
+      infections “extraordinarily widespread” in rural areas as well as cities,
+      White House coronavirus experts said on Sunday.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: 'August: Eye Of The Hurricane'
   - id: 40
     originalUrl: >-
       https://www.theatlantic.com/magazine/archive/2020/09/coronavirus-american-failure/614191/
@@ -2914,6 +2934,30 @@ entries:
       This week’s COVID-19 cases and hospitalizations make clear that the U.S.
       is once again sinking deeper into the pandemic.
     comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 188
+    originalUrl: >-
+      https://www.washingtonpost.com/health/2020/10/15/coronavirus-cases-surging/?
+    url: >-
+      https://www.washingtonpost.com/health/2020/10/15/coronavirus-cases-surging/
+    when: '2020-10-15T22:43:23.072Z'
+    originalWhen: ''
+    author: 'Joel Achenbach, Jacqueline Dupree'
+    source: The Washington Post
+    logo: 'https://www.washingtonpost.com/wp-stat/img/wplogo_344x60_blk.png'
+    image: >-
+      https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IYISWZAPDUI6XNAERUPGOXWHAE.jpg&w=1440
+    title: >-
+      U.S. tops 60,000 daily coronavirus infections for first time since early
+      August
+    summary: >-
+      This week, the Centers for Disease Control and Prevention updated its
+      advice on how people should handle the upcoming holidays, saying people at
+      elevated risk of a severe covid-19 illness -- older people and those with
+      chronic conditions -- “should not attend in-person holiday celebrations.”
+    comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
@@ -3204,7 +3248,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 01a29d4d0ed9206d8b709d69c2cb9e5ecab8d9a0
+sha: 0fe72a69c4f6e15e3ff5dd568015af5600f6fedc
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
