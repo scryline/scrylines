@@ -387,6 +387,26 @@ entries:
     tags: ''
     chapter: ''
     originalWhen: '2020-02-13T12:00:00.000Z'
+  - id: 133
+    originalUrl: ''
+    url: ''
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: ''
+    logo: ''
+    image: ''
+    title: ''
+    summary: ''
+    comments: >-
+      <p>In hindsight, this now seems hard to believe - but I think it's fair to
+      say that at this point, despite all of the above, very few people in the
+      West believed that we were already in the midst of a pandemic, much less
+      that it would explode across Europe and North America in a matter of
+      weeks.</p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 3
     originalUrl: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
     url: 'https://www.nytimes.com/2020/02/02/health/coronavirus-pandemic-china.html'
@@ -450,26 +470,6 @@ entries:
       <p>It's still astonishing just how utterly sclerotic and incapable the
       world's wealthiest and mightiest country showed itself to be in the face
       of this new threat.</p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 133
-    originalUrl: ''
-    url: ''
-    when: ''
-    originalWhen: ''
-    author: ''
-    source: ''
-    logo: ''
-    image: ''
-    title: ''
-    summary: ''
-    comments: >-
-      <p>In hindsight, this now seems hard to believe - but I think it's fair to
-      say that at this point, despite all of the above, very few people in the
-      West believed that we were already in the midst of a pandemic, much less
-      that it would explode across Europe and North America in a matter of
-      weeks.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2856,6 +2856,47 @@ entries:
     suggestions: ''
     tags: ''
     chapter: 'October: The Third Surge Begins'
+  - id: 184
+    originalUrl: >-
+      https://www.ajmc.com/view/us-signs-deal-with-astrazeneca-to-develop-make-covid-19-antibody-treatment
+    url: >-
+      https://www.ajmc.com/view/us-signs-deal-with-astrazeneca-to-develop-make-covid-19-antibody-treatment
+    when: '2020-10-09 12:00:00'
+    originalWhen: ''
+    author: Gianna Melillo
+    source: AJMC
+    logo: ''
+    image: >-
+      https://cdn.sanity.io/images/0vv8moc6/ajmc/6553aa6fdf7d34ac6d2f59ed3919ff02487ec3fd-800x400.jpg?auto=format
+    title: >-
+      US Signs Deal With AstraZeneca to Develop, Manufacture COVID-19 Antibody
+      Treatment
+    summary: >-
+      The Trump administration signed a $486 million agreement with AstraZeneca
+      to develop a coronavirus disease 2019 (COVID-19) antibody treatment.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 185
+    originalUrl: >-
+      https://www.politico.com/news/2020/10/12/johnson-coronavirus-vaccine-paused-429126
+    url: >-
+      https://www.politico.com/news/2020/10/12/johnson-coronavirus-vaccine-paused-429126
+    when: '2020-10-13T03:37:00.000Z'
+    originalWhen: ''
+    author: David Lim
+    source: POLITICO
+    logo: >-
+      https://static.politico.com/6d/9f/1e153a1748fa9ea656c575dc6dff/politico-logo-60px-tall-1.png
+    image: >-
+      https://static.politico.com/b6/7c/b409c416452b8c7d35633f8e6984/20200928-coronavirusvaccine-ap-773.jpg
+    title: Johnson &amp; Johnson pauses dosing of its coronavirus vaccine
+    summary: The company reported an “unexplained illness in a study participant.”
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 167
     originalUrl: >-
       https://www.theatlantic.com/health/archive/2020/10/coronavirus-third-surge/616750/
@@ -2873,6 +2914,45 @@ entries:
       This week’s COVID-19 cases and hospitalizations make clear that the U.S.
       is once again sinking deeper into the pandemic.
     comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 187
+    originalUrl: >-
+      https://www.npr.org/sections/coronavirus-live-updates/2020/10/19/925325563/40-million-coronavirus-cases-are-now-reported-worldwide
+    url: >-
+      https://www.npr.org/sections/coronavirus-live-updates/2020/10/19/925325563/40-million-coronavirus-cases-are-now-reported-worldwide
+    when: '2020-10-19T17:37:00.000Z'
+    originalWhen: ''
+    author: Bill Chappell
+    source: NPR
+    logo: 'https://media.npr.org/chrome/npr-logo.jpg'
+    image: >-
+      https://media.npr.org/assets/img/2020/10/19/gettyimages-1229164270_wide-1ecf869e91c565f7ffd53e58c478068e28c87561.jpg?s=1400
+    title: 40 Million Coronavirus Cases Are Now Reported Worldwide
+    summary: >-
+      With the flu season looming, the rate of new cases in the U.S. and other
+      countries is rising at rates not seen in months.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 186
+    originalUrl: >-
+      https://www.politico.com/news/2020/10/22/fda-approves-remdesivir-coronavirus-431336?
+    url: >-
+      https://www.politico.com/news/2020/10/22/fda-approves-remdesivir-coronavirus-431336
+    when: '2020-10-22T22:28:00.000Z'
+    originalWhen: ''
+    author: Zachary Brennan
+    source: POLITICO
+    logo: >-
+      https://static.politico.com/6d/9f/1e153a1748fa9ea656c575dc6dff/politico-logo-60px-tall-1.png
+    image: >-
+      https://static.politico.com/74/d4/d16997db4ec7b0858822341f4283/200507-remdesivir-gty-773.jpg
+    title: FDA approves remdesivir as first coronavirus drug
+    summary: The FDA’s verdict is bound to be controversial.
+    comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
@@ -3124,7 +3204,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 0942ccbcd32a9a1294a6d1d3660b94a2cfff87fc
+sha: 01a29d4d0ed9206d8b709d69c2cb9e5ecab8d9a0
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
