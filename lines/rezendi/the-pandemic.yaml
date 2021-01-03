@@ -470,6 +470,26 @@ entries:
     tags: ''
     chapter: 'Late February: Alarms Sounded, And Mostly Ignored'
     originalWhen: 'Sat Feb 22 12:26:17 +0000 2020'
+  - id: 133
+    originalUrl: ''
+    url: ''
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: ''
+    logo: ''
+    image: ''
+    title: ''
+    summary: ''
+    comments: >-
+      <p>In hindsight, this now seems hard to believe - but I think it's fair to
+      say that at this point, despite all of the above, very few people in the
+      West believed that we were already in the midst of a pandemic, much less
+      that it would explode across Europe and North America in a matter of
+      weeks.</p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 7
     originalUrl: ''
     url: 'https://twitter.com/BillHanage/status/1231451071387774977'
@@ -493,26 +513,6 @@ entries:
     tags: ''
     chapter: ''
     originalWhen: 'Sun Feb 23 05:29:49 +0000 2020'
-  - id: 133
-    originalUrl: ''
-    url: ''
-    when: ''
-    originalWhen: ''
-    author: ''
-    source: ''
-    logo: ''
-    image: ''
-    title: ''
-    summary: ''
-    comments: >-
-      <p>In hindsight, this now seems hard to believe - but I think it's fair to
-      say that at this point, despite all of the above, very few people in the
-      West believed that we were already in the midst of a pandemic, much less
-      that it would explode across Europe and North America in a matter of
-      weeks.</p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
   - id: 8
     originalUrl: >-
       https://blogs.scientificamerican.com/observations/how-to-report-on-the-covid-19-outbreak-responsibly/
@@ -2713,6 +2713,50 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 180
+    originalUrl: >-
+      https://www.reuters.com/article/uk-health-coronavirus-eu-ecdc/covid-19-cases-in-europe-back-to-march-level-eu-health-body-says-idUKKBN25T244
+    url: >-
+      https://www.reuters.com/article/uk-health-coronavirus-eu-ecdc-idUKKBN25T244
+    when: '2020-09-02T13:48:37.000Z'
+    originalWhen: '2020-09-02T13:48:37.000Z'
+    author: Reuters Staff
+    source: Reuters
+    logo: 'https://s3.reutersmedia.net/resources_v2/images/reuters_social_logo.png'
+    image: >-
+      https://static.reuters.com/resources/r/?m=02&d=20200902&t=2&i=1531936113&r=LYNXMPEG8118X&w=800
+    title: 'COVID-19 cases in Europe back to March level, EU health body says'
+    summary: >-
+      COVID-19 infections in Europe are back to levels seen in March when the
+      outbreak began its peak phase there, the head of the European Union’s
+      public health agency said on Wednesday, noting however school reopenings
+      did not necessarily pose new risks.
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: 'September: Ominous Winds'
+  - id: 179
+    originalUrl: >-
+      https://www.reuters.com/article/health-coronavirus-singapore-dormitories/singapore-grapples-with-coronavirus-in-migrant-workers-dormitories-idUSKBN26506V
+    url: >-
+      https://www.reuters.com/article/health-coronavirus-singapore-dormitories-idUSKBN26506V
+    when: '2020-09-14T02:32:56.000Z'
+    originalWhen: ''
+    author: Aradhana Aravindan
+    source: Reuters
+    logo: 'https://s3.reutersmedia.net/resources_v2/images/reuters_social_logo.png'
+    image: >-
+      https://static.reuters.com/resources/r/?m=02&d=20200914&t=2&i=1533289974&r=LYNXMPEG8D05L&w=800
+    title: Singapore grapples with coronavirus in migrant workers’ dormitories
+    summary: >-
+      Singapore is battling new clusters of coronavirus infections in migrant
+      dormitories that had won the all-clear from authorities, highlighting the
+      difficulty of stamping out the disease, even in a closely monitored
+      population.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 168
     originalUrl: >-
       https://www.nytimes.com/2020/09/13/world/middleeast/israel-second-lockdown.html
@@ -2732,7 +2776,46 @@ entries:
     comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: 'September: Ominous Winds'
+    chapter: ''
+  - id: 182
+    originalUrl: >-
+      https://www.npr.org/2020/09/23/916208933/european-countries-see-spikes-in-coronavirus-cases
+    url: >-
+      https://www.npr.org/2020/09/23/916208933/european-countries-see-spikes-in-coronavirus-cases
+    when: '2020-09-24T05:01:00.000Z'
+    originalWhen: ''
+    author: 'Eleanor Beardsley,Rob Schmitz,Frank Langfitt'
+    source: NPR
+    logo: 'https://media.npr.org/chrome/npr-logo.jpg'
+    image: 'https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400'
+    title: European Countries See Spikes In Coronavirus Cases
+    summary: >-
+      Health officials in a number of European countries are reporting sharp
+      increases in coronavirus infections and are warning of more
+      hospitalizations and deaths in the months ahead.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 181
+    originalUrl: 'https://www.bbc.com/news/world-54334496'
+    url: 'https://www.bbc.com/news/world-54334496'
+    when: '2020-09-29T08:45:38.000Z'
+    originalWhen: ''
+    author: BBC News
+    source: BBC News
+    logo: >-
+      https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1
+    image: >-
+      https://ichef.bbci.co.uk/news/1024/branded_news/6AE7/production/_114676372_063110230.jpg
+    title: 'Coronavirus: Global Covid-19 death toll passes one million'
+    summary: >-
+      UN chief António Guterres calls it “an agonising milestone” as the fight
+      to stem the virus continues.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 169
     originalUrl: 'https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html'
     url: 'https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html'
@@ -3021,7 +3104,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: af5b0c5955dadd6cd9aff31259915d517d882761
+sha: 69f39ee5a02f233568136505bc7e284f5a24832c
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
