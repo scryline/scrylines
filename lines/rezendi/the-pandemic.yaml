@@ -294,6 +294,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 133
+    originalUrl: ''
+    url: ''
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: ''
+    logo: ''
+    image: ''
+    title: ''
+    summary: ''
+    comments: >-
+      <p>In hindsight, this now seems hard to believe - but I think it's fair to
+      say that at this point, despite all of the above, very few people in the
+      West believed that we were already in the midst of a pandemic, much less
+      that it would explode across Europe and North America in a matter of
+      weeks.</p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 18
     originalUrl: >-
       https://www.straitstimes.com/singapore/coronavirus-7-new-confirmed-cases-in-spore-possible-new-cluster-involving-church-in-paya
@@ -353,26 +373,6 @@ entries:
       <p>In which a vaccine candidate crafted with bleeding-edge mRNA technology
       is released only a month after the virus's genome ... and subsequently is
       shown to be both safe and ~90% effective. Just extraordinary.</p>
-    suggestions: ''
-    tags: ''
-    chapter: ''
-  - id: 133
-    originalUrl: ''
-    url: ''
-    when: ''
-    originalWhen: ''
-    author: ''
-    source: ''
-    logo: ''
-    image: ''
-    title: ''
-    summary: ''
-    comments: >-
-      <p>In hindsight, this now seems hard to believe - but I think it's fair to
-      say that at this point, despite all of the above, very few people in the
-      West believed that we were already in the midst of a pandemic, much less
-      that it would explode across Europe and North America in a matter of
-      weeks.</p>
     suggestions: ''
     tags: ''
     chapter: ''
@@ -2733,6 +2733,62 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 190
+    originalUrl: 'https://www.nytimes.com/2020/08/25/health/covid-19-testing-cdc.html'
+    url: 'https://www.nytimes.com/2020/08/25/health/covid-19-testing-cdc.html'
+    when: '2020-08-25T22:09:47.519Z'
+    originalWhen: '2020-12-02T22:09:47.519Z'
+    author: 'null'
+    source: NYTimes
+    logo: ''
+    image: >-
+      https://static01.nyt.com/images/2020/08/25/science/25VIRUS-CDC/25VIRUS-CDC-facebookJumbo.jpg
+    title: C.D.C. Now Says People Without Covid-19 Symptoms Do Not Need Testing
+    summary: >-
+      The revision prompted confusion and alarm from experts, who called the
+      move “potentially dangerous.”
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 191
+    originalUrl: >-
+      https://www.politico.com/news/2020/08/26/moderna-coronavirus-vaccine-shows-strong-immune-response-in-older-adults-402344?
+    url: >-
+      https://www.politico.com/news/2020/08/26/moderna-coronavirus-vaccine-shows-strong-immune-response-in-older-adults-402344
+    when: '2020-08-26T16:00:00.000Z'
+    originalWhen: ''
+    author: ZACHARY BRENNAN
+    source: POLITICO
+    logo: >-
+      https://static.politico.com/6d/9f/1e153a1748fa9ea656c575dc6dff/politico-logo-60px-tall-1.png
+    image: >-
+      https://static.politico.com/0e/25/9ac3b12a417b9793d7ebb7ee78ab/200707-moderna-gty-773.jpg
+    title: Moderna coronavirus vaccine shows strong immune response in older adults
+    summary: The European Commission to buy 80 million doses of the vaccine.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 192
+    originalUrl: >-
+      https://thehill.com/policy/healthcare/514200-researchers-find-first-us-case-of-covid-reinfection
+    url: >-
+      https://thehill.com/policy/healthcare/514200-researchers-find-first-us-case-of-covid-reinfection
+    when: '2020-08-28T23:41:50.000Z'
+    originalWhen: ''
+    author: Nathaniel Weixel
+    source: The Hill
+    logo: >-
+      https://thehill.com/sites/all/themes/thehill/images/redesign/thehill-logo-big.png
+    image: >-
+      https://thehill.com/sites/default/files/coronavirus_vaccine_trials_08132020_1.jpg
+    title: Researchers find first US case of COVID-19 reinfection
+    summary: Researchers have documented what appears to be the first U.S. ins...
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 180
     originalUrl: >-
       https://www.reuters.com/article/uk-health-coronavirus-eu-ecdc/covid-19-cases-in-europe-back-to-march-level-eu-health-body-says-idUKKBN25T244
@@ -3248,7 +3304,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 0fe72a69c4f6e15e3ff5dd568015af5600f6fedc
+sha: ff10e2c3db30565d7caf609216314ee6e4f5ba3f
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
