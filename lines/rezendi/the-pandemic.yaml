@@ -453,23 +453,6 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 6
-    originalUrl: ''
-    url: 'https://twitter.com/kakape/status/1231193492002611200'
-    when: 'Sat Feb 22 12:26:17 +0000 2020'
-    author: '@kakape | 45586617'
-    source: Twitter
-    logo: ''
-    image: ''
-    title: ''
-    summary: >-
-      For me and for everyone I know who has been following #covid19, the last
-      few days have felt like a profound shift i… https://t.co/kJ9HF3lNWp
-    comments: <p><br></p>
-    suggestions: ''
-    tags: ''
-    chapter: 'Late February: Alarms Sounded, And Mostly Ignored'
-    originalWhen: 'Sat Feb 22 12:26:17 +0000 2020'
   - id: 133
     originalUrl: ''
     url: ''
@@ -490,6 +473,23 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 6
+    originalUrl: ''
+    url: 'https://twitter.com/kakape/status/1231193492002611200'
+    when: 'Sat Feb 22 12:26:17 +0000 2020'
+    author: '@kakape | 45586617'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      For me and for everyone I know who has been following #covid19, the last
+      few days have felt like a profound shift i… https://t.co/kJ9HF3lNWp
+    comments: <p><br></p>
+    suggestions: ''
+    tags: ''
+    chapter: 'Late February: Alarms Sounded, And Mostly Ignored'
+    originalWhen: 'Sat Feb 22 12:26:17 +0000 2020'
   - id: 7
     originalUrl: ''
     url: 'https://twitter.com/BillHanage/status/1231451071387774977'
@@ -2735,6 +2735,26 @@ entries:
     suggestions: ''
     tags: ''
     chapter: 'September: Ominous Winds'
+  - id: 183
+    originalUrl: >-
+      https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/
+    url: >-
+      https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/
+    when: '2020-09-09T00:35:31.000Z'
+    originalWhen: ''
+    author: Adam Feuerstein
+    source: STAT
+    logo: ''
+    image: >-
+      https://www.statnews.com/wp-content/uploads/2016/04/AP_090129060159-1024x576.jpg
+    title: AstraZeneca Covid-19 vaccine study is put on hold
+    summary: >-
+      The large, Phase 3 study testing the vaccine has been put on hold due to a
+      suspected serious adverse reaction in a participant in the U.K.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 179
     originalUrl: >-
       https://www.reuters.com/article/health-coronavirus-singapore-dormitories/singapore-grapples-with-coronavirus-in-migrant-workers-dormitories-idUSKBN26506V
@@ -3104,7 +3124,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 69f39ee5a02f233568136505bc7e284f5a24832c
+sha: 0942ccbcd32a9a1294a6d1d3660b94a2cfff87fc
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
