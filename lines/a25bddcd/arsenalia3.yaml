@@ -26,7 +26,7 @@ entries:
     url: >-
       http://www.theguardian.com/football/2020/dec/31/kolasinac-on-verge-of-schalke-loan-as-arteta-targets-arsenal-clearout
     when: '2021-01-01T04:36:49.000Z'
-    originalWhen: ''
+    originalWhen: '2021-01-01T04:36:49.000Z'
     author: Paul Doyle
     source: the Guardian
     logo: ''
@@ -36,17 +36,17 @@ entries:
     summary: >-
       Mikel Arteta has revealed Arsenal’s priority in January is to trim the
       numbers in their squad
-    comments: ''
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: ''
+    chapter: Chap 1
   - id: 3
     originalUrl: >-
       https://www.theguardian.com/football/2020/dec/29/brighton-arsenal-premier-league-match-report
     url: >-
       http://www.theguardian.com/football/2020/dec/29/brighton-arsenal-premier-league-match-report
     when: '2020-12-30T04:36:53.000Z'
-    originalWhen: ''
+    originalWhen: '2020-12-30T04:36:53.000Z'
     author: Nick Ames
     source: the Guardian
     logo: ''
@@ -56,10 +56,10 @@ entries:
     summary: >-
       Alexandre Lacazette scored 21 seconds after replacing Gabriel Martinelli
       to give Arsenal a 1-0 victory at Brighton
-    comments: ''
+    comments: <p><br></p>
     suggestions: ''
     tags: ''
-    chapter: ''
+    chapter: Chap 2
   - id: 5
     originalUrl: >-
       https://www.theguardian.com/football/2020/dec/28/draining-painful-arteta-admits-doubts-arsenal-awful-run
@@ -106,4 +106,4 @@ userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 byline: Jon Evans
 editable: false
 slug: arsenalia3
-sha: 94f17e67168e19555bf69c72cf1b77f92d92005c
+sha: d70d4c344e293b6faf47fbcf687074509d3818af
