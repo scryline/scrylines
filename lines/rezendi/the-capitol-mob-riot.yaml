@@ -34,6 +34,155 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 6
+    originalUrl: ''
+    url: 'https://twitter.com/richardpietro/status/1347020333996535809'
+    when: 'Thu Jan 07 03:20:48 +0000 2021'
+    originalWhen: ''
+    author: '@richardpietro | 176914461'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      In case you were wondering how so many terrorist were able to storm the
+      Capitol, the cops let them in.… https://t.co/OiTDdswiuv
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 4
+    originalUrl: ''
+    url: 'https://twitter.com/YousefMunayyer/status/1347026407294201863'
+    when: 'Thu Jan 07 03:44:56 +0000 2021'
+    originalWhen: ''
+    author: '@YousefMunayyer | 47646735'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      We spend $750 billion annually on "defense" and the center of American
+      government fell in two hours to the duck dyn… https://t.co/5rSdPwehLV
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 7
+    originalUrl: 'https://news.yahoo.com/yahoo-news-reporter-speaks-woman-162518552.html'
+    url: 'https://news.yahoo.com/yahoo-news-reporter-speaks-woman-162518552.html'
+    when: '2021-01-07T16:43:20.307Z'
+    originalWhen: ''
+    author: Yahoo News Video
+    source: Yahoo News
+    logo: 'https://s.yimg.com/rz/p/yahoo_news_en-US_h_p_news_2.png'
+    image: >-
+      https://s.yimg.com/hd/cp-video-transcode/prod/2021-01/07/5ff735f05068c33bdc2ced28/5ff735f521c5340001f734f6_1280x720_FES_v1.jpg
+    title: >-
+      Yahoo News reporter speaks to woman who says she stormed the Capitol
+      because ‘it’s a revolution’
+    summary: >-
+      Yahoo News White House Correspondent Hunter Walker spoke to a woman
+      identifying herself as “Elizabeth” who said she was Maced when she tried
+      to enter the U.S...
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 9
+    originalUrl: >-
+      https://slate.com/news-and-politics/2021/01/was-there-a-plan-for-hostages-or-killings-at-the-capitol.html
+    url: >-
+      https://slate.com/news-and-politics/2021/01/was-there-a-plan-for-hostages-or-killings-at-the-capitol.html
+    when: '2021-01-08T17:01:19.000Z'
+    originalWhen: ''
+    author: Dan Kois
+    source: Slate
+    logo: 'https://slate.com/media/sites/slate-com/icon.400x400.png'
+    image: >-
+      https://compote.slate.com/images/d846eae0-3c3e-4e41-997a-1918a351ad62.jpeg?width=780&height=520&rect=1560x1040&offset=0x0
+    title: They Were Out for Blood
+    summary: Just how close did the Capitol riots come to a massacre?
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 10
+    originalUrl: >-
+      https://www.theatlantic.com/politics/archive/2021/01/trump-rioters-wanted-more-violence-worse/617614/
+    url: >-
+      https://www.theatlantic.com/politics/archive/2021/01/trump-rioters-wanted-more-violence-worse/617614/
+    when: '2021-01-09T15:21:31.000Z'
+    originalWhen: ''
+    author: Elaine Godfrey
+    source: The Atlantic
+    logo: ''
+    image: >-
+      https://cdn.theatlantic.com/thumbor/2Lt4El5lslHUPN3UiU6b0ALXaVA=/0x314:5607x3234/960x500/https://cdn.theatlantic.com/assets/media/img/mt/2021/01/GettyImages_1230477040/original.jpg
+    title: It Was Supposed to Be So Much Worse
+    summary: And the threat to the U.S. government hasn’t passed.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 5
+    originalUrl: ''
+    url: 'https://twitter.com/mikedeitschman/status/1347964731521335297'
+    when: 'Sat Jan 09 17:53:30 +0000 2021'
+    originalWhen: ''
+    author: '@mikedeitschman | 2434839308'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      This is the long version of the cop getting crushed video. Quit telling me
+      the cops let them in.  https://t.co/Bjt6StDzKl via @YouTube
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 8
+    originalUrl: ''
+    url: 'https://twitter.com/jsrailton/status/1348115530654347266'
+    when: 'Sun Jan 10 03:52:43 +0000 2021'
+    originalWhen: ''
+    author: '@jsrailton | 243032876'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      NEW FOOTAGE: a long, disciplined line of men in body armor moves as a unit
+      up the #CapitolBuilding steps.  
+
+
+      We nee… https://t.co/0PN5RtYvuA
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 11
+    originalUrl: >-
+      https://www.newyorker.com/news/news-desk/an-air-force-combat-veteran-breached-the-senate
+    url: >-
+      https://www.newyorker.com/news/news-desk/an-air-force-combat-veteran-breached-the-senate
+    when: '2021-01-10T18:27:29.274Z'
+    originalWhen: ''
+    author: Ronan Farrow
+    source: The New Yorker
+    logo: 'https://www.newyorker.com/verso/static/tny/assets/logo-seo.png'
+    image: >-
+      https://media.newyorker.com/photos/5ff8f06eca0b433c495ffd37/16:9/w_1280,c_limit/Ronan-Capitol.jpg
+    title: An Air Force Combat Veteran Breached the Senate
+    summary: >-
+      Ronan Farrow on Larry Rendall Brock, Jr., a Texas-based pilot who broke
+      into the U.S. Senate chamber and descended on House Speaker Nancy Pelosi’s
+      office suite during a pro-Trump mob attack.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 1
     originalUrl: 'https://www.nytimes.com/2021/01/11/us/capitol-mob-violence-police.html'
     url: 'https://www.nytimes.com/2021/01/11/us/capitol-mob-violence-police.html'
@@ -52,8 +201,9 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-email: jon@happyfuncorp.com
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 byline: Jon Evans
 editable: false
+sha: 94010324d2eaac115732ffa5d99aef45d8cfb2aa
+email: jon@happyfuncorp.com
 slug: the-capitol-mob-riot
