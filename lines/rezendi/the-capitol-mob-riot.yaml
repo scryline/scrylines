@@ -17,6 +17,41 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 15
+    originalUrl: ''
+    url: 'https://twitter.com/AndrewFeinberg/status/1346899955097726985'
+    when: 'Wed Jan 06 19:22:28 +0000 2021'
+    originalWhen: ''
+    author: '@AndrewFeinberg | 2249531'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      It took 159 years, but a mob marching behind a confederate flag has
+      stormed the US Capitol. They are doing so on… https://t.co/Agbnc4BRSK
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 17
+    originalUrl: ''
+    url: 'https://twitter.com/OmarJimenez/status/1346912217946419201'
+    when: 'Wed Jan 06 20:11:11 +0000 2021'
+    originalWhen: ''
+    author: '@OmarJimenez | 369788077'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: |-
+      Guns drawn as part of an armed standoff INSIDE the House Chamber. 
+
+      Unbelievable photo from @drewangerer and… https://t.co/LS1CCbZgvA
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 3
     originalUrl: ''
     url: 'https://twitter.com/ElijahSchaffer/status/1346966514990149639'
@@ -30,6 +65,26 @@ entries:
     summary: >-
       IMPORTANT: this is exact moment the siege of the Capitol building began as
       the two men in front ripped down a preli… https://t.co/7HgqaprA25
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 18
+    originalUrl: ''
+    url: 'https://twitter.com/Angry_Staffer/status/1346980257857998848'
+    when: 'Thu Jan 07 00:41:33 +0000 2021'
+    originalWhen: ''
+    author: '@Angry_Staffer | 848148994102612000'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      Video is graphic, but if you want to watch a textbook defensive shoot from
+      Capitol Police, here you go: 
+
+
+      https://t.co/e1mgnC5CJo
     comments: ''
     suggestions: ''
     tags: ''
@@ -85,6 +140,23 @@ entries:
       Yahoo News White House Correspondent Hunter Walker spoke to a woman
       identifying herself as “Elizabeth” who said she was Maced when she tried
       to enter the U.S...
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 12
+    originalUrl: ''
+    url: 'https://twitter.com/sisyphusmyths/status/1347356796671979520'
+    when: 'Fri Jan 08 01:37:47 +0000 2021'
+    originalWhen: ''
+    author: '@sisyphusmyths | 2154004512'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      @marx_knopfler @punished_stu They definitely tried that at one point
+      before the crowd got all the way through. This… https://t.co/6lB2d0dbCm
     comments: ''
     suggestions: ''
     tags: ''
@@ -183,6 +255,57 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 13
+    originalUrl: ''
+    url: 'https://twitter.com/conorjrogers/status/1348374743339192320'
+    when: 'Sun Jan 10 21:02:45 +0000 2021'
+    originalWhen: ''
+    author: '@conorjrogers | 15355050'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      WATCH: New video shows this Trump mob attacked the cops, and dragged an
+      unconscious officer  down the steps and bea… https://t.co/gcZr1882X3
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 14
+    originalUrl: ''
+    url: 'https://twitter.com/AttorneyCrump/status/1348425255505768449'
+    when: 'Mon Jan 11 00:23:28 +0000 2021'
+    originalWhen: ''
+    author: '@AttorneyCrump | 151967576'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      Eugene Goodman deserves the Medal of Valor! He could have stepped aside
+      and let Trump insurgents get to the Senate… https://t.co/HgrFZngKuo
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 16
+    originalUrl: ''
+    url: 'https://twitter.com/thehill/status/1348776729582718977'
+    when: 'Mon Jan 11 23:40:06 +0000 2021'
+    originalWhen: ''
+    author: '@thehill | 1917731'
+    source: Twitter
+    logo: ''
+    image: 'https://pbs.twimg.com/media/ErfRSZXXUAA9JxA.png'
+    title: ''
+    summary: >-
+      FBI seeks assistance identifying Capitol rioter who carried Confederate
+      flag https://t.co/jSD5luj8U2 https://t.co/CTVF5GDplX
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 1
     originalUrl: 'https://www.nytimes.com/2021/01/11/us/capitol-mob-violence-police.html'
     url: 'https://www.nytimes.com/2021/01/11/us/capitol-mob-violence-police.html'
@@ -204,6 +327,6 @@ entries:
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 byline: Jon Evans
 editable: false
-sha: 94010324d2eaac115732ffa5d99aef45d8cfb2aa
+sha: 02b59bf0c31d1d3fb7f03ca8b83642c950d93a5b
 email: jon@happyfuncorp.com
 slug: the-capitol-mob-riot
