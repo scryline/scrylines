@@ -3178,6 +3178,25 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
+  - id: 193
+    originalUrl: ''
+    url: 'https://twitter.com/EricTopol/status/1338872330538237955'
+    when: 'Tue Dec 15 15:43:33 +0000 2020'
+    originalWhen: ''
+    author: '@EricTopol | 86626845'
+    source: Twitter
+    logo: ''
+    image: ''
+    title: ''
+    summary: >-
+      Important on @moderna_tx vaccine trial for reducing transmission from FDA
+      briefing docs https://t.co/GAUikTXvYd
+
+      The… https://t.co/3PfZTyAFm9
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 163
     originalUrl: >-
       https://www.theatlantic.com/magazine/archive/2021/01/science-covid-19-manhattan-project/617262/
@@ -3304,7 +3323,7 @@ entries:
     chapter: ''
 userid: 5LaMJxocZKhllcT2dr07oDNH98w2
 editable: false
-sha: 7f90081f7a94dda6eaa0c9af525d847bd8c36871
+sha: e9ee8340863c5173c259a98fa397e9326561c05f
 slug: the-pandemic
 byline: Jon Evans
 email: jon@happyfuncorp.com
