@@ -1,21 +1,21 @@
 title: Arsenal2
 entries:
-  - id: 3
+  - id: 2
     originalUrl: >-
-      https://www.theguardian.com/football/2021/jan/08/emile-smith-rowe-emergence-adds-new-creative-dimension-for-arsenal-mikel-arteta
+      https://www.theguardian.com/football/2021/jan/12/gabriel-martinelli-ankle-injury-not-serious-in-boost-for-arsenal-newcastle
     url: >-
-      http://www.theguardian.com/football/2021/jan/08/emile-smith-rowe-emergence-adds-new-creative-dimension-for-arsenal-mikel-arteta
-    when: '2021-01-09T13:52:09.000Z'
+      http://www.theguardian.com/football/2021/jan/12/gabriel-martinelli-ankle-injury-not-serious-in-boost-for-arsenal-newcastle
+    when: '2021-01-12T22:45:53.000Z'
     originalWhen: ''
     author: Nick Ames
-    source: The Guardian
-    logo: 'https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png'
+    source: the Guardian
+    logo: ''
     image: >-
-      https://i.guim.co.uk/img/media/e50c25e85c467f1a9960d9bae3e927b89f804d4d/0_260_3113_1868/master/3113.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae9341ae7c133642bf955b50ad376258
-    title: Emile Smith Rowe’s emergence adds new creative dimension for Arsenal
+      https://i.guim.co.uk/img/media/3f03dfdff0bc94c87fce3bc914ea6f93f3c34d47/0_0_4245_2548/master/4245.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=742ef3d50069acbc6454314c2ffeb2dc
+    title: Arsenal line up summer move for Shakhtar Donetsk’s Manor Solomon
     summary: >-
-      The 20-year-old’s recent performances have reduced the pressure on Mikel
-      Arteta to buy a playmaker during the transfer window
+      Arsenal are monitoring the Shakhtar Donetsk winger Manor Solomon with a
+      view to making an offer in the summer
     comments: ''
     suggestions: ''
     tags: ''
@@ -40,30 +40,30 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-  - id: 2
+  - id: 3
     originalUrl: >-
-      https://www.theguardian.com/football/2021/jan/12/gabriel-martinelli-ankle-injury-not-serious-in-boost-for-arsenal-newcastle
+      https://www.theguardian.com/football/2021/jan/08/emile-smith-rowe-emergence-adds-new-creative-dimension-for-arsenal-mikel-arteta
     url: >-
-      http://www.theguardian.com/football/2021/jan/12/gabriel-martinelli-ankle-injury-not-serious-in-boost-for-arsenal-newcastle
-    when: '2021-01-12T22:45:53.000Z'
+      http://www.theguardian.com/football/2021/jan/08/emile-smith-rowe-emergence-adds-new-creative-dimension-for-arsenal-mikel-arteta
+    when: '2021-01-09T13:52:09.000Z'
     originalWhen: ''
     author: Nick Ames
-    source: the Guardian
-    logo: ''
+    source: The Guardian
+    logo: 'https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png'
     image: >-
-      https://i.guim.co.uk/img/media/3f03dfdff0bc94c87fce3bc914ea6f93f3c34d47/0_0_4245_2548/master/4245.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=742ef3d50069acbc6454314c2ffeb2dc
-    title: Arsenal line up summer move for Shakhtar Donetsk’s Manor Solomon
+      https://i.guim.co.uk/img/media/e50c25e85c467f1a9960d9bae3e927b89f804d4d/0_260_3113_1868/master/3113.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae9341ae7c133642bf955b50ad376258
+    title: Emile Smith Rowe’s emergence adds new creative dimension for Arsenal
     summary: >-
-      Arsenal are monitoring the Shakhtar Donetsk winger Manor Solomon with a
-      view to making an offer in the summer
+      The 20-year-old’s recent performances have reduced the pressure on Mikel
+      Arteta to buy a playmaker during the transfer window
     comments: ''
     suggestions: ''
     tags: ''
     chapter: ''
-email: rezendi@github.com
 userid: D4MgHjw6zpcfde6F4HmDxqWc2xH2
 byline: Jon Evans
 editable: false
 slug: arsenal2
-sha: 266f25bac49714b4f3e3bd9081515c6841c4349d
+sha: d80878f8df4f73a3d35759c53cfd369708a89b82
 path: lines/a25bddcd
+email: rezendi@github.com
