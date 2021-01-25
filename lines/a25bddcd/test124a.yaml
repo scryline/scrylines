@@ -1,5 +1,25 @@
 title: test124a
 entries:
+  - id: 2
+    originalUrl: >-
+      https://www.theguardian.com/football/2021/jan/20/mesut-ozil-the-galactico-who-became-symbolic-of-arsenals-decline
+    url: >-
+      http://www.theguardian.com/football/2021/jan/20/mesut-ozil-the-galactico-who-became-symbolic-of-arsenals-decline
+    when: '2021-01-20T17:38:21.000Z'
+    originalWhen: ''
+    author: Nick Ames
+    source: The Guardian
+    logo: 'https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png'
+    image: >-
+      https://i.guim.co.uk/img/media/7639e6d8267e2a68cd1ea1fca068d6e25a68a970/173_463_4559_2737/master/4559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb4942b466c5f2dfddc80cc155442e8e
+    title: 'Mesut Özil: the galáctico who became symbolic of Arsenal’s decline'
+    summary: >-
+      The Germany international was supposed to elevate the club when he joined
+      from Real Madrid but he left with no fanfare
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 1
     originalUrl: >-
       https://www.theguardian.com/football/2021/jan/24/amazing-journey-mesut-ozil-thanks-arsenal-as-he-seals-fenerbahce-move
@@ -20,8 +40,11 @@ entries:
     suggestions: ''
     tags: ''
     chapter: ''
-email: jon@happyfuncorp.com
-userid: 5LaMJxocZKhllcT2dr07oDNH98w2
+email: rezendi@github.com
+userid: D4MgHjw6zpcfde6F4HmDxqWc2xH2
 byline: Jon Evans
 editable: false
 slug: test124a
+sha: 0d9c4f9cde94580434a93db17f2347b07c25f613
+path: a25bddcd
+branch: a25bddcd/test124a/24519f26
