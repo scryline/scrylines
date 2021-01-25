@@ -1,5 +1,25 @@
 title: test124a
 entries:
+  - id: -3
+    originalUrl: >-
+      https://www.theguardian.com/football/2021/jan/18/arsenal-newcastle-united-premier-league-match-report
+    url: >-
+      http://www.theguardian.com/football/2021/jan/18/arsenal-newcastle-united-premier-league-match-report
+    when: '2021-01-19T19:08:31.000Z'
+    originalWhen: ''
+    author: Nick Ames
+    source: The Guardian
+    logo: 'https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png'
+    image: >-
+      https://i.guim.co.uk/img/media/3516ed63f10260a73a87d9587516f05024e53391/273_127_2994_1797/master/2994.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38582e2c7a29eeaf82f1b56faba3e48b
+    title: Pierre-Emerick Aubameyang double sends Arsenal soaring past Newcastle
+    summary: >-
+      Two goals from Pierre-Emerick Aubameyang and a Bukayo Saka effort gave
+      Arsenal a 3-0 victory at home to struggling Newcastle
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
   - id: 2
     originalUrl: >-
       https://www.theguardian.com/football/2021/jan/20/mesut-ozil-the-galactico-who-became-symbolic-of-arsenals-decline
@@ -45,6 +65,6 @@ userid: D4MgHjw6zpcfde6F4HmDxqWc2xH2
 byline: Jon Evans
 editable: false
 slug: test124a
-sha: 0d9c4f9cde94580434a93db17f2347b07c25f613
+sha: fb78756285a44e9424ad8c69f924dc31f9e0fd66
 path: a25bddcd
 branch: a25bddcd/test124a/24519f26
