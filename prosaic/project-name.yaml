@@ -2,21 +2,29 @@ title: Project Name
 text: >-
   **Objective**
 
+
   What is the objective of this project? In markdown.
+
 
   **Overview**
 
+
   What is a concise one-paragraph overview of this project??? That's what we
-  really want to know, yo.
+  really want to know, yo...
+
 
   **Chapter 1**
+
 
   Replace these words with a series of paragraphs which describe the project in
   detail, each sentence of which becomes a task to be tracked.
 
+
   (Except sentences in parentheses, which only provide context for other tasks.)
 
+
   _Sections_
+
 
   To break the narrative into sections, begin each section with a title in
   _italics_ on its own line. Subsections, if any, have underlined titles.
