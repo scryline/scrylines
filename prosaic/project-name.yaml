@@ -15,7 +15,6 @@ text: >-
 
   **Chapter 1**
 
-    
 
   Replace these words with a series of paragraphs which describe the project in
   detail, each sentence of which becomes a task to be tracked.
@@ -25,4 +24,4 @@ text: >-
 
 
   To break the narrative into sections, begin each section with a title in
-  _italics_ on its own line. Subsections, if any, have underlinedd titles.
+  _italics_ on its own line. Subsections, if any, have <u>underlined</u> titles.
