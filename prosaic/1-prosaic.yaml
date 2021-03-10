@@ -1,3 +1,164 @@
 id: '1'
 title: prosaic
-text: "**Objective**\n\n  \n\nThis SaaS, tentatively named Prosaic, is a project-management tool which, by virtue of being prose-driven rather than task-driven, is more coherent, more effective, and more intuitive than its competitors...\n\n  \n\n**Overview**\n\n  \n\nProsaic begins with a narrative description of the project. Each sentence is then \"exploded\" into an individual task, while the narrative remains a living document and the project home. A project has different chapters corresponding to its lifecycle: alpha release, MVP, V2.0. Each chapter may be divided into sections, e.g. one describing features, one discussing technical infrastructure, and one itemizing bugs and tweaks. Estimates are applied to paragraphs, not sentences, and each task page reiterates the paragraph the task is part of. Overall project status can always be seen at a glance by simply color-coding each sentence of the narrative according to their current state.\n\n  \n\n**Chapter 1: MVP**\n\n  \n\n_Site Home_\n\n  \n\nUsers visiting the site are shown a page describing Prosaic and a link to log in. They may log in with GitHub or Google. Upon logging in, they are immediately taken to a new project's home page, their existing project's home page, or a list of their projects, depending on their active project count. The project list is sorted reverse-chronologically and shows the last date of activity on that project.\n\n  \n\n_Project Home_\n\n  \n\nA project's home page begins with a list of links (to designs, repos, Slack channels, 1Password vaults, API documentation, etc.) Authors may add, edit, and remove links, which have display names and URLs.\n\n  \n\nThe home page continues with the project narrative. A narrative always begins with an Objective and an Overview before continuing to Chapter 1. Authors can edit the entire narrative in a single rich-HTML edit box which supports image embedding. They may also choose individual paragraphs to edit in place; insert new paragraphs, section headers, or chapter headers; or delete existing elements. Authors must explicitly save new or edited text, and if this will result in deletions, they must confirm that choice.\n\n  \n\nAuthors may also trigger a popup menu for chapters, sections, and paragraphs, but not individual sentences. These popup menus allow authors to save links (again, designs, API documents, etc.) which specifically correspond to that element. They also allow authors to save estimates for that element in either numerical or T-shirt-size formats.\n\n  \n\nWhen any new narrative text is saved, tasks corresponding to the sentences in that text are generated. However his does not apply to the Objective or Overview with which the narrative beings, or to sentences which are wholly in parentheses. When a single sentence is split in two, the author is prompted to indicate which was the \"original\" that existing data will apply to. When two existing sentences are merged, the author is prompted to indicate which will be used and which will have its data discarded. (More elaborate merging is outside the scope of this MVP, but note that no data is ever actually lost - see below regarding storage.)\n\n  \n\nEvery sentence hyperlinks to its corresponding task page. Users may select the Narrative Progress View to quickly glimpse the overall project state by coloring or fading/bolding each sentence in the narrative according to its current state.\n\n  \n\n(It is expected that other narrative-based views and measures will be innovated as well. Since the project is ultimately decomposed into tasks, other task-based views such as Kanban and GANTT are also a possibility, but it may or may not be advisable to double down on the \"whole new paradigm\" instead. Similarly it may or may not be advisable to give users the option to \"explode\" the narrative into JIRA tickets or Asana tasks, via their APIs, rather than native Prosaic tasks.)\n\n  \n\n_Task Pages_\n\n  \n\nA task page begins with the text of the entire paragraph in which the task is found, in which the task's specific sentence is clearly highlighted. Tasks are automatically assigned sequential numbers, in order of creation.\_\n\n  \n\nTask pages then display a fully expanded list of the links for the most specific element (paragraph, section, chapter, project) in its hierarchy which has any custom links. The links for other tiers can be manually expanded if desired.\n\n  \n\nAuthors may assign a status to a task, as itemized in Project Metadata, described below. They may also assign a user. Users receive a notification when an assignment relevant to them changes. Authors may also add a paragraph of description to flesh out a task, but this should be used with caution, and only to describe specific implementation details, lest it detract from the project narrative.\n\n  \n\nAll users can enter rich-HTML comments on a task, in a discussion format with one-deep threading. Task comments are editable. When numbers beginning with # are found in a comment, and that number corresponds to an existing task, it becomes a link to that task page. Similarly, code commits which include a # followed by task numbers are shown on those tasks' page, with hyperlinks to those commits.\n\n  \n\nUsers may also switch to an event view of a task, which lists all of the events in a task's history, in reverse chronological order. Events include: creation, editing, estimate changes, link changes below the project level, status change, user assignation change, comment additions, comment edits, and code commits.\n\n  \n\n_Contributors_\n\n  \n\nA project's contributor page lists all the users with access to that project, and their access tier: admin, author, or readers. The creator of a project is automatically its admin. Admins may invite contributors, change others' access tier, and edit project metadata. Authors may write the narrative, edit links and estimates, and write task descriptions. Readers may read all the above and add comments to tasks.\n\n  \n\n_Project Metadata_\n\n  \n\nThis is an administration page where authors may choose the estimation format, the list of valid task states, and the color or font-weight corresponding to each state for the Narrative Progress View. This is also where the project is connected to GitHub and/or other repositories for code-commit webhooks. Separately, this is also where the project's own GitHub repo, to which its data is stored, is configured.\n\n  \n\n  \n\n_Technical Infrastructure_\n\n  \n\nThis chapter of the project is a web app to be built on NextJS. It will be Dockerized and deployed to staging and production environments, as well as supporting local development both directly and via Docker. Authentication will initially be via Firebase.\n\n  \n\nData will be stored in a Postgres database, local for development and managed in the cloud. However, project data will also be stored in GitHub repositories in YAML format. Repo data may be externally edited and will be the ultimate source of truth. By default, repo data will be stored to Prosaic's own private repo, but users may also provide OAuth tokens to store it in their own repositories."
+text: >-
+  **Objective**
+
+
+  This SaaS, tentatively named Prosaic, is a project-management tool which, by
+  virtue of being prose-driven rather than task-driven, is more coherent, more
+  effective, and more intuitive than its competitors... or is it? Yes it is.
+
+
+  **Overview**
+
+
+  Prosaic begins with a narrative description of the project. Each sentence is
+  then "exploded" into an individual task, while the narrative remains a living
+  document and the project home. A project has different chapters corresponding
+  to its lifecycle: alpha release, MVP, V2.0. Each chapter may be divided into
+  sections, e.g. one describing features, one discussing technical
+  infrastructure, and one itemizing bugs and tweaks. Estimates are applied to
+  paragraphs, not sentences, and each task page reiterates the paragraph the
+  task is part of. Overall project status can always be seen at a glance by
+  simply color-coding each sentence of the narrative according to their current
+  state.
+
+
+  **Chapter 1: MVP**
+
+
+  _Site Home_
+
+
+  Users visiting the site are shown a page describing Prosaic and a link to log
+  in. They may log in with GitHub or Google. Upon logging in, they are
+  immediately taken to a new project's home page, their existing project's home
+  page, or a list of their projects, depending on their active project count.
+  The project list is sorted reverse-chronologically and shows the last date of
+  activity on that project.
+
+
+  _Project Home_
+
+
+  A project's home page begins with a list of links (to designs, repos, Slack
+  channels, 1Password vaults, API documentation, etc.) Authors may add, edit,
+  and remove links, which have display names and URLs.
+
+
+  The home page continues with the project narrative. A narrative always begins
+  with an Objective and an Overview before continuing to Chapter 1. Authors can
+  edit the entire narrative in a single rich-HTML edit box which supports image
+  embedding. They may also choose individual paragraphs to edit in place; insert
+  new paragraphs, section headers, or chapter headers; or delete existing
+  elements. Authors must explicitly save new or edited text, and if this will
+  result in deletions, they must confirm that choice.
+
+
+  Authors may also trigger a popup menu for chapters, sections, and paragraphs,
+  but not individual sentences. These popup menus allow authors to save links
+  (again, designs, API documents, etc.) which specifically correspond to that
+  element. They also allow authors to save estimates for that element in either
+  numerical or T-shirt-size formats.
+
+
+  When any new narrative text is saved, tasks corresponding to the sentences in
+  that text are generated. However his does not apply to the Objective or
+  Overview with which the narrative beings, or to sentences which are wholly in
+  parentheses. When a single sentence is split in two, the author is prompted to
+  indicate which was the "original" that existing data will apply to. When two
+  existing sentences are merged, the author is prompted to indicate which will
+  be used and which will have its data discarded. (More elaborate merging is
+  outside the scope of this MVP, but note that no data is ever actually lost -
+  see below regarding storage.)
+
+
+  Every sentence hyperlinks to its corresponding task page. Users may select the
+  Narrative Progress View to quickly glimpse the overall project state by
+  coloring or fading/bolding each sentence in the narrative according to its
+  current state.
+
+
+  (It is expected that other narrative-based views and measures will be
+  innovated as well. Since the project is ultimately decomposed into tasks,
+  other task-based views such as Kanban and GANTT are also a possibility, but it
+  may or may not be advisable to double down on the "whole new paradigm"
+  instead. Similarly it may or may not be advisable to give users the option to
+  "explode" the narrative into JIRA tickets or Asana tasks, via their APIs,
+  rather than native Prosaic tasks.)
+
+
+  _Task Pages_
+
+
+  A task page begins with the text of the entire paragraph in which the task is
+  found, in which the task's specific sentence is clearly highlighted. Tasks are
+  automatically assigned sequential numbers, in order of creation.
+
+
+  Task pages then display a fully expanded list of the links for the most
+  specific element (paragraph, section, chapter, project) in its hierarchy which
+  has any custom links. The links for other tiers can be manually expanded if
+  desired.
+
+
+  Authors may assign a status to a task, as itemized in Project Metadata,
+  described below. They may also assign a user. Users receive a notification
+  when an assignment relevant to them changes. Authors may also add a paragraph
+  of description to flesh out a task, but this should be used with caution, and
+  only to describe specific implementation details, lest it detract from the
+  project narrative.
+
+
+  All users can enter rich-HTML comments on a task, in a discussion format with
+  one-deep threading. Task comments are editable. When numbers beginning with #
+  are found in a comment, and that number corresponds to an existing task, it
+  becomes a link to that task page. Similarly, code commits which include a #
+  followed by task numbers are shown on those tasks' page, with hyperlinks to
+  those commits.
+
+
+  Users may also switch to an event view of a task, which lists all of the
+  events in a task's history, in reverse chronological order. Events include:
+  creation, editing, estimate changes, link changes below the project level,
+  status change, user assignation change, comment additions, comment edits, and
+  code commits.
+
+
+  _Contributors_
+
+
+  A project's contributor page lists all the users with access to that project,
+  and their access tier: admin, author, or readers. The creator of a project is
+  automatically its admin. Admins may invite contributors, change others' access
+  tier, and edit project metadata. Authors may write the narrative, edit links
+  and estimates, and write task descriptions. Readers may read all the above and
+  add comments to tasks.
+
+
+  _Project Metadata_
+
+
+  This is an administration page where authors may choose the estimation format,
+  the list of valid task states, and the color or font-weight corresponding to
+  each state for the Narrative Progress View. This is also where the project is
+  connected to GitHub and/or other repositories for code-commit webhooks.
+  Separately, this is also where the project's own GitHub repo, to which its
+  data is stored, is configured.
+
+
+  _Technical Infrastructure_
+
+
+  This chapter of the project is a web app to be built on NextJS. It will be
+  Dockerized and deployed to staging and production environments, as well as
+  supporting local development both directly and via Docker. Authentication will
+  initially be via Firebase.
+
+
+  Data will be stored in a Postgres database, local for development and managed
+  in the cloud. However, project data will also be stored in GitHub repositories
+  in YAML format. Repo data may be externally edited and will be the ultimate
+  source of truth. By default, repo data will be stored to Prosaic's own private
+  repo, but users may also provide OAuth tokens to store it in their own
+  repositories.
