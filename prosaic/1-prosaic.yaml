@@ -6,7 +6,7 @@ text: >-
 
   This SaaS, tentatively named Prosaic, is a project-management tool which, by
   virtue of being prose-driven rather than task-driven, is more coherent, more
-  effective, and more intuitive than its competitors.
+  effective, and more intuitive than its competitors...
 
 
   **Overview**
@@ -162,3 +162,5 @@ text: >-
   source of truth. By default, repo data will be stored to Prosaic's own private
   repo, but users may also provide OAuth tokens to store it in their own
   repositories.
+tasks: {}
+metadata: {}
