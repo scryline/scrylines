@@ -175,17 +175,4 @@ tasks:
       last date of activity on that project.
     comments:
       - <p>This is just a comment.</p>
-  '2':
-    hash: b0f91c2125fa77c1711e1d7f596c779a04644dcd1cc8a7e57a42542f5a34b991
-    sentence: 'They may log in with GitHub or Google. '
-    paragraph: >-
-      Users visiting the site are shown a page describing Prosaic and a link to
-      log in. They may log in with GitHub or Google. Upon logging in, they are
-      immediately taken to a new project's home page, their existing project's
-      home page, or a list of their projects, depending on their active project
-      count. The project list is sorted reverse-chronologically and shows the
-      last date of activity on that project.
-    comments:
-      - <p>This is just a comment.</p>
-      - <p>This is another comment.</p>
 metadata: {}
