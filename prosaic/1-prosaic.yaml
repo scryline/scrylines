@@ -177,4 +177,12 @@ tasks:
       - text: This is just a comment.
         time: 1615926527055
         user: Anonymous
+      - text: |-
+          This is a **fancy** comment with [links](https://rezendi.com/) and
+
+          1.  lists
+          2.  and
+          3.  shit
+        time: 1615926573628
+        user: Anonymous
 metadata: {}
