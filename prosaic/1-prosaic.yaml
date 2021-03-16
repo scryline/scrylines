@@ -173,4 +173,8 @@ tasks:
       home page, or a list of their projects, depending on their active project
       count. The project list is sorted reverse-chronologically and shows the
       last date of activity on that project.
+    comments:
+      - text: This is just a comment.
+        time: 1615926527055
+        user: Anonymous
 metadata: {}
