@@ -173,7 +173,4 @@ tasks:
       home page, or a list of their projects, depending on their active project
       count. The project list is sorted reverse-chronologically and shows the
       last date of activity on that project.
-    comments:
-      - <p>This is just a comment.</p>
-      - <p>This is just another comment.</p>
 metadata: {}
