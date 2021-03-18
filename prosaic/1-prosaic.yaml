@@ -164,7 +164,8 @@ text: >-
   repositories.
 tasks:
   '1':
-    hash: b0f91c2125fa77c1711e1d7f596c779a04644dcd1cc8a7e57a42542f5a34b991
+    hashes:
+      - b0f91c2125fa77c1711e1d7f596c779a04644dcd1cc8a7e57a42542f5a34b991
     sentence: 'They may log in with GitHub or Google. '
     paragraph: >-
       Users visiting the site are shown a page describing Prosaic and a link to
