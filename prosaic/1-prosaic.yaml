@@ -163,3 +163,25 @@ text: >-
   repo, but users may also provide OAuth tokens to store it in their own
   repositories.
 metadata: {}
+tasks:
+  '1':
+    hashes:
+      - b6128f2f4e59068e491580740b62a385fb35f224e016dd459adaff1ebc7a44c1
+    sentence: They may log in with GitHub or Google.
+    paragraph: >-
+      Users visiting the site are shown a page describing Prosaic and a link to
+      log in. They may log in with GitHub or Google. Upon logging in, they are
+      immediately taken to a new project's home page, their existing project's
+      home page, or a list of their projects, depending on their active project
+      count. The project list is sorted reverse-chronologically and shows the
+      last date of activity on that project.
+    comments:
+      - text: |-
+          This:
+
+          *   is
+          *   a
+          *   list
+        time: 1616448820430
+        user: Anonymous
+    estimate: '20'
