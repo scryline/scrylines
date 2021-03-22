@@ -184,7 +184,7 @@ tasks:
           *   list
         time: 1616448820430
         user: Anonymous
-    estimate: '30'
+    estimate: '10'
     status: Active
   '2':
     hashes:
