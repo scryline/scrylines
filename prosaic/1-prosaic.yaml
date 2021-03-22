@@ -185,6 +185,7 @@ tasks:
         time: 1616448820430
         user: Anonymous
     estimate: '20'
+    status: Active
   '2':
     hashes:
       - 9c8997b5fe5239f760f331a523b3ac723bd42c206f847b5bcfe89788fb96157a
