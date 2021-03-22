@@ -185,3 +185,19 @@ tasks:
         time: 1616448820430
         user: Anonymous
     estimate: '20'
+  '2':
+    hashes:
+      - 9c8997b5fe5239f760f331a523b3ac723bd42c206f847b5bcfe89788fb96157a
+    sentence: >-
+      Upon logging in, they are immediately taken to a new project's home page,
+      their existing project's home page, or a list of their projects, depending
+      on their active project count.
+    paragraph: >-
+      Users visiting the site are shown a page describing Prosaic and a link to
+      log in. They may log in with GitHub or Google. Upon logging in, they are
+      immediately taken to a new project's home page, their existing project's
+      home page, or a list of their projects, depending on their active project
+      count. The project list is sorted reverse-chronologically and shows the
+      last date of activity on that project.
+    status: Active
+    estimate: '20'
