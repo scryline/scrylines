@@ -162,7 +162,27 @@ text: >-
   source of truth. By default, repo data will be stored to Prosaic's own private
   repo, but users may also provide OAuth tokens to store it in their own
   repositories.
-metadata: {}
+metadata:
+  statuses:
+    - Created
+    - Backlog
+    - Active
+    - 25%
+    - 50%
+    - 75%
+    - Complete
+    - QA
+    - Regression
+  colors:
+    - '#000000'
+    - '#C11B17'
+    - '#F70D1A'
+    - '#F88017'
+    - '#C36241'
+    - '#C68E17'
+    - '#347C2C'
+    - '#747C2C'
+    - '#A47C2C'
 tasks:
   '1':
     hashes:
