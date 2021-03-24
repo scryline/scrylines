@@ -172,7 +172,7 @@ metadata:
     - 75%
     - Complete
     - QA
-    - Regression
+    - Regressed
   colors:
     - '#000000'
     - '#C11B17'
@@ -182,7 +182,7 @@ metadata:
     - '#C68E17'
     - '#347C2C'
     - '#747C2C'
-    - '#A47C2C'
+    - '#A47C2D'
 tasks:
   '1':
     hashes:
