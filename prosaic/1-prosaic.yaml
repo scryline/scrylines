@@ -221,7 +221,7 @@ tasks:
       count. The project list is sorted reverse-chronologically and shows the
       last date of activity on that project.
     status: Active
-    estimate: '20'
+    estimate: '25'
   '3':
     hashes:
       - 6305cf466acc4595d3c17d5d762b112e4c96916b
