@@ -186,7 +186,7 @@ metadata:
 tasks:
   '1':
     hashes:
-      - b6128f2f4e59068e491580740b62a385fb35f224e016dd459adaff1ebc7a44c1
+      - 0b62a385fb35f224e016dd459adaff1ebc7a44c1
     sentence: They may log in with GitHub or Google.
     paragraph: >-
       Users visiting the site are shown a page describing Prosaic and a link to
@@ -208,7 +208,7 @@ tasks:
     status: Active
   '2':
     hashes:
-      - 9c8997b5fe5239f760f331a523b3ac723bd42c206f847b5bcfe89788fb96157a
+      - 23b3ac723bd42c206f847b5bcfe89788fb96157a
     sentence: >-
       Upon logging in, they are immediately taken to a new project's home page,
       their existing project's home page, or a list of their projects, depending
@@ -224,7 +224,7 @@ tasks:
     estimate: '20'
   '3':
     hashes:
-      - 0b46a8bbd43761ca62699db06305cf466acc4595d3c17d5d762b112e4c96916b
+      - 6305cf466acc4595d3c17d5d762b112e4c96916b
     sentence: >-
       The project list is sorted reverse-chronologically and shows the last date
       of activity on that project.
@@ -241,7 +241,7 @@ tasks:
     comments: []
   '4':
     hashes:
-      - d7f98b4ef471c30137168384851be1610b5b50f8c702b047c3b003658bef3588
+      - 851be1610b5b50f8c702b047c3b003658bef3588
     sentence: >-
       Users visiting the site are shown a page describing Prosaic and a link to
       log in.
