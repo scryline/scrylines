@@ -237,7 +237,7 @@ tasks:
       last date of activity on that project.
     person: ''
     estimate: '15'
-    status: ''
+    status: 25%
     comments: []
   '4':
     hashes:
