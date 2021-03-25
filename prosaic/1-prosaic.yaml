@@ -43,7 +43,7 @@ text: >-
 
   A project's home page begins with a list of links (to designs, repos, Slack
   channels, 1Password vaults, API documentation, etc.) Authors may add, edit,
-  and remove links, which have display names and URLs.
+  and remove links, which have display names as well as URLs.
 
 
   The home page continues with the project narrative. A narrative always begins
@@ -206,6 +206,7 @@ tasks:
         user: Anonymous
     estimate: '10'
     status: Active
+    id: '1'
   '2':
     hashes:
       - 23b3ac723bd42c206f847b5bcfe89788fb96157a
@@ -222,6 +223,7 @@ tasks:
       last date of activity on that project.
     status: Active
     estimate: '22'
+    id: '2'
   '3':
     hashes:
       - 6305cf466acc4595d3c17d5d762b112e4c96916b
@@ -239,6 +241,7 @@ tasks:
     estimate: '15'
     status: 25%
     comments: []
+    id: '3'
   '4':
     hashes:
       - 851be1610b5b50f8c702b047c3b003658bef3588
@@ -256,3 +259,4 @@ tasks:
     estimate: ''
     status: Backlog
     comments: []
+    id: '4'
