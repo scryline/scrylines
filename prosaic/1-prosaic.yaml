@@ -260,3 +260,22 @@ tasks:
     status: Backlog
     comments: []
     id: '4'
+  '5':
+    hashes:
+      - b9065797247313367fe31f3985413438e55c2df4
+    sentence: Prosaic begins with a narrative description of the project.
+    paragraph: >-
+      Prosaic begins with a narrative description of the project. Each sentence
+      is then "exploded" into an individual task, while the narrative remains a
+      living document and the project home. A project has different chapters
+      corresponding to its lifecycle: alpha release, MVP, V2.0. Each chapter may
+      be divided into sections, e.g. one describing features, one discussing
+      technical infrastructure, and one itemizing bugs and tweaks. Estimates are
+      applied to paragraphs, not sentences, and each task page reiterates the
+      paragraph the task is part of. Overall project status can always be seen
+      at a glance by simply color-coding each sentence of the narrative
+      according to their current state.
+    person: ''
+    estimate: ''
+    status: Active
+    comments: []
