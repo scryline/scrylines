@@ -278,4 +278,7 @@ tasks:
     person: ''
     estimate: ''
     status: Active
-    comments: []
+    comments:
+      - text: Narrative, yo.
+        time: 1616696457615
+        user: Anonymous
