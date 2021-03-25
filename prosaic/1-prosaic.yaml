@@ -239,3 +239,20 @@ tasks:
     estimate: '15'
     status: ''
     comments: []
+  '4':
+    hashes:
+      - d7f98b4ef471c30137168384851be1610b5b50f8c702b047c3b003658bef3588
+    sentence: >-
+      Users visiting the site are shown a page describing Prosaic and a link to
+      log in.
+    paragraph: >-
+      Users visiting the site are shown a page describing Prosaic and a link to
+      log in. They may log in with GitHub or Google. Upon logging in, they are
+      immediately taken to a new project's home page, their existing project's
+      home page, or a list of their projects, depending on their active project
+      count. The project list is sorted reverse-chronologically and shows the
+      last date of activity on that project.
+    person: ''
+    estimate: ''
+    status: Backlog
+    comments: []
