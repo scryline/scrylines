@@ -1,0 +1,1930 @@
+email: rezendi@github.com
+title: Ethereum Timeline
+userid: D4MgHjw6zpcfde6F4HmDxqWc2xH2
+byline: null
+path: 24519f26
+editable: false
+entries:
+  - id: -1
+    originalUrl: ''
+    url: 'https://www.wired.com/story/whats-next-for-ethereum-after-the-merge/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Wired
+    logo: ''
+    image: >-
+      https://media.wired.com/photos/632ea7cf8990652479ff39d3/191:100/w_1280,c_limit/BUTERIN_BIZ_GettyImages-1238606759.jpg
+    title: What’s Next for Ethereum After The Merge
+    summary: >-
+      The blockchain project's cofounder Vitalik Buterin says its recent big
+      upgrade lays a path for more technical changes, and greater adoption.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 1
+    originalUrl: ''
+    url: >-
+      https://gizmodo.com/ethereum-bitcoin-price-plunges-sec-chair-merge-security-1849551695
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Gizmodo.com
+    logo: ''
+    image: >-
+      https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/34cc7d800a03d8c7270c224e5d1f8eb2.jpg
+    title: >-
+      Ethereum Plunges After SEC Chair Says ‘The Merge’ Could Make Crypto a
+      Security
+    summary: >-
+      Ethereum, the second largest cryptocurrency in the world, continued to
+      plunge in price over the weekend following the network’s highly publicized
+      technical change known as ‘the Merge’ last Thursday as well as comments
+      from the head of the Securities and Excha…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 2
+    originalUrl: ''
+    url: >-
+      https://www.theverge.com/2022/9/27/23374990/robinhood-web3-wallet-beta-ios-polygon
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: The Verge
+    logo: ''
+    image: >-
+      https://cdn.vox-cdn.com/thumbor/PSx6EldUJHuBuLaFuXfCUGIhA0M=/0x0:1400x712/1200x628/filters:focal(700x356:701x357)/cdn.vox-cdn.com/uploads/chorus_asset/file/24059088/Robinhood_Wallet_Screenshot.png
+    title: Robinhood’s Web3 wallet beta is live
+    summary: >-
+      Robinhood has given 10,000 iOS users access to its Web3 wallet, which
+      supports trading crypto and accessing decentralized apps built on the
+      Polygon blockchain.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 3
+    originalUrl: ''
+    url: >-
+      https://www.theverge.com/2022/10/11/23398306/google-coinbase-partnership-crypto-2023-cloud
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: The Verge
+    logo: ''
+    image: >-
+      https://cdn.vox-cdn.com/thumbor/a1UuqmTXeWu_sDyVAVipeGpIQ0s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016885/STK093_Google_04.jpg
+    title: >-
+      Google’s partnering with Coinbase to let cloud customers pay in crypto
+      next year
+    summary: >-
+      Starting in 2023, Google will partner with Coinbase to power crypto-based
+      transactions for “select” customers in the Web3 space.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 4
+    originalUrl: ''
+    url: 'https://www.engadget.com/mastercard-crypto-secure-200559003.html'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Engadget
+    logo: ''
+    image: >-
+      https://s.yimg.com/os/creatr-uploaded-images/2022-10/b2ecadc0-4419-11ed-aedf-3ae191550ab7
+    title: Mastercard wants to make crypto purchases less risky
+    summary: >-
+      Crypto is still loaded with uncertainty, but Mastercard is betting that it
+      can assuage buyers' minds. The credit card giant has introduced a Crypto
+      Secure service meant to boost trust in crypto purchases. The offering uses
+      AI from CipherTrace (a blockchain se…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 5
+    originalUrl: ''
+    url: >-
+      https://gizmodo.com/binance-bnb-bitcoin-price-million-stolen-crypto-hack-1849629259
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Gizmodo.com
+    logo: ''
+    image: >-
+      https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0e1a27a951091212371841672223fb17.jpg
+    title: Binance Says $100 Million of Crypto Produced Out of Thin Air by Hackers
+    summary: >-
+      Binance estimates roughly $100-$110 million worth of its cryptocurrency
+      BNB was taken by unknown hackers on Thursday, according to a tweet from
+      CEO Changpeng Zhao, considerably less than the $566 million originally
+      estimated. But don’t worry if you’ve got an …
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 6
+    originalUrl: ''
+    url: >-
+      https://arstechnica.com/gaming/2022/09/the-end-of-ethereum-mining-could-be-a-bonanza-for-gpu-shoppers/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Ars Technica
+    logo: ''
+    image: >-
+      https://cdn.arstechnica.net/wp-content/uploads/2022/09/gpuflood2-535x380.png
+    title: The end of Ethereum mining could be a bonanza for GPU shoppers
+    summary: Graphics card prices have been dropping all year—and could go even lower.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 7
+    originalUrl: ''
+    url: >-
+      https://slashdot.org/story/22/09/16/2151231/gpu-mining-no-longer-profitable-after-ethereum-merge
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Slashdot.org
+    logo: ''
+    image: 'https://a.fsdn.com/sd/topics/bitcoin_64.png'
+    title: GPU Mining No Longer Profitable After Ethereum Merge
+    summary: >-
+      Just one day after the Ethereum Merge, where the cryptocoin successfully
+      switched from Proof of Work (PoW) to Proof of Stake (PoS), profitability
+      of GPU mining has completely collapsed. Tom's Hardware reports: That means
+      the best graphics cards should finally…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 8
+    originalUrl: ''
+    url: 'https://www.entrepreneur.com/business-news/why-is-crypto-crashing/435593'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Entrepreneur
+    logo: ''
+    image: >-
+      https://assets.entrepreneur.com/content/3x2/2000/1663599478-GettyImages-1340690117.jpg
+    title: 'Crypto Crash: Bitcoin Fell Below 6%, Ethereum Down 10%'
+    summary: >-
+      It's more bad news for crypto, but what's to blame for the ongoing falls
+      in value?
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 9
+    originalUrl: ''
+    url: >-
+      https://www.reuters.com/technology/cryptoverse-after-merge-ether-heads-20-billion-shanghai-splurge-2022-09-20/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Reuters
+    logo: ''
+    image: >-
+      https://www.reuters.com/resizer/UIjhCUJTz8MlNe4Bl9Yi99qEna0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HIDVAZOKRFI2JIH7BSDAMKEB2A.jpg
+    title: >-
+      Cryptoverse: After Merge, ether heads for a $20 billion Shanghai splurge -
+      Reuters
+    summary: "Cryptoverse: After Merge, ether heads for a $20 billion Shanghai splurge\_\_Reuters"
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 10
+    originalUrl: ''
+    url: >-
+      https://readwrite.com/bitcoin-alternatives-with-massive-growth-potential-in-2022/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: ReadWrite
+    logo: ''
+    image: >-
+      https://images.readwrite.com/wp-content/uploads/2022/09/Bitcoin-and-Inflation.jpg
+    title: Bitcoin Alternatives With Massive Growth Potential In 2022
+    summary: >-
+      Bitcoin was launched in 2009, but a person or group of individuals named
+      Satoshi Nakamoto. This was the time after the global economic meltdown of
+      2008, and many people felt the need for a financial system that did not
+      depend on Big Banks. Bitcoin was launche…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 11
+    originalUrl: ''
+    url: >-
+      https://slashdot.org/story/22/09/24/1741217/crypto-mixing-service-tornado-cash-code-is-back-on-github
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Slashdot.org
+    logo: ''
+    image: 'https://a.fsdn.com/sd/topics/bitcoin_64.png'
+    title: Crypto-Mixing Service Tornado Cash Code Is Back On GitHub
+    summary: >-
+      Code repositories for the Ethereum-based mixer Tornado Cash were relisted
+      on GitHub on Thursday. CoinDesk reports: The U.S. Treasury Department's
+      Office of Foreign Assets (OFAC) banned Americans last month from using
+      Tornado Cash, a decentralized privacy serv…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 12
+    originalUrl: ''
+    url: >-
+      https://amp.theguardian.com/business/2022/sep/19/south-korea-interpol-terra-do-kwon-cryptocurrency-ethereum
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: The Guardian
+    logo: ''
+    image: >-
+      https://i.guim.co.uk/img/media/ae3577fcca1756de8eb915ac82fbdb2543f046ff/0_0_3543_2126/master/3543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=976f704db7b92ed56560cbf6a440eca3
+    title: >-
+      South Korea asks Interpol to prevent Terra founder from fleeing
+      extradition
+    summary: >-
+      Do Kwon denied he was ‘on the run’ as cryptocurrency sector slides in wake
+      of ethereum mergeSouth Korean authorities have asked Interpol for a red
+      notice to prevent crypto entrepreneur Do Kwon from fleeing extradition,
+      just days after the Terra founder denied…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 13
+    originalUrl: ''
+    url: 'https://time.com/6214892/ethereum-dropping-after-merge/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Time
+    logo: ''
+    image: >-
+      https://api.time.com/wp-content/uploads/2022/09/ethereum-drop-after-merge.jpg?quality=85&w=1200&h=628&crop=1
+    title: Why Ethereum is Dropping After the Merge
+    summary: >-
+      The merge was supposed to fix many of Ethereum’s problems, but its value
+      is still tanking. Here’s why.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 14
+    originalUrl: ''
+    url: >-
+      https://www.businessinsider.com/kim-kardashian-crypto-emax-ethereummax-sec-promotion-value-plummeted-2022-10
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Business Insider
+    logo: ''
+    image: 'https://i.insider.com/633b02e64d423e0018201a04?width=1200&format=jpeg'
+    title: >-
+      If you bought EMAX crypto tokens when Kim Kardashian promoted them on
+      Instagram, you'd have lost over 95% of your money by now
+    summary: >-
+      Kardashian promoted the crypto token on her Instagram story in June 2021
+      in a post that's now landed her in hot water with the SEC.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 15
+    originalUrl: ''
+    url: >-
+      https://www.reuters.com/technology/bitcoin-once-again-slips-below-20000-2022-09-18/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Reuters
+    logo: ''
+    image: >-
+      https://www.reuters.com/resizer/GinA1NFuisA5sivR91vluRb8SQo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TUWQZU5ZZJIF3HLCX5BGWH22LU.jpg
+    title: Bitcoin once again slips below $20000 - Reuters
+    summary: >-
+      Bitcoin on Sunday dropped 1.54% to $19,804, slipping from the 20,000 mark
+      after losing $310 from its previous close.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 16
+    originalUrl: ''
+    url: >-
+      https://markets.businessinsider.com/news/currencies/kim-kardashian-crypto-fine-sec-warning-celebrities-jake-paul-mayweather-2022-10
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Business Insider
+    logo: ''
+    image: 'https://i.insider.com/633d9adbdf105f00184f6a3f?width=1200&format=jpeg'
+    title: >-
+      Kim Kardashian agreed to pay the SEC $1.3 million - a warning shot from
+      the watchdog to crypto-promoting celebrities
+    summary: >-
+      Other celebrities including Floyd Mayweather and Jake Paul have been sued
+      by investors for promoting cryptocurrencies that later tanked in value.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 17
+    originalUrl: ''
+    url: 'https://blog.bitmex.com/flashbots/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Bitmex.com
+    logo: ''
+    image: 'https://blog.bitmex.com/wp-content/uploads/2022/05/fb-1024x986.png'
+    title: >-
+      In Ethereum, as of 2022, over 90% of miners are connected to one single
+      server
+    summary: >-
+      Abstract: We examine a mining and transaction selection system on Ethereum
+      called “Flashbots”. Flashbots is a potential mitigation against the
+      so-called MEV problem. Over 90% of Ethereum miners subscribe to the
+      Flashbots centralised and trusted service and we…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 18
+    originalUrl: ''
+    url: >-
+      https://news.slashdot.org/story/22/10/10/2135214/crypto-and-payments-firm-mobilecoin-launches-stablecoin----electronic-dollars
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Slashdot.org
+    logo: ''
+    image: 'https://a.fsdn.com/sd/topics/bitcoin_64.png'
+    title: >-
+      Crypto and Payments Firm MobileCoin Launches Stablecoin -- 'Electronic
+      Dollars'
+    summary: >-
+      Privacy-focused cryptocurrency and payments firm MobileCoin, in
+      collaboration with stablecoin platform Reserve, has launched a stablecoin
+      dubbed "Electronic Dollars" (eUSD). CoinDesk reports: According to
+      MobileCoin, eUSD is backed by a basket of other stable…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 19
+    originalUrl: ''
+    url: >-
+      https://www.businessinsider.com/kim-kardashian-crypto-ad-instagram-post-screenshot-2022-10
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Business Insider
+    logo: ''
+    image: 'https://i.insider.com/633aeba26427060019ef0dc6?width=1200&format=jpeg'
+    title: >-
+      This is the Instagram post that got Kim Kardashian in hot water with the
+      SEC — leading to a $1.26 million settlement payment
+    summary: >-
+      A screenshot of the post shows Kim Kardashian did include "#Ad" — but
+      federal securities laws require additional disclosure for crypto ads.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 20
+    originalUrl: ''
+    url: >-
+      https://www.reuters.com/business/finance/nasdaq-bets-big-digital-assets-despite-crypto-turmoil-2022-09-20/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Reuters
+    logo: ''
+    image: >-
+      https://www.reuters.com/resizer/vhmmMl1JCDu98U_lVwDA2ozDnQw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V2YIMSMH2ZOCJKVDJB7M2YUIEI.jpg
+    title: Nasdaq bets big on digital assets despite crypto turmoil - Reuters
+    summary: >-
+      Nasdaq Inc <a href="https://www.reuters.com/companies/NDAQ.O"
+      target="_blank">(NDAQ.O)</a> is placing a big bet on the cryptocurrency
+      market, with the launch of a digital assets business that is aimed at
+      tapping institutional investors.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 21
+    originalUrl: ''
+    url: 'http://coolhunting.com/tech/ethereums-merge-cuts-energy-use-by-99-95/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Cool Hunting
+    logo: ''
+    image: >-
+      https://i0.wp.com/coolhunting.com/wp-content/uploads/2022/09/What-is-Ethereum-e1663341947865.jpg?fit=1000%2C1000&ssl=1
+    title: Ethereum’s “Merge” Cuts Energy Use by 99.95%
+    summary: "In a move many years in development, the world’s second-largest cryptocurrency, Ethereum (ETH), merged with the Beacon Chain on 15 September. This replaced the original proof-of-work mechanism on the Mainnnet\_with a proof-of-stake consensus layer that ultimat…"
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 22
+    originalUrl: ''
+    url: 'https://www.businessinsider.com/personal-finance/what-is-altcoin'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Business Insider
+    logo: ''
+    image: 'https://i.insider.com/6112cbf27ab071001878ec71?width=1200&format=jpeg'
+    title: >-
+      Altcoins are the alternative digital currencies to bitcoin — here's what
+      they are and how they work
+    summary: >-
+      Altcoins, or alternative coins, are any cryptocurrencies not bitcoin.
+      Learn how altcoins emerged and evolved into a driving force in crypto
+      markets.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 23
+    originalUrl: ''
+    url: >-
+      https://www.reuters.com/technology/bitcoin-falls-below-19000-cryptos-creak-under-rate-hike-risk-2022-09-19/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Reuters
+    logo: ''
+    image: >-
+      https://www.reuters.com/resizer/7vvHHpQvDtdEIXqXAS7vTw_ipPo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/36XAVNUD7ZKANCOL2HEUR2FOKU.jpg
+    title: Bitcoin falls below $19000 as cryptos creak under rate hike risk - Reuters
+    summary: >-
+      Cryptocurrencies fell to fresh lows on Monday on regulatory concerns and
+      as investors globally turned shy on risky assets with interest rate rises
+      looming around the world.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 24
+    originalUrl: ''
+    url: >-
+      https://www.heise.de/news/T-Systems-betreibt-Validator-Knoten-fuer-Ethereum-und-steigt-bei-Staking-DAO-ein-7280040.html
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: heise online
+    logo: ''
+    image: >-
+      https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/7/1/7/3/bi-220929-blockchain-euthereum-en-9ab08484263ac6c6.jpg
+    title: >-
+      T-Systems betreibt Validator-Knoten für Ethereum und steigt bei
+      Staking-DAO ein
+    summary: >-
+      Das Telekom-Tochterunternehmen T-Systems betreibt zusammen mit der
+      Blockchaingesellschaft Stakewise künftig Validator-Nodes im
+      Ethereum-Netzwerk.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 25
+    originalUrl: ''
+    url: >-
+      https://www.xataka.com/criptomonedas/fiebre-nft-ha-durado-exactamente-diez-meses-su-resaca-va-a-ser-mucho-dura-prolongada
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Xataka.com
+    logo: ''
+    image: >-
+      https://i.blogs.es/39c853/captura-de-pantalla-2022-09-29-a-las-12.27.07/840_560.jpeg
+    title: >-
+      La fiebre por los NFT ha durado exactamente diez meses. Su resaca va a ser
+      mucho más dura y prolongada
+    summary: >-
+      Todos nos quedamos de piedra cuando vimos cómo el NFT de una obra digital
+      se vendió por 69 millones de dólares. De repente parecía tener sentido
+      invertir 1,36 millones por el NFT de un píxel, pero poco a poco el
+      fenómeno se fue difuminando. Hay quien trata de…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 26
+    originalUrl: ''
+    url: >-
+      https://www.xataka.com/criptomonedas/ethereum-esta-cayendo-a-plomo-porque-tiene-accion-bursatil-que-dinero-contante-sonante
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Xataka.com
+    logo: ''
+    image: >-
+      https://i.blogs.es/e32306/captura-de-pantalla-2022-09-19-a-las-16.08.33/840_560.jpeg
+    title: >-
+      Ethereum está cayendo a plomo porque ya tiene más de acción bursátil que
+      de dinero contante y sonante
+    summary: >-
+      Era uno de los eventos más esperados en el segmento de las criptodivisas
+      desde hace años. El célebre 'The Merge' era un salto arriesgado para la
+      red Ethereum, pero todo salió bien: la criptomoneda renacía, y lo hacía
+      con ventajas evidentes. Las buenas noticia…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 27
+    originalUrl: ''
+    url: >-
+      https://www.heise.de/news/Ethereum-Kontroverse-um-neues-Konzept-fuer-umkehrbare-Transaktionen-7279559.html
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: heise online
+    logo: ''
+    image: >-
+      https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/6/9/1/1/shutterstock_1839366097-c1e81cc402156538.jpg
+    title: 'Ethereum: Kontroverse um neues Konzept für umkehrbare Transaktionen'
+    summary: >-
+      Immer wieder kommt es zu spektakulärem Klau vom Kryptogeld. Forscher haben
+      sich daher überlegt, wie man bei Ethereum Transaktionen reversibel machen
+      könnte.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 28
+    originalUrl: ''
+    url: >-
+      https://markets.businessinsider.com/news/currencies/pro-russia-groups-raised-nearly-400k-crypto-fund-ukraine-war-2022-10
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Business Insider
+    logo: ''
+    image: 'https://i.insider.com/633af20a6427060019ef0fac?width=1200&format=jpeg'
+    title: >-
+      Pro-Russian groups raised nearly $400,000 in cryptocurrency to fund
+      Moscow's war with Ukraine and evade US sanctions, report says
+    summary: >-
+      The groups used Telegram to raise funds in cryptocurrencies to purchase
+      equipment like drones and radios for the Russian military.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 29
+    originalUrl: ''
+    url: >-
+      https://www.entrepreneur.com/business-news/kim-kardashian-crypto-promotion-gets-126-million-sec-fine/436487
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Entrepreneur
+    logo: ''
+    image: >-
+      https://assets.entrepreneur.com/content/3x2/2000/1664807376-GettyImages-1155753181.jpg
+    title: >-
+      Kim Kardashian Slammed With $1.26 Million SEC Fine For Charges Linked to
+      Instagram Crypto Promo
+    summary: >-
+      The entrepreneur and reality star failed to disclose she received a
+      $250,000 payment for promoting crypto platform EthereumMax.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 30
+    originalUrl: ''
+    url: >-
+      https://kotaku.com/evga-pc-gaming-nvidia-gpu-rtx-40-series-3080-3090-4090-1849547758
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Kotaku
+    logo: ''
+    image: >-
+      https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/31fc168973becc19b2aca84fac8890bf.jpg
+    title: 'EVGA, Popular Graphics Card Maker, Parts Ways With Nvidia In Messy Breakup'
+    summary: >-
+      And now for something that no one saw coming: EVGA, one of the most
+      prominent third-party PC graphics card manufacturers, and a favorite brand
+      among PC gamers for quality parts and reliable warranties backed by solid
+      customer service, is terminating its longt…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 31
+    originalUrl: ''
+    url: >-
+      https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Reuters
+    logo: ''
+    image: >-
+      https://www.reuters.com/resizer/tiRgegu46pBafmYDYw-VV1Gc5Jc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VH6F6GOG5JM53OLBJZ3OXW72EE.jpg
+    title: >-
+      Nvidia unveils new gaming chip with AI features, taps TSMC for
+      manufacturing - Reuters
+    summary: >-
+      Nvidia Corp <a href="https://www.reuters.com/companies/NVDA.O"
+      target="_blank">(NVDA.O)</a> on Tuesday announced new flagship chips for
+      video gamers that use artificial intelligence (AI) to enhance graphics,
+      saying it has tapped Taiwan Semiconductor Manufactu…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 32
+    originalUrl: ''
+    url: 'https://www.makeuseof.com/has-ethereum-merge-killed-cryptocurrency-mining/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: MakeUseOf
+    logo: ''
+    image: >-
+      https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ethereum-coin-stood-on-other-coins-with-reflection.jpg
+    title: Has the Ethereum Merge Killed Cryptocurrency Mining For Good?
+    summary: >-
+      Did the Ethereum Merge kill crypto mining, or is there really a way
+      forward?
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 33
+    originalUrl: ''
+    url: 'https://xeiaso.net/blog/cryptocurrency-ownership'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Xeiaso.net
+    logo: ''
+    image: >-
+      https://cdn.xeiaso.net/file/christine-static/hero/inkopolis-sunset-smol.png
+    title: Bitcoin and Economic Nihilism
+    summary: Posted on 2022-10-10
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 34
+    originalUrl: ''
+    url: 'http://coolhunting.com/buy/frank-stella-geometries/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Cool Hunting
+    logo: ''
+    image: >-
+      https://i0.wp.com/coolhunting.com/wp-content/uploads/2022/10/frank-stella-geometries.jpg?fit=1200%2C1200&ssl=1
+    title: 'Frank Stella: “Geometries”'
+    summary: "For the first time one of America’s most influential artists, Frank Stella, is releasing his new series of 22 sculptural works\_as NFTs. The collection, entitled\_Geometries, captures the minimalism and boundlessness between painting and sculpture that characte…"
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 35
+    originalUrl: ''
+    url: >-
+      https://venturebeat.com/games/mighty-bear-games-will-give-away-free-nfts-for-its-web3-game/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: VentureBeat
+    logo: ''
+    image: >-
+      https://venturebeat.com/wp-content/uploads/2022/10/mighty-bear.jpg?w=1200&strip=all
+    title: Mighty Bear Games will give away free NFTs for its Web3 game
+    summary: >-
+      Mighty Bear Games will give out free MightyNet Genesis Pass non-fungible
+      tokens (NFTs) for its upcoming Mighty Action Heroes Web3 game.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 36
+    originalUrl: ''
+    url: >-
+      https://stocknews.com/news/nvda-stm-ateyy-umc-mxl-1-stock-to-dump-this-week-if-you-havent-already/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: StockNews.com
+    logo: ''
+    image: >-
+      https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-436170.jpeg
+    title: 1 Stock to Dump This Week if You Haven't Already
+    summary: >-
+      Chip-making giant NVIDIA (NVDA) has received restrictions on exporting its
+      top chips to China. Moreover, the company's bleak fundamentals look
+      concerning. Hence, it might be wise to avoid NVDA now....
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 37
+    originalUrl: ''
+    url: >-
+      https://markets.businessinsider.com/news/currencies/crypto-bear-market-bitcoin-prices-20000-btc-breakdown-technical-analysis-2022-9
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Business Insider
+    logo: ''
+    image: 'https://i.insider.com/632b4a2048c188001815b1f1?width=1200&format=jpeg'
+    title: >-
+      The crypto bear market will continue if bitcoin confirms its recent
+      breakdown below $20,000, Fairlead's Katie Stockton says
+    summary: >-
+      "Short-term momentum has shifted negative per a new daily MACD 'sell'
+      signal," Fairlead Strategies' Katie Stockton said.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 38
+    originalUrl: ''
+    url: >-
+      https://www.newscientist.com/article/2338150-plan-to-cut-ethereum-energy-use-sees-miners-switch-cryptocurrencies/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: New Scientist
+    logo: ''
+    image: >-
+      https://images.newscientist.com/wp-content/uploads/2022/09/19170130/SEI_126091686.jpg
+    title: Plan to cut Ethereum energy use sees miners switch cryptocurrencies
+    summary: >-
+      The Merge, a long-awaited update which promised to slash Ethereum’s vast
+      energy consumption, has instead pushed miners towards other
+      cryptocurrencies
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 39
+    originalUrl: ''
+    url: >-
+      https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Feth-link-ethereum-name-service-hat-seine-domain-zurueck-2209-168407.html&referer=https%3A%2F%2Ft.co%2Fa46695be1a
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Golem.de
+    logo: ''
+    image: ''
+    title: 'eth.link: Ethereum Name Service hat seine Domain zurück'
+    summary: >-
+      Der ENS hatte die Domain im August 2022 versehentlich auslaufen lassen.
+      Anschließend verklagten sie Godaddy. (Ethereum, DNS)
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 40
+    originalUrl: ''
+    url: 'https://www.theregister.com/2022/10/11/google_cloud_next/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Theregister.com
+    logo: ''
+    image: 'https://regmedia.co.uk/2022/10/11/shutterstock_dogecoin_bitcoin.jpg'
+    title: 'Google Cloud to start accepting Bitcoin, Dogecoin, Ethereum as payment'
+    summary: >-
+      Plus AI services, security tools and more from Google Cloud Next this week
+
+      Google Cloud today said it will start accepting cryptocurrencies as
+      payment for its online services.…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 41
+    originalUrl: ''
+    url: 'https://www.presse-citron.net/?p=516399'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Presse-citron
+    logo: ''
+    image: >-
+      https://www.presse-citron.net/app/uploads/2021/04/Cryptomonnaie-Ethereum.jpg
+    title: "Ethereum\_: après le «\_Merge\_», que deviennent les cartes graphiques\_?"
+    summary: >-
+      Après le passage d’Ethereum vers la preuve d’enjeu, de nombreux mineurs ne
+      savent pas quoi faire de leurs cartes graphiques. Les alternatives ne sont
+      pas ou sont peu rentables.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 42
+    originalUrl: ''
+    url: >-
+      https://www.genbeta.com/actualidad/nuevo-ethereum-sostenible-ha-empezado-a-caer-mucho-tiene-accion-bursatil-que-moneda-real
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Genbeta.com
+    logo: ''
+    image: >-
+      https://i.blogs.es/a41836/drawkit-illustrations-8iiudnrq87o-unsplash/840_560.jpg
+    title: >-
+      El nuevo Ethereum 'sostenible' ya ha empezado a caer (y mucho): tiene más
+      de acción bursátil que de moneda real
+    summary: >-
+      Estos últimos días la criptomoneda Ethereum fue noticia y las noticias que
+      protagonizaba eran positvas a pesar de que el mercado, con bitcoin a la
+      cabeza, sigue su caída. Ethereum anunció en el megaencuentro The Merge, su
+      apuesta por una tecnología que le per…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 43
+    originalUrl: ''
+    url: 'https://www.makeuseof.com/what-is-etherscan-how-does-it-work/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: MakeUseOf
+    logo: ''
+    image: >-
+      https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ethereum-token.jpg
+    title: What Is Etherscan? How Does Etherscan Work?
+    summary: 'It''s free, and it''s incredibly useful. Why aren''t you using it already?'
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 44
+    originalUrl: ''
+    url: >-
+      https://www.vice.com/en/article/wxnp9n/kim-kardashian-is-paying-the-sec-dollar126-million-after-being-charged-with-illegal-crypto-promotion
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Vice News
+    logo: ''
+    image: >-
+      https://video-images.vice.com/articles/633af4c6417523009274baf9/lede/1664808381540-gettyimages-1425655415.jpeg?image-resize-opts=Y3JvcD0xeHc6MC4zNzV4aDsweHcsMC4wM3hoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg
+    title: >-
+      Kim Kardashian Is Paying the SEC $1.26 Million After Being Charged With
+      Illegal Crypto Promotion
+    summary: >-
+      The pop culture icon is paying a price to settle charges relating to
+      telling her millions of followers to purchase a bizarre cryptocurrency.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 45
+    originalUrl: ''
+    url: 'http://coolhunting.com/link-about-it/link-about-it-this-weeks-picks-630/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Cool Hunting
+    logo: ''
+    image: >-
+      https://i0.wp.com/coolhunting.com/wp-content/uploads/2022/09/hub-huts.jpg?fit=1007%2C673&ssl=1
+    title: 'Link About It: This Week’s Picks'
+    summary: >-
+      Prompting AI art, low-carbon crypto, Patagonia's environmental efforts and
+      more Making a Lithium-Ion Battery Alternative Out of Crab Exoskeletons
+      Products powered by lithium-ion batteries (like electric vehicles) are in
+      high-demand, but sourcing and mining th…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 46
+    originalUrl: ''
+    url: >-
+      https://www.entrepreneur.com/business-news/mark-zuckerbergs-little-league-card-sold-for-105000/436315
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Entrepreneur
+    logo: ''
+    image: >-
+      https://assets.entrepreneur.com/content/3x2/2000/1664464913-SamanthaBurkardt.jpg
+    title: 'Mark Zuckerberg''s Little League Baseball Card Sold for $105,000'
+    summary: A former camp counselor put the card up for auction.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 47
+    originalUrl: ''
+    url: 'https://phandroid.com/2022/10/01/is-it-ideal-to-invest-in-crypto-in-2022/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Phandroid - News for Android
+    logo: ''
+    image: 'https://phandroid.com/wp-content/uploads/2021/06/bitcoin-2-640x427.jpg'
+    title: Is it ideal to invest in Crypto in 2022?
+    summary: >-
+      Investing in cryptocurrencies has both the opportunity to become filthy
+      rich and the real risk that you may lose all of the funds you put into the
+      venture. Putting money into digital currencies has a high level of danger,
+      but if done correctly and as part of …
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 48
+    originalUrl: ''
+    url: >-
+      https://www.windowscentral.com/hardware/computers-desktops/you-probably-shouldnt-jet-wash-your-gpu-but-these-crypto-miners-are
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Windows Central
+    logo: ''
+    image: 'https://cdn.mos.cms.futurecdn.net/bogQKFkegKsPZ52QDuZzKD-1200-80.jpg'
+    title: 'You probably shouldn''t jet-wash your GPU, but these crypto miners are'
+    summary: >-
+      Following Ethereum's shift to a proof-of-stake model rather than
+      proof-of-work, crypto mining is no longer profitable for many. As a
+      result, miners are looking to sell their used cards, though we don't
+      recommend buying one that's been jet-washed.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 49
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/16/why-ethereum-ethereum-classic-and-ravencoin-strugg/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/701247/investor-holds-golden-coin-looking-at-stock-chart.jpg
+    title: 'Why Ethereum, Ethereum Classic, and Ravencoin Struggled on Friday'
+    summary: >-
+      The Merge is causing volatility in the cryptocurrency and rekindling a
+      regulatory debate.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 50
+    originalUrl: ''
+    url: 'https://www.fool.com/investing/2022/10/07/can-ethereum-reach-5000/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/703693/ethereum-virtual-money-getty-71317.jpg
+    title: 'Can Ethereum Reach $5,000?'
+    summary: >-
+      Three key factors could determine whether Ethereum breaks through the
+      $5,000 price level.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 51
+    originalUrl: ''
+    url: 'https://www.fool.com/investing/2022/10/12/ethereum-buy-the-dip/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/704283/desk-looking-at-computer-and-tablet.jpg
+    title: 'Ethereum: Buy the Dip?'
+    summary: Now might be the time to take advantage of cryptocurrency market weakness.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 52
+    originalUrl: ''
+    url: 'https://www.fool.com/investing/2022/10/11/ethereum-buy-the-dip/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/704198/getty-smiling-person-with-phone.jpg
+    title: 'Ethereum: Buy the Dip?'
+    summary: >-
+      Ethereum may be down since The Merge, but this could be a unique buying
+      opportunity.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 53
+    originalUrl: ''
+    url: 'https://www.businessinsider.com/personal-finance/what-is-cryptocurrency'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Business Insider
+    logo: ''
+    image: 'https://i.insider.com/61c08aecbc281e00184ed412?width=1200&format=jpeg'
+    title: >-
+      What is cryptocurrency? Here's what to know about this increasingly
+      popular digital currency before getting involved
+    summary: >-
+      Cryptocurrencies are decentralized, digital currencies that use blockchain
+      technology to manage transactions and keep them secure.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 54
+    originalUrl: ''
+    url: >-
+      https://www.reuters.com/technology/cryptoverse-trading-names-mind-boggling-crypto-craze-2022-10-04/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Reuters
+    logo: ''
+    image: >-
+      https://www.reuters.com/resizer/atbYZgvhUcYI7WzzqtR88WzlNfI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FIAFKEUQ55IATELDZ2X3NK5U5A.jpg
+    title: 'Cryptoverse: Trading names in a mind-boggling crypto craze - Reuters'
+    summary: >-
+      A new NFT trading craze where names are bought and sold for eye-popping
+      sums is providing a multi-million-dollar lifeline for speculators
+      shivering in the bleak crypto winter.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 55
+    originalUrl: ''
+    url: >-
+      https://www.heise.de/tests/Je-zwei-GeForce-RTX-2060-RTX-3050-und-Radeon-RX-6600-um-300-Euro-im-Test-7269820.html
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: heise online
+    logo: ''
+    image: >-
+      https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/1/6/3/6/ct2122300_euro_121505_csp_300eurografika_digi-77c9358a80eec6e4.jpg
+    title: >-
+      heise+ | Je zwei GeForce RTX 2060, RTX 3050 und Radeon RX 6600 um 300 Euro
+      im Test
+    summary: >-
+      Sechs Grafikkarten mit sehr unterschiedlichen Stärken buhlen im Test mit
+      aktueller Technik um Käufer, die mindestens in Full-HD-Auflösung spielen
+      möchten.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 56
+    originalUrl: ''
+    url: 'https://www.fool.com/investing/2022/09/20/should-you-still-buy-ethereum/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/701239/ethereum-chart.jpg'
+    title: Should You Still Buy Ethereum?
+    summary: 'Ethereum just completed the Merge, just one of many planed upgrades.'
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 57
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/22/how-ethereum-dragged-cryptocurrencies-down-today/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/702068/crypto-wallet-on-a-smartphone.jpg
+    title: Why Ethereum Underperformed Altcoins Today
+    summary: Crypto markets were mixed and there were some big winners today.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 58
+    originalUrl: ''
+    url: >-
+      https://www.entrepreneur.com/money-finance/what-product-market-fit-should-look-like-in-web3/435316
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Entrepreneur
+    logo: ''
+    image: >-
+      https://assets.entrepreneur.com/content/3x2/2000/1663616903-GettyImages-14018875531.jpg
+    title: 'The Penthouse Suite: What Product-Market Fit Should Look like In Web3'
+    summary: >-
+      This generation has been blessed with what could quite possibly be the
+      biggest technological innovation of our lifetime. Yet, it remains largely
+      inaccessible to the vast majority of people.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 59
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/19/post-merge-ethereum-ethereum-classic-and-ravencoin/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/701503/bitcoin-mining.jpg'
+    title: >-
+      Post-Merge, Ethereum, Ethereum Classic and Ravencoin Are All Getting Hit
+      Hard
+    summary: >-
+      Was the Ethereum The Merge officially a "buy the rumor, sell the news"
+      event?
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 60
+    originalUrl: ''
+    url: >-
+      https://www.vidaextra.com/industria/nvidia-desactiva-bloqueo-criptomineria-ethereum-para-sus-graficas-rtx-30-poco-importa-a-estas-alturas
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Vida Extra
+    logo: ''
+    image: 'https://i.blogs.es/503136/nvidia-geforce-rtx-3080-photo-001/840_560.jpeg'
+    title: >-
+      Nvidia desactiva el bloqueo de criptominería Ethereum para sus gráficas
+      RTX 30, pero poco importa a estas alturas
+    summary: >-
+      La criptominería, entre otros muchos problemas, ha sido uno de los
+      principales puntos de conflicto a la hora de conseguir una GPU. Las
+      tarjetas gráficas experimentaron una época realmente oscura en cuanto a
+      precios y disponibilidad, pero Nvidia decidió ponerl…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 61
+    originalUrl: ''
+    url: >-
+      https://www.nextinpact.com/article/69989/ethereum-passe-au-pos-proof-of-stake
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Next INpact
+    logo: ''
+    image: 'https://cdnx.nextinpact.com/data-next/images/bd/wide-linked-media/5658.jpg'
+    title: Ethereum passe au PoS (Proof of Stake)
+    summary: >-
+      La blockchain Ethereum vient d’opérer le 15 septembre un changement dont
+      vous avez forcément entendu parler, si le monde des blockchains vous est
+      familier, en passant de la preuve de travail à la preuve d’enjeu (ou
+      d'intérêt). Cet...
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 62
+    originalUrl: ''
+    url: 'https://www.fool.com/investing/2022/09/27/what-is-the-future-of-ethereum/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/702454/person-watching-market-crash.jpg
+    title: What Is the Future of Ethereum After The Merge?
+    summary: >-
+      Ethereum is down over 25% from its monthly highs and nearly 75% from
+      all-time highs, but this may not be a time to buy if there's no clear
+      investment thesis for Ethereum.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 63
+    originalUrl: ''
+    url: >-
+      https://www.businessinsider.com/how-economies-world-markets-react-fed-china-slowdown-bank-explainer-2022-9
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Business Insider
+    logo: ''
+    image: 'https://i.insider.com/6324cd4ca6c3e8001966a382?width=1200&format=jpeg'
+    title: >-
+      Here's how economies around the world are reacting to China's economic
+      slowdown.
+    summary: >-
+      A weaker Chinese economy could help and hurt the US economy and Latin
+      America, whereas Europe is mainly dealing with Russia and an energy
+      crunch.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 64
+    originalUrl: ''
+    url: >-
+      https://markets.businessinsider.com/news/currencies/messari-mainnet-yacht-parties-and-2100-tickets-2022-bear-market-2022-9
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Business Insider
+    logo: ''
+    image: 'https://i.insider.com/632de2c9329bac00182efe5e?width=1200&format=jpeg'
+    title: >-
+      Crypto parties are still raging in the bear market. Here's what it's like
+      at Mainnet, where tickets cost $2,100 and attendees network on yachts.
+    summary: >-
+      Insider's Phil Rosen was on the ground at Mainnet in New York this week,
+      where the party was still raging through the depths of crypto winter.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 65
+    originalUrl: ''
+    url: >-
+      https://www.businessinsider.com/why-stocks-could-be-headed-for-new-2022-lows-this-month-2022-10
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Business Insider
+    logo: ''
+    image: 'https://i.insider.com/6343f2ebca56b80019f3250a?width=1200&format=jpeg'
+    title: >-
+      Friday's jobs report signaled the labor market is still hot — probably too
+      hot for the Fed — and that means stocks could be headed for new 2022 lows
+      this month.
+    summary: >-
+      US stocks could find a new bottom for the year this month as September's
+      jobs report bolsters Fed hawkishness, BofA analysts say.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 66
+    originalUrl: ''
+    url: >-
+      https://www.bloomberg.com/news/newsletters/2022-09-19/ethereum-s-merge-was-a-success-crypto-still-has-problems
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Bloomberg
+    logo: ''
+    image: >-
+      https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itHmwsl5Anm8/v0/1200x800.jpg
+    title: The Merge Was a Success. Crypto Still Has Problems
+    summary: >-
+      All anyone can talk about in crypto is the success of an Ethereum upgrade
+      known as the Merge. But first…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 67
+    originalUrl: ''
+    url: >-
+      https://www.heise.de/news/Nvidia-GeForce-RTX-4090-Herstellerkarten-fuer-1600-bis-2000-US-Dollar-gelistet-7280616.html
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: heise online
+    logo: ''
+    image: >-
+      https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/7/4/7/6/Asus-2e130996bc7ea3d4.jpg
+    title: >-
+      Nvidia GeForce RTX 4090: Herstellerkarten für 1600 bis 2000 US-Dollar
+      gelistet
+    summary: >-
+      Hersteller wie Asus, Gigabyte und MSI bereiten sich auf die
+      Markteinführung der GeForce RTX 4090 vor. Jetzt sind die Preise einiger
+      Grafikkartenmodelle bekannt.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 68
+    originalUrl: ''
+    url: >-
+      https://www.heise.de/news/US-Boersenaufsicht-erhebt-Anklage-gegen-Kim-Kardashian-7282868.html
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: heise online
+    logo: ''
+    image: >-
+      https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/8/6/2/8/shutterstock_1507161356-247febdb53e235d9.jpg
+    title: US-Börsenaufsicht erhebt Anklage gegen Kim Kardashian
+    summary: >-
+      Die Influencerin zahlt 1,26 Millionen US-Dollar Strafe wegen unzulässiger
+      Werbung für Kryptowährung. Sie stimmt zudem einem dreijährigen Werbeverbot
+      zu.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 69
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/30/after-the-merge-whats-next-for-ethereum/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/703064/youtube-thumbnails-21.png'
+    title: 'Ethereum After "The Merge": What to Expect'
+    summary: >-
+      The Merge is complete, but future upgrades are where the blockchain will
+      be taken to the next level.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 70
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/21/why-ethereum-has-plunged-after-the-merge/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/701915/watching-market-crash-thru-floor.jpg
+    title: Why Ethereum Has Plunged After The Merge
+    summary: Traders have been selling the news of Ethereum's merge.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 71
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/10/15/earn-passive-income-with-staked-ethereum/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/704516/ethereum-blockchain-cryptocurrency.jpg
+    title: Two Ways to Easily Earn Passive Income With Ethereum
+    summary: It's never been easier to generate passive income with Ethereum.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 72
+    originalUrl: ''
+    url: 'https://www.fool.com/investing/2022/10/01/is-ethereum-a-buy-in-october/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/703246/using-ethereum.jpg'
+    title: Is Ethereum a Buy in October?
+    summary: >-
+      The long-awaited merge came and went, but what's next for the leading
+      smart contracts cryptocurrency?
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 73
+    originalUrl: ''
+    url: 'https://www.fool.com/investing/2022/09/17/is-now-the-time-to-buy-polygon/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/700498/rocket-ship-launching.jpg'
+    title: Is Now the Time to Buy Polygon?
+    summary: The Merge could benefit more than just Ethereum.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 74
+    originalUrl: ''
+    url: >-
+      https://www.forbes.com/sites/investor/2022/09/21/ethereum-pow-get-your-free-money/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Forbes
+    logo: ''
+    image: >-
+      https://imageio.forbes.com/specials-images/imageserve/628b5ed9a721514c626b396f/0x0.jpg?format=jpg&width=1200
+    title: 'Ethereum POW, Get Your Free Money'
+    summary: >-
+      The Ethereum Merge has spawned forks, the main one being Ethereum POW,
+      which is basically the old pre-merge Ethereum.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 75
+    originalUrl: ''
+    url: 'https://davegebler.com/post/musings/web-3-0-the-great-con'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Davegebler.com
+    logo: ''
+    image: ''
+    title: Web 3.0 – The Great Con
+    summary: >-
+      I'll say it - web 3.0 is a meaningless buzzword, and blockchain and
+      cryptocurrency is nothing more than a giant fraud.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 76
+    originalUrl: ''
+    url: 'https://www.cnbeta.com/articles/tech/1327339.htm'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Cnbeta.com
+    logo: ''
+    image: 'https://static.cnbetacdn.com/thumb/article/2022/1015/21ae0206e6178b3.png'
+    title: XEN加密货币铸造热潮让ETH遭遇通货紧缩
+    summary: >-
+      随着以太坊从高能耗的 PoW 挖矿模式向 PoS 权益证明转型，全球第二大加密货币 ETH
+      的生态环境也迎来了相当大的冲击。与拼难度的“以太坊经典”区块链相比，ETH 2.0
+      需要验证者将特定数量的代币质押在专用节点中，以相互竞争验证交易、并将新块引入链中。 阅读全文
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 77
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/10/06/thinking-about-shiba-inu-buy-ethereum-instead/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/703682/investor-smiling-computer.jpg
+    title: Thinking About Buying Shiba Inu? Buy Ethereum Instead
+    summary: Ethereum has what it takes to dominate over the long term.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 78
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/20/with-ethereums-merge-now-complete-another-huge-net/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/701462/crypto-mining-getty.jpg'
+    title: >-
+      With Ethereum's 'Merge' Now Complete, Another Huge Network Upgrade Is
+      Coming in 2023
+    summary: The next big upgrade to Ethereum will attempt to lower transaction fees.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 79
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/10/11/this-one-thing-could-determine-what-happens-to-the/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/704016/ethereum-virtual-money-getty-71317.jpg
+    title: This One Thing Could Determine What Happens to the Price of Ethereum
+    summary: Regulators could have a huge say in the price performance of Ethereum.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 80
+    originalUrl: ''
+    url: >-
+      https://www.faz.net/aktuell/finanzen/digital-bezahlen/bitcoin-auf-neuem-tiefstand-kurse-von-kryptowaehrungen-schwanken-18326975.html
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Faz.net
+    logo: ''
+    image: >-
+      https://media1.faz.net/ppmedia/aktuell/finanzen/801866326/1.8326997/facebook_teaser/kein-bitcoin-die-kryptoanlage.jpg
+    title: 'Schwankende Kurse: Bitcoin auf neuem Tiefstand'
+    summary: >-
+      Der Bitcoin kostet derzeit so viel wie im Dezember 2020, auch andere
+      Kryptoanlagen verloren zuletzt an Wert. Hintergrund sind die Ankündigungen
+      großer Notenbanken, die Zinsen erhöhen zu wollen.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 81
+    originalUrl: ''
+    url: >-
+      https://www.xataka.com/criptomonedas/bitcoin-contamina-casi-como-gasolina-vez-oro-digital-ha-acabado-siendo-petroleo-digital
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Xataka.com
+    logo: ''
+    image: 'https://i.blogs.es/edcdc4/bitcoin/840_560.jpg'
+    title: >-
+      El Bitcoin contamina casi tanto como la gasolina. En vez de "oro digital"
+      ha acabado siendo un "petróleo digital"
+    summary: >-
+      La minería de Bitcoin tiene un impacto medioambiental a la altura de las
+      actividades más contaminantes del planeta. Esta es la conclusión de un
+      nuevo estudio publicado en la revista Nature. Se trata de uno de los
+      informes más completos hasta la fecha, donde s…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 82
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/17/2-cryptos-are-hidden-winners-in-ethereum-merge/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/700788/crypto-mining.jpg'
+    title: These 2 Cryptos Are Hidden Beneficiaries of Ethereum's Merge
+    summary: >-
+      While The Merge looks like good news for Ethereum investors, it's
+      propelling the price of these cryptos upward even more.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 83
+    originalUrl: ''
+    url: >-
+      https://www.marketwatch.com/story/why-bored-ape-creators-yuga-labs-is-being-investigated-by-the-sec-11665515617
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: MarketWatch
+    logo: ''
+    image: 'https://images.mktw.net/im-641910/social'
+    title: >-
+      Crypto Update: Why Bored Ape creators Yuga Labs is being investigated by
+      the SEC
+    summary: >-
+      Yuga Labs, the founder of the Bored Ape Yacht Club collection, is being
+      investigated by the SEC over an ongoing debate about whether NFTs are
+      securities.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 84
+    originalUrl: ''
+    url: >-
+      https://venturebeat.com/automation/to-compete-in-any-economy-platforms-must-do-better-at-retaining-global-creators/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: VentureBeat
+    logo: ''
+    image: >-
+      https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1047502598.jpg?w=1200&strip=all
+    title: >-
+      To compete in any economy, platforms must do better at retaining global
+      creators
+    summary: >-
+      In Tipalti's recent Illuminate event, industry experts spoke about how
+      platforms can offer best-in-class experiences for their partners.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 85
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/20/is-this-ethereum-challenger-a-breakout-crypto-inve/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/701270/getty-happy-person-at-laptop-success-winning-fists-up-victory-yes.jpg
+    title: Is This Ethereum Challenger a Breakout Crypto Investment?
+    summary: >-
+      Near Protocol is a relatively new Layer 1 blockchain project trying to
+      supplant Ethereum as the market leader.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 86
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/10/06/missed-out-on-ethereum-buy-this-cryptocurrency-now/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/702809/irl-crypto-coins-on-table.jpg
+    title: Missed Out on Ethereum? Buy This Cryptocurrency Now
+    summary: >-
+      Solana is being used by more people than Ethereum, and it could be the
+      cryptocurrency of the future.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 87
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/23/this-surprising-crypto-will-be-the-next-ethereum/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/701703/getty-impressed-surprised.jpg
+    title: This Surprising Crypto May Be the Next Big Ethereum Challenger in 2023
+    summary: >-
+      Algorand continues to gain traction in the blockchain world, but will it
+      ever be enough to unseat Ethereum?
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 88
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/18/ethereums-merge-is-done-now-what/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/701198/getty-happy-colleagues.jpg'
+    title: 'Ethereum''s Merge Is Done: Now What?'
+    summary: >-
+      The merge was one step in an overall upgrade to solve Ethereum's biggest
+      problems.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 89
+    originalUrl: ''
+    url: 'https://www.businessinsider.com/personal-finance/gemini-vs-coinbase'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Business Insider
+    logo: ''
+    image: 'https://i.insider.com/63471b6c39a9f1001232e161?width=1200&format=jpeg'
+    title: 'Gemini vs. Coinbase: How the crypto exchanges compare'
+    summary: >-
+      Gemini is best for interest rewards, and it offers advanced traders lower
+      fees. Coinbase has more cryptocurrencies and institutional resources.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 90
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/10/16/is-this-controversial-ethereum-killer-finally-a-bu/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/704645/business-newspaper-suit-outside-happy.jpg
+    title: Is This Controversial Ethereum-Killer Finally a Buy?
+    summary: >-
+      On the surface, Tron looks like a worthy Ethereum challenger. But
+      investors should take a closer look under the hood.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 91
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/16/is-coinbase-doing-right-by-your-staked-ethereum/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/701207/gettyimages-104212737.jpg'
+    title: Is Coinbase Doing Right by Your Staked Ethereum?
+    summary: 'The Merge is here, but don''t celebrate yet.'
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 92
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/10/05/3-facts-about-ethereum-that-you-should-know/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/703332/ethereum-tokens.jpg'
+    title: 3 Facts About Ethereum That You Should Know
+    summary: 'For some investors, now could be a fantastic buying opportunity.'
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 93
+    originalUrl: ''
+    url: 'https://www.makeuseof.com/how-does-twitter-crypto-scam-work/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: MakeUseOf
+    logo: ''
+    image: >-
+      https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/bitcoin-phishing-image-on-blue-background-feature.jpg
+    title: How Does a Twitter Crypto Scam Work?
+    summary: 'You''ve likely seen these scams on Twitter, but how does the scam play out?'
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 94
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/10/02/is-now-the-time-to-buy-ethereum-after-the-merge/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/702790/eth-on-dice.jpg'
+    title: Is Now the Time to Buy Ethereum After The Merge?
+    summary: >-
+      The highly anticipated upgrade might boost this cryptocurrency's long-term
+      prospects.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 95
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/10/07/why-bitcoin-ethereum-and-dogecoin-are-falling-toda/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/703984/generic-downward-stock-move-getty.jpg
+    title: 'Why Bitcoin, Ethereum, and Dogecoin Are Falling Today'
+    summary: The Labor Department's September jobs report disappointed the market.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 96
+    originalUrl: ''
+    url: 'https://lenta.ru/news/2022/09/27/bitup/'
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Lenta
+    logo: ''
+    image: >-
+      https://icdn.lenta.ru/images/2022/09/27/10/20220927103230783/share_9ae5875cb348561b2a8a3da6f77161c5.jpg
+    title: Цена биткоина подскочила
+    summary: >-
+      За сутки цена биткоина поднялась выше 20 тысяч долларов за монету,
+      прибавив 8 процентов. К утру вторника стоимость биткоина приблизилась к
+      20,2 тысячи долларов. На росте сказалась неожиданная активность азиатских
+      рынков, из-за которой в рост пошли криптовалют…
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 97
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/20/is-ethereum-still-a-buy-after-the-merge/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/701520/rocket-ship-launching.jpg'
+    title: Is Ethereum Still a Buy After The Merge?
+    summary: >-
+      After undergoing one of the most significant upgrades in the short history
+      of cryptocurrencies, here's what investors should plan on for Ethereum's
+      future.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 98
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/28/is-ethereum-or-solana-a-better-buy-right-now/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: >-
+      https://g.foolcdn.com/editorial/images/702017/investing-woman-wall-street-suit-stocks-finance.jpg
+    title: Is Ethereum or Solana a Better Buy Right Now?
+    summary: >-
+      Solana appears to be innovating at a faster pace than Ethereum, which is
+      leading to market share gains in areas such as NFTs.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+  - id: 99
+    originalUrl: ''
+    url: >-
+      https://www.fool.com/investing/2022/09/17/3-must-know-benefits-of-the-ethereum-merge/
+    when: ''
+    originalWhen: ''
+    author: ''
+    source: Motley Fool
+    logo: ''
+    image: 'https://g.foolcdn.com/editorial/images/700934/eth-on-dice.jpg'
+    title: 3 Must-Know Benefits of the Ethereum Merge
+    summary: >-
+      The highly anticipated event has major implications for this top
+      cryptocurrency.
+    comments: ''
+    suggestions: ''
+    tags: ''
+    chapter: ''
+slug: ethereum-timeline
