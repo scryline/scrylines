@@ -1,0 +1,1775 @@
+{
+  "uuid": "769f9d68-fd7c-47b5-8ad6-e4dc26db42af",
+  "version": "0.1",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=rGefZDJDjIw",
+      "site": "youtube",
+      "id": "rGefZDJDjIw"
+    }
+  ],
+  "components": [
+    {
+      "source": "https://www.youtube.com/watch?v=rGefZDJDjIw",
+      "type": "transcript",
+      "content": [
+        {
+          "text": "greetings fellow gorehounds and welcome",
+          "start": 0.179,
+          "duration": 4.021
+        },
+        {
+          "text": "back to a blood splattered Vlog I'm the",
+          "start": 2.04,
+          "duration": 3.96
+        },
+        {
+          "text": "horror Guru and today we're going to",
+          "start": 4.2,
+          "duration": 4.7
+        },
+        {
+          "text": "talk about the meta slasher horror film",
+          "start": 6.0,
+          "duration": 6.599
+        },
+        {
+          "text": "Scream Six now while it is true Scream 6",
+          "start": 8.9,
+          "duration": 5.739
+        },
+        {
+          "text": "is the sixth entry in the scream",
+          "start": 12.599,
+          "duration": 4.381
+        },
+        {
+          "text": "franchise it is actually the second",
+          "start": 14.639,
+          "duration": 5.101
+        },
+        {
+          "text": "entry by team radio silence the",
+          "start": 16.98,
+          "duration": 5.1
+        },
+        {
+          "text": "filmmaking team behind such films as",
+          "start": 19.74,
+          "duration": 5.34
+        },
+        {
+          "text": "Devils do and ready or not one of which",
+          "start": 22.08,
+          "duration": 5.16
+        },
+        {
+          "text": "I think is just okay and the other of",
+          "start": 25.08,
+          "duration": 4.5
+        },
+        {
+          "text": "which I think is [\u00a0__\u00a0] awesome and",
+          "start": 27.24,
+          "duration": 3.959
+        },
+        {
+          "text": "with their first scream film of course",
+          "start": 29.58,
+          "duration": 4.139
+        },
+        {
+          "text": "being the previous scream film the one",
+          "start": 31.199,
+          "duration": 5.221
+        },
+        {
+          "text": "simply titled scream but for the sake of",
+          "start": 33.719,
+          "duration": 4.5
+        },
+        {
+          "text": "all of our sanities I'm gonna call it",
+          "start": 36.42,
+          "duration": 4.56
+        },
+        {
+          "text": "Scream 5 from here on out and as for",
+          "start": 38.219,
+          "duration": 4.561
+        },
+        {
+          "text": "Scream 5 I thought it was pretty damn",
+          "start": 40.98,
+          "duration": 4.02
+        },
+        {
+          "text": "good it showed not only could the scream",
+          "start": 42.78,
+          "duration": 4.98
+        },
+        {
+          "text": "franchise live beyond Wes Craven it",
+          "start": 45.0,
+          "duration": 4.26
+        },
+        {
+          "text": "could even continue on without Kevin",
+          "start": 47.76,
+          "duration": 4.08
+        },
+        {
+          "text": "Williamson while still being pretty fun",
+          "start": 49.26,
+          "duration": 5.34
+        },
+        {
+          "text": "it's simultaneously stayed true to the",
+          "start": 51.84,
+          "duration": 5.28
+        },
+        {
+          "text": "vibe of the original scream films while",
+          "start": 54.6,
+          "duration": 4.56
+        },
+        {
+          "text": "also introducing a whole lot of new",
+          "start": 57.12,
+          "duration": 5.099
+        },
+        {
+          "text": "Concepts and new characters that prove",
+          "start": 59.16,
+          "duration": 5.16
+        },
+        {
+          "text": "the series could continue to evolve into",
+          "start": 62.219,
+          "duration": 5.76
+        },
+        {
+          "text": "the modern day and still stay fresh",
+          "start": 64.32,
+          "duration": 5.7
+        },
+        {
+          "text": "and that is no easy feat because the",
+          "start": 67.979,
+          "duration": 4.201
+        },
+        {
+          "text": "scream franchise is pretty formulaic",
+          "start": 70.02,
+          "duration": 4.139
+        },
+        {
+          "text": "when you get right down to it so the",
+          "start": 72.18,
+          "duration": 3.18
+        },
+        {
+          "text": "fact they were able to shock and",
+          "start": 74.159,
+          "duration": 3.96
+        },
+        {
+          "text": "surprise me five entries in is an",
+          "start": 75.36,
+          "duration": 5.72
+        },
+        {
+          "text": "automatic two thumbs up in my book",
+          "start": 78.119,
+          "duration": 6.121
+        },
+        {
+          "text": "combo breaker but even with all that",
+          "start": 81.08,
+          "duration": 5.5
+        },
+        {
+          "text": "being said I did have some criticisms of",
+          "start": 84.24,
+          "duration": 4.379
+        },
+        {
+          "text": "the fifth entry there were aspects of it",
+          "start": 86.58,
+          "duration": 4.079
+        },
+        {
+          "text": "that I thought were executed a little",
+          "start": 88.619,
+          "duration": 4.741
+        },
+        {
+          "text": "clunky if that makes sense and truth be",
+          "start": 90.659,
+          "duration": 4.441
+        },
+        {
+          "text": "told I thought the lead actress was kind",
+          "start": 93.36,
+          "duration": 3.78
+        },
+        {
+          "text": "of bland and boring in the fifth entry",
+          "start": 95.1,
+          "duration": 5.1
+        },
+        {
+          "text": "but with those criticisms aside I had a",
+          "start": 97.14,
+          "duration": 5.58
+        },
+        {
+          "text": "blast with the fifth entry which begs",
+          "start": 100.2,
+          "duration": 5.16
+        },
+        {
+          "text": "the question how do I feel about the",
+          "start": 102.72,
+          "duration": 5.399
+        },
+        {
+          "text": "sixth entry is it as good and as",
+          "start": 105.36,
+          "duration": 5.7
+        },
+        {
+          "text": "shocking and as fun as the fifth entry",
+          "start": 108.119,
+          "duration": 6.54
+        },
+        {
+          "text": "or is it total crap well my fellow",
+          "start": 111.06,
+          "duration": 6.8
+        },
+        {
+          "text": "gorehounds I am quite sad to report that",
+          "start": 114.659,
+          "duration": 8.1
+        },
+        {
+          "text": "scream six is insane like this movie is",
+          "start": 117.86,
+          "duration": 7.48
+        },
+        {
+          "text": "completely nuts it is the most Bonkers",
+          "start": 122.759,
+          "duration": 5.34
+        },
+        {
+          "text": "scream film that they have made to date",
+          "start": 125.34,
+          "duration": 4.86
+        },
+        {
+          "text": "which is saying a lot because the screen",
+          "start": 128.099,
+          "duration": 5.061
+        },
+        {
+          "text": "franchise can get pretty [\u00a0__\u00a0] wacky",
+          "start": 130.2,
+          "duration": 7.32
+        },
+        {
+          "text": "and I [\u00a0__\u00a0] love it now don't get me",
+          "start": 133.16,
+          "duration": 6.88
+        },
+        {
+          "text": "wrong Scream 6 is not a perfect movie by",
+          "start": 137.52,
+          "duration": 4.799
+        },
+        {
+          "text": "any stretch of the imagination the movie",
+          "start": 140.04,
+          "duration": 4.199
+        },
+        {
+          "text": "is practically held together with blue",
+          "start": 142.319,
+          "duration": 4.5
+        },
+        {
+          "text": "and duct tape for [\u00a0__\u00a0] sake but it is",
+          "start": 144.239,
+          "duration": 5.341
+        },
+        {
+          "text": "a film that once it kicks into gear it",
+          "start": 146.819,
+          "duration": 5.28
+        },
+        {
+          "text": "just keeps on going and you just gotta",
+          "start": 149.58,
+          "duration": 4.32
+        },
+        {
+          "text": "keep up you're either on board with this",
+          "start": 152.099,
+          "duration": 5.161
+        },
+        {
+          "text": "Insanity train or you're not and I was",
+          "start": 153.9,
+          "duration": 7.68
+        },
+        {
+          "text": "100 in this film managed to completely",
+          "start": 157.26,
+          "duration": 6.839
+        },
+        {
+          "text": "shock and surprise me with its opening",
+          "start": 161.58,
+          "duration": 5.519
+        },
+        {
+          "text": "kill of all things or should I say",
+          "start": 164.099,
+          "duration": 5.121
+        },
+        {
+          "text": "opening kills",
+          "start": 167.099,
+          "duration": 4.92
+        },
+        {
+          "text": "but the point is from the opening scene",
+          "start": 169.22,
+          "duration": 5.26
+        },
+        {
+          "text": "on this film managed to do what the",
+          "start": 172.019,
+          "duration": 6.181
+        },
+        {
+          "text": "fifth film did but on steroids and I",
+          "start": 174.48,
+          "duration": 5.22
+        },
+        {
+          "text": "don't mean it copied the fifth film",
+          "start": 178.2,
+          "duration": 3.78
+        },
+        {
+          "text": "ploppy by plopy it does something",
+          "start": 179.7,
+          "duration": 4.92
+        },
+        {
+          "text": "completely different but that's exactly",
+          "start": 181.98,
+          "duration": 4.68
+        },
+        {
+          "text": "what I mean much like the fifth film",
+          "start": 184.62,
+          "duration": 4.68
+        },
+        {
+          "text": "this film introduces a whole lot of new",
+          "start": 186.66,
+          "duration": 4.92
+        },
+        {
+          "text": "ideas but still at the end of the day",
+          "start": 189.3,
+          "duration": 5.159
+        },
+        {
+          "text": "feels like scream these [\u00a0__\u00a0]",
+          "start": 191.58,
+          "duration": 5.519
+        },
+        {
+          "text": "did it twice hell this movie even has",
+          "start": 194.459,
+          "duration": 4.86
+        },
+        {
+          "text": "some aspects that are pretty damn clunky",
+          "start": 197.099,
+          "duration": 4.261
+        },
+        {
+          "text": "but they're clunky in a completely",
+          "start": 199.319,
+          "duration": 4.081
+        },
+        {
+          "text": "different way than the previous film's",
+          "start": 201.36,
+          "duration": 4.739
+        },
+        {
+          "text": "problems were that said the same actress",
+          "start": 203.4,
+          "duration": 5.22
+        },
+        {
+          "text": "from Scream 5 also plays the lead in",
+          "start": 206.099,
+          "duration": 5.041
+        },
+        {
+          "text": "Scream Six and I actually liked her a",
+          "start": 208.62,
+          "duration": 4.08
+        },
+        {
+          "text": "lot better here than I did in the",
+          "start": 211.14,
+          "duration": 3.959
+        },
+        {
+          "text": "previous film so that's actually an",
+          "start": 212.7,
+          "duration": 4.5
+        },
+        {
+          "text": "improvement but I honestly don't know if",
+          "start": 215.099,
+          "duration": 3.481
+        },
+        {
+          "text": "that's just because we had gone through",
+          "start": 217.2,
+          "duration": 3.3
+        },
+        {
+          "text": "a whole movie with her at this point so",
+          "start": 218.58,
+          "duration": 5.34
+        },
+        {
+          "text": "she's kind of grown on me over time or",
+          "start": 220.5,
+          "duration": 5.459
+        },
+        {
+          "text": "if her performance in this one and the",
+          "start": 223.92,
+          "duration": 3.84
+        },
+        {
+          "text": "writing around her in this one were just",
+          "start": 225.959,
+          "duration": 4.321
+        },
+        {
+          "text": "overall better I tend to lean on that",
+          "start": 227.76,
+          "duration": 4.32
+        },
+        {
+          "text": "but it's entirely possible it's the",
+          "start": 230.28,
+          "duration": 6.42
+        },
+        {
+          "text": "other thing either way I like her now so",
+          "start": 232.08,
+          "duration": 7.68
+        },
+        {
+          "text": "and also this might be the most brutal",
+          "start": 236.7,
+          "duration": 6.0
+        },
+        {
+          "text": "Ghost Face a scream film has ever seen",
+          "start": 239.76,
+          "duration": 4.74
+        },
+        {
+          "text": "this [\u00a0__\u00a0] was taking no",
+          "start": 242.7,
+          "duration": 4.02
+        },
+        {
+          "text": "prisoners and for the first time since",
+          "start": 244.5,
+          "duration": 5.04
+        },
+        {
+          "text": "maybe the first scream film I was",
+          "start": 246.72,
+          "duration": 6.9
+        },
+        {
+          "text": "actually scared of a ghost face me the",
+          "start": 249.54,
+          "duration": 7.319
+        },
+        {
+          "text": "horror Guru scared of a ghost face",
+          "start": 253.62,
+          "duration": 5.459
+        },
+        {
+          "text": "what the [\u00a0__\u00a0]",
+          "start": 256.859,
+          "duration": 4.321
+        },
+        {
+          "text": "now that being said and this will",
+          "start": 259.079,
+          "duration": 3.84
+        },
+        {
+          "text": "entirely depend upon your taste whether",
+          "start": 261.18,
+          "duration": 4.799
+        },
+        {
+          "text": "it's a good thing or a bad thing the",
+          "start": 262.919,
+          "duration": 5.641
+        },
+        {
+          "text": "actual reveal of the ghost face when",
+          "start": 265.979,
+          "duration": 4.741
+        },
+        {
+          "text": "they actually show us who Ghostface is",
+          "start": 268.56,
+          "duration": 5.04
+        },
+        {
+          "text": "at the end of this film it is without a",
+          "start": 270.72,
+          "duration": 4.919
+        },
+        {
+          "text": "doubt the most over-the-top Ghostface",
+          "start": 273.6,
+          "duration": 4.68
+        },
+        {
+          "text": "reveal we've had yet it definitely made",
+          "start": 275.639,
+          "duration": 5.521
+        },
+        {
+          "text": "them less scary though it also made them",
+          "start": 278.28,
+          "duration": 7.56
+        },
+        {
+          "text": "a whole lot of fun so I was fine with it",
+          "start": 281.16,
+          "duration": 7.62
+        },
+        {
+          "text": "really not going to believe this but I",
+          "start": 285.84,
+          "duration": 7.76
+        },
+        {
+          "text": "give zero bugs literally zero fogs",
+          "start": 288.78,
+          "duration": 7.8
+        },
+        {
+          "text": "literally though the reveal did make",
+          "start": 293.6,
+          "duration": 4.539
+        },
+        {
+          "text": "something that happened earlier in the",
+          "start": 296.58,
+          "duration": 3.54
+        },
+        {
+          "text": "movie make a whole lot less sense but",
+          "start": 298.139,
+          "duration": 3.721
+        },
+        {
+          "text": "I'll talk about that when we get to the",
+          "start": 300.12,
+          "duration": 3.019
+        },
+        {
+          "text": "spoiler section",
+          "start": 301.86,
+          "duration": 3.6
+        },
+        {
+          "text": "and there is one other thing I'll say",
+          "start": 303.139,
+          "duration": 4.78
+        },
+        {
+          "text": "about the ghost face reveal there's a",
+          "start": 305.46,
+          "duration": 4.26
+        },
+        {
+          "text": "lot of things that happened earlier in",
+          "start": 307.919,
+          "duration": 4.081
+        },
+        {
+          "text": "the movie where certain characters",
+          "start": 309.72,
+          "duration": 5.28
+        },
+        {
+          "text": "behave in ways that don't make a lot of",
+          "start": 312.0,
+          "duration": 6.12
+        },
+        {
+          "text": "sense but do make a lot of sense once",
+          "start": 315.0,
+          "duration": 5.94
+        },
+        {
+          "text": "the ghost face is revealed so I kind of",
+          "start": 318.12,
+          "duration": 5.1
+        },
+        {
+          "text": "had a bunch of criticisms piling up as",
+          "start": 320.94,
+          "duration": 3.78
+        },
+        {
+          "text": "the movie went on but once the ghost",
+          "start": 323.22,
+          "duration": 4.02
+        },
+        {
+          "text": "face was revealed all those criticisms",
+          "start": 324.72,
+          "duration": 5.58
+        },
+        {
+          "text": "went away and a new one formed over the",
+          "start": 327.24,
+          "duration": 5.82
+        },
+        {
+          "text": "one thing that bugged me but yeah what",
+          "start": 330.3,
+          "duration": 5.04
+        },
+        {
+          "text": "can you do that one criticism is better",
+          "start": 333.06,
+          "duration": 3.9
+        },
+        {
+          "text": "than the ones that we're all piling up",
+          "start": 335.34,
+          "duration": 3.66
+        },
+        {
+          "text": "but enough about the ghost face reveal",
+          "start": 336.96,
+          "duration": 3.72
+        },
+        {
+          "text": "what about the other characters in this",
+          "start": 339.0,
+          "duration": 4.259
+        },
+        {
+          "text": "movie how do I feel about them well the",
+          "start": 340.68,
+          "duration": 4.739
+        },
+        {
+          "text": "core 4 as they're called in this film or",
+          "start": 343.259,
+          "duration": 4.5
+        },
+        {
+          "text": "the characters who survived the ordeal",
+          "start": 345.419,
+          "duration": 4.921
+        },
+        {
+          "text": "in the previous film they continue to be",
+          "start": 347.759,
+          "duration": 5.101
+        },
+        {
+          "text": "an enjoyable bunch and I love them just",
+          "start": 350.34,
+          "duration": 3.84
+        },
+        {
+          "text": "as much as I love them in the previous",
+          "start": 352.86,
+          "duration": 4.14
+        },
+        {
+          "text": "film maybe even more so because having",
+          "start": 354.18,
+          "duration": 5.04
+        },
+        {
+          "text": "seen them gone through a whole movie at",
+          "start": 357.0,
+          "duration": 4.259
+        },
+        {
+          "text": "this point just makes me endeared to",
+          "start": 359.22,
+          "duration": 5.22
+        },
+        {
+          "text": "them even more and I'm not entirely sure",
+          "start": 361.259,
+          "duration": 5.341
+        },
+        {
+          "text": "if these movies need the Legacy",
+          "start": 364.44,
+          "duration": 3.9
+        },
+        {
+          "text": "characters anymore because these",
+          "start": 366.6,
+          "duration": 4.319
+        },
+        {
+          "text": "characters carry so much of this film on",
+          "start": 368.34,
+          "duration": 5.52
+        },
+        {
+          "text": "their backs that I don't know if we need",
+          "start": 370.919,
+          "duration": 4.741
+        },
+        {
+          "text": "Gail anymore I don't know if we need",
+          "start": 373.86,
+          "duration": 3.48
+        },
+        {
+          "text": "Sydney anymore I know there was that",
+          "start": 375.66,
+          "duration": 3.96
+        },
+        {
+          "text": "whole controversy over the fact that",
+          "start": 377.34,
+          "duration": 4.32
+        },
+        {
+          "text": "Sydney was not going to be in this film",
+          "start": 379.62,
+          "duration": 4.079
+        },
+        {
+          "text": "because they refused to pay her what",
+          "start": 381.66,
+          "duration": 4.14
+        },
+        {
+          "text": "she's worth which is [\u00a0__\u00a0] by the way",
+          "start": 383.699,
+          "duration": 4.56
+        },
+        {
+          "text": "they should pay her what she's worth but",
+          "start": 385.8,
+          "duration": 5.82
+        },
+        {
+          "text": "that aside I'm actually kind of glad she",
+          "start": 388.259,
+          "duration": 5.821
+        },
+        {
+          "text": "wasn't in this movie because this movie",
+          "start": 391.62,
+          "duration": 4.919
+        },
+        {
+          "text": "didn't need her I don't even think it",
+          "start": 394.08,
+          "duration": 4.92
+        },
+        {
+          "text": "necessarily needed Gail that being said",
+          "start": 396.539,
+          "duration": 4.261
+        },
+        {
+          "text": "I didn't have a problem with Gail in",
+          "start": 399.0,
+          "duration": 3.72
+        },
+        {
+          "text": "this film in fact she has one of the",
+          "start": 400.8,
+          "duration": 4.2
+        },
+        {
+          "text": "most badass moments in the entire movie",
+          "start": 402.72,
+          "duration": 4.74
+        },
+        {
+          "text": "and you can kind of tell that the moment",
+          "start": 405.0,
+          "duration": 4.139
+        },
+        {
+          "text": "was originally written for someone else",
+          "start": 407.46,
+          "duration": 4.019
+        },
+        {
+          "text": "and she just kind of inherited it by",
+          "start": 409.139,
+          "duration": 5.461
+        },
+        {
+          "text": "default but it still worked and finally",
+          "start": 411.479,
+          "duration": 5.041
+        },
+        {
+          "text": "this movie Marked the return of fan",
+          "start": 414.6,
+          "duration": 4.8
+        },
+        {
+          "text": "favorite Kirby from part 4 who we",
+          "start": 416.52,
+          "duration": 4.38
+        },
+        {
+          "text": "originally thought had died in that",
+          "start": 419.4,
+          "duration": 3.96
+        },
+        {
+          "text": "movie but it turns out actually survived",
+          "start": 420.9,
+          "duration": 5.34
+        },
+        {
+          "text": "and uh she's pretty awesome it was kind",
+          "start": 423.36,
+          "duration": 4.8
+        },
+        {
+          "text": "of nice to see her again I really hope",
+          "start": 426.24,
+          "duration": 4.32
+        },
+        {
+          "text": "that they don't rely on her or Gail",
+          "start": 428.16,
+          "duration": 4.62
+        },
+        {
+          "text": "going forward but it was still nice to",
+          "start": 430.56,
+          "duration": 4.32
+        },
+        {
+          "text": "see her now what about the meta",
+          "start": 432.78,
+          "duration": 4.259
+        },
+        {
+          "text": "commentary of the film does that hold up",
+          "start": 434.88,
+          "duration": 4.379
+        },
+        {
+          "text": "to previous scream entries and the",
+          "start": 437.039,
+          "duration": 6.541
+        },
+        {
+          "text": "answer to that is a yes and a no on one",
+          "start": 439.259,
+          "duration": 6.481
+        },
+        {
+          "text": "hand I love the social commentary about",
+          "start": 443.58,
+          "duration": 4.8
+        },
+        {
+          "text": "social media and its connection to",
+          "start": 445.74,
+          "duration": 4.739
+        },
+        {
+          "text": "fandoms which kind of builds upon",
+          "start": 448.38,
+          "duration": 3.78
+        },
+        {
+          "text": "something that was started in the fifth",
+          "start": 450.479,
+          "duration": 3.84
+        },
+        {
+          "text": "film and I also like this film's conceit",
+          "start": 452.16,
+          "duration": 5.159
+        },
+        {
+          "text": "of where a franchise now therefore there",
+          "start": 454.319,
+          "duration": 6.361
+        },
+        {
+          "text": "are no rules anymore but I did feel feel",
+          "start": 457.319,
+          "duration": 4.801
+        },
+        {
+          "text": "that some of the scenes in which the",
+          "start": 460.68,
+          "duration": 3.06
+        },
+        {
+          "text": "characters were actually talking about",
+          "start": 462.12,
+          "duration": 4.68
+        },
+        {
+          "text": "that were some of the clunkier scenes in",
+          "start": 463.74,
+          "duration": 5.519
+        },
+        {
+          "text": "the film and I can't tell if that's an",
+          "start": 466.8,
+          "duration": 5.399
+        },
+        {
+          "text": "acting problem or a writing problem it's",
+          "start": 469.259,
+          "duration": 4.861
+        },
+        {
+          "text": "just when you compare them to the scenes",
+          "start": 472.199,
+          "duration": 3.961
+        },
+        {
+          "text": "and like the Kevin Williamson films when",
+          "start": 474.12,
+          "duration": 3.9
+        },
+        {
+          "text": "the characters were just so naturally",
+          "start": 476.16,
+          "duration": 4.259
+        },
+        {
+          "text": "talk about like oh this is the rules of",
+          "start": 478.02,
+          "duration": 4.92
+        },
+        {
+          "text": "sequels this movie just the way the",
+          "start": 480.419,
+          "duration": 4.141
+        },
+        {
+          "text": "characters interacted and talked about",
+          "start": 482.94,
+          "duration": 4.62
+        },
+        {
+          "text": "it just felt a little bit forced in",
+          "start": 484.56,
+          "duration": 4.38
+        },
+        {
+          "text": "comparison we",
+          "start": 487.56,
+          "duration": 2.82
+        },
+        {
+          "text": "too bad because all the other",
+          "start": 488.94,
+          "duration": 3.06
+        },
+        {
+          "text": "interactions with these characters feel",
+          "start": 490.38,
+          "duration": 3.719
+        },
+        {
+          "text": "so natural and great it would have been",
+          "start": 492.0,
+          "duration": 4.5
+        },
+        {
+          "text": "nice if those scenes also felt that way",
+          "start": 494.099,
+          "duration": 5.341
+        },
+        {
+          "text": "but what can you do anyway my fellow",
+          "start": 496.5,
+          "duration": 5.34
+        },
+        {
+          "text": "gorehound Scream 6 is not a perfect film",
+          "start": 499.44,
+          "duration": 5.819
+        },
+        {
+          "text": "but it is a totally Bonkers film that I",
+          "start": 501.84,
+          "duration": 5.46
+        },
+        {
+          "text": "had a blast with and you probably will",
+          "start": 505.259,
+          "duration": 4.38
+        },
+        {
+          "text": "too if you like the scream films",
+          "start": 507.3,
+          "duration": 6.0
+        },
+        {
+          "text": "especially the last one scream 5. and I",
+          "start": 509.639,
+          "duration": 5.58
+        },
+        {
+          "text": "for one am eagerly awaiting a scream",
+          "start": 513.3,
+          "duration": 4.14
+        },
+        {
+          "text": "seven I just hope that they give the",
+          "start": 515.219,
+          "duration": 4.5
+        },
+        {
+          "text": "Legacy characters a break and allow",
+          "start": 517.44,
+          "duration": 4.56
+        },
+        {
+          "text": "these new characters to shine on their",
+          "start": 519.719,
+          "duration": 4.5
+        },
+        {
+          "text": "own next time around that's something I",
+          "start": 522.0,
+          "duration": 4.02
+        },
+        {
+          "text": "would really like to see and if you're",
+          "start": 524.219,
+          "duration": 4.021
+        },
+        {
+          "text": "at all curious where this film sits on",
+          "start": 526.02,
+          "duration": 4.62
+        },
+        {
+          "text": "my personal rankings of the scream films",
+          "start": 528.24,
+          "duration": 5.82
+        },
+        {
+          "text": "here is my letterboxed rankings of the",
+          "start": 530.64,
+          "duration": 5.879
+        },
+        {
+          "text": "scream franchise and feel free to",
+          "start": 534.06,
+          "duration": 5.339
+        },
+        {
+          "text": "comment below with your own rankings and",
+          "start": 536.519,
+          "duration": 5.101
+        },
+        {
+          "text": "that way we can all argue over which",
+          "start": 539.399,
+          "duration": 4.861
+        },
+        {
+          "text": "one's the best though we all know the",
+          "start": 541.62,
+          "duration": 4.92
+        },
+        {
+          "text": "best is actually the first scream and uh",
+          "start": 544.26,
+          "duration": 5.1
+        },
+        {
+          "text": "if you disagree",
+          "start": 546.54,
+          "duration": 5.64
+        },
+        {
+          "text": "anyway my fellow Gore hounds let us move",
+          "start": 549.36,
+          "duration": 6.82
+        },
+        {
+          "text": "on to the spoilers",
+          "start": 552.18,
+          "duration": 7.2
+        },
+        {
+          "text": "[Music]",
+          "start": 556.18,
+          "duration": 3.2
+        },
+        {
+          "text": "I really want to talk about that's",
+          "start": 560.76,
+          "duration": 4.019
+        },
+        {
+          "text": "really [\u00a0__\u00a0] awesome is I [\u00a0__\u00a0]",
+          "start": 562.2,
+          "duration": 5.759
+        },
+        {
+          "text": "adored the way this movie opened up they",
+          "start": 564.779,
+          "duration": 4.801
+        },
+        {
+          "text": "did this cool thing where we watch as",
+          "start": 567.959,
+          "duration": 4.38
+        },
+        {
+          "text": "one character get stalked and killed by",
+          "start": 569.58,
+          "duration": 5.16
+        },
+        {
+          "text": "a Ghost Face Killer only for that Ghost",
+          "start": 572.339,
+          "duration": 4.56
+        },
+        {
+          "text": "Face Killer to go back to his apartment",
+          "start": 574.74,
+          "duration": 4.44
+        },
+        {
+          "text": "and then get stalked and killed by a",
+          "start": 576.899,
+          "duration": 4.56
+        },
+        {
+          "text": "completely different Ghost Face Killer",
+          "start": 579.18,
+          "duration": 4.56
+        },
+        {
+          "text": "so this is a movie that opens up with",
+          "start": 581.459,
+          "duration": 4.56
+        },
+        {
+          "text": "two independently operating Ghost Face",
+          "start": 583.74,
+          "duration": 5.279
+        },
+        {
+          "text": "Killer teams who are kind of vying to be",
+          "start": 586.019,
+          "duration": 6.061
+        },
+        {
+          "text": "the main antagonist of the film and one",
+          "start": 589.019,
+          "duration": 5.221
+        },
+        {
+          "text": "of them kills the other team then",
+          "start": 592.08,
+          "duration": 3.96
+        },
+        {
+          "text": "becomes the dominant killer for the rest",
+          "start": 594.24,
+          "duration": 4.8
+        },
+        {
+          "text": "of the film which is the most insane",
+          "start": 596.04,
+          "duration": 7.1
+        },
+        {
+          "text": "opening to any Ghost Face film yet",
+          "start": 599.04,
+          "duration": 7.08
+        },
+        {
+          "text": "Ghostface film scream film the most",
+          "start": 603.14,
+          "duration": 5.56
+        },
+        {
+          "text": "insane opening to any scream film yet",
+          "start": 606.12,
+          "duration": 6.12
+        },
+        {
+          "text": "and that's just the opening scene the",
+          "start": 608.7,
+          "duration": 4.8
+        },
+        {
+          "text": "other spoiler thing I really want to",
+          "start": 612.24,
+          "duration": 3.18
+        },
+        {
+          "text": "talk about is this really cool moment",
+          "start": 613.5,
+          "duration": 4.019
+        },
+        {
+          "text": "with Gail weathers when she's being",
+          "start": 615.42,
+          "duration": 4.8
+        },
+        {
+          "text": "stalked by the Ghost Face Killer and she",
+          "start": 617.519,
+          "duration": 5.341
+        },
+        {
+          "text": "uses redial on her phone to track where",
+          "start": 620.22,
+          "duration": 5.4
+        },
+        {
+          "text": "the ghost face is in her apartment which",
+          "start": 622.86,
+          "duration": 5.4
+        },
+        {
+          "text": "is just brilliant it's one of those",
+          "start": 625.62,
+          "duration": 4.5
+        },
+        {
+          "text": "things you think of in the theater and a",
+          "start": 628.26,
+          "duration": 3.48
+        },
+        {
+          "text": "character never actually does it on",
+          "start": 630.12,
+          "duration": 4.62
+        },
+        {
+          "text": "screen but here she actually does it and",
+          "start": 631.74,
+          "duration": 5.7
+        },
+        {
+          "text": "it was [\u00a0__\u00a0] awesome and the last",
+          "start": 634.74,
+          "duration": 3.9
+        },
+        {
+          "text": "thing I want to talk about in the",
+          "start": 637.44,
+          "duration": 3.54
+        },
+        {
+          "text": "spoiler section is the ultimate Ghost",
+          "start": 638.64,
+          "duration": 5.819
+        },
+        {
+          "text": "Face Reveal and the problems it solved",
+          "start": 640.98,
+          "duration": 7.02
+        },
+        {
+          "text": "and the problems it created so the",
+          "start": 644.459,
+          "duration": 5.221
+        },
+        {
+          "text": "ultimate reveal of the ghost face in",
+          "start": 648.0,
+          "duration": 3.6
+        },
+        {
+          "text": "this film is that there's actually three",
+          "start": 649.68,
+          "duration": 4.44
+        },
+        {
+          "text": "ghost face Killers this time around not",
+          "start": 651.6,
+          "duration": 4.08
+        },
+        {
+          "text": "counting the ghost face killers in the",
+          "start": 654.12,
+          "duration": 3.899
+        },
+        {
+          "text": "opening scene of course one of the",
+          "start": 655.68,
+          "duration": 4.62
+        },
+        {
+          "text": "killers turns out to be a character who",
+          "start": 658.019,
+          "duration": 4.32
+        },
+        {
+          "text": "actually died earlier in the movie or at",
+          "start": 660.3,
+          "duration": 4.02
+        },
+        {
+          "text": "least we thought she died the Ghostface",
+          "start": 662.339,
+          "duration": 3.901
+        },
+        {
+          "text": "but then it turns out she's actually a",
+          "start": 664.32,
+          "duration": 4.32
+        },
+        {
+          "text": "ghost face herself and it was all a fake",
+          "start": 666.24,
+          "duration": 4.52
+        },
+        {
+          "text": "out",
+          "start": 668.64,
+          "duration": 2.12
+        },
+        {
+          "text": "and the ghost faces were able to pull",
+          "start": 671.72,
+          "duration": 4.119
+        },
+        {
+          "text": "off this fake out because one of the",
+          "start": 674.04,
+          "duration": 4.02
+        },
+        {
+          "text": "ghost faces is the cop who's been",
+          "start": 675.839,
+          "duration": 3.901
+        },
+        {
+          "text": "helping the core four throughout the",
+          "start": 678.06,
+          "duration": 4.08
+        },
+        {
+          "text": "entire movie which actually solved one",
+          "start": 679.74,
+          "duration": 4.02
+        },
+        {
+          "text": "of the problems I was having up until",
+          "start": 682.14,
+          "duration": 3.54
+        },
+        {
+          "text": "that point in the movie because that cop",
+          "start": 683.76,
+          "duration": 5.04
+        },
+        {
+          "text": "kept doing [\u00a0__\u00a0] that felt very like flat",
+          "start": 685.68,
+          "duration": 6.12
+        },
+        {
+          "text": "out stupid but made much more sense once",
+          "start": 688.8,
+          "duration": 4.68
+        },
+        {
+          "text": "it was revealed that he's a Ghost Face",
+          "start": 691.8,
+          "duration": 3.96
+        },
+        {
+          "text": "Killer and he's trying to trap them so",
+          "start": 693.48,
+          "duration": 4.38
+        },
+        {
+          "text": "good on you movie you completely tricked",
+          "start": 695.76,
+          "duration": 4.86
+        },
+        {
+          "text": "me with that one that being said the",
+          "start": 697.86,
+          "duration": 4.74
+        },
+        {
+          "text": "third ghost face in this Trio of ghost",
+          "start": 700.62,
+          "duration": 3.839
+        },
+        {
+          "text": "faces is actually where one of my",
+          "start": 702.6,
+          "duration": 4.56
+        },
+        {
+          "text": "criticisms of the movie lies because it",
+          "start": 704.459,
+          "duration": 5.281
+        },
+        {
+          "text": "turns out the third ghost face is one of",
+          "start": 707.16,
+          "duration": 4.2
+        },
+        {
+          "text": "their friends that has kind of been",
+          "start": 709.74,
+          "duration": 3.539
+        },
+        {
+          "text": "acting as a red herring for most of the",
+          "start": 711.36,
+          "duration": 3.719
+        },
+        {
+          "text": "movie and then it turns out he's not a",
+          "start": 713.279,
+          "duration": 4.141
+        },
+        {
+          "text": "red herring him being a red herring was",
+          "start": 715.079,
+          "duration": 4.081
+        },
+        {
+          "text": "the red herring which is just",
+          "start": 717.42,
+          "duration": 4.34
+        },
+        {
+          "text": "mind-boggling",
+          "start": 719.16,
+          "duration": 5.54
+        },
+        {
+          "text": "foreign",
+          "start": 721.76,
+          "duration": 5.019
+        },
+        {
+          "text": "but that's not my problem with this",
+          "start": 724.7,
+          "duration": 4.06
+        },
+        {
+          "text": "movie my problem with this movie is",
+          "start": 726.779,
+          "duration": 4.441
+        },
+        {
+          "text": "simply this that character early on in",
+          "start": 728.76,
+          "duration": 4.68
+        },
+        {
+          "text": "the movie actually saved the life of",
+          "start": 731.22,
+          "duration": 4.5
+        },
+        {
+          "text": "another character which was great for us",
+          "start": 733.44,
+          "duration": 4.079
+        },
+        {
+          "text": "the audience because it tricked us into",
+          "start": 735.72,
+          "duration": 3.66
+        },
+        {
+          "text": "believing oh he can't possibly be a",
+          "start": 737.519,
+          "duration": 4.921
+        },
+        {
+          "text": "ghost face and I just don't think it",
+          "start": 739.38,
+          "duration": 4.98
+        },
+        {
+          "text": "makes a whole lot of sense if he's one",
+          "start": 742.44,
+          "duration": 3.839
+        },
+        {
+          "text": "of the ghostfaces for him to have done",
+          "start": 744.36,
+          "duration": 4.14
+        },
+        {
+          "text": "that in that circumstance I think a",
+          "start": 746.279,
+          "duration": 3.781
+        },
+        {
+          "text": "simple fix to this would have been to",
+          "start": 748.5,
+          "duration": 3.18
+        },
+        {
+          "text": "have one of the other characters with",
+          "start": 750.06,
+          "duration": 3.48
+        },
+        {
+          "text": "them when that happened so that he could",
+          "start": 751.68,
+          "duration": 3.779
+        },
+        {
+          "text": "be playing it up for both of them to",
+          "start": 753.54,
+          "duration": 3.359
+        },
+        {
+          "text": "trick both of them into believing he's",
+          "start": 755.459,
+          "duration": 3.12
+        },
+        {
+          "text": "not Ghostface and not just the audience",
+          "start": 756.899,
+          "duration": 3.661
+        },
+        {
+          "text": "it's just a little clunky it could have",
+          "start": 758.579,
+          "duration": 3.361
+        },
+        {
+          "text": "been better",
+          "start": 760.56,
+          "duration": 3.0
+        },
+        {
+          "text": "life is good",
+          "start": 761.94,
+          "duration": 4.139
+        },
+        {
+          "text": "but it can be better that being said the",
+          "start": 763.56,
+          "duration": 4.26
+        },
+        {
+          "text": "reveal that they are the family members",
+          "start": 766.079,
+          "duration": 4.2
+        },
+        {
+          "text": "of the killer from the fifth film I was",
+          "start": 767.82,
+          "duration": 4.319
+        },
+        {
+          "text": "totally down with all that anyway my",
+          "start": 770.279,
+          "duration": 4.74
+        },
+        {
+          "text": "fellow Gore hounds that scream six a",
+          "start": 772.139,
+          "duration": 6.181
+        },
+        {
+          "text": "clunky ass Bonkers ass film that I had a",
+          "start": 775.019,
+          "duration": 5.88
+        },
+        {
+          "text": "ton of fun with and hopefully you will",
+          "start": 778.32,
+          "duration": 4.319
+        },
+        {
+          "text": "have fun too and with that said my",
+          "start": 780.899,
+          "duration": 3.12
+        },
+        {
+          "text": "fellow gorehounds be sure to like",
+          "start": 782.639,
+          "duration": 2.64
+        },
+        {
+          "text": "comment and subscribe and don't forget",
+          "start": 784.019,
+          "duration": 2.88
+        },
+        {
+          "text": "to ring that notification Bell so that",
+          "start": 785.279,
+          "duration": 3.3
+        },
+        {
+          "text": "you're notified of my videos immediately",
+          "start": 786.899,
+          "duration": 3.541
+        },
+        {
+          "text": "upon their upload and if you'd like to",
+          "start": 788.579,
+          "duration": 3.301
+        },
+        {
+          "text": "help out my channel more directly be",
+          "start": 790.44,
+          "duration": 3.48
+        },
+        {
+          "text": "sure to check out my patreon page and",
+          "start": 791.88,
+          "duration": 3.36
+        },
+        {
+          "text": "remember if you decide to go to the",
+          "start": 793.92,
+          "duration": 3.539
+        },
+        {
+          "text": "patreon route even a dollar a month can",
+          "start": 795.24,
+          "duration": 4.68
+        },
+        {
+          "text": "go a long way and if you made it this",
+          "start": 797.459,
+          "duration": 4.201
+        },
+        {
+          "text": "far into the video then I want you to",
+          "start": 799.92,
+          "duration": 3.96
+        },
+        {
+          "text": "comment below and be sure to comment",
+          "start": 801.66,
+          "duration": 6.179
+        },
+        {
+          "text": "below using the hashtag redial Ghostface",
+          "start": 803.88,
+          "duration": 6.84
+        },
+        {
+          "text": "use the hashtag redial Ghostface work it",
+          "start": 807.839,
+          "duration": 4.44
+        },
+        {
+          "text": "into your comment however you please",
+          "start": 810.72,
+          "duration": 4.619
+        },
+        {
+          "text": "that way I know that way the world knows",
+          "start": 812.279,
+          "duration": 6.421
+        },
+        {
+          "text": "that way Jack wherever he is knows that",
+          "start": 815.339,
+          "duration": 6.06
+        },
+        {
+          "text": "you watch this video all the way through",
+          "start": 818.7,
+          "duration": 5.1
+        },
+        {
+          "text": "and with that said my fellow gorehounds",
+          "start": 821.399,
+          "duration": 6.231
+        },
+        {
+          "text": "peace out and I'll catch y'all later",
+          "start": 823.8,
+          "duration": 13.959
+        },
+        {
+          "text": "[Music]",
+          "start": 827.63,
+          "duration": 10.129
+        },
+        {
+          "text": "[Music]",
+          "start": 842.28,
+          "duration": 18.739
+        },
+        {
+          "text": "kick your hands",
+          "start": 857.279,
+          "duration": 3.74
+        },
+        {
+          "text": "[Music]",
+          "start": 861.62,
+          "duration": 3.389
+        },
+        {
+          "text": "[Music]",
+          "start": 868.69,
+          "duration": 10.91
+        }
+      ]
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=rGefZDJDjIw",
+      "type": "generated",
+      "content": "In a recent YouTube video, the horror Guru discussed the highly anticipated slasher film \"Scream Six.\" The video, which can be viewed at https://www.youtube.com/watch?v=rGefZDJDjIw, features the horror Guru providing his thoughts and opinions on the latest installment in the \"Scream\" franchise.\n\nThe horror Guru begins by acknowledging that \"Scream Six\" is actually the second film in the series directed by team Radio Silence, known for their work on films like \"Devils Do\" and \"Ready or Not.\" He expresses his mixed feelings about their previous film, \"Scream 5,\" which he found to be enjoyable but with some clunky execution and a lackluster lead actress.\n\nHowever, the horror Guru is quick to praise \"Scream 6\" for its insane and bonkers nature. He describes it as the most wild and over-the-top film in the franchise yet, which is no small feat considering the already wacky nature of the \"Scream\" series. Despite its imperfections and reliance on blue and duct tape to hold the film together, the horror Guru found himself thoroughly entertained and engaged throughout the movie.\n\nOne aspect that stood out to the horror Guru was the opening scene, which featured two independent Ghost Face Killers vying to be the main antagonist of the film. This unique twist immediately grabbed his attention and set the tone for the rest of the movie. Additionally, he highlights a standout moment involving Gail Weathers, played by Courteney Cox, who uses redial on her phone to track the Ghost Face Killer in her apartment. The horror Guru praises this clever and brilliant move by the character.\n\nThe horror Guru also discusses the reveal of the Ghost Face Killer, which he admits is the most over-the-top reveal in the franchise. While it may have made the killer less scary, it added a whole lot of fun to the film. He acknowledges that the reveal did create some inconsistencies and raised questions about certain characters' behavior earlier in the movie, but overall, he found it to be a satisfying twist.\n\nRegarding the characters, the horror Guru expresses his fondness for the core four characters who survived the previous film. He believes they carry the film and make the legacy characters, such as Sydney and Gail, unnecessary. He particularly enjoyed the return of fan-favorite Kirby from \"Scream 4,\" who was thought to have died in that film but actually survived.\n\nThe horror Guru also delves into the film's meta commentary, praising its exploration of social media and its connection to fandoms. However, he does note that some of the scenes discussing these themes felt a bit forced compared to the more natural conversations found in Kevin Williamson's original \"Scream\" films.\n\nIn conclusion, the horror Guru declares \"Scream 6\" to be a clunky yet bonkers film that he thoroughly enjoyed. He eagerly anticipates a potential \"Scream 7\" and hopes that the franchise will allow the new characters to shine on their own without relying too heavily on the legacy characters.\n\nFor those interested in the horror Guru's personal rankings of the \"Scream\" franchise, he provides a link to his letterboxed rankings and invites viewers to share their own rankings in the comments section.\n\nTo watch the full video and hear the horror Guru's detailed analysis and spoilers, visit https://www.youtube.com/watch?v=rGefZDJDjIw."
+    }
+  ],
+  "filename": "youtube-rGefZDJDjIw=769f9d68"
+}
