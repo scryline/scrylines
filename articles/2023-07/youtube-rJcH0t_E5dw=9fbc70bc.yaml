@@ -2954,6 +2954,42 @@
       "source": "https://www.youtube.com/watch?v=rJcH0t_E5dw",
       "type": "generated",
       "content": "In a recent YouTube video (https://www.youtube.com/watch?v=rJcH0t_E5dw), Couch Acula, a self-proclaimed monster aficionado, discusses the resurgence of 80s nostalgia in modern entertainment. He highlights how many films in the past two years, such as \"The Guest,\" \"John Wick,\" \"Turbo Kid,\" and \"Guardians of the Galaxy,\" have embraced the colorful lighting, ridiculous action, and musical stylings that were characteristic of 80s cinema.\n\nCouch Acula passionately expresses his love for the 80s, claiming it was the best decade for entertainment. He praises the horror movies, the punk rock and heavy metal music, and the lack of censorship. He even mentions the attempt to assassinate the president and the resulting jelly bean craze. Disillusioned with the modern world, he decides to use his \"trusty time phone\" to transport back to his 80s consciousness.\n\nAs the video continues, Couch Acula delves into a review of the 1985 film \"Return of the Living Dead.\" He explains the film's significance in the zombie genre, particularly in establishing the idea that zombies eat brains. He also discusses the legal battle between the film's producer, John Russo, and George Romero, the creator of \"Night of the Living Dead,\" over the rights to use the phrase \"Living Dead.\" Couch Acula praises the film's director, Dan O'Bannon, for his other notable works, such as \"Alien\" and \"Total Recall.\"\n\nThe video then provides a detailed summary of the plot of \"Return of the Living Dead.\" It follows a group of punks who accidentally release a chemical that reanimates the dead. Chaos ensues as the zombies take over the town, and the remaining survivors struggle to stay alive. Couch Acula highlights the film's mix of nihilism and entertainment, describing it as both pessimistic and life-affirming.\n\nThroughout the video, Couch Acula incorporates humor and personal anecdotes. He comments on various scenes, including the infamous naked graveyard dance by Linnea Quigley's character, Trash. He also praises the emotional depth of a particular scene involving the character Frank, played by James Caron.\n\nIn conclusion, Couch Acula's YouTube video provides an entertaining and nostalgic analysis of the 80s and the film \"Return of the Living Dead.\" His passion for the era and his witty commentary make for an engaging viewing experience. Whether viewers are fans of the 80s or simply interested in zombie films, Couch Acula's video offers an entertaining and informative perspective."
+    },
+    {
+      "source": "",
+      "type": "annotations",
+      "content": [
+        {
+          "fact": "- Couch Acula discusses the resurgence of 80s nostalgia in modern entertainment, citing films such as \"The Guest,\" \"John Wick,\" \"Turbo Kid,\" and \"Guardians of the Galaxy.\"",
+          "check": true,
+          "url": "failed"
+        },
+        {
+          "fact": "- \"Return of the Living Dead\" is a 1985 film.",
+          "check": true,
+          "url": "failed"
+        },
+        {
+          "fact": "- The film established the idea that zombies eat brains.",
+          "check": true,
+          "url": "failed"
+        },
+        {
+          "fact": "- There was a legal battle between John Russo and George Romero over the rights to use the phrase \"Living Dead.\"",
+          "check": true,
+          "url": "failed"
+        },
+        {
+          "fact": "- Dan O'Bannon directed \"Return of the Living Dead,\" as well as other notable works like \"Alien\" and \"Total Recall.\"",
+          "check": true,
+          "url": "failed"
+        },
+        {
+          "fact": "- The plot of \"Return of the Living Dead\" follows a group of punks who accidentally release a chemical that reanimates the dead, leading to chaos and a struggle for survival.",
+          "check": true,
+          "url": "failed"
+        }
+      ]
     }
   ],
   "filename": "youtube-rJcH0t_E5dw=9fbc70bc"
