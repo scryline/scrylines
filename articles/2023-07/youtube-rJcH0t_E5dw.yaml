@@ -2954,6 +2954,57 @@
       "source": "https://www.youtube.com/watch?v=rJcH0t_E5dw",
       "type": "generated",
       "content": "In a recent YouTube video (https://www.youtube.com/watch?v=rJcH0t_E5dw), Couch Acula, a self-proclaimed monster expert, discusses the resurgence of 80s nostalgia in recent films. He notes that not only have old 80s properties been resurrected, but the style and essence of the 80s have made a comeback as well. Films such as \"The Guest,\" \"John Wick,\" and \"Turbo Kid,\" as well as \"Guardians of the Galaxy,\" have embraced the colorful lighting, ridiculous action, and musical stylings that defined 80s cinema.\n\nCouch Acula passionately argues that the 80s was the best decade for entertainment. He highlights the best horror movies, the best music (punk rock and heavy metal), and the lack of PG-13 ratings, which allowed for more explicit content. He also mentions the unique cultural aspects of the 80s, such as Reaganomics, GI Joe, Max Headroom, and even the attempt to assassinate the president.\n\nHowever, Couch Acula is not a fan of the modern world with its smartphones and online culture. He expresses his desire to go back to the 80s using his \"trusty time phone.\" He believes that the 80s was a better time and dismisses the current era as inferior.\n\nThe video then transitions into a discussion of the 1985 film \"Return of the Living Dead,\" which Couch Acula claims is the most important and influential entry into the zombie genre from the 80s. He attributes the movie's significance to its establishment of the idea that zombies eat brains. This concept has become synonymous with zombies in popular culture.\n\nCouch Acula also provides some background information on the film's writer and director, Dan O'Bannon, who was known for his work on movies like \"Dark Star\" and \"Alien.\" He explains that \"Return of the Living Dead\" was not related to George Romero's \"Night of the Living Dead\" despite both films being part of the zombie genre.\n\nThe video then delves into a detailed summary of the plot of \"Return of the Living Dead,\" highlighting key scenes and character interactions. Couch Acula praises the film for its energetic and entertaining nature, even though it has a nihilistic undertone. He believes that the movie captures the essence of the 80s, where a generation of kids grew up believing they would not live to see 30 due to the constant threat of nuclear war, toxic waste, and societal collapse.\n\nCouch Acula concludes the video by reflecting on the best parts of the 80s and expressing his desire to relive those moments. He signs off by saying, \"So long, 80s. Y'all come back someday.\"\n\nOverall, the video provides an entertaining and nostalgic perspective on the resurgence of 80s style in recent films, as well as a deep dive into the significance of \"Return of the Living Dead\" in the zombie genre."
+    },
+    {
+      "source": "",
+      "type": "annotations",
+      "content": [
+        {
+          "fact": "- Couch Acula is a self-proclaimed monster expert.",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=rJcH0t_E5dw#t=1616.25"
+        },
+        {
+          "fact": "- Films such as \"The Guest,\" \"John Wick,\" \"Turbo Kid,\" and \"Guardians of the Galaxy\" have embraced the style and essence of the 80s.",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=rJcH0t_E5dw#t=12.45"
+        },
+        {
+          "fact": "- \"Return of the Living Dead\" was released in 1985.",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=rJcH0t_E5dw#t=298.07"
+        },
+        {
+          "fact": "- \"Return of the Living Dead\" established the idea that zombies eat brains.",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=rJcH0t_E5dw#t=298.07"
+        },
+        {
+          "fact": "- Dan O'Bannon was the writer and director of \"Return of the Living Dead.\"",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=rJcH0t_E5dw#t=321.44"
+        },
+        {
+          "fact": "- Dan O'Bannon also worked on movies like \"Dark Star\" and \"Alien.\"",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=rJcH0t_E5dw#t=321.44"
+        },
+        {
+          "fact": "- \"Return of the Living Dead\" is not related to George Romero's \"Night of the Living Dead.\"",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=rJcH0t_E5dw#t=547.1"
+        },
+        {
+          "fact": "- \"Return of the Living Dead\" has a nihilistic undertone.",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=rJcH0t_E5dw#t=1839.0"
+        },
+        {
+          "fact": "- The 80s had a constant threat of nuclear war, toxic waste, and societal collapse.",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=rJcH0t_E5dw#t=1787.07"
+        }
+      ]
     }
   ],
   "filename": "youtube-rJcH0t_E5dw"
