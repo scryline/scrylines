@@ -26,29 +26,39 @@
         {
           "fact": "\"The British East India Company, established in 1600, was a joint-stock corporation that eventually controlled most of the Indian subcontinent and had a military larger than Britain's army.\"",
           "source": "https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british",
-          "check": true
+          "check": true,
+          "match": "\" The article, written by Rohit Krishnan, explores the efficiency, hiring practices, incentivization, and communication latency of the British East India Company"
         },
         {
           "fact": "\"Despite being a private monopoly, the company was closely tied to the British Crown.\"",
           "source": "https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british",
-          "check": true
+          "check": true,
+          "match": "Overall, the article offers insights into the organizational structure, hiring practices, and operational efficiency of the British East India Company"
         },
         {
           "fact": "\"The company had various levels of management, including councils, committees, and officials, each with different responsibilities and authority levels.\"",
           "source": "https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british",
-          "check": true
+          "check": true,
+          "match": "The article emphasizes that the company's success was a result of its effective organization and the autonomy given to its employees"
         },
         {
           "fact": "\"The company's employees were well-compensated and enjoyed perks such as free breakfasts, on-site cooks, and lavish dinners.\"",
           "source": "https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british",
-          "check": true
+          "check": true,
+          "match": "The article explores how the company's hiring practices evolved over time"
         },
         {
           "fact": "\"Initially, military personnel filled key positions, but later, individuals from civil services or specialized colleges were recruited.\"",
           "source": "https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british",
-          "check": true
+          "check": true,
+          "match": "The company also established the East India College to educate its clerks, teaching subjects such as history, law, and various languages"
         }
       ]
+    },
+    {
+      "source_url": "",
+      "type": "annotated",
+      "content": "Strange Loop Canon, a web platform, recently published an article titled \"Some things to learn from the British East India Company's growth and demise.[\" The article, written by Rohit Krishnan, explores the efficiency, hiring practices, incentivization, and communication latency of the British East India Company](https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british). The author examines how the company achieved rapid growth and success despite the challenges of communication in the 17th and 18th centuries.\n\nThe British East India Company, established in 1600, was a joint-stock corporation that eventually controlled most of the Indian subcontinent and had a military larger than Britain's army. Despite being a private monopoly, the company was closely tied to the British Crown. The article highlights that the company's reign over its territories was often oppressive, leading to a revolt by the Indians in 1857. As a result, the British government formally took over the company's rule in India.\n\nThe article delves into the organization of the company, starting with the Board of Directors, which consisted of 24 members elected by shareholders. The company had various levels of management, including councils, committees, and officials, each with different responsibilities and authority levels. This hierarchical structure allowed for centralized decision-making at the top levels while still enabling flexibility at lower levels.\n\nOne interesting aspect of the company's operations was the role of the Resident, who acted as a cultural intermediary between the company and the Indian Raj's. The Residents played a crucial role in identifying new trade routes, building bridges between the two cultures, and expanding the company's empire. [The article emphasizes that the company's success was a result of its effective organization and the autonomy given to its employees](https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british).\n\nThe author also discusses the company's efficiency, noting that despite its vast territories, the company had less than 200 employees in its London office until the 1800s. The company's employees were well-compensated and enjoyed perks such as free breakfasts, on-site cooks, and lavish dinners. The article highlights that personal trading within the company was allowed, providing employees with the opportunity to profit alongside the organization.\n\n[The article explores how the company's hiring practices evolved over time](https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british). Initially, military personnel filled key positions, but later, individuals from civil services or specialized colleges were recruited. [The company also established the East India College to educate its clerks, teaching subjects such as history, law, and various languages](https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british).\n\nThe article concludes by discussing the challenges of communication latency and the impact it had on the company's decision-making processes. The author argues that today, with faster communication, there is a tendency to centralize decision-making, whereas the British East India Company relied on autonomous employees to make decisions in a decentralized manner.\n\n[Overall, the article offers insights into the organizational structure, hiring practices, and operational efficiency of the British East India Company](https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british). It highlights the company's ability to achieve rapid growth and success despite the limitations of communication in the 17th and 18th centuries."
     },
     {
       "source_url": "",
