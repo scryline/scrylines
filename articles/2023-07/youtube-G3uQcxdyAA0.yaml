@@ -471,7 +471,7 @@
         },
         {
           "fact": "- \"The Ascender is a modified Ford F-550 super duty truck with a carbon composite camper shell and various off-roading features.\"",
-          "source": "https://www.youtube.com/watch?v=G3uQcxdyAA0#t=886.68",
+          "source": "https://www.youtube.com/watch?v=G3uQcxdyAA0#t=0.0",
           "check": true
         },
         {
@@ -726,6 +726,21 @@
         },
         {
           "fact": "- \"the video provides an entertaining and informative look at a million-dollar camper and the adventures it can offer\"",
+          "source": "https://www.youtube.com/watch?v=G3uQcxdyAA0#t=29.58",
+          "check": true
+        },
+        {
+          "fact": "- \"They prepare a meal of salmon and broccoli, jokingly comparing it to food from their college days.\"",
+          "source": "https://www.youtube.com/watch?v=G3uQcxdyAA0#t=387.66",
+          "check": true
+        },
+        {
+          "fact": "- \"They meet up with Zachary, who has experience with the truck, and they tackle steep hills and challenging terrain.\"",
+          "source": "https://www.youtube.com/watch?v=G3uQcxdyAA0#t=817.019",
+          "check": true
+        },
+        {
+          "fact": "- \"The hosts express their appreciation for the camper's prototype status, which allows them to push its limits.\"",
           "source": "https://www.youtube.com/watch?v=G3uQcxdyAA0#t=29.58",
           "check": true
         }
