@@ -27,36 +27,41 @@
           "fact": "\"entrepreneur and venture capitalist Peter Thiel launched a special program over a decade ago to encourage college students to drop out and pursue entrepreneurial ventures instead.\"",
           "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
           "check": true,
-          "match": "Larry Summers Peter Thiel has a lot of ideas",
-          "match_at": "One possibility is for Thiel to expand his fellowship program or for other billionaires to step up and support talented individuals"
+          "match": "to achieve significant success in their respective fields, making the program's hit ratio enviable even by venture capital standards.",
+          "match_at": "One possibility is for Thiel to expand his fellowship program or for other billionaires to step up and support talented individuals",
+          "start": 842
         },
         {
           "fact": "\"With an annual investment of approximately $2 million, Thiel sponsored 20-30 students each year, providing them with a $100,000 grant to support their endeavors.\"",
           "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
           "check": true,
-          "match": "It is also true that it's such an absurdly small amount of money that Thiel has spent",
-          "match_at": "Initiatives like the Thiel Fellowship and MacArthur Foundation's fellowship program, which invests in originality and potential, provide a glimpse into the possibilities of modern patronage"
+          "match": "to generate world-changing ideas. Initiatives like the Thiel Fellowship and MacArthur Foundation's fellowship program, which invests in originality and potential, provide a glimpse into the",
+          "match_at": "Initiatives like the Thiel Fellowship and MacArthur Foundation's fellowship program, which invests in originality and potential, provide a glimpse into the possibilities of modern patronage",
+          "start": 3456
         },
         {
           "fact": "\"Among the successful recipients are notable figures such as Vitalik Buterin, the founder of Ethereum, Austin Russell, CEO of Luminar, and Dylan Field, the founder of Figma.\"",
           "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
           "check": true,
-          "match": "But Ethereum alone has almost a $300B market cap, and owning a couple percent of that would\u2019ve itself given Thiel Fellowship of that year a 3000x return",
-          "match_at": "Institutions like Y Combinator (YC) exist, providing financial backing and legitimacy to early-stage startups"
+          "match": "As entrepreneur Naval Ravikant once said, \"Money doesn't change the world, ideas do.\" It's time to invest in talent and support those who have the potential to generate world-changing ideas.",
+          "match_at": "Institutions like Y Combinator (YC) exist, providing financial backing and legitimacy to early-stage startups",
+          "start": 3299
         },
         {
           "fact": "\"The rise of platforms like Patreon, Substack, and YouTube in the creator economy has not filled the void left by traditional patronage.\"",
           "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
           "check": true,
-          "match": "So while artists like Randall Munroe from xkcd exist, helped along by the power of fans coming together, they're still being paid for creating something the consumers value",
-          "match_at": "However, they do not quite capture the essence of patronage, which involves identifying and fostering individual genius"
+          "match": "Title: Peter Thiel's College Dropout Program Shows Remarkable Success, Raises Questions about Modern Patronage\n\nByline: [Author's Name]",
+          "match_at": "However, they do not quite capture the essence of patronage, which involves identifying and fostering individual genius",
+          "start": 0
         },
         {
           "fact": "\"Institutions like Y Combinator (YC) exist, providing financial backing and legitimacy to early-stage startups.\"",
           "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
           "check": true,
-          "match": "But even they have an idea + talent view of things, making the grant more akin to YC",
-          "match_at": "One possibility is for Thiel to expand his fellowship program or for other billionaires to step up and support talented individuals"
+          "match": "same level of personal involvement as historical patronage, they do provide financial backing and prestige to talented individuals, akin to room and board and a stipend in the Medici era.",
+          "match_at": "One possibility is for Thiel to expand his fellowship program or for other billionaires to step up and support talented individuals",
+          "start": 1297
         }
       ]
     },
