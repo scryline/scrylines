@@ -24,6 +24,14 @@
       "type": "facts",
       "content": [
         {
+          "fact": "The web page, available at https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge, explores the paradoxical nature of tacit knowledge and its implications for scientific discoveries, industrial espionage, and organizational culture.",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "The web page, available at https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge, explores the paradoxical nature of tacit knowledge and its implications for scientific discoveries, industrial espionage, and organizational culture.",
+          "start": 314
+        },
+        {
           "fact": "The first story Krishnan highlights revolves around Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds and task them with building a nuclear weapon.",
           "check": null,
           "source": null,
@@ -54,14 +62,6 @@
           "match": "",
           "link_text": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
           "start": 1884
-        },
-        {
-          "fact": "Krishnan concludes that while tools and techniques can eventually be figured out by smart individuals, scaling up processes requiring manufacturing and organizational expertise remains arduous.",
-          "check": null,
-          "source": null,
-          "match": "",
-          "link_text": "Krishnan concludes that while tools and techniques can eventually be figured out by smart individuals, scaling up processes requiring manufacturing and organizational expertise remains arduous.",
-          "start": 2369
         }
       ]
     },
