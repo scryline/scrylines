@@ -18,6 +18,52 @@
       "source_url": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
       "type": "generated",
       "content": "Threads, a new social media app by Meta, has quickly gained attention and popularity since its launch. The app, which can be accessed at startupstrats.substack.com, has been described as Facebook's version of Twitter. Users can create an account, connect with friends, and start posting, similar to how Twitter works.\n\nDespite being a minimum viable product, Threads has managed to attract 10 million users in just one day. The app's success can be attributed to Meta's use of open source technology and a significant development budget. While the app lacks certain features such as a discover page and direct messaging, it has managed to avoid major backlash from users.\n\nThreads is designed as an interface to the ActivityPub protocol, allowing users to interact with other platforms like Mastodon. Meta's decision to utilize open source technology and avoid controversial features like turning text into NFTs has proven to be a wise choice.\n\nMeta's strategy of launching Threads without a waitlist has also contributed to its success. Unlike other competing apps, Threads was available from day one, and users with Instagram accounts received notifications to join. This resulted in users having hundreds or even thousands of friends immediately, eliminating the problem of empty rooms.\n\nMeta's approach to learning from competitors' mistakes is evident in the development of Threads. By observing Twitter's missteps, Meta was able to create a seamless and highly performant app. This launch showcases Meta's growth and improvement over the years.\n\nWhile some may have reservations about Facebook and its impact on society, Meta's successful launch of Threads demonstrates that the company has learned from past experiences. The hope now is that the app can maintain its positive momentum and avoid attracting negative elements often associated with social media platforms.\n\nTo read more about Threads and stay updated on its progress, visit startupstrats.substack.com."
+    },
+    {
+      "source_url": "",
+      "type": "facts",
+      "content": [
+        {
+          "fact": "Threads, a new social media app by Meta, has quickly gained attention and popularity since its launch.",
+          "check": true,
+          "source": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
+          "match": "quickly. The first moral? Build quickly using off-the-shelf technology. And don\u2019t try to get too fancy. Then the app launch just worked. Unlike the rest of the apps like Post, Spill, and Homunculous (one of those is fake), Threads was available from day one. If you had an Instagram account you also got a notification and you were able to pop on in a second. This led to users having hundreds if",
+          "link_text": "Threads, a new social media app by Meta, has quickly gained attention and popularity since its launch.",
+          "start": 0
+        },
+        {
+          "fact": "Despite being a minimum viable product, Threads has managed to attract 10 million users in just one day.",
+          "check": true,
+          "source": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
+          "match": "It\u2019s destroyed democracy, shut down discourse, and commodified attention. That said, maybe Meta has learned a little something over the years and I think this launch - seamless, highly performant, and fun - is evidence of that education. Now we just have to hope the Nazis and crypto bros stay over on Twitter. Photo by K15 Photos on Unsplash 5 Share this post Threads is the real MVP",
+          "link_text": "Despite being a minimum viable product, Threads has managed to attract 10 million users in just one day.",
+          "start": 319
+        },
+        {
+          "fact": "Meta's use of open source technology and a significant development budget.",
+          "check": true,
+          "source": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
+          "match": "users in one day and thus far haven\u2019t completely pissed off Twiteratti. First, a bit of context. Threads, in theory, is an interface to the ActivityPub protocol. How that interface will work is currently unclear but you could thread or toot or whatever people on Mastodon from the Threads app. The company knows how to exploit open source and because they got burned on crypto a few years ago, Meta",
+          "link_text": "Meta's use of open source technology and a significant development budget.",
+          "start": 463
+        },
+        {
+          "fact": "Threads is designed as an interface to the ActivityPub protocol, allowing users to interact with other platforms like Mastodon.",
+          "check": true,
+          "source": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
+          "match": "Share this post Threads is the real MVP startupstrats.substack.com Copy link Facebook Email Notes Other Share Comments Top New Community No posts Ready for more? Subscribe \u00a9 2023 John Biggs Privacy \u2219 Terms \u2219 Collection notice Start Writing Get the app Substack is the home for great writing            This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts",
+          "link_text": "Threads is designed as an interface to the ActivityPub protocol, allowing users to interact with other platforms like Mastodon.",
+          "start": 673
+        },
+        {
+          "fact": "Unlike other competing apps, Threads was available from day one, and users with Instagram accounts received notifications to join.",
+          "check": true,
+          "source": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
+          "match": "This led to users having hundreds if not thousands of friends immediately, reducing the empty room problem. Meanwhile, in competitor land: The second moral? Launch. Zuck basically admitted that was his strategy: Obviously none of us can expect to get 1 billion people on day two but focusing on waitlists while the product and interest stagnates - or focusing on minutae while the market moves on -",
+          "link_text": "Unlike other competing apps, Threads was available from day one, and users with Instagram accounts received notifications to join.",
+          "start": 1038
+        }
+      ]
     }
   ],
   "filename": "scrape-p_threads-is-the-real-mvp"
