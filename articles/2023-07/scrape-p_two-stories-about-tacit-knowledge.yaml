@@ -48,20 +48,20 @@
           "start": 1080
         },
         {
-          "fact": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
+          "fact": "The article suggests that gatekeeping and bureaucratic barriers have hindered the replication of such knowledge.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
-          "start": 1221
+          "link_text": "The article suggests that gatekeeping and bureaucratic barriers have hindered the replication of such knowledge.",
+          "start": 2563
         },
         {
-          "fact": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
+          "fact": "In exploring the paradox of tacit knowledge, Krishnan raises important questions about the nature of replication, the role of culture in organizations, and the potential implications for fields like terrorism.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
-          "start": 1884
+          "link_text": "In exploring the paradox of tacit knowledge, Krishnan raises important questions about the nature of replication, the role of culture in organizations, and the potential implications for fields like terrorism.",
+          "start": 2677
         }
       ]
     },
