@@ -353,36 +353,36 @@
           "start": 396
         },
         {
-          "fact": "As the video unfolds, it becomes clear that catastrophe struck somewhere along the 3.8-kilometer descent into the hostile depths of the North Atlantic Ocean.",
+          "fact": "The US Navy disclosed that they detected sounds consistent with an implosion shortly after the sub lost contact during a descent to the Titanic wreck at a depth of 3,800 meters (12,467 feet) below sea level.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "As the video unfolds, it becomes clear that catastrophe struck somewhere along the 3.8-kilometer descent into the hostile depths of the North Atlantic Ocean.",
-          "start": 686
+          "link_text": "The US Navy disclosed that they detected sounds consistent with an implosion shortly after the sub lost contact during a descent to the Titanic wreck at a depth of 3,800 meters (12,467 feet) below sea level.",
+          "start": 4690
         },
         {
-          "fact": "Experts in deep-sea exploration, such as Robert McCallum, provide insights into the allure and tragedy of the Titanic.",
+          "fact": "The investigation into the incident will likely focus on the carbon fiber mid-section of the Titan sub.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "Experts in deep-sea exploration, such as Robert McCallum, provide insights into the allure and tragedy of the Titanic.",
-          "start": 1573
+          "link_text": "The investigation into the incident will likely focus on the carbon fiber mid-section of the Titan sub.",
+          "start": 6055
         },
         {
-          "fact": "The search for the missing Titan submersible and its crew becomes a race against time, with the world anxiously awaiting news of their fate.",
+          "fact": "When a submarine hull collapses, it implodes at a speed of about 1,500 mph (2,414 km/h) or 2,200 feet (671 meters) per second.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The search for the missing Titan submersible and its crew becomes a race against time, with the world anxiously awaiting news of their fate.",
-          "start": 3059
+          "link_text": "When a submarine hull collapses, it implodes at a speed of about 1,500 mph (2,414 km/h) or 2,200 feet (671 meters) per second.",
+          "start": 5706
         },
         {
-          "fact": "The U.S. Navy disclosed that they detected sounds consistent with an implosion shortly after the sub lost contact during a descent to the Titanic wreck at a depth of 3,800 meters (12,467 feet) below sea level.",
+          "fact": "The U.S. Navy detected the likely implosion of the missing Titan submersible hours before the U.S. Coast Guard publicly shared that it had gone missing.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "Navy disclosed that they detected sounds consistent with an implosion shortly after the sub lost contact during a descent to the Titanic wreck at a depth of 3,800 meters (12,467 feet) below sea level. This inf",
-          "start": 4697
+          "link_text": "The U.S. Navy detected the likely implosion of the missing Titan submersible hours before the U.S. Coast Guard publicly shared that it had gone missing ",
+          "start": 7322
         }
       ]
     },
