@@ -24,6 +24,14 @@
       "type": "facts",
       "content": [
         {
+          "fact": "The web page, available at https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge, explores the paradoxical nature of tacit knowledge and its implications for scientific discoveries, industrial espionage, and organizational culture.",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "The web page, available at https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge, explores the paradoxical nature of tacit knowledge and its implications for scientific discoveries, industrial espionage, and organizational culture.",
+          "start": 314
+        },
+        {
           "fact": "The first story Krishnan highlights revolves around Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds and task them with building a nuclear weapon.",
           "check": null,
           "source": null,
@@ -40,12 +48,12 @@
           "start": 1080
         },
         {
-          "fact": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
+          "fact": "The article further explores the notion that self-education and perseverance have historically driven scientific advancements.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
-          "start": 1221
+          "link_text": "The article further explores the notion that self-education and perseverance have historically driven scientific advancements.",
+          "start": 1455
         },
         {
           "fact": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
@@ -54,14 +62,6 @@
           "match": "",
           "link_text": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
           "start": 1884
-        },
-        {
-          "fact": "While obtaining documentation may seem like the primary obstacle, the real challenge lies in acquiring individuals with the necessary know-how.",
-          "check": null,
-          "source": null,
-          "match": "",
-          "link_text": "While obtaining documentation may seem like the primary obstacle, the real challenge lies in acquiring individuals with the necessary know-how.",
-          "start": 2028
         }
       ]
     }
