@@ -1,0 +1,325 @@
+{
+  "uuid": "dd54f016-1f99-47be-8ebe-11ad8e366244",
+  "version": "0.1",
+  "sources": [
+    {
+      "id": "kxud6ZQKmMw",
+      "url": "https://www.youtube.com/watch?v=kxud6ZQKmMw",
+      "site": "youtube"
+    },
+    {
+      "id": "news_world-us-canada-65934887",
+      "url": "https://www.bbc.com/news/world-us-canada-65934887",
+      "site": "scrape"
+    },
+    {
+      "id": "2023_06_23_1183976726_titan-titanic-sub-implosion-navy",
+      "url": "https://www.npr.org/2023/06/23/1183976726/titan-titanic-sub-implosion-navy",
+      "site": "scrape"
+    }
+  ],
+  "components": [
+    {
+      "source_url": "https://www.youtube.com/watch?v=kxud6ZQKmMw",
+      "type": "transcript",
+      "content": [
+        {
+          "text": "the prize for passengers was supposed to be life-changing seeing firsthand the most iconic shipwreck in history the Titanic sadly the outcome for all five people on board the Ocean Gate submersible Titan was life ending",
+          "start": 0.12,
+          "duration": 35.941
+        },
+        {
+          "text": "somewhere along the journey 3.8 kilometers down into the Hostile depths of the North Atlantic Ocean catastrophe struck as you'll see tonight there are lessons to be learned from this tragedy and they're brutal this wasn't an adventure",
+          "start": 18.18,
+          "duration": 35.22
+        },
+        {
+          "text": "like the Titanic it was a disaster just waiting to happen people are so enthralled with Titanic that there are three words in the English language that are known throughout the planet and that's Coca-Cola God and Titanic",
+          "start": 34.98,
+          "duration": 36.458
+        },
+        {
+          "text": "it's nothing short of a deadly irony wealthy Adventure seeking explorers never returning from the gravesite of a ship once thought to be Unsinkable if the Titanic was the ultimate lesson in human hubris the debacle of the submersible known as Titan is a tragic",
+          "start": 55.86,
+          "duration": 43.98
+        },
+        {
+          "text": "epilogue five men sealed inside the sub operated by ocean Gate's Maverick CEO Stockton Rush a man determined to test the limits of human ambition he definitely knew it was going to end like this he quite literally and figuratively went out with the biggest Bang",
+          "start": 80.159,
+          "duration": 42.041
+        },
+        {
+          "text": "in human history that you could go out with and who was the last person to murder two billionaires at once and have them pay for the privilege",
+          "start": 102.18,
+          "duration": 20.92
+        },
+        {
+          "text": "and why he refused trophy they were diving in something which really was a ticking time bomb so you were not surprised no I can't say that from a technical standpoint I was surprised that's why we tried so hard to",
+          "start": 116.399,
+          "duration": 31.002
+        },
+        {
+          "text": "to prevent it nearly four kilometers under the ocean is arguably no place for humans it's freezing cold pitch black and there's no Oxygen Robert McCallum knows better than most the Allure of the deep a world leader in",
+          "start": 134.28,
+          "duration": 39.399
+        },
+        {
+          "text": "extreme submersible operations he's headed up multiple expeditions to the Titanic site what do you think it is about the Titanic is it the romance is it the tragedy that humanity is endlessly obsessed with yes I think it's",
+          "start": 153.78,
+          "duration": 33.601
+        },
+        {
+          "text": "a turning point in Maritime history here was a machine one of the largest ever built the fastest ever built the sort of Pride and Joy of human engineering and mother nature changed our attitude and in a single blow told us that we're not the Masters of the Universe nature is",
+          "start": 170.58,
+          "duration": 39.379
+        },
+        {
+          "text": "very much in control I'm the CEO and founder of Ocean Gate let's take a look at Titan the Titan was an SUV sized submersible on the 18th of June it began its third descent to visit the Titanic wreck but just one hour and 45 minutes later",
+          "start": 190.26,
+          "duration": 42.201
+        },
+        {
+          "text": "the crew lost Communications with its Mothership and the world tuned in to their plight on board was legendary Titanic expert Paul Henry najilay billionaire Explorer Hamish Harding Pakistani businessman shazada Darwood and his teenage son",
+          "start": 213.0,
+          "duration": 43.56
+        },
+        {
+          "text": "Suleiman and ocean Gate's boss Stockton Rush taking a completely new approach to the sub design and it's all run with this game controller and these touch screens so if you want to go forward you press forward if you want to go back you go",
+          "start": 234.36,
+          "duration": 29.46
+        },
+        {
+          "text": "back turn left turn right go down go up and it's Bluetooth so I can hand it to anybody and it's meant for a 16 year old to throw it around and super durable we keep a couple of spares on board just in case I think Stockton was designing a mouse trap for billionaires",
+          "start": 249.54,
+          "duration": 30.9
+        },
+        {
+          "text": "wow yeah from the shores of Honduras tourist submarine operator Carl Stanley swings between grief and anger over a tragedy he describes as preventable and inevitable Stockton Rush had been a friend back in",
+          "start": 264.96,
+          "duration": 40.26
+        },
+        {
+          "text": "2019 Carl was one of the first to set foot inside the doomed Titan on a test dive in the Bahamas what did you experience during that dive well I would say every three to four minutes there was loud",
+          "start": 285.06,
+          "duration": 35.22
+        },
+        {
+          "text": "gunshot like noises that's a heck of a sound to hear when you're that far under the ocean in a craft that has only been down that deep once before Kyle was convinced those noises were the carbon fiber Hull slowly cracking and he immediately raised his",
+          "start": 303.06,
+          "duration": 34.679
+        },
+        {
+          "text": "concerns with Stockton rush in a series of heated calls and emails writing there is an area of the hull that is breaking down it will only get worse Carl also felt Rush had a disturbing lack of operating experience and he told him so in no uncertain terms",
+          "start": 320.1,
+          "duration": 44.04
+        },
+        {
+          "text": "no I literally painted a picture of his wrecked sub at the bottom and even that wasn't enough you've been building deep sea submersible since you're a teenager you've got thousands of hours experience",
+          "start": 342.36,
+          "duration": 26.461
+        },
+        {
+          "text": "in piloting these crafts in your expert opinion what was the Fatal flaw of the Titan um there's no doubt in my mind that it was the carbon fiber tube that was the mechanical part that failed and that's what you believe you heard",
+          "start": 355.5,
+          "duration": 35.9
+        },
+        {
+          "text": "essentially cracking correct Titan was the only commercial submersible in the world with a hull made from carbon fiber composite fiber is coated with Rhino liner which is sort of with the military is it stops water penetration that's because the rest of",
+          "start": 372.68,
+          "duration": 34.72
+        },
+        {
+          "text": "the industry considers the lightweight material not up to the job incapable of withstanding extreme deep sea pressure but for Stockton Rush the extra space meant he could fit more passengers on board you know I've broken some rules to make",
+          "start": 391.08,
+          "duration": 39.299
+        },
+        {
+          "text": "this I think I've broken them with with logic and good engineering behind me the carbon fiber and titanium there's a rule you don't do that well I did it's picking the rules that you break that are the ones that will add value to others and add value to society and they",
+          "start": 410.699,
+          "duration": 23.94
+        },
+        {
+          "text": "were so proud of flaunting the accepted norms and if you're going to flaunt an accepted Norm you really need to know what you're doing and I wasn't convinced that that level of expertise was there Rob McCallum worked with Ocean Gate as a",
+          "start": 422.759,
+          "duration": 34.441
+        },
+        {
+          "text": "consultant early on but was alarmed by the company's experimental approach join the crew of the Titanic survey and when Stockton Rush announced his plan to take passengers to dive the Titanic in an unclassed submersible robe quit Stockton Rush once said if you're not",
+          "start": 439.44,
+          "duration": 40.14
+        },
+        {
+          "text": "breaking things you're not Innovative it is their truth to that in your industry or is that just Reckless completely Reckless I mean it's great fun breaking World Records I mean I just",
+          "start": 459.84,
+          "duration": 26.699
+        },
+        {
+          "text": "love it but they don't count if everybody doesn't make it home Rob wasn't alone in his concerns by 2018 the submersible Community had become so distressed by Stockton Russia's apparent disregard for safety standards the three",
+          "start": 473.699,
+          "duration": 41.521
+        },
+        {
+          "text": "dozen industry experts wrote to Ocean Gate warning catastrophe was looming and less changes were made this is our five months submersible that same year the company's Chief pilot David Lockridge was fired and sued for raising a long list of safety concerns",
+          "start": 493.74,
+          "duration": 42.719
+        },
+        {
+          "text": "if someone raised a safety concern as the chief pilot did they were not only not listened to they were silenced well that is such a a toxic culture when it comes to to safety and it's the reverse of everything else I know in the maritime",
+          "start": 515.159,
+          "duration": 35.781
+        },
+        {
+          "text": "industry the Titan operated in Lawless international waters up here copy that Ocean Gate called passengers Mission Specialists and while some on board were indeed deep sea experts others were thrill-seeking",
+          "start": 533.7,
+          "duration": 37.06
+        },
+        {
+          "text": "tourists it looks really cool in here too crucially the sub wasn't independently certified or classed customers signed a company waiver before boarding the Titan it mentions the possibility of death at least eight times the game changes when you put",
+          "start": 551.64,
+          "duration": 41.16
+        },
+        {
+          "text": "paying passengers in there because you can't do that unless there is consent and people can't consent to something they they don't really understand and the ocean doesn't care if you're a millionaire no I mean the pressure at 4 000 meters is is unrelenting and",
+          "start": 572.22,
+          "duration": 36.659
+        },
+        {
+          "text": "unforgiving I mean you know you don't get wounded at 4 000 meters you come home in one piece or you don't come home at all we will drift down we will hit the bottom we'll have communications you still pumping yeah what do you have if",
+          "start": 590.1,
+          "duration": 29.52
+        },
+        {
+          "text": "Rob McCallum paints Stockton Rush as reckless in his ambition blinded by his passion Carl Stanley goes a step further insisting Rush must have known it could only end like this so you're saying he had a death wish",
+          "start": 605.339,
+          "duration": 39.12
+        },
+        {
+          "text": "the only question in my mind the only question is when he was risking his life and his customers lives to go down in history he's more famous now than anything else he would have ever done it's a stunning allegation",
+          "start": 624.839,
+          "duration": 34.861
+        },
+        {
+          "text": "from someone who knew Stockton rush and his sub well but Ocean Gate insists what many Saw as Reckless was necessary to further Humanity's understanding of the final frontier I feel like as co-founder I do have to stand up for the fact that I feel that what we were doing was right",
+          "start": 642.0,
+          "duration": 42.78
+        },
+        {
+          "text": "and was heading in the right direction well there must have been something wrong with it because five people are dead racing to find the missing dive vessel that is it was the Macabre Countdown the world couldn't turn away from this point",
+          "start": 664.26,
+          "duration": 30.299
+        },
+        {
+          "text": "it could be anywhere from about 54 to 80 hours of oxygen left as we waited and wondered about the face of those on board the missing Titan submersible repeated banging has been picked up on Sonar equipment headed for the Magnificent ghostly remains of the",
+          "start": 678.839,
+          "duration": 38.701
+        },
+        {
+          "text": "Titanic as an expert we spoke to says that window of opportunity is quickly closing foreign exhaustive five-day search I offer my deepest condolences the U.S Coast Guard declared what many industry insiders like Rob McCallum had already surmised",
+          "start": 698.1,
+          "duration": 40.98
+        },
+        {
+          "text": "the sub had suffered a catastrophic implosion that the whole volume of a submersible collapses in about two milliseconds and it takes 25 milliseconds for the human brain to detect a threat so it's",
+          "start": 718.38,
+          "duration": 34.92
+        },
+        {
+          "text": "not so much that you die it's that you cease to exist it's almost the perfect end attention and scrutiny Newton into the Titans pilot Ocean Gate co-founder and CEO Stockton Rush who for",
+          "start": 736.26,
+          "duration": 36.118
+        },
+        {
+          "text": "years brushed aside red flags raised by colleagues and passengers about the safety of Titan Guillermo sunline knew him better than most very intelligent uh very uh funny guy I think most people don't realize uh what what a comedian he actually was but",
+          "start": 753.959,
+          "duration": 44.342
+        },
+        {
+          "text": "very capable engineer very passionate about oceans and ocean exploration the friends and business partners co-founded Ocean Gate into 2009 with a shared Vision the ocean is just so big and we know so little about it and so for us it was",
+          "start": 776.16,
+          "duration": 35.879
+        },
+        {
+          "text": "really about giving Humanity access to these assets that could take everybody down into the ocean emo left the company 10 years ago but remains a shareholder and a law Porter he now finds himself in the awkward position of defending the man",
+          "start": 793.86,
+          "duration": 41.221
+        },
+        {
+          "text": "responsible for the only submersible implosion in history was Stockton Rush a reckless villain or was he an innovator an explorer a rule breaker with a vision I think the term Reckless is not something I would ever associate with Stockton or with",
+          "start": 814.68,
+          "duration": 37.56
+        },
+        {
+          "text": "Ocean Gate at least while I was there it's it's almost the exact opposite of that he's been kind of portrayed as this risk taker Maverick who would just you know disregard safety for the sake of innovation itself but that is not the person that I knew he was very",
+          "start": 834.24,
+          "duration": 31.5
+        },
+        {
+          "text": "risk-averse and I've never in the three and a half years that he and I worked together I never saw him take unnecessary risks isn't taking paying passengers on an unclass sub about which there have been several safety warnings down to the Titanic and unnecessary risk",
+          "start": 849.18,
+          "duration": 32.46
+        },
+        {
+          "text": "I know two of the other four crew members that were lost would cringe if they were being labeled as tourists or passengers they considered themselves explorers they considered themselves part of the crew they considered that their financial investment was going",
+          "start": 865.68,
+          "duration": 30.06
+        },
+        {
+          "text": "toward a scientific research and exploration of the oceans but when you have people who had heard cracking noises in the Titan people who are Engineers saying these materials aren't appropriate your testing isn't appropriate surely that points to a huge",
+          "start": 880.62,
+          "duration": 33.838
+        },
+        {
+          "text": "safety risk well the popping noise is expected in carbon fiber hulls that was in Prior hulls not in the one that Dove a couple weeks ago things were fixed so I think it's it's still premature to to even address these kinds of questions well",
+          "start": 898.199,
+          "duration": 32.7
+        },
+        {
+          "text": "there must have been something wrong with it because five people are dead well we don't know exactly what happened it could have been a number of different things that caused the implosion and when we want to go down the white Guillermo sees it here others in the",
+          "start": 914.639,
+          "duration": 26.822
+        },
+        {
+          "text": "industry through competitiveness or perhaps lack of foresight had been trying to stifle ocean Gate's Innovative plans for years I do share the concerns about the risks that were taken but I tried taking a longer term view of everything but do you concede that if he",
+          "start": 927.54,
+          "duration": 36.358
+        },
+        {
+          "text": "had have stopped and heeded some of the warnings he may still be alive today potentially if he had done nothing he and the crew members may still be alive but then again Humanity maybe still be stuck not knowing anything about the world's oceans",
+          "start": 946.139,
+          "duration": 30.262
+        },
+        {
+          "text": "as the families of those killed grieve last week Ocean Gate suspended all exploration and Commercial operations while the watery Graves of the Titanic and the Titan are now forever tragically entwined it's likely deep sea tourism will recover from this catastrophic",
+          "start": 960.32,
+          "duration": 45.68
+        },
+        {
+          "text": "setback but Rob McCallum hopes the Titans Voyage will be the last of its kind it's a big ocean out there there are over a million shipwrecks I would like to think that exploring wrecks and exploring the deep ocean is",
+          "start": 984.72,
+          "duration": 37.08
+        },
+        {
+          "text": "something that's going to continue but I think in terms of Titanic we probably have all the material that's ever going to be needed she's been the subject of many books countless movies and documentaries maybe it's time to better at you",
+          "start": 1003.74,
+          "duration": 33.038
+        },
+        {
+          "text": "hello I'm Amelia Adams thanks for watching 60 Minutes Australia subscribe to our Channel now for our brand new stories and exclusive Clips every week and don't miss out on our extra minute segments and full episodes of 60 Minutes on 9now.com",
+          "start": 1021.68,
+          "duration": 36.759
+        },
+        {
+          "text": "and the nine Now app",
+          "start": 1039.52,
+          "duration": 3.779
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=kxud6ZQKmMw",
+      "type": "generated",
+      "content": "Titanic: The Tragic Voyage of the Ocean Gate Submersible Titan\n\nIn a daring and ill-fated attempt to explore the depths of the North Atlantic Ocean and witness the iconic shipwreck of the Titanic, the Ocean Gate submersible Titan embarked on a journey that would ultimately end in tragedy. The video documenting this catastrophic event has captured the attention of viewers worldwide, highlighting the brutal lessons that can be learned from such a disaster.\n\nThe video, which can be viewed here (https://www.youtube.com/watch?v=kxud6ZQKmMw), begins by emphasizing the life-changing prize that was promised to the passengers on board the Titan. However, instead of a transformative experience, all five individuals met a tragic and untimely demise.\n\nAs the video unfolds, it becomes clear that catastrophe struck somewhere along the 3.8-kilometer descent into the hostile depths of the North Atlantic Ocean. The journey, meant to be an adventure akin to the Titanic, quickly turned into a disaster waiting to happen. The allure of the Titanic and its status as a turning point in maritime history is explored, with the video highlighting the deadly irony of wealthy adventurers never returning from the gravesite of a once-unsinkable ship.\n\nThe video sheds light on the individuals involved in the ill-fated expedition. Ocean Gate's Maverick CEO, Stockton Rush, is portrayed as a man determined to push the limits of human ambition, even at the cost of his own life and those of his passengers. The last person to \"murder two billionaires at once,\" Rush's refusal to heed warnings and his desire for adventure are called into question.\n\nExperts in deep-sea exploration, such as Robert McCallum, provide insights into the allure and tragedy of the Titanic. McCallum, who has led multiple expeditions to the Titanic site, reflects on the ship's significance in maritime history and the humbling reminder that nature is in control, not humans.\n\nThe video delves into the technical aspects of the Titan submersible, highlighting its unique design and control system. Operated with a game controller and touch screens, the submersible aimed to provide a user-friendly experience for passengers. However, concerns about the submersible's design and materials, particularly the carbon fiber hull, were raised by individuals such as Carl Stanley, a tourist submarine operator who had previously dived in the Titan. Stanley describes hearing loud cracking noises during his test dive, which he believed signaled a breakdown in the hull. Despite his warnings, Rush dismissed the concerns, ultimately leading to the tragic implosion of the submersible.\n\nThe video also sheds light on the safety concerns raised by industry experts and crew members. The submersible community became increasingly distressed by Rush's apparent disregard for safety standards, leading to a warning letter signed by three dozen experts. The lack of independent certification or classification for the submersible, as well as the inclusion of thrill-seeking tourists alongside deep-sea experts, further raised concerns about the safety of the expedition.\n\nThe search for the missing Titan submersible and its crew becomes a race against time, with the world anxiously awaiting news of their fate. The video captures the desperate efforts to locate the submersible, with sonar equipment picking up repeated banging sounds near the Titanic wreckage. Eventually, the U.S. Coast Guard confirms the catastrophic implosion of the submersible, leaving no survivors.\n\nThe video concludes with a reflection on Stockton Rush's legacy and the conflicting views of his character. While some see him as a reckless risk-taker, others defend his innovative vision and passion for ocean exploration. Guillermo Sunline, a former colleague and shareholder of Ocean Gate, describes Rush as a capable engineer and passionate explorer, refuting claims of recklessness. However, others, such as Rob McCallum, hope that the tragic voyage of the Titan will be the last of its kind, emphasizing the need for safety and caution in deep-sea exploration.\n\nAs the families of those lost in the Titan tragedy grieve, Ocean Gate has suspended all exploration and commercial operations. The watery graves of the Titanic and the Titan serve as a tragic reminder of the risks and consequences associated with deep-sea exploration. While deep-sea tourism may eventually recover from this setback, the lessons learned from this disaster will hopefully prevent similar tragedies in the future.\n\nTo watch the video documenting the tragic voyage of the Ocean Gate submersible Titan, click here: https://www.youtube.com/watch?v=kxud6ZQKmMw"
+    }
+  ],
+  "filename": "youtube-scrape-dd54f016"
+}
