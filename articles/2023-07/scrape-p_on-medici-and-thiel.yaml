@@ -25,41 +25,41 @@
       "content": [
         {
           "fact": "\"With an annual investment of approximately $2 million, Thiel sponsored 20-30 students each year, providing them with a $100,000 grant to support their endeavors.\"",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "a viable alternative to college. So he decided to spend around $2m annually to sponsor 20-30 kids to drop out of college and do something. Thanks for reading Strange Loop Canon! Subscribe for free to",
           "link_text": "to generate world-changing ideas. Initiatives like the Thiel Fellowship and MacArthur Foundation's fellowship program, which invests in originality and potential, provide a glimpse into the",
           "start": 3456
         },
         {
           "fact": "\"Among the successful recipients are notable figures such as Vitalik Buterin, the founder of Ethereum, Austin Russell, CEO of Luminar, and Dylan Field, the founder of Figma.\"",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "CEO Now these are only a few, out of 217 that I found , but it's a pretty great selection ratio. Just measuring with the regular VC yardstick, that's an enviable hit ratio even keeping Vitalik aside.",
           "link_text": "As entrepreneur Naval Ravikant once said, \"Money doesn't change the world, ideas do.\" It's time to invest in talent and support those who have the potential to generate world-changing ideas.",
           "start": 3299
         },
         {
           "fact": "\"The rise of platforms like Patreon, Substack, and YouTube in the creator economy has not filled the void left by traditional patronage.\"",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "kind of patronage funds today all focus on business and problem solving.  I would like to see more focus on art and basic research. Perhaps they exist and I'm unawares. Expand full comment Reply 1",
           "link_text": "Title: Peter Thiel's College Dropout Program Shows Remarkable Success, Raises Questions about Modern Patronage\n\nByline: [Author's Name]",
           "start": 0
         },
         {
           "fact": "\"Institutions like Y Combinator (YC) exist, providing financial backing and legitimacy to early-stage startups.\"",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "This is great, though it still acts primarily as a sort of summer camp for entrepreneurship hopefuls, with a tight deadline in which they need to form teams, crack ideas and go to work. Goal",
           "link_text": "same level of personal involvement as historical patronage, they do provide financial backing and prestige to talented individuals, akin to room and board and a stipend in the Medici era.",
           "start": 1297
         },
         {
           "fact": "\"The Ivy League universities serve as another example of prestige and tradition overshadowing innovation and individuality.\"",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "prestigious but extremely ossified. YC probably isn't there yet, but then they're only a decade and half old! For another example, take Emergent Grants led by Tyler Cowen, which burst onto the world",
           "link_text": "backing and legitimacy to early-stage startups. However, they do not quite capture the essence of patronage, which involves identifying and fostering individual genius. Institutions tend to be",
           "start": 2186
         }
