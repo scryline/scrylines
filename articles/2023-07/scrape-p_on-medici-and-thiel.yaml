@@ -25,41 +25,41 @@
       "content": [
         {
           "fact": "\"entrepreneur and venture capitalist Peter Thiel launched a special program over a decade ago to encourage college students to drop out and pursue entrepreneurial ventures instead.\"",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "misdirected bit of philanthropy in this decade is Peter Thiel's special program to bribe people to",
           "link_text": "to drop out and pursue entrepreneurial ventures instead. With an annual investment of approximately",
           "start": 308
         },
         {
           "fact": "\"With an annual investment of approximately $2 million, Thiel sponsored 20-30 students each year, providing them with a $100,000 grant to support their endeavors.\"",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "annually, more than any other program by the foundation, or any other foundation for that matter.",
           "link_text": "[City], [State] - In a bold philanthropic move, entrepreneur and venture capitalist Peter Thiel",
           "start": 137
         },
         {
           "fact": "\"Among the successful recipients are notable figures such as Vitalik Buterin, the founder of Ethereum, Austin Russell, CEO of Luminar, and Dylan Field, the founder of Figma.\"",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "Other On Medici and Thiel We should radically scale genius grants Rohit Krishnan Jul 26, 2021 41",
           "link_text": "achieve significant success in their respective fields, making the program's hit ratio enviable",
           "start": 845
         },
         {
           "fact": "\"The rise of platforms like Patreon, Substack, and YouTube in the creator economy has not filled the void left by traditional patronage.\"",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "none of this fills the actual role a patron would've performed in the past. Patronage doesn't seem",
           "link_text": "support from fans or customers, while valuable, does not provide the same level of encouragement,",
           "start": 1875
         },
         {
           "fact": "\"One possibility is for Thiel to expand his fellowship program or for other billionaires to step up and support talented individuals.\"",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "to bribe people to drop out of college. Larry Summers Peter Thiel has a lot of ideas. One of them,",
           "link_text": "Peter Thiel launched a special program over a decade ago to encourage college students to drop out",
           "start": 221
         }
