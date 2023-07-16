@@ -28,6 +28,52 @@
       "source_url": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
       "type": "generated",
       "content": "Threads, the new social media app developed by Meta, has gained significant attention since its launch. The app, which has been described as Facebook's version of Twitter, allows users to create accounts, connect with friends, and start posting. Despite being a minimum viable product, Threads has managed to attract 10 million users in just one day.\n\nThe app, accessible through startupstrats.substack.com, has garnered praise for its seamless and highly performant launch. Unlike other similar apps such as Post, Spill, and Homunculous, Threads was available to users from day one. Users who already had an Instagram account received a notification and were able to join the app within seconds. This quick and easy onboarding process helped to address the issue of empty rooms and ensured that users had hundreds, if not thousands, of friends immediately.\n\nMeta's decision to build Threads using off-the-shelf technology and avoid unnecessary complexities has also contributed to its success. While the app is currently low on features, such as the absence of a Discover section and direct messages, Meta's focus on speed and simplicity has paid off. The company's previous experiences, particularly with crypto, have taught them the importance of not overcomplicating things.\n\nThe launch of Threads comes at a time when Twitter has faced criticism for its handling of controversial content and the rise of hate speech. Meta, having observed the mistakes made by its competitor, has capitalized on the opportunity to provide a more seamless and enjoyable user experience. This launch has been seen as evidence of Meta's growth and learning over the years.\n\nDespite the positive reception, there are concerns about the potential for hate speech and extremist groups to migrate from Twitter to Threads. Meta will need to actively monitor and address these issues to ensure the app remains a safe and inclusive platform.\n\nOverall, Threads has made a strong debut in the social media landscape, attracting millions of users in a short period of time. Meta's focus on simplicity, quick deployment, and learning from past mistakes has set the app apart from its competitors. As the app continues to evolve and add new features, it remains to be seen how it will shape the future of social media."
+    },
+    {
+      "source_url": "",
+      "type": "facts",
+      "content": [
+        {
+          "fact": "The first story Krishnan highlights revolves around Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds and task them with building a nuclear weapon.",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
+          "match": "(I feel strong @vgr energy in this tweet) 11:05 AM \u2219 Oct 26, 2021 2 Likes 1 Retweet Appendix 2 A key concern about pocket nukes or biological materials is of course terrorism. This thesis would indicate that yes, it's theoretically highly feasible for small scale creations to truly disrupt our lives. But what it also says is that this is difficult and requires highly trained, sophisticated folks",
+          "link_text": "The first story Krishnan highlights revolves around Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds and task them with building a nuclear weapon.",
+          "start": 562
+        },
+        {
+          "fact": "They simply visited libraries, researched various subjects related to nuclear physics, and stumbled upon relevant articles and publications.",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
+          "match": "the Berkeley scientists, said that. As you'll note there's not much that's elaborate or byzantine there. But let's not stop with nukes. When you look at the world of hobbyist biohackers , you see the same pattern. Folks who have cobbled together some knowledge from open sourced papers and YouTube, accessibility of gene-editing tools like Crispr, and go all in on self experimentation. Whenever I",
+          "link_text": "They simply visited libraries, researched various subjects related to nuclear physics, and stumbled upon relevant articles and publications.",
+          "start": 1080
+        },
+        {
+          "fact": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
+          "match": "Copy link Facebook Email Notes Other 17 Share Here are two stories about tacit knowledge. Lawrence Radiation Laboratory hired three fresh PhDs with little nuclear physics background and asked them to go build a nuke, and they did . The DoE in the 1990s realised they didn't know how to make a particular foam crucial to nuclear warheads, and spent a decade and $70m inventing a substitute - (h/t",
+          "link_text": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
+          "start": 1221
+        },
+        {
+          "fact": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
+          "match": "that the difference amongst the stories is in the forms of tacit knowledge they imply. The first story had its tacit implicit knowledge regarding a problem. Re these we're pretty good at experimenting, thinking and figuring out a solution. The second story had its regarding a complex coordination issue where its tacit process knowledge , we find ourselves floundering. It's a version of the",
+          "link_text": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
+          "start": 1884
+        },
+        {
+          "fact": "While obtaining documentation may seem like the primary obstacle, the real challenge lies in acquiring individuals with the necessary know-how.",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
+          "match": "which are either uplifting or disquieting depending on your mood. Almost any tool or technique eventually will be, and can be, figured out by smart people working on the problem Almost all scaling up that requires manufacturing and organisational knowhow will remain hard to easily copy Its worth noting that we have blocked both of these in different ways. The former by gatekeeping and calling the",
+          "link_text": "While obtaining documentation may seem like the primary obstacle, the real challenge lies in acquiring individuals with the necessary know-how.",
+          "start": 2028
+        }
+      ]
     }
   ],
   "filename": "scrape-p_threads-is-the-real-mvp"
