@@ -24,44 +24,44 @@
       "type": "facts",
       "content": [
         {
-          "fact": "Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-          "match": "(I feel strong @vgr energy in this tweet) 11:05 AM \u2219 Oct 26, 2021 2 Likes 1 Retweet Appendix 2 A key concern about pocket nukes or biological materials is of course terrorism. This thesis would indicate that yes, it's theoretically highly feasible for small scale creations to truly disrupt our lives. But what it also says is that this is difficult and requires highly trained, sophisticated folks",
-          "link_text": "Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds",
-          "start": 614
-        },
-        {
-          "fact": "successfully accomplished the mission",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-          "match": "left Company X to join Company Y and found themselves unable to replicate the speed and innovativeness of X, the reason they were hired I taught my son how to ride his bike by explaining how it works broadly, letting his play with it, and encouraging when he did the right things In all these instances, the commonality is that there is a black box that sits between the input and the output. You",
-          "link_text": "successfully accomplished the mission",
-          "start": 797
+          "fact": "The first story Krishnan highlights revolves around Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds and task them with building a nuclear weapon.",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "The first story Krishnan highlights revolves around Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds and task them with building a nuclear weapon.",
+          "start": 562
         },
         {
           "fact": "They simply visited libraries, researched various subjects related to nuclear physics, and stumbled upon relevant articles and publications.",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-          "match": "the Berkeley scientists, said that. As you'll note there's not much that's elaborate or byzantine there. But let's not stop with nukes. When you look at the world of hobbyist biohackers , you see the same pattern. Folks who have cobbled together some knowledge from open sourced papers and YouTube, accessibility of gene-editing tools like Crispr, and go all in on self experimentation. Whenever I",
+          "check": null,
+          "source": null,
+          "match": "",
           "link_text": "They simply visited libraries, researched various subjects related to nuclear physics, and stumbled upon relevant articles and publications.",
           "start": 1080
         },
         {
-          "fact": "self-education and perseverance have historically driven scientific advancements",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-          "match": "former by gatekeeping and calling the discovery process of science DIY or biohacking, and the latter by trapping the manufacturing knowhow in such incredible bureaucratisation that even we can't replicate it, let alone the spies. That's why we love looking at institutions like DARPA and marvel at its efficacy while not being able to replicate it ... It's not just about what they did, but culture.",
-          "link_text": "self-education and perseverance have historically driven scientific advancements",
-          "start": 1500
+          "fact": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
+          "start": 1221
         },
         {
-          "fact": "gatekeeping and bureaucratic barriers have hindered the replication of such knowledge",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-          "match": "and $70m inventing a substitute - (h/t Leopold ) They pleasingly mirror each other, which is nice for storytelling but kind of a paradox. In one, we spend untold millions in figuring out the smallest moving part to manufacture, and in the other some smart alec fresh faces postdocs made a goddamn nuke. So which is it, tacit knowledge is impossible to easily replicate or smart folks can just figure",
-          "link_text": "gatekeeping and bureaucratic barriers have hindered the replication of such knowledge",
-          "start": 2589
+          "fact": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
+          "start": 1884
+        },
+        {
+          "fact": "Krishnan concludes that while tools and techniques can eventually be figured out by smart individuals, scaling up processes requiring manufacturing and organizational expertise remains arduous.",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "Krishnan concludes that while tools and techniques can eventually be figured out by smart individuals, scaling up processes requiring manufacturing and organizational expertise remains arduous.",
+          "start": 2369
         }
       ]
     },
