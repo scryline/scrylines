@@ -18,6 +18,52 @@
       "source_url": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
       "type": "generated",
       "content": "Threads, a new social media app developed by Meta (formerly known as Facebook), has gained significant attention since its launch. The app, which can be accessed at startupstrats.substack.com/p/threads-is-the-real-mvp, has been described as Facebook's version of Twitter.\n\nUsers can create an account on Threads, either by signing up directly or by importing their existing Instagram account. Once registered, they can connect with friends and start posting, similar to how Twitter functions. However, Threads is currently considered a minimum viable product, lacking some key features such as a discover section, direct messages, and functional hashtags.\n\nDespite its limited functionality, Threads has managed to attract an impressive number of users within just one day of its release. Meta's extensive development budget and utilization of open-source technology have contributed to this achievement. The company has successfully avoided the controversies it faced with cryptocurrency in the past and focused on creating a fast and efficient app.\n\nThreads operates as an interface to the ActivityPub protocol, allowing users to interact with platforms like Mastodon. This approach sets Threads apart from BlueSky, another social media app that relies on the open-source AT protocol. The competition between these two protocols may lead to a future showdown reminiscent of the VHS vs. Betamax battle.\n\nMeta's strategy for launching Threads involved prioritizing speed and accessibility. Unlike other apps, such as Post, Spill, and Homunculous, Threads was available immediately upon its release. Users with Instagram accounts received notifications and could start using the app without any delays. This approach helped Threads overcome the challenge of building an active user base from scratch.\n\nMeta also learned from the mistakes made by Twitter in managing a Twitter-like social media service. They observed the controversy surrounding Twitter and took notes on how not to run a platform. This approach has resulted in a seamless, highly performant, and enjoyable user experience on Threads.\n\nWhile some may harbor negative sentiments towards Meta and its parent company, Facebook, the launch of Threads demonstrates the potential for growth and improvement. Meta's ability to learn from past errors and create a successful product launch indicates a level of education and progress. However, concerns remain about the potential presence of extremist groups and cryptocurrency enthusiasts on the platform.\n\nOverall, Threads has made a significant impact in the social media landscape, and its rapid growth suggests that it may become a formidable competitor to existing platforms. To access the web page discussed in this article, visit startupstrats.substack.com/p/threads-is-the-real-mvp."
+    },
+    {
+      "source_url": "",
+      "type": "facts",
+      "content": [
+        {
+          "fact": "Users can create an account on Threads, either by signing up directly or by importing their existing Instagram account.",
+          "check": true,
+          "source": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
+          "match": "quickly. The first moral? Build quickly using off-the-shelf technology. And don\u2019t try to get too fancy. Then the app launch just worked. Unlike the rest of the apps like Post, Spill, and Homunculous (one of those is fake), Threads was available from day one. If you had an Instagram account you also got a notification and you were able to pop on in a second. This led to users having hundreds if",
+          "link_text": "Users can create an account on Threads, either by signing up directly or by importing their existing Instagram account.",
+          "start": 273
+        },
+        {
+          "fact": "Threads is currently considered a minimum viable product, lacking some key features such as a discover section, direct messages, and functional hashtags.",
+          "check": true,
+          "source": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
+          "match": "Share this post Threads is the real MVP startupstrats.substack.com Copy link Facebook Email Notes Other Share Comments Top New Community No posts Ready for more? Subscribe \u00a9 2023 John Biggs Privacy \u2219 Terms \u2219 Collection notice Start Writing Get the app Substack is the home for great writing            This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts",
+          "link_text": "Threads is currently considered a minimum viable product, lacking some key features such as a discover section, direct messages, and functional hashtags.",
+          "start": 502
+        },
+        {
+          "fact": "Threads operates as an interface to the ActivityPub protocol, allowing users to interact with platforms like Mastodon.",
+          "check": true,
+          "source": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
+          "match": "It\u2019s destroyed democracy, shut down discourse, and commodified attention. That said, maybe Meta has learned a little something over the years and I think this launch - seamless, highly performant, and fun - is evidence of that education. Now we just have to hope the Nazis and crypto bros stay over on Twitter. Photo by K15 Photos on Unsplash 5 Share this post Threads is the real MVP",
+          "link_text": "Threads operates as an interface to the ActivityPub protocol, allowing users to interact with platforms like Mastodon.",
+          "start": 1052
+        },
+        {
+          "fact": "This approach sets Threads apart from BlueSky, another social media app that relies on the open-source AT protocol.",
+          "check": true,
+          "source": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
+          "match": "Share this post Threads is the real MVP startupstrats.substack.com Copy link Facebook Email Notes Other Share Comments Top New Community No posts Ready for more? Subscribe \u00a9 2023 John Biggs Privacy \u2219 Terms \u2219 Collection notice Start Writing Get the app Substack is the home for great writing            This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts",
+          "link_text": "This approach sets Threads apart from BlueSky, another social media app that relies on the open-source AT protocol.",
+          "start": 1171
+        },
+        {
+          "fact": "Unlike other apps, such as Post, Spill, and Homunculous, Threads was available immediately upon its release.",
+          "check": true,
+          "source": "https://startupstrats.substack.com/p/threads-is-the-real-mvp",
+          "match": "Share this post Threads is the real MVP startupstrats.substack.com Copy link Facebook Email Notes Other Share Comments Top New Community No posts Ready for more? Subscribe \u00a9 2023 John Biggs Privacy \u2219 Terms \u2219 Collection notice Start Writing Get the app Substack is the home for great writing            This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts",
+          "link_text": "Unlike other apps, such as Post, Spill, and Homunculous, Threads was available immediately upon its release.",
+          "start": 1490
+        }
+      ]
     }
   ],
   "filename": "scrape-p_threads-is-the-real-mvp"
