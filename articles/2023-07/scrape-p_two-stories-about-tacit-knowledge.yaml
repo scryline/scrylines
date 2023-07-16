@@ -40,12 +40,20 @@
           "start": 1080
         },
         {
-          "fact": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking.",
+          "fact": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking",
+          "link_text": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
           "start": 1221
+        },
+        {
+          "fact": "The article further explores the notion that self-education and perseverance have historically driven scientific advancements.",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "The article further explores the notion that self-education and perseverance have historically driven scientific advancements.",
+          "start": 1455
         },
         {
           "fact": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
@@ -53,14 +61,6 @@
           "source": null,
           "match": "",
           "link_text": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
-          "start": 1884
-        },
-        {
-          "fact": "The real challenge lies in acquiring individuals with the necessary know-how. This highlights the irreplicable nature of organizational culture.",
-          "check": null,
-          "source": null,
-          "match": "",
-          "link_text": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge. While obtaining documentation may seem like the primary obstacle, the real challenge lies in acquiring individuals with the necessary know-how. This highlights the irreplicable nature of organizational culture, which encompasses a multitude of factors",
           "start": 1884
         }
       ]
