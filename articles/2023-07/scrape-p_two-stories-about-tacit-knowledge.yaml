@@ -24,20 +24,20 @@
       "type": "facts",
       "content": [
         {
-          "fact": "The web page, available at https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge, explores the paradoxical nature of tacit knowledge and its implications for scientific discoveries, industrial espionage, and organizational culture.",
+          "fact": "Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The web page, available at https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge, explores the paradoxical nature of tacit knowledge and its implications for scientific discoveries, industrial espionage, and organizational culture.",
-          "start": 314
+          "link_text": "Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds",
+          "start": 614
         },
         {
-          "fact": "The first story Krishnan highlights revolves around Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds and task them with building a nuclear weapon.",
+          "fact": "successfully accomplished the mission",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The first story Krishnan highlights revolves around Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds and task them with building a nuclear weapon.",
-          "start": 562
+          "link_text": "successfully accomplished the mission",
+          "start": 797
         },
         {
           "fact": "They simply visited libraries, researched various subjects related to nuclear physics, and stumbled upon relevant articles and publications.",
@@ -48,20 +48,20 @@
           "start": 1080
         },
         {
-          "fact": "The article further explores the notion that self-education and perseverance have historically driven scientific advancements.",
+          "fact": "self-education and perseverance have historically driven scientific advancements",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The article further explores the notion that self-education and perseverance have historically driven scientific advancements.",
-          "start": 1455
+          "link_text": "self-education and perseverance have historically driven scientific advancements",
+          "start": 1500
         },
         {
-          "fact": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
+          "fact": "gatekeeping and bureaucratic barriers have hindered the replication of such knowledge",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
-          "start": 1884
+          "link_text": "gatekeeping and bureaucratic barriers have hindered the replication of such knowledge",
+          "start": 2589
         }
       ]
     }
