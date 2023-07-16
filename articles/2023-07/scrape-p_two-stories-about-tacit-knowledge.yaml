@@ -25,46 +25,43 @@
       "content": [
         {
           "fact": "The first story Krishnan highlights revolves around Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds and task them with building a nuclear weapon.",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-          "match": "(I feel strong @vgr energy in this tweet) 11:05 AM \u2219 Oct 26, 2021 2 Likes 1 Retweet Appendix 2 A key concern about pocket nukes or biological materials is of course terrorism. This thesis would indicate that yes, it's theoretically highly feasible for small scale creations to truly disrupt our lives. But what it also says is that this is difficult and requires highly trained, sophisticated folks",
+          "check": null,
+          "source": null,
+          "match": "",
           "link_text": "The first story Krishnan highlights revolves around Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds and task them with building a nuclear weapon.",
-          "start": 562,
-          "source_start": 454
+          "start": 562
         },
         {
           "fact": "They simply visited libraries, researched various subjects related to nuclear physics, and stumbled upon relevant articles and publications.",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-          "match": "the Berkeley scientists, said that. As you'll note there's not much that's elaborate or byzantine there. But let's not stop with nukes. When you look at the world of hobbyist biohackers , you see the same pattern. Folks who have cobbled together some knowledge from open sourced papers and YouTube, accessibility of gene-editing tools like Crispr, and go all in on self experimentation. Whenever I",
+          "check": null,
+          "source": null,
+          "match": "",
           "link_text": "They simply visited libraries, researched various subjects related to nuclear physics, and stumbled upon relevant articles and publications.",
-          "start": 1080,
-          "source_start": 1149
+          "start": 1080
         },
         {
           "fact": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-          "match": "Copy link Facebook Email Notes Other 17 Share Here are two stories about tacit knowledge. Lawrence Radiation Laboratory hired three fresh PhDs with little nuclear physics background and asked them to go build a nuke, and they did . The DoE in the 1990s realised they didn't know how to make a particular foam crucial to nuclear warheads, and spent a decade and $70m inventing a substitute - (h/t",
+          "check": null,
+          "source": null,
+          "match": "",
           "link_text": "This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.",
           "start": 1221
         },
         {
           "fact": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-          "match": "that the difference amongst the stories is in the forms of tacit knowledge they imply. The first story had its tacit implicit knowledge regarding a problem. Re these we're pretty good at experimenting, thinking and figuring out a solution. The second story had its regarding a complex coordination issue where its tacit process knowledge , we find ourselves floundering. It's a version of the",
+          "check": null,
+          "source": null,
+          "match": "",
           "link_text": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
-          "start": 1884,
-          "source_start": 4677
+          "start": 1884
         },
         {
-          "fact": "Krishnan acknowledges that the path of the autodidact is not without challenges, as certain forms of tacit knowledge remain difficult to replicate.",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
-          "match": "floundering. It's a version of the butterfly effect but for compounding errors. Even the types of tacit knowledge often discussed, like embodied knowledge, are aspects that are similar to the implicit knowledge above. Learning to ride a bike? Same, the embodied aspects of it have to be experimented with to be understood. But once experimented it can be understood, by almost everyone. Even an AI",
-          "link_text": "Krishnan acknowledges that the path of the autodidact is not without challenges, as certain forms of tacit knowledge remain difficult to replicate.",
-          "start": 1735
+          "fact": "While obtaining documentation may seem like the primary obstacle, the real challenge lies in acquiring individuals with the necessary know-how.",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "While obtaining documentation may seem like the primary obstacle, the real challenge lies in acquiring individuals with the necessary know-how.",
+          "start": 2028
         }
       ]
     },
