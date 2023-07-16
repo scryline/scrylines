@@ -25,45 +25,50 @@
       "content": [
         {
           "fact": "Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
+          "match": "(I feel strong @vgr energy in this tweet) 11:05 AM \u2219 Oct 26, 2021 2 Likes 1 Retweet Appendix 2 A key concern about pocket nukes or biological materials is of course terrorism. This thesis would indicate that yes, it's theoretically highly feasible for small scale creations to truly disrupt our lives. But what it also says is that this is difficult and requires highly trained, sophisticated folks",
           "link_text": "Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds",
           "start": 614
         },
         {
           "fact": "successfully accomplished the mission",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
+          "match": "left Company X to join Company Y and found themselves unable to replicate the speed and innovativeness of X, the reason they were hired I taught my son how to ride his bike by explaining how it works broadly, letting his play with it, and encouraging when he did the right things In all these instances, the commonality is that there is a black box that sits between the input and the output. You",
           "link_text": "successfully accomplished the mission",
           "start": 797
         },
         {
           "fact": "They simply visited libraries, researched various subjects related to nuclear physics, and stumbled upon relevant articles and publications.",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
+          "match": "the Berkeley scientists, said that. As you'll note there's not much that's elaborate or byzantine there. But let's not stop with nukes. When you look at the world of hobbyist biohackers , you see the same pattern. Folks who have cobbled together some knowledge from open sourced papers and YouTube, accessibility of gene-editing tools like Crispr, and go all in on self experimentation. Whenever I",
           "link_text": "They simply visited libraries, researched various subjects related to nuclear physics, and stumbled upon relevant articles and publications.",
           "start": 1080
         },
         {
           "fact": "self-education and perseverance have historically driven scientific advancements",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
+          "match": "former by gatekeeping and calling the discovery process of science DIY or biohacking, and the latter by trapping the manufacturing knowhow in such incredible bureaucratisation that even we can't replicate it, let alone the spies. That's why we love looking at institutions like DARPA and marvel at its efficacy while not being able to replicate it ... It's not just about what they did, but culture.",
           "link_text": "self-education and perseverance have historically driven scientific advancements",
           "start": 1500
         },
         {
           "fact": "gatekeeping and bureaucratic barriers have hindered the replication of such knowledge",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge",
+          "match": "and $70m inventing a substitute - (h/t Leopold ) They pleasingly mirror each other, which is nice for storytelling but kind of a paradox. In one, we spend untold millions in figuring out the smallest moving part to manufacture, and in the other some smart alec fresh faces postdocs made a goddamn nuke. So which is it, tacit knowledge is impossible to easily replicate or smart folks can just figure",
           "link_text": "gatekeeping and bureaucratic barriers have hindered the replication of such knowledge",
           "start": 2589
         }
       ]
+    },
+    {
+      "source_url": "",
+      "type": "annotated",
+      "content": "Title: Two Stories About Tacit Knowledge: Exploring the Paradox of Replication\n\nBy Rohit Krishnan\n\nOctober 25, 2021\n\nStrange Loop Canon - In a thought-provoking article, Rohit Krishnan delves into the concept of tacit knowledge by presenting two intriguing stories that challenge our understanding of replication. The web page, available at https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge, explores the paradoxical nature of tacit knowledge and its implications for scientific discoveries, industrial espionage, and organizational culture.\n\nThe first story Krishnan highlights revolves around [Lawrence Radiation Laboratory's decision to hire three fresh PhDs with limited nuclear physics backgrounds](https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge)#614 and task them with building a nuclear weapon. To the surprise of many, they [successfully accomplished the mission](https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge)#797. This raises the question of whether tacit knowledge is truly difficult to replicate or if smart individuals can figure things out on their own.\n\nKrishnan emphasizes that the process employed by the postdocs was not overly elaborate or complex. [They simply visited libraries, researched various subjects related to nuclear physics, and stumbled upon relevant articles and publications.](https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge)#1080 This pattern of knowledge acquisition is not limited to nuclear physics but can also be observed in fields like biohacking, where hobbyists gather knowledge from open-sourced papers and YouTube tutorials to conduct self-experiments.\n\nThe article further explores the notion that [self-education and perseverance have historically driven scientific advancements](https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge)#1500. It highlights instances where self-taught individuals have made significant contributions to fields like data science and software development. However, Krishnan acknowledges that the path of the autodidact is not without challenges, as certain forms of tacit knowledge remain difficult to replicate.\n\nThe second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge. While obtaining documentation may seem like the primary obstacle, the real challenge lies in acquiring individuals with the necessary know-how. This highlights the irreplicable nature of organizational culture, which encompasses a multitude of factors such as decision-making criteria, information processing, and innovation encouragement.\n\nKrishnan concludes that while tools and techniques can eventually be figured out by smart individuals, scaling up processes requiring manufacturing and organizational expertise remains arduous. The article suggests that [gatekeeping and bureaucratic barriers have hindered the replication of such knowledge](https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge)#2589.\n\nIn exploring the paradox of tacit knowledge, Krishnan raises important questions about the nature of replication, the role of culture in organizations, and the potential implications for fields like terrorism. The article provides thought-provoking insights into the complexities of knowledge production and its reproduction in various contexts.\n\nFor further details and a more in-depth analysis of the two stories about tacit knowledge, readers can visit the web page at https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge.\n\nNote: This article was written in accordance with the Associated Press (AP) style guidelines."
     }
   ],
   "filename": "scrape-p_two-stories-about-tacit-knowledge"
