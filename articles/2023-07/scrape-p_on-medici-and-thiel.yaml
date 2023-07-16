@@ -25,41 +25,41 @@
       "content": [
         {
           "fact": "entrepreneur and venture capitalist Peter Thiel launched a special program over a decade ago to encourage college students to drop out and pursue entrepreneurial ventures instead.",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "opposed to most of the process, we end up making decisions on their proposed theses as well as the talent in executing those thesis. Which is a sufficiently different ballgame! It also pushes the talent to come up with ideas that are fundable by the money providers. There's another program that's somewhat similar, called SciFounders (which actually seems awesome). But even they have an idea +",
           "link_text": "Considering the substantial return on investment, it begs the question: why aren't there more initiatives like this? Thiel's program appears to be an isolated example of modern patronage, reminiscent of the financial support provided by the Medici family during the Renaissance. While Thiel's grants",
           "start": 977
         },
         {
           "fact": "With an annual investment of approximately $2 million, Thiel sponsored 20-30 students each year, providing them with a $100,000 grant to support their endeavors.",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "is the YC of talent identification and encouragement. We either need Thiel to step up and 100x his fellowship, or a 100 other billionaires to step up and stop whining about talent. We need more actual patronage, ones that provide both social and financial capital, and encourages more talented folk to pursue their vision. We need to try and figure out how good our talent recognition is and can be,",
           "link_text": "Considering the substantial return on investment, it begs the question: why aren't there more initiatives like this? Thiel's program appears to be an isolated example of modern patronage, reminiscent of the financial support provided by the Medici family during the Renaissance. While Thiel's grants",
           "start": 977
         },
         {
           "fact": "Among the successful recipients are notable figures such as Vitalik Buterin, the founder of Ethereum, Austin Russell, CEO of Luminar, and Dylan Field, the founder of Figma.",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "and massages so $30m. To compare this, he individually contributed $20m just recently to the Senate races in Arizona. For ROI on spend, what's even remotely comparable? Having the creator of Ethereum and a bunch of unicorns see you as their patron, or being one of the contributors to a challenger's Senate race? For comparison, a top 20 funds chart from a couple years ago. I\u2019m sure plenty funds",
           "link_text": "Note: The article is based on the web content found at https://www.strangeloopcanon.com/p/on-medici-and-thiel",
           "start": 3839
         },
         {
           "fact": "The rise of platforms like Patreon, Substack, and YouTube in the creator economy has not filled the void left by traditional patronage.",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "It's incumbent on us to fight against this market failure. This phenomenon also seems true because we\u2019ve stopped providing patronage to selected individuals, and instead started funding institutions or entire movements, like the Koch brothers or Soros. In trying to scale it up we've robbed it of its actual purpose. Lorenzo Medici, it must be noted, spent the modern equivalent of $450m over the",
           "link_text": "The lack of focus on individual talent recognition and encouragement is a missed opportunity. Institutions like Y Combinator (YC) exist, providing financial backing and legitimacy to early-stage startups. However, they do not quite capture the essence of patronage, which involves identifying and",
           "start": 2029
         },
         {
           "fact": "Institutions like Y Combinator (YC) exist, providing financial backing and legitimacy to early-stage startups.",
-          "check": null,
-          "source": null,
-          "match": "",
+          "check": true,
+          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "match": "room to play! Objection 3: We'd just be encouraging indolence if we fund talent without an output For some folks, probably. But almost by definition, you have to swing hard for the fences to get out of distribution outcomes. Ask any early stage VC. Plus what gets measured gets managed. Have you seen the hundreds of articles on what it takes to get into YC, what type of job market papers to write",
           "link_text": "Considering the substantial return on investment, it begs the question: why aren't there more initiatives like this? Thiel's program appears to be an isolated example of modern patronage, reminiscent of the financial support provided by the Medici family during the Renaissance. While Thiel's grants",
           "start": 977
         }
