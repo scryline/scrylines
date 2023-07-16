@@ -345,44 +345,44 @@
       "type": "facts",
       "content": [
         {
-          "fact": "The U.S. Navy detected the likely implosion of the missing Titan submersible",
+          "fact": "The video, which can be viewed here (https://www.youtube.com/watch?v=kxud6ZQKmMw), begins by emphasizing the life-changing prize that was promised to the passengers on board the Titan.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The U.S. Navy detected the likely implosion of the missing Titan submersible",
-          "start": 0
+          "link_text": "The video, which can be viewed here (https://www.youtube.com/watch?v=kxud6ZQKmMw), begins by emphasizing the life-changing prize that was promised to the passengers on board the Titan.",
+          "start": 396
         },
         {
-          "fact": "a five-day search",
+          "fact": "As the video unfolds, it becomes clear that catastrophe struck somewhere along the 3.8-kilometer descent into the hostile depths of the North Atlantic Ocean.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "a five-day search",
-          "start": 178
+          "link_text": "As the video unfolds, it becomes clear that catastrophe struck somewhere along the 3.8-kilometer descent into the hostile depths of the North Atlantic Ocean.",
+          "start": 686
         },
         {
-          "fact": "The 22-foot-long, Titanic-touring vessel was carrying four tourists and a pilot",
+          "fact": "Experts in deep-sea exploration, such as Robert McCallum, provide insights into the allure and tragedy of the Titanic.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The 22-foot-long, Titanic-touring vessel was carrying four tourists and a pilot",
-          "start": 916
+          "link_text": "Experts in deep-sea exploration, such as Robert McCallum, provide insights into the allure and tragedy of the Titanic.",
+          "start": 1573
         },
         {
-          "fact": "roughly 900 miles off the coast of Cape Cod",
+          "fact": "The search for the missing Titan submersible and its crew becomes a race against time, with the world anxiously awaiting news of their fate.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "roughly 900 miles off the coast of Cape Cod",
-          "start": 1090
+          "link_text": "The search for the missing Titan submersible and its crew becomes a race against time, with the world anxiously awaiting news of their fate.",
+          "start": 3059
         },
         {
-          "fact": "All five of the people aboard the vessel were declared dead",
+          "fact": "The U.S. Navy disclosed that they detected sounds consistent with an implosion shortly after the sub lost contact during a descent to the Titanic wreck at a depth of 3,800 meters (12,467 feet) below sea level.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "All five of the people aboard the vessel were declared dead",
-          "start": 1789
+          "link_text": "Navy disclosed that they detected sounds consistent with an implosion shortly after the sub lost contact during a descent to the Titanic wreck at a depth of 3,800 meters (12,467 feet) below sea level. This inf",
+          "start": 4697
         }
       ]
     },
