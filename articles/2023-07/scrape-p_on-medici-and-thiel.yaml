@@ -24,43 +24,43 @@
       "type": "facts",
       "content": [
         {
-          "fact": "\"With an annual investment of approximately $2 million, Thiel sponsored 20-30 students each year, providing them with a $100,000 grant to support their endeavors.\"",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
-          "match": "is the YC of talent identification and encouragement. We either need Thiel to step up and 100x his fellowship, or a 100 other billionaires to step up and stop whining about talent. We need more actual patronage, ones that provide both social and financial capital, and encourages more talented folk to pursue their vision. We need to try and figure out how good our talent recognition is and can be,",
-          "link_text": "\"With an annual investment of approximately $2 million, Thiel sponsored 20-30 students each year, providing them with a $100,000 grant to support their endeavors.\"",
+          "fact": "\"With an annual investment of approximately $2 million, Thiel sponsored 20-30 students each year.\"",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "\"With an annual investment of approximately $2 million, Thiel sponsored 20-30 students each year.\"",
           "start": null
         },
         {
           "fact": "\"Among the successful recipients are notable figures such as Vitalik Buterin, the founder of Ethereum, Austin Russell, CEO of Luminar, and Dylan Field, the founder of Figma.\"",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
-          "match": "opaque and, more to the point, tiny! They\u2019re the same size as Thiel Fellowships, 20-30 people annually, which means the cumulative number of Fellows is still sub 1000, and that\u2019s over 40 years! And it still boasts Stephen J Gould and Tim Berners-Lee and Susan Sontag and Irving Feldman and dozens more who are also incredibly accomplished. What we need is the YC of talent identification and",
-          "link_text": "The corresponding phrase in the article is: \"The results of Thiel's program, known as the Thiel Fellowship, have been impressive.\"",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "",
+          "start": null
+        },
+        {
+          "fact": "\"These individuals, along with many others, have gone on to achieve significant success in their respective fields.\"",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "\"These individuals, along with many others, have gone on to achieve significant success in their respective fields.\"",
           "start": null
         },
         {
           "fact": "\"The rise of platforms like Patreon, Substack, and YouTube in the creator economy has not filled the void left by traditional patronage.\"",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
-          "match": "It's incumbent on us to fight against this market failure. This phenomenon also seems true because we\u2019ve stopped providing patronage to selected individuals, and instead started funding institutions or entire movements, like the Koch brothers or Soros. In trying to scale it up we've robbed it of its actual purpose. Lorenzo Medici, it must be noted, spent the modern equivalent of $450m over the",
+          "check": null,
+          "source": null,
+          "match": "",
           "link_text": "\"The rise of platforms like Patreon, Substack, and YouTube in the creator economy has not filled the void left by traditional patronage.\"",
           "start": null
         },
         {
           "fact": "\"Institutions like Y Combinator (YC) exist, providing financial backing and legitimacy to early-stage startups.\"",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
-          "match": "awesome). But even they have an idea + talent view of things, making the grant more akin to YC. Also, there's a reason tenure as it stands is not dependent on the specifics of what they're going to work on in the future. Nish @nterminus @mattkrisiloff , @CRISPR_LuCas , and I are launching applications for the second batch of the SciFounders program! We fund & help scientists (in academia or",
-          "link_text": "The phrase in the article that best corresponds to the fact \"Institutions like Y Combinator (YC) exist, providing financial backing and legitimacy to early-stage startups\" is: \"Institutions like Y Combinator (YC) exist, providing financial backing and legitimacy to early-stage startups.\"",
-          "start": null
-        },
-        {
-          "fact": "\"The Ivy League universities serve as another example of prestige and tradition overshadowing innovation and individuality.\"",
-          "check": true,
-          "source": "https://www.strangeloopcanon.com/p/on-medici-and-thiel",
-          "match": "something that fundamentally distracted them from their research. The moving of art and science from the realm of spirited genius amateurs to accredited professions meant that the funding institutions matured too. No longer did they need to rely on the largesse of the occasional duke to get things done, they could rely on actual public government funding and longstanding institutions to pursue",
-          "link_text": "The phrase in the article that best corresponds to the fact \"The Ivy League universities serve as another example of prestige and tradition overshadowing innovation and individuality\" is:\n\n\"The Ivy League universities serve as another example of prestige and tradition overshadowing innovation and individuality.\"",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "",
           "start": null
         }
       ]
