@@ -339,6 +339,52 @@
       "source_url": "https://www.npr.org/2023/06/23/1183976726/titan-titanic-sub-implosion-navy",
       "type": "generated",
       "content": "The U.S. Navy detected the likely implosion of the missing Titan submersible hours before the U.S. Coast Guard publicly shared that it had gone missing \u2014 a revelation that means a five-day search that sparked round-the-clock media coverage may have been futile from the start. The Navy detected \"an anomaly consistent with an implosion or explosion\" in acoustic data taken from the same area where the Titan went missing, a senior Navy official told NPR in a written statement. A second official confirmed to NPR that it had registered that acoustic data on Sunday.\n\n\"It was immediately shared with the Incident Commander to assist with the ongoing search and rescue mission,\" the first official said. \"The decision was made to continue our mission as a search and rescue and make every effort to save the lives on board.\" It was midday Monday that the Coast Guard first tweeted that it was searching for the Titan. The 22-foot-long, Titanic-touring vessel was carrying four tourists and a pilot when it lost communication with its control ship less than two hours into its dive on Sunday, roughly 900 miles off the coast of Cape Cod.\n\nThe massive search operation involved international ships, surveillance aircraft, and undersea drones. Officials and experts from the unified command consistently told reporters that the Titan's passengers may be subsisting on emergency oxygen supplies. When asked as late as Thursday morning whether he had hope for rescuing the sub's passengers, U.S. Coast Guard Rear Adm. John Mauger said that \"people's will to survive\" must be considered in complex search operations. The world watched along in fascination until a remote-operated vehicle found the sub's tail cone and other debris on the seafloor, approximately 1,600 feet from the Titanic's bow. All five of the people aboard the vessel were declared dead.\n\nThe Coast Guard confirmed to NPR it was aware of the data as part of the unified search command. OceanGate, the private company behind the sub, was also part of the unified command. In response to NPR's request for confirmation that OceanGate knew of the Navy's acoustic data, spokesperson Andrew Von Kerens responded by saying the company had \"no additional information to share.\" The exact cause of the implosion is still unknown, and the unified search command said it would continue scanning the site where it uncovered the Titan debris.\n\nThe safety record of OceanGate, and the Titan's ability to withstand the pressure at depths of more than 12,000 feet, had both been called into question in recent days. Industry experts, former employees, and previous passengers had all raised concerns, especially about the experimental design of the hull. Oceanographer Bob Ballard, who has conducted over 150 deep-sea expeditions, said that the public may not \"appreciate the amazing energy\" behind an undersea implosion. Ballard told ABC News on Thursday that \"it literally shreds everything. It's extremely powerful.\" NPR's Tom Bowman contributed reporting.\n\nFor more information, please visit: https://www.npr.org/2023/06/23/1183976726/titan-titanic-sub-implosion-navy"
+    },
+    {
+      "source_url": "",
+      "type": "facts",
+      "content": [
+        {
+          "fact": "The U.S. Navy detected the likely implosion of the missing Titan submersible",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "The U.S. Navy detected the likely implosion of the missing Titan submersible",
+          "start": 0
+        },
+        {
+          "fact": "a five-day search",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "a five-day search",
+          "start": 178
+        },
+        {
+          "fact": "The 22-foot-long, Titanic-touring vessel was carrying four tourists and a pilot",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "The 22-foot-long, Titanic-touring vessel was carrying four tourists and a pilot",
+          "start": 916
+        },
+        {
+          "fact": "roughly 900 miles off the coast of Cape Cod",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "roughly 900 miles off the coast of Cape Cod",
+          "start": 1090
+        },
+        {
+          "fact": "All five of the people aboard the vessel were declared dead",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "All five of the people aboard the vessel were declared dead",
+          "start": 1789
+        }
+      ]
     }
   ],
   "filename": "youtube-scrape-dd54f016"
