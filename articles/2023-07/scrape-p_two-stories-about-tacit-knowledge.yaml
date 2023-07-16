@@ -48,20 +48,20 @@
           "start": 1221
         },
         {
-          "fact": "The article further explores the notion that self-education and perseverance have historically driven scientific advancements.",
-          "check": null,
-          "source": null,
-          "match": "",
-          "link_text": "The article further explores the notion that self-education and perseverance have historically driven scientific advancements.",
-          "start": 1455
-        },
-        {
           "fact": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
           "check": null,
           "source": null,
           "match": "",
           "link_text": "The second story Krishnan presents focuses on industrial espionage and the struggles faced by spies attempting to replicate explicit knowledge.",
           "start": 1884
+        },
+        {
+          "fact": "While obtaining documentation may seem like the primary obstacle, the real challenge lies in acquiring individuals with the necessary know-how.",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "While obtaining documentation may seem like the primary obstacle, the real challenge lies in acquiring individuals with the necessary know-how.",
+          "start": 2028
         }
       ]
     }
