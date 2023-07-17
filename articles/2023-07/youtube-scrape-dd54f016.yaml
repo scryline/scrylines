@@ -345,12 +345,12 @@
       "type": "facts",
       "content": [
         {
-          "fact": "The video, which can be viewed here (https://www.youtube.com/watch?v=kxud6ZQKmMw), begins by emphasizing the life-changing prize that was promised to the passengers on board the Titan.",
+          "fact": "US authorities have announced that the debris field found in the North Atlantic indicates that OceanGate's Titan submersible experienced a 'catastrophic implosion,' resulting in the instant death of all five passengers on board.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The video, which can be viewed here (https://www.youtube.com/watch?v=kxud6ZQKmMw), begins by emphasizing the life-changing prize that was promised to the passengers on board the Titan.",
-          "start": 396
+          "link_text": "US authorities have announced that the debris field found in the North Atlantic indicates that OceanGate's Titan submersible experienced a \"catastrophic implosion,\" resulting in the instant death of all five passengers on board.",
+          "start": 4461
         },
         {
           "fact": "The US Navy disclosed that they detected sounds consistent with an implosion shortly after the sub lost contact during a descent to the Titanic wreck at a depth of 3,800 meters (12,467 feet) below sea level.",
@@ -361,12 +361,12 @@
           "start": 4690
         },
         {
-          "fact": "The investigation into the incident will likely focus on the carbon fiber mid-section of the Titan sub.",
+          "fact": "At the time of contact loss, Titan was approximately 3,500 meters below sea level, with the weight of the water on it equivalent to tens of thousands of tonnes, or the weight of the Eiffel Tower.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The investigation into the incident will likely focus on the carbon fiber mid-section of the Titan sub.",
-          "start": 6055
+          "link_text": "At the time of contact loss, Titan was approximately 3,500 meters below sea level, with the weight of the water on it equivalent to tens of thousands of tonnes, or the weight of the Eiffel Tower.",
+          "start": 5325
         },
         {
           "fact": "When a submarine hull collapses, it implodes at a speed of about 1,500 mph (2,414 km/h) or 2,200 feet (671 meters) per second.",
@@ -377,12 +377,12 @@
           "start": 5706
         },
         {
-          "fact": "The U.S. Navy detected the likely implosion of the missing Titan submersible hours before the U.S. Coast Guard publicly shared that it had gone missing.",
+          "fact": "The investigation into the incident will likely focus on the carbon fiber mid-section of the Titan sub.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The U.S. Navy detected the likely implosion of the missing Titan submersible hours before the U.S. Coast Guard publicly shared that it had gone missing ",
-          "start": 7322
+          "link_text": "The investigation into the incident will likely focus on the carbon fiber mid-section of the Titan sub.",
+          "start": 6055
         }
       ]
     },
