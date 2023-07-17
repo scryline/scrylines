@@ -345,49 +345,44 @@
       "type": "facts",
       "content": [
         {
-          "fact": "US authorities have announced that the debris field found in the North Atlantic indicates that OceanGate's Titan submersible experienced a 'catastrophic implosion,' resulting in the instant death of all five passengers on board.",
+          "fact": "The video, which can be viewed here (https://www.youtube.com/watch?v=kxud6ZQKmMw), begins by emphasizing the life-changing prize that was promised to the passengers on board the Titan.",
           "check": null,
-          "source": "https://www.bbc.com/news/world-us-canada-65934887#t=746",
+          "source": null,
           "match": "",
-          "link_text": "US authorities have announced that the debris field found in the North Atlantic indicates that OceanGate's Titan submersible experienced a \"catastrophic implosion,\" resulting in the instant death of all five passengers on board.",
-          "start": 4461,
-          "source_start": 746
+          "link_text": "The video, which can be viewed here (https://www.youtube.com/watch?v=kxud6ZQKmMw), begins by emphasizing the life-changing prize that was promised to the passengers on board the Titan.",
+          "start": 396
         },
         {
-          "fact": "The US Navy disclosed that they detected sounds consistent with an implosion shortly after the sub lost contact during a descent to the Titanic wreck at a depth of 3,800 meters (12,467 feet) below sea level.",
+          "fact": "The sub was designed to withstand such pressure, and investigators will now work to determine the exact cause of the failure by analyzing the debris.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=kxud6ZQKmMw#t=2511",
+          "source": null,
           "match": "",
-          "link_text": "The US Navy disclosed that they detected sounds consistent with an implosion shortly after the sub lost contact during a descent to the Titanic wreck at a depth of 3,800 meters (12,467 feet) below sea level.",
-          "start": 4690,
-          "source_start": 2511
-        },
-        {
-          "fact": "The cause of the implosion is believed to be the collapse of Titan's hull due to immense water pressure.",
-          "check": null,
-          "source": "https://www.youtube.com/watch?v=kxud6ZQKmMw#t=2359",
-          "match": "",
-          "link_text": "The cause of the implosion is believed to be the collapse of Titan's hull due to immense water pressure.",
-          "start": 5070,
-          "source_start": 2359
+          "link_text": "The sub was designed to withstand such pressure, and investigators will now work to determine the exact cause of the failure by analyzing the debris.",
+          "start": 5175
         },
         {
           "fact": "When a submarine hull collapses, it implodes at a speed of about 1,500 mph (2,414 km/h) or 2,200 feet (671 meters) per second.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=kxud6ZQKmMw#t=9231",
+          "source": null,
           "match": "",
           "link_text": "When a submarine hull collapses, it implodes at a speed of about 1,500 mph (2,414 km/h) or 2,200 feet (671 meters) per second.",
-          "start": 5706,
-          "source_start": 9231
+          "start": 5706
         },
         {
           "fact": "The investigation into the incident will likely focus on the carbon fiber mid-section of the Titan sub.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=kxud6ZQKmMw#t=5170",
+          "source": null,
           "match": "",
           "link_text": "The investigation into the incident will likely focus on the carbon fiber mid-section of the Titan sub.",
-          "start": 6055,
-          "source_start": 5170
+          "start": 6055
+        },
+        {
+          "fact": "The U.S. Navy detected the likely implosion of the missing Titan submersible hours before the U.S. Coast Guard publicly shared that it had gone missing.",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "The U.S. Navy detected the likely implosion of the missing Titan submersible hours before the U.S. Coast Guard publicly shared that it had gone missing ",
+          "start": 7322
         }
       ]
     },
